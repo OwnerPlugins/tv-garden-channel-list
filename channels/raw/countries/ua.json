@@ -4,7 +4,7 @@
     "name": "5 канал",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/21XR88yMC8Y"
+      "https://www.youtube-nocookie.com/embed/uK7NjYvQNOc"
     ],
     "language": "ukr",
     "country": "ua",
@@ -22,11 +22,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "H0fTRstAnfWOk3",
+    "name": "Avers",
+    "iptv_urls": [
+      "https://avers.pp.ua/hls/efir.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ukr",
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "jOAIqaLMKe2dyy",
     "name": "BTQ - Телеканал",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/K2m1MOa9Xwo"
+      "https://www.youtube-nocookie.com/embed/GwrffQOt6ck"
     ],
     "language": "ukr",
     "country": "ua",
@@ -55,6 +66,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "1noDMwg9YAlG9Y",
+    "name": "Espreso TV",
+    "iptv_urls": [
+      "https://dash4.antik.sk/live/test_espresso/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ukr",
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "mIGSyXqUZvMvq1",
     "name": "EWTN Ukraine",
     "iptv_urls": [
@@ -69,7 +91,8 @@
     "nanoid": "iK2kLMwkLCeU8A",
     "name": "Freedom (FREEДOM) (UATV)",
     "iptv_urls": [
-      "https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8"
+      "https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8",
+      "https://dash2.antik.sk/live/test_uatv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -158,6 +181,17 @@
     "name": "TIS TV",
     "iptv_urls": [
       "https://cdn10.live-tv.cloud/riood/tisod-abr/riood/tisod720/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ukr",
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "t4HZl9R8oxsSaq",
+    "name": "TV Rivne 1",
+    "iptv_urls": [
+      "https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ukr",
@@ -282,17 +316,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/ecD39ojnQxQ"
     ],
-    "language": "ukr",
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "7fHQSvUqOcWKQu",
-    "name": "Тернопіль 1",
-    "iptv_urls": [
-      "https://ott.columbus.te.ua/ternopil1/index.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "ukr",
     "country": "ua",
     "isGeoBlocked": false

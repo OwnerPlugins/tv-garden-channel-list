@@ -110,6 +110,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "mCYSTDjXapnUpp",
+    "name": "Canal del Congreso 45.1",
+    "iptv_urls": [
+      "https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "nvi12xPQhPg1F5",
     "name": "Canal Gov",
     "iptv_urls": [
@@ -255,17 +266,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rIpOP95LXQRe0K",
-    "name": "Congreso TV",
-    "iptv_urls": [
-      "https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "znRrzqJhrbBEtp",
     "name": "Coral Gables Television (Coral Gables FL)",
     "iptv_urls": [
@@ -357,6 +357,7 @@
     "nanoid": "4fRrTYUzIhzCTk",
     "name": "DC Council Channel",
     "iptv_urls": [
+      "https://video.oct.dc.gov/out/u/15_12.m3u8",
       "https://video.oct.dc.gov/out/u/DCC.m3u8"
     ],
     "youtube_urls": [],
@@ -413,6 +414,17 @@
     "name": "Escambia County TV ECTV (Escambia County FL)",
     "iptv_urls": [
       "https://cpcdn.azureedge.net/ESCAMBIACOFLLIVE1/ESCAMBIACOFLLIVE1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "h1EMXTjJFPCBVy",
+    "name": "Fernandina Beach City Meeting (Fernandina Beach FL)",
+    "iptv_urls": [
+      "https://edge-f.swagit.com/live/fernandinabeachfl/live-1-a/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -552,6 +564,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "tsY7Oi70RUlWEA",
+    "name": "ICRTV Colima",
+    "iptv_urls": [
+      "https://5fc584f3f19c9.streamlock.net/icrtvcolima/smil:icrtvcolima.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "MdYnmsFTlP5Wem",
     "name": "Justicia TV",
     "iptv_urls": [
@@ -585,28 +608,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "o3TJTeJqxvVtfC",
-    "name": "Legislative Assembly of British Columbia",
-    "iptv_urls": [
-      "https://cdn3.wowza.com/5/YldIU1hsTlljRWZF/hbs-prim-house-httpo/HouseP.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "sKpGu4p0lFyUMb",
-    "name": "Legislative Assembly of British Columbia Committee A",
-    "iptv_urls": [
-      "https://cdn3.wowza.com/5/YldIU1hsTlljRWZF/hbs-prim-dougfir-httpo/DougFirP.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "NLIFoRpmAx5nwO",
     "name": "Legislative Assembly of El Salvador",
     "iptv_urls": [
@@ -622,6 +623,17 @@
     "name": "Legislative Assembly of Ontario",
     "iptv_urls": [
       "https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ggVaTzuCKy1JEd",
+    "name": "Legislative Assembly TV Nunavut",
+    "iptv_urls": [
+      "https://temp2.isilive.ca/live/nunavut/live-eng/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -783,94 +795,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9N0REUHRJR4gUt",
-    "name": "Nova24TV 2",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/OTCXxiOBy3Y"
-    ],
-    "language": "slv",
-    "country": "si",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "BpAwuuECtBXjjx",
-    "name": "Oireachtas TV",
-    "iptv_urls": [
-      "https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "gle",
-    "country": "ie",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kBJPIvFNSLMLmy",
-    "name": "Oireachtas TV Committee Room 1",
-    "iptv_urls": [
-      "https://d33zah5htxvoxb.cloudfront.net/el/live/cr1/hls.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ie",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xbtLZ1yrCNt8sw",
-    "name": "Oireachtas TV Committee Room 2",
-    "iptv_urls": [
-      "https://d33zah5htxvoxb.cloudfront.net/el/live/cr2/hls.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ie",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ilLJLqtqjz93Es",
-    "name": "Oireachtas TV Committee Room 3",
-    "iptv_urls": [
-      "https://d33zah5htxvoxb.cloudfront.net/el/live/cr3/hls.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ie",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "K0ZBldscB7coZB",
-    "name": "Oireachtas TV Committee Room 4",
-    "iptv_urls": [
-      "https://d33zah5htxvoxb.cloudfront.net/el/live/cr4/hls.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ie",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "8KoNBnGhd3D8e1",
-    "name": "Oireachtas TV Dáil Éireann",
-    "iptv_urls": [
-      "https://d33zah5htxvoxb.cloudfront.net/el/live/dail/hls.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ie",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GAsLjurRgFyUUw",
-    "name": "Oireachtas TV Seanad Éireann",
-    "iptv_urls": [
-      "https://d33zah5htxvoxb.cloudfront.net/el/live/seanad/hls.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ie",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "c0XE4mMPfOFYJz",
     "name": "Olelo Community Media Channel 49",
     "iptv_urls": [
@@ -920,6 +844,17 @@
     "name": "Orange Government Access TV (Orange CT)",
     "iptv_urls": [
       "https://livestream.telvue.com/ogat1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "iPhkcC76kYpp0C",
+    "name": "Palm Beach County TV Channel 20 (Palm Beach County FL)",
+    "iptv_urls": [
+      "https://pbcvideostreams1.pbc.gov/memfs/1af49f9a-6b90-4ec2-a640-7f65ceebed4a.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -1075,7 +1010,7 @@
     "name": "Rio TV Câmara",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/EVrUKBUosL4"
+      "https://www.youtube-nocookie.com/embed/xXuZmMA87ls"
     ],
     "language": "por",
     "country": "br",
@@ -1101,18 +1036,6 @@
     "youtube_urls": [],
     "language": "mal",
     "country": "my",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "BqqeaBGazomeJi",
-    "name": "Sansad TV",
-    "iptv_urls": [
-      "https://hls.media.nic.in/hls/live/lstv/lstv.m3u8",
-      "https://hls.media.nic.in/hls/live/rstv/rstv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "hin",
-    "country": "in",
     "isGeoBlocked": false
   },
   {
@@ -1193,6 +1116,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "RErWNfh4idOsdr",
+    "name": "Thai Parliament TV",
+    "iptv_urls": [
+      "https://tv-live.tpchannel.org/live/tv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tha",
+    "country": "th",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ztNrNzCLndWIQ7",
     "name": "The Parliamentary Channel",
     "iptv_urls": [
@@ -1219,7 +1153,7 @@
     "name": "TV Assembleia Minas Gerais",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/93lZSMGEeYk"
+      "https://www.youtube-nocookie.com/embed/WKKPMJwVE9g"
     ],
     "language": "por",
     "country": "br",
@@ -1476,6 +1410,17 @@
     "youtube_urls": [],
     "language": "ell",
     "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jdtDDFx09GQYAn",
+    "name": "Дума ТВ",
+    "iptv_urls": [
+      "https://dumatv.iptv2022.com/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
     "isGeoBlocked": false
   }
 ]
