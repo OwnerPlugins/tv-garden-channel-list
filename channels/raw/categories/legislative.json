@@ -126,7 +126,9 @@
     "iptv_urls": [
       "https://canalgov-stream.ebc.com.br/index.m3u8"
     ],
-    "youtube_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/A6h5YsVcw38"
+    ],
     "language": "por",
     "country": "br",
     "isGeoBlocked": false
@@ -441,17 +443,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "sRtXiK8RAqxlx6",
-    "name": "Fort Lauderdale FLTV (Fort Lauderdale FL)",
-    "iptv_urls": [
-      "https://cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/fortlauderdale/G1118_002/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "JtpMZKlL4SeNOl",
     "name": "Fort Pierce Live Stream (Fort Pierce FL)",
     "iptv_urls": [
@@ -606,6 +597,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "o3TJTeJqxvVtfC",
+    "name": "Legislative Assembly of British Columbia",
+    "iptv_urls": [
+      "https://cdn3.wowza.com/5/YldIU1hsTlljRWZF/hbs-prim-house-httpo/HouseP.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "sKpGu4p0lFyUMb",
+    "name": "Legislative Assembly of British Columbia Committee A",
+    "iptv_urls": [
+      "https://cdn3.wowza.com/5/YldIU1hsTlljRWZF/hbs-prim-dougfir-httpo/DougFirP.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "NLIFoRpmAx5nwO",
     "name": "Legislative Assembly of El Salvador",
     "iptv_urls": [
@@ -621,6 +634,17 @@
     "name": "Legislative Assembly of Ontario",
     "iptv_urls": [
       "https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ggVaTzuCKy1JEd",
+    "name": "Legislative Assembly TV Nunavut",
+    "iptv_urls": [
+      "https://temp2.isilive.ca/live/nunavut/live-eng/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -779,6 +803,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9N0REUHRJR4gUt",
+    "name": "Nova24TV 2",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/sukYNtarSLA"
+    ],
+    "language": "slv",
+    "country": "si",
     "isGeoBlocked": false
   },
   {
@@ -986,7 +1021,7 @@
     "name": "Rio TV Câmara",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/xXuZmMA87ls"
+      "https://www.youtube-nocookie.com/embed/iHh6aAxMekE"
     ],
     "language": "por",
     "country": "br",
@@ -1045,17 +1080,6 @@
     "youtube_urls": [],
     "language": "ita",
     "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "eRAVBcBmdgf5wd",
-    "name": "SFGovTV San Francisco The Government Channel",
-    "iptv_urls": [
-      "https://cdn3.wowza.com/5/ZFdxUW9BQWt2UWRL/sanfrancisco/G0051_048/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1129,7 +1153,7 @@
     "name": "TV Assembleia Minas Gerais",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/blN7G3B4pUM"
+      "https://www.youtube-nocookie.com/embed/KO_BZk_IuK4"
     ],
     "language": "por",
     "country": "br",

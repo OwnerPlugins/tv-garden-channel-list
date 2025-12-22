@@ -44,17 +44,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "v9zxgiBZu0T9zY",
-    "name": "ACCDN",
-    "iptv_urls": [
-      "https://livetv-fa.tubi.video/accdn2/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "AxkHU8DJYXqb2o",
     "name": "ACI Sport TV",
     "iptv_urls": [
@@ -198,13 +187,24 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "cEtgYgEtHzj5Ic",
+    "name": "ColimdoT TV",
+    "iptv_urls": [
+      "https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "do",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "4mVBHDTfCZRFFH",
     "name": "Cricket Gold",
     "iptv_urls": [
       "https://d382r3rgbxdixq.cloudfront.net/scheduler/scheduleMaster/418.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/9SFHa0NYHdE"
+      "https://www.youtube-nocookie.com/embed/MwGcDkj3nRw"
     ],
     "language": "",
     "country": "us",
@@ -332,17 +332,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3XWzDx4FnKV7NI",
-    "name": "Fox Sports en Espanol",
-    "iptv_urls": [
-      "https://livetv-fa.tubi.video/fox-sports-espanol2/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "1jYy0MieRH4RsH",
     "name": "FOX Sports YT",
     "iptv_urls": [],
@@ -363,17 +352,6 @@
     "language": "spa",
     "country": "bo",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ODB4bpEpnnzd1R",
-    "name": "Fubo Sports Network",
-    "iptv_urls": [
-      "https://livetv-fa.tubi.video/fubo/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "uFa4XsSCgNUo5V",
@@ -485,6 +463,17 @@
     "youtube_urls": [],
     "language": "fas",
     "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RFeb11iCYGMUEw",
+    "name": "ItalianFishingTV",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/NobyIvAzeoc"
+    ],
+    "language": "ita",
+    "country": "it",
     "isGeoBlocked": false
   },
   {
@@ -642,76 +631,10 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "tvr1rfZgrUsgOe",
-    "name": "NHL Centre Ice 4",
+    "nanoid": "ZoAvGNLTbFNjGC",
+    "name": "NHL Network",
     "iptv_urls": [
-      "https://fl1.moveonjoy.com/NHL_4/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "CIRXVUdDgtkCeO",
-    "name": "NHL Centre Ice 6",
-    "iptv_urls": [
-      "https://fl1.moveonjoy.com/NHL_6/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "c15Q0zYbN4UYBQ",
-    "name": "NHL Centre Ice 7",
-    "iptv_urls": [
-      "https://fl1.moveonjoy.com/NHL_7/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "iYO4hlZ8gJq09e",
-    "name": "NHL Centre Ice 8",
-    "iptv_urls": [
-      "https://fl1.moveonjoy.com/NHL_8/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "PAN9AZL2kB4SKh",
-    "name": "NHL Centre Ice 9",
-    "iptv_urls": [
-      "https://fl1.moveonjoy.com/NHL_9/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "244cC3pnYRJYwN",
-    "name": "NHL Centre Ice 11",
-    "iptv_urls": [
-      "https://fl1.moveonjoy.com/NHL_11/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "iqW7NImquoQlAB",
-    "name": "NHRA TV",
-    "iptv_urls": [
-      "https://livetv-fa.tubi.video/nhra/nh.m3u8"
+      "https://fl1.moveonjoy.com/NHL_NETWORK/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -755,6 +678,7 @@
     "nanoid": "1s9iqdlMC7cMrp",
     "name": "Pac 12 Insider",
     "iptv_urls": [
+      "https://pac12-roku-us.amagi.tv/playlist.m3u8",
       "https://pac12-samsungus.amagi.tv/playlist.m3u8",
       "https://pac12-vizio.amagi.tv/playlist.m3u8"
     ],
@@ -789,7 +713,6 @@
     "nanoid": "Zv1phHWvbz0bE7",
     "name": "Poker Go",
     "iptv_urls": [
-      "https://livetv-fa.tubi.video/pokergo/playlist.m3u8",
       "https://linear-426.frequency.stream/dist/xumo/426/hls/master/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -831,14 +754,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "eEl9GNsGZ69KhR",
-    "name": "PTV Sports",
+    "nanoid": "hliOSpRjIJIon0",
+    "name": "PRO Sport International",
     "iptv_urls": [
-      "https://tvsen5.aynaott.com/Ptvsports/index.m3u8"
+      "https://proshls.wns.live/hls/stream.m3u8"
     ],
     "youtube_urls": [],
-    "language": "urd",
-    "country": "pk",
+    "language": "fas",
+    "country": "my",
     "isGeoBlocked": false
   },
   {
@@ -857,7 +780,7 @@
     "name": "QSVS: Top Calcio 24",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/WNEDrjFYj2c"
+      "https://www.youtube-nocookie.com/embed/bd4E2Dpa4tI"
     ],
     "language": "ita",
     "country": "it",
@@ -886,14 +809,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "lFiFJIZEuZb6en",
-    "name": "Racing America",
+    "nanoid": "KSc2NtlozO0Aw7",
+    "name": "Radio Turrialba TV Sports",
     "iptv_urls": [
-      "https://livetv-fa.tubi.video/racing-america/playlist.m3u8"
+      "https://live21.bozztv.com/akamaissh101/ssh101/turrialbatv/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
+    "language": "spa",
+    "country": "cr",
     "isGeoBlocked": false
   },
   {
@@ -971,8 +894,7 @@
     "iptv_urls": [
       "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
       "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8",
-      "https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8",
-      "https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8"
+      "https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -1048,6 +970,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "oiFEO2uBrrWk1f",
+    "name": "Tigo Sports TV El Salvador",
+    "iptv_urls": [
+      "https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "sv",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "vtSycR8Kbn52EY",
     "name": "TJK TV",
     "iptv_urls": [
@@ -1075,7 +1008,6 @@
     "nanoid": "KqqtNJzLvYMM8F",
     "name": "Trace Sports Stars",
     "iptv_urls": [
-      "https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8",
       "https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1245,18 +1177,6 @@
     "name": "Беларусь 5",
     "iptv_urls": [
       "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "by",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hksyXK9W8Dv3Pj",
-    "name": "Беларусь 5 Интернет",
-    "iptv_urls": [
-      "https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8",
-      "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
