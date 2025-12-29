@@ -44,6 +44,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "v9zxgiBZu0T9zY",
+    "name": "ACCDN",
+    "iptv_urls": [
+      "https://aegis-cloudfront-1.tubi.video/a1e671ae-d1c2-4e39-99c7-889e83056fd2/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "AxkHU8DJYXqb2o",
     "name": "ACI Sport TV",
     "iptv_urls": [
@@ -107,6 +118,17 @@
     "youtube_urls": [],
     "language": "ara",
     "country": "qa",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "v8Zzxjpx6SD9DW",
+    "name": "ATG Live",
+    "iptv_urls": [
+      "https://kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-HL/atg-kanal-15-02a-rr.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "swe",
+    "country": "se",
     "isGeoBlocked": false
   },
   {
@@ -332,6 +354,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "3XWzDx4FnKV7NI",
+    "name": "Fox Sports en Espanol",
+    "iptv_urls": [
+      "https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "1jYy0MieRH4RsH",
     "name": "FOX Sports YT",
     "iptv_urls": [],
@@ -352,6 +385,17 @@
     "language": "spa",
     "country": "bo",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ODB4bpEpnnzd1R",
+    "name": "Fubo Sports Network",
+    "iptv_urls": [
+      "https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "uFa4XsSCgNUo5V",
@@ -430,17 +474,6 @@
     ],
     "language": "tur",
     "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rttScvWUnetgoy",
-    "name": "HTV Sports",
-    "iptv_urls": [
-      "https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "vie",
-    "country": "vn",
     "isGeoBlocked": false
   },
   {
@@ -642,6 +675,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "iqW7NImquoQlAB",
+    "name": "NHRA TV",
+    "iptv_urls": [
+      "https://aegis-cloudfront-1.tubi.video/b8c5eb48-349b-454f-9625-63911ee923f5/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "n3Vm2leSNIdmDK",
     "name": "Nitro Circus",
     "iptv_urls": [
@@ -680,7 +724,8 @@
     "iptv_urls": [
       "https://pac12-roku-us.amagi.tv/playlist.m3u8",
       "https://pac12-samsungus.amagi.tv/playlist.m3u8",
-      "https://pac12-vizio.amagi.tv/playlist.m3u8"
+      "https://pac12-vizio.amagi.tv/playlist.m3u8",
+      "https://pac12-firetv.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -713,6 +758,7 @@
     "nanoid": "Zv1phHWvbz0bE7",
     "name": "Poker Go",
     "iptv_urls": [
+      "https://aegis-cloudfront-1.tubi.video/b474c2bb-b34d-4c53-a94b-c4ffe884563c/playlist.m3u8",
       "https://linear-426.frequency.stream/dist/xumo/426/hls/master/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -762,6 +808,17 @@
     "youtube_urls": [],
     "language": "fas",
     "country": "my",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "eEl9GNsGZ69KhR",
+    "name": "PTV Sports",
+    "iptv_urls": [
+      "https://tvsen5.aynaott.com/Ptvsports/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "urd",
+    "country": "pk",
     "isGeoBlocked": false
   },
   {
@@ -1008,6 +1065,7 @@
     "nanoid": "KqqtNJzLvYMM8F",
     "name": "Trace Sports Stars",
     "iptv_urls": [
+      "https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8",
       "https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1159,6 +1217,17 @@
     ],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "OhT2rOhQEAqu1t",
+    "name": "Zoy TV Sports 1",
+    "iptv_urls": [
+      "https://mio.zoymilton.com/ZoyEventos/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "bo",
     "isGeoBlocked": false
   },
   {

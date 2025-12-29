@@ -233,17 +233,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CI4BtTpHkRl4IU",
-    "name": "CityTV San Diego",
-    "iptv_urls": [
-      "https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/sandiego/G1826_005/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "xoaAXrl0HaqGHm",
     "name": "Collier Television CTV (Naples FL)",
     "iptv_urls": [
@@ -354,29 +343,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4fRrTYUzIhzCTk",
-    "name": "DC Council Channel",
-    "iptv_urls": [
-      "https://video.oct.dc.gov/out/u/15_12.m3u8",
-      "https://video.oct.dc.gov/out/u/DCC.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Nf4iMslErjtXta",
-    "name": "DC.gov Council Hearing Room 120 (Washington DC)",
-    "iptv_urls": [
-      "https://video.oct.dc.gov/out/u/97_12.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "7rKceCpkpRKp2Z",
     "name": "Denver 8 TV (Denver CO)",
     "iptv_urls": [
@@ -392,17 +358,6 @@
     "name": "DerryTV 17",
     "iptv_urls": [
       "https://livestream.telvue.com/derrynh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "oleSYlNVNmvs3W",
-    "name": "District of Columbia Network (DCN)",
-    "iptv_urls": [
-      "https://video.oct.dc.gov/out/u/DCN.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -586,17 +541,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "g3OLRIXo3TVOmX",
-    "name": "Korea TV",
-    "iptv_urls": [
-      "https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "kor",
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "o3TJTeJqxvVtfC",
     "name": "Legislative Assembly of British Columbia",
     "iptv_urls": [
@@ -616,17 +560,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "NLIFoRpmAx5nwO",
-    "name": "Legislative Assembly of El Salvador",
-    "iptv_urls": [
-      "https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "sv",
     "isGeoBlocked": false
   },
   {
@@ -693,17 +626,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "J0RozSUIYYOF3l",
-    "name": "Lok Sabha TV",
-    "iptv_urls": [
-      "https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "in",
     "isGeoBlocked": false
   },
   {
@@ -1050,6 +972,30 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "02FZNtdjYpb1eU",
+    "name": "Sansad TV 1",
+    "iptv_urls": [
+      "https://hls.media.nic.in/hls/live/lstv/lstv.m3u8",
+      "https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "hin",
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "7uZQEY7iiyput2",
+    "name": "Sansad TV 2",
+    "iptv_urls": [
+      "https://hls.media.nic.in/hls/live/rstv/rstv.m3u8",
+      "https://playhls.media.nic.in/hls/live/rstv/rstv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "hin",
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "lk5z9wCW6biNWj",
     "name": "Santa Maria Community Television Government Channel",
     "iptv_urls": [
@@ -1080,6 +1026,17 @@
     "youtube_urls": [],
     "language": "ita",
     "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "eRAVBcBmdgf5wd",
+    "name": "SFGovTV San Francisco The Government Channel",
+    "iptv_urls": [
+      "https://cdn3.wowza.com/5/ZFdxUW9BQWt2UWRL/sanfrancisco/G0051_048/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1153,7 +1110,7 @@
     "name": "TV Assembleia Minas Gerais",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/KO_BZk_IuK4"
+      "https://www.youtube-nocookie.com/embed/hA_YPy1Ktn4"
     ],
     "language": "por",
     "country": "br",
@@ -1186,7 +1143,7 @@
     "name": "TV Câmara Porto Alegre",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/68CZWTJdmzw"
+      "https://www.youtube-nocookie.com/embed/CS6qRPI7o1c"
     ],
     "language": "por",
     "country": "br",

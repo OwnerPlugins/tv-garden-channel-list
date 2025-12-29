@@ -55,17 +55,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "n4RrCqsrdFtghH",
-    "name": "Afroculture TV",
-    "iptv_urls": [
-      "https://streamtv.cmediahosthosting.net:3836/live/myafroculturelive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "ci",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "kViHud7pJIRjfw",
     "name": "AlKawthar",
     "iptv_urls": [
@@ -176,17 +165,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "QtyIEE9DZnKUAu",
-    "name": "Canal 17 RTVD",
-    "iptv_urls": [
-      "https://protvradiostream.com:1936/rtvd17/ngrp:rtvd17_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "do",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "tANS8F526JB5KR",
     "name": "Canal Catorce",
     "iptv_urls": [
@@ -212,6 +190,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "vUd9BZTcBgBOm3",
+    "name": "Catamarca TV",
+    "iptv_urls": [
+      "https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR="
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "eDESw3Ox4wXwbn",
     "name": "Chiloe Red 25",
     "iptv_urls": [
@@ -228,7 +217,9 @@
     "iptv_urls": [
       "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8"
     ],
-    "youtube_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/Ml4saQ83Umw"
+    ],
     "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
@@ -256,6 +247,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "0QTowwNml7pc3D",
+    "name": "Costa Rica Channel",
+    "iptv_urls": [
+      "https://video0.rogohosting.com:19360/8006/8006.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "glCzEHKt380JpA",
     "name": "DD Bharati",
     "iptv_urls": [
@@ -269,13 +271,15 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ZtL7zxGFBmbkdi",
+    "nanoid": "3RFBxxtq5PlDQ7",
     "name": "DD Kashir",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://cdn-6.pishow.tv/live/16/master.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/v8ek4kVfr5Y"
     ],
-    "language": "ksm",
+    "language": "hin",
     "country": "in",
     "isGeoBlocked": false
   },
@@ -308,7 +312,7 @@
       "https://cdn-4.pishow.tv/live/8/master.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ZCRseHhPICw"
+      "https://www.youtube-nocookie.com/embed/IvyUTLIF9c8"
     ],
     "language": "urd",
     "country": "in",
@@ -326,15 +330,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "h9xUZ9qtOT3ejC",
-    "name": "El 33 Originals",
+    "nanoid": "nuCkj2isILRO5a",
+    "name": "EET TV",
     "iptv_urls": [
-      "https://directes-tv-int.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8",
-      "https://directes-tv-int.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8"
+      "https://eu.streamjo.com/eetlive/eettv.m3u8"
     ],
     "youtube_urls": [],
-    "language": "cat",
-    "country": "es",
+    "language": "tam",
+    "country": "ca",
     "isGeoBlocked": false
   },
   {
@@ -408,7 +411,8 @@
     "name": "Fox Soul",
     "iptv_urls": [
       "https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8",
-      "https://foxsoul-vizio.amagi.tv/playlist.m3u8"
+      "https://foxsoul-vizio.amagi.tv/playlist.m3u8",
+      "https://aegis-cloudfront-1.tubi.video/0c4bd880-76cc-4000-b9cb-8edabeb88daa/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -468,6 +472,17 @@
     "youtube_urls": [],
     "language": "spa",
     "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "WknJSHyVxUbWNW",
+    "name": "HarPal Geo",
+    "iptv_urls": [
+      "https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "urd",
+    "country": "pk",
     "isGeoBlocked": false
   },
   {
@@ -535,17 +550,6 @@
     "youtube_urls": [],
     "language": "kur",
     "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Bvox2CnXHOsvHp",
-    "name": "JOS TV HD",
-    "iptv_urls": [
-      "https://stream.berosat.live:19360/jos-tv-stream/jos-tv-stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "cg",
     "isGeoBlocked": false
   },
   {
@@ -659,17 +663,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1wMsK4nhJMBFCb",
-    "name": "MRTV NRC",
-    "iptv_urls": [
-      "https://asia.sipradius.net/cache/SEAGames2/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "mya",
-    "country": "mm",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ld1ODzjkyBxBmS",
     "name": "Natural TV",
     "iptv_urls": [
@@ -778,17 +771,6 @@
     "youtube_urls": [],
     "language": "spa",
     "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "RiifWdXjWLsqP4",
-    "name": "ORF III HD",
-    "iptv_urls": [
-      "https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "at",
     "isGeoBlocked": false
   },
   {
@@ -1002,17 +984,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "7UeLUueVRqvHR1",
-    "name": "UNISUL TV",
-    "iptv_urls": [
-      "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token="
-    ],
-    "youtube_urls": [],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "oNFu9DPCaWFslY",
     "name": "Yemen Shabab Channel",
     "iptv_urls": [
@@ -1021,6 +992,17 @@
     "youtube_urls": [],
     "language": "ara",
     "country": "ye",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "7IG6c8BLRlAZXA",
+    "name": "Беларусь 3",
+    "iptv_urls": [
+      "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "by",
     "isGeoBlocked": false
   },
   {

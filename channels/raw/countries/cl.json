@@ -88,17 +88,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Kc3HHZPOGrmJWv",
-    "name": "Atacama Noticias",
-    "iptv_urls": [
-      "https://v2.tustreaming.cl/atacamanoticias/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "JmmUfpMTKm3wFZ",
     "name": "Atacama TV (Copiapó)",
     "iptv_urls": [
@@ -356,8 +345,19 @@
     "name": "Meganoticias",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/1MyIOJyxrqY"
+      "https://www.youtube-nocookie.com/embed/fnhBgwpofCk"
     ],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rFCQYWbNPQlvWE",
+    "name": "MTNA TV",
+    "iptv_urls": [
+      "https://live.mtna.tv/hls/mtna/mtna.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "spa",
     "country": "cl",
     "isGeoBlocked": false
@@ -640,17 +640,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "uiKxEXDS2qwujf",
-    "name": "U Los Lagos TV",
-    "iptv_urls": [
-      "https://tv.ulagos.cl/web/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "L90TWymzbjAtJm",
     "name": "UCV TV",
     "iptv_urls": [
@@ -734,17 +723,6 @@
     "iptv_urls": [
       "https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8",
       "https://unlimited6-cl.dps.live/vtv/vtv.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "pWw7rH2muT8B7p",
-    "name": "Wapp",
-    "iptv_urls": [
-      "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/wapptv/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
