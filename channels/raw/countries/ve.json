@@ -11,10 +11,21 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "L2ckl8qUgIXBH9",
-    "name": "Anzoátegui TV",
+    "nanoid": "xNO3EJp4mhTrDD",
+    "name": "AS3 Sport TV",
     "iptv_urls": [
-      "https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8"
+      "https://streamtv.as3sport.online:3394/hybrid/play.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "YWNPX9f8P0Trxq",
+    "name": "BTA TV",
+    "iptv_urls": [
+      "https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -37,17 +48,6 @@
     "name": "Canal I",
     "iptv_urls": [
       "https://vcp10.myplaytv.com/canali/canali/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "6SYW2B8xTfiTLL",
-    "name": "Catatumbo TV",
-    "iptv_urls": [
-      "https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -110,17 +110,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "uShK1SgZwLoTJ4",
-    "name": "Isla TV",
-    "iptv_urls": [
-      "https://59d39900ebfb8.streamlock.net/islatv/islatv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "MIcJy2C1jnLtEJ",
     "name": "KandelaTV",
     "iptv_urls": [
@@ -143,17 +132,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JdxBGAz4N8XmqU",
-    "name": "LGD Television",
-    "iptv_urls": [
-      "https://streamtv.intervenhosting.net:3403/hybrid/play.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "QfjrYuWRCRpUp7",
     "name": "Más Talk",
     "iptv_urls": [
@@ -169,17 +147,6 @@
     "name": "Onza TV",
     "iptv_urls": [
       "https://stmv1.srvstm.com/gproducciones/gproducciones/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "dJh7EB1lQFwOCd",
-    "name": "Plous TV",
-    "iptv_urls": [
-      "https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -309,17 +276,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1M4Le4GYVDf5Ni",
-    "name": "Televisora de Oriente",
-    "iptv_urls": [
-      "https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "sB2nccFi22vLUq",
     "name": "TNO Radio",
     "iptv_urls": [
@@ -375,17 +331,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "b3aSHeBRmQKpi4",
-    "name": "TV Oasis Monay",
-    "iptv_urls": [
-      "https://live20.bozztv.com/akamaissh101/ssh101/oasistv123/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "XdOMLij5yy08uC",
     "name": "TVM para ti",
     "iptv_urls": [
@@ -415,17 +360,6 @@
     ],
     "youtube_urls": [],
     "language": "",
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "aPoebbGsPHojms",
-    "name": "UniTV",
-    "iptv_urls": [
-      "https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
     "country": "ve",
     "isGeoBlocked": false
   },

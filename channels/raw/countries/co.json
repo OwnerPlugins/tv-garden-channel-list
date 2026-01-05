@@ -196,19 +196,8 @@
     "name": "CityTv",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/GKstK-bY49M"
+      "https://www.youtube-nocookie.com/embed/fqPcHhxXhog"
     ],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "PeLwlIp8AJC3qs",
-    "name": "CMB Televisión",
-    "iptv_urls": [
-      "https://catv.cmbcolombia.tv/bethesda/bethesda/chunklist.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "spa",
     "country": "co",
     "isGeoBlocked": false
@@ -271,17 +260,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xEQPATgrEtFIdJ",
-    "name": "Cosmovision",
-    "iptv_urls": [
-      "https://videohls2.cosmovision.tv/hls/sd.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "DwSLx6TiuTvrUw",
     "name": "Cúcuta Retro TV",
     "iptv_urls": [
@@ -326,6 +304,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "02mPmZWllvm8GE",
+    "name": "Kalu TV",
+    "iptv_urls": [
+      "https://tv.kaludecolombia.com/memfs/800a956d-5ada-4bf1-ac15-0d11e689179c.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "wzR0TNYEFfuhVq",
     "name": "La Hermandad Salsera",
     "iptv_urls": [
@@ -359,28 +348,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Ip9MDCdkimyNqv",
-    "name": "Luna Estéreo 106.4 FM",
-    "iptv_urls": [
-      "https://servervideo.intermediacolombia.com:19360/kychbbfhdz/kychbbfhdz.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "RfchJq1KTGTlOM",
-    "name": "Mas Norte TV",
-    "iptv_urls": [
-      "https://live.arnoproducciones.com/hls/norte.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "2RNOyGKRiGPXuw",
     "name": "MasMusica FM",
     "iptv_urls": [
@@ -399,17 +366,6 @@
       "https://video.ejeserver.com/live/mcitelevision.m3u8"
     ],
     "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "zI3NybQoMP9Xkx",
-    "name": "Noticias Caracol",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/-dByTYTWXxM"
-    ],
     "language": "spa",
     "country": "co",
     "isGeoBlocked": false
@@ -481,10 +437,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "neqGyX9Rfbl2Yl",
-    "name": "RTC Televisión Urabá",
+    "nanoid": "r0BHkewVVJfdhL",
+    "name": "Río Televisión",
     "iptv_urls": [
-      "https://cdn.amelbasoluciones.co:8081/rtcurabalive/index.m3u8"
+      "https://cdn.amelbasoluciones.co:8081/riotv/index.fmp4.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -492,10 +448,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "RV4q1AzygKEv9i",
-    "name": "Salsa Gorda Television",
+    "nanoid": "neqGyX9Rfbl2Yl",
+    "name": "RTC Televisión Urabá",
     "iptv_urls": [
-      "https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8"
+      "https://cdn.amelbasoluciones.co:8081/rtcurabalive/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -519,6 +475,28 @@
     "iptv_urls": [
       "https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8",
       "https://us.streaminghd.cl/suramtv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "HgBlAsHZW8C65f",
+    "name": "Tele Mocoa Canal 10",
+    "iptv_urls": [
+      "https://cdn.amelbasoluciones.co:8081/telemocoalive/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "OQFI4DY0MMP8is",
+    "name": "Telebolívar",
+    "iptv_urls": [
+      "https://live20.bozztv.com/akamaissh101/ssh101/telebolivar/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

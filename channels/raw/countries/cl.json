@@ -88,10 +88,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JmmUfpMTKm3wFZ",
-    "name": "Atacama TV (Copiapó)",
+    "nanoid": "Kc3HHZPOGrmJWv",
+    "name": "Atacama Noticias",
     "iptv_urls": [
-      "https://v2.tustreaming.cl/atacamatv/index.m3u8"
+      "https://v2.tustreaming.cl/atacamanoticias/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -99,10 +99,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9jkb1tHOSl1q2X",
-    "name": "Aysen TV",
+    "nanoid": "JmmUfpMTKm3wFZ",
+    "name": "Atacama TV (Copiapó)",
     "iptv_urls": [
-      "https://v1.tustreaming.cl/aysentv/index.m3u8"
+      "https://v2.tustreaming.cl/atacamatv/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -171,6 +171,17 @@
       "https://v2.tustreaming.cl/chilechannel/index.m3u8"
     ],
     "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fJikHBvZcviret",
+    "name": "Chilevisión",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/aNJjL6nJPlI"
+    ],
     "language": "spa",
     "country": "cl",
     "isGeoBlocked": false
@@ -264,17 +275,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mboCNwiMaOzg2v",
-    "name": "Girovisual",
-    "iptv_urls": [
-      "https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "k8mitUmGi9GKFi",
     "name": "Hiperconectados TV",
     "iptv_urls": [
@@ -345,7 +345,7 @@
     "name": "Meganoticias",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/fnhBgwpofCk"
+      "https://www.youtube-nocookie.com/embed/naJIGEQNDPk"
     ],
     "language": "spa",
     "country": "cl",
@@ -585,17 +585,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hOfMwcYwkqMasz",
-    "name": "TV UCT",
-    "iptv_urls": [
-      "https://unlimited1-us.dps.live/uct/uct.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "MiDzldTeOOzM8X",
     "name": "TVN3",
     "iptv_urls": [
@@ -633,6 +622,17 @@
     "name": "TVU Concepción",
     "iptv_urls": [
       "https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uiKxEXDS2qwujf",
+    "name": "U Los Lagos TV",
+    "iptv_urls": [
+      "https://tv.ulagos.cl/web/live.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
