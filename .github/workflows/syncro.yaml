@@ -22,8 +22,7 @@ jobs:
 
       - name: Aggiungi upstream remoto
         run: |
-          git remote add upstream https://github.com/TVGarden/tv-garden-channel-list.git
-
+          git remote add upstream https://github.com/famelack/famelack-channels.git
       - name: Fetch dall'upstream
         run: git fetch upstream
 
