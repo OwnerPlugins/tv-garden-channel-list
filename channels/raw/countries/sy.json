@@ -4,7 +4,7 @@
     "name": "Alikhbaria Syria",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/NrvVPrHrK58"
+      "https://www.youtube-nocookie.com/embed/UJG3zr7fLT4"
     ],
     "language": "ara",
     "country": "sy",
@@ -22,13 +22,26 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "j8DVaCm6ri0nNo",
+    "nanoid": "Zb4yx0Hhhjqp7h",
     "name": "Halab Today TV",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://mn-nl.mncdn.com/halabtoday/livestream/index.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/Ofs13Ccb08I"
     ],
     "language": "ara",
+    "country": "sy",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FguzmgQdpg9XFC",
+    "name": "Rojava TV",
+    "iptv_urls": [
+      "https://hlspackager.akamaized.net/live/DB/ROJAVA_HD/HLS/ROJAVA_HD.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "kur",
     "country": "sy",
     "isGeoBlocked": false
   },

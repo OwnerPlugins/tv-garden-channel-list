@@ -33,11 +33,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "tn94bXCcZQXp4I",
+    "name": "Al Arabiya Programs",
+    "iptv_urls": [
+      "https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "ae",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "7ww4XqjlIRbeax",
     "name": "Asahi: Documentary",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/_rUerAHA75g"
+      "https://www.youtube-nocookie.com/embed/3Y5-gPoMOf0"
     ],
     "language": "jpn",
     "country": "jp",
@@ -171,17 +182,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "itmATVZa5Ggr1u",
-    "name": "Click TV (Coronel)",
-    "iptv_urls": [
-      "https://v2.tustreaming.cl/clicktv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "b3SY5CGeJGKaQq",
     "name": "CNA Insider",
     "iptv_urls": [],
@@ -237,6 +237,17 @@
     "youtube_urls": [],
     "language": "deu",
     "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nFh3xqtwlLRiFW",
+    "name": "Ecovisión",
+    "iptv_urls": [
+      "https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "do",
     "isGeoBlocked": false
   },
   {
@@ -490,17 +501,6 @@
     "name": "Наука",
     "iptv_urls": [
       "https://vod.tuva.ru/nauka2/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ZSSUpQyh6iE64U",
-    "name": "Сити Эдем КиноДок",
-    "iptv_urls": [
-      "https://cityeden.catcast.tv/content/38354/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",

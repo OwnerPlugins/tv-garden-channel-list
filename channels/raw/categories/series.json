@@ -248,7 +248,7 @@
     "name": "Farscape",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/JeeYHKYv8qY"
+      "https://www.youtube-nocookie.com/embed/WXbip14zpW8"
     ],
     "language": "eng",
     "country": "us",
@@ -379,6 +379,7 @@
     "nanoid": "X6kETzsLQOUt4r",
     "name": "MST3K",
     "iptv_urls": [
+      "https://mst3k-roku.amagi.tv/playlist.m3u8",
       "https://aegis-cloudfront-1.tubi.video/99c48388-377e-4f2c-ad8e-33d0dee33bc3/playlist.m3u8",
       "https://amg00163-shoutfactory-mst3k-xumo-r2pwd.amagi.tv/playlist.m3u8"
     ],
@@ -386,6 +387,17 @@
     "language": "eng",
     "country": "us",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "WfBeWY1RnvDWYZ",
+    "name": "Muhteşem Yüzyıl",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/Z02dsrlBMmE"
+    ],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "S3kr4s7IIN5nb2",
@@ -419,6 +431,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GTfEbP4G445UTc",
+    "name": "Pantalla Clásica EC",
+    "iptv_urls": [
+      "https://live21.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
     "isGeoBlocked": false
   },
   {
@@ -505,7 +528,7 @@
     "name": "Shout! Studios: Hunter",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/0S3fGT05KJY"
+      "https://www.youtube-nocookie.com/embed/i4Q1N5EKVzE"
     ],
     "language": "eng",
     "country": "us",
@@ -527,7 +550,7 @@
     "name": "Shout! Studios: Renegade",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/9Xkoh1waJH4"
+      "https://www.youtube-nocookie.com/embed/RG-TEk9gSBM"
     ],
     "language": "eng",
     "country": "us",
@@ -615,7 +638,7 @@
     "name": "TokuSHOUTsu: Kamen Rider",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/8nwASjOsrkE"
+      "https://www.youtube-nocookie.com/embed/EOw9Pmj22ew"
     ],
     "language": "jpn",
     "country": "us",
@@ -626,7 +649,7 @@
     "name": "TokuSHOUTsu: Kyōryū Sentai Zyuranger",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/zN9auaBBWJE"
+      "https://www.youtube-nocookie.com/embed/hY9vwYxeRFI"
     ],
     "language": "jpn",
     "country": "us",
@@ -641,17 +664,6 @@
     "youtube_urls": [],
     "language": "por",
     "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "70kNFzzOa9jQON",
-    "name": "TVE Star HD",
-    "iptv_urls": [
-      "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
     "isGeoBlocked": false
   },
   {
@@ -727,17 +739,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/ozuhPITB_4g"
     ],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ZSSUpQyh6iE64U",
-    "name": "Сити Эдем КиноДок",
-    "iptv_urls": [
-      "https://cityeden.catcast.tv/content/38354/index.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "rus",
     "country": "ru",
     "isGeoBlocked": false

@@ -77,6 +77,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "2UXhXxAP9FifSB",
+    "name": "Arges TV",
+    "iptv_urls": [
+      "https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ron",
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "c1gByRg7bGFR8Z",
     "name": "Atomic Academy TV",
     "iptv_urls": [
@@ -308,6 +319,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "wAAXdhWFrvqJmH",
+    "name": "Mooz Dance",
+    "iptv_urls": [
+      "https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ron",
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "HXUJ0Y6Fs5W3Ui",
+    "name": "Mooz Hits",
+    "iptv_urls": [
+      "https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ron",
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "2U91fowazsObgI",
     "name": "Mooz Ro!",
     "iptv_urls": [
@@ -367,17 +400,6 @@
     "name": "PROFI 24 TV",
     "iptv_urls": [
       "https://owncast-jjg42-u20330.vm.elestio.app/hls/0/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ron",
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "al6J0ChSzrszub",
-    "name": "Qub TV",
-    "iptv_urls": [
-      "https://live.djemba.ro/live/qubtvlive/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ron",
@@ -455,19 +477,8 @@
     "name": "Tu Decizi",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/JeGeGmnEnsE"
+      "https://www.youtube-nocookie.com/embed/8iJiYzb50H0"
     ],
-    "language": "ron",
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "30ja5r5yjWpOFE",
-    "name": "TV Arad",
-    "iptv_urls": [
-      "https://live.djemba.ro/live/tvaradlive/playlist.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "ron",
     "country": "ro",
     "isGeoBlocked": false

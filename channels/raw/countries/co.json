@@ -185,7 +185,7 @@
     "name": "Caracol Televisión",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/hKnYmpJlCOU"
+      "https://www.youtube-nocookie.com/embed/r3ApAhHiJcE"
     ],
     "language": "spa",
     "country": "co",
@@ -198,6 +198,18 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/fqPcHhxXhog"
     ],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xk2bL1B2O6nqIC",
+    "name": "CNC Bugavisión",
+    "iptv_urls": [
+      "https://movil.ejeserver.com/live/cncbuga.m3u8",
+      "https://video.ejeserver.com/live/cncbuga.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "spa",
     "country": "co",
     "isGeoBlocked": false
@@ -325,17 +337,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Ip9MDCdkimyNqv",
-    "name": "Luna Estéreo 106.4 FM",
-    "iptv_urls": [
-      "https://servervideo.intermediacolombia.com:19360/kychbbfhdz/kychbbfhdz.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "2RNOyGKRiGPXuw",
     "name": "MasMusica FM",
     "iptv_urls": [
@@ -414,10 +415,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "iEaQZyuCD9tKa4",
+    "name": "Red+",
+    "iptv_urls": [
+      "https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "JcWgUdRfwM6UkT",
     "name": "Reyali",
     "iptv_urls": [
       "https://eu1.servers10.com:8081/8090/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "r0BHkewVVJfdhL",
+    "name": "Río Televisión",
+    "iptv_urls": [
+      "https://cdn.amelbasoluciones.co:8081/riotv/index.fmp4.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -488,6 +511,17 @@
     ],
     "youtube_urls": [],
     "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BTUtiIKXJH39q3",
+    "name": "TeveColombia",
+    "iptv_urls": [
+      "https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
     "country": "co",
     "isGeoBlocked": false
   },
