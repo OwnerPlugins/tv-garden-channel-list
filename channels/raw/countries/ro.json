@@ -110,28 +110,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "bZQGzeEyald0Ck",
-    "name": "Bollywood Classic",
-    "iptv_urls": [
-      "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ron",
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "oRcDPIbbTYiK2b",
-    "name": "Bollywood HD",
-    "iptv_urls": [
-      "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "hin",
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "RIYeoEqG7KpyCd",
     "name": "Bucovina TV (576i)",
     "iptv_urls": [
@@ -180,6 +158,17 @@
     "name": "Hello Taste",
     "iptv_urls": [
       "https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ron",
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4ghiPmfhBHh5Ly",
+    "name": "IasiTV Life",
+    "iptv_urls": [
+      "https://tv.streambox.ro/hls/itv/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "ron",

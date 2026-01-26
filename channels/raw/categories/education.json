@@ -48,7 +48,7 @@
     "name": "Arche TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/l_eGr9tuyL4"
+      "https://www.youtube-nocookie.com/embed/VEqjJXobxvU"
     ],
     "language": "pol",
     "country": "pl",
@@ -96,6 +96,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZQE8Kkj7LLaHHY",
+    "name": "BVG",
+    "iptv_urls": [
+      "https://mumt05.tangotv.in/BVG/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "hin",
+    "country": "in",
     "isGeoBlocked": false
   },
   {
@@ -180,6 +191,17 @@
     "name": "Cloudflare TV",
     "iptv_urls": [
       "https://cloudflare.tv/hls/live.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "TbETZirFbV6iE6",
+    "name": "Collier County Public Schools CCPS Education Channel (Naples FL)",
+    "iptv_urls": [
+      "https://watch.collierschools.com/EducationChannel/educhannel.stream/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -544,7 +566,7 @@
     "name": "FGN Channel",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/QJz_lwLSobs"
+      "https://www.youtube-nocookie.com/embed/jtCr4YI04U8"
     ],
     "language": "urd",
     "country": "in",
@@ -702,17 +724,6 @@
     ],
     "language": "en",
     "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xx7eina1wOQhnp",
-    "name": "MCN6 Arts Channel",
-    "iptv_urls": [
-      "https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1059,17 +1070,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "DCzhAOMfIMF2kt",
-    "name": "TV Nuevo León Canal 28 (XHMNL-TDT)",
-    "iptv_urls": [
-      "https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "g7YtvRUN199O67",
     "name": "TV UG",
     "iptv_urls": [
@@ -1177,6 +1177,17 @@
     "youtube_urls": [],
     "language": "spa",
     "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JvGEcuMecAcih8",
+    "name": "Unison TV",
+    "iptv_urls": [
+      "https://stream.unison.mx/hls/unisontvatem.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "mx",
     "isGeoBlocked": false
   },
   {

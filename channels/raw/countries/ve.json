@@ -1,9 +1,9 @@
 [
   {
-    "nanoid": "L2ckl8qUgIXBH9",
-    "name": "Anzoátegui TV",
+    "nanoid": "t2xHdunHhK2Qqc",
+    "name": "Aguacate TV",
     "iptv_urls": [
-      "https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8"
+      "https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -103,17 +103,6 @@
     "name": "interTV",
     "iptv_urls": [
       "https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "uShK1SgZwLoTJ4",
-    "name": "Isla TV",
-    "iptv_urls": [
-      "https://59d39900ebfb8.streamlock.net/islatv/islatv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -364,10 +353,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "MfZl15TXWaHOGI",
-    "name": "TRV",
+    "nanoid": "rO6eV79GxNqt7n",
+    "name": "TRT",
     "iptv_urls": [
-      "https://vcp3.myplaytv.com/trv/trv/playlist.m3u8"
+      "https://vcp12.myplaytv.com/trt/trt/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -375,10 +364,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Z9rhVuP0JaTo3P",
-    "name": "TV FANB",
+    "nanoid": "MfZl15TXWaHOGI",
+    "name": "TRV",
     "iptv_urls": [
-      "https://vcp2.myplaytv.com/tvfanb/tvfanb/playlist.m3u8"
+      "https://vcp3.myplaytv.com/trv/trv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -401,6 +390,17 @@
     "name": "TVM para ti",
     "iptv_urls": [
       "https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "plr8p8zjDPs7Ks",
+    "name": "TVS",
+    "iptv_urls": [
+      "https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
