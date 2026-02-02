@@ -47,6 +47,7 @@
     "nanoid": "v9zxgiBZu0T9zY",
     "name": "ACCDN",
     "iptv_urls": [
+      "https://raycom-accdn-firetv.amagi.tv/playlist.m3u8",
       "https://aegis-cloudfront-1.tubi.video/a1e671ae-d1c2-4e39-99c7-889e83056fd2/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -107,6 +108,17 @@
     "youtube_urls": [],
     "language": "fra",
     "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pHGRN6No5y3yuk",
+    "name": "Alkass Three",
+    "iptv_urls": [
+      "https://streamer2.qna.org.qa/148161470_live/148161470_296.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "qa",
     "isGeoBlocked": false
   },
   {
@@ -195,6 +207,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "cEtgYgEtHzj5Ic",
+    "name": "ColimdoT TV",
+    "iptv_urls": [
+      "https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "do",
     "isGeoBlocked": false
   },
   {
@@ -314,7 +337,7 @@
     "name": "FOX Sports YT",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/7VHtqVx9Z_w"
+      "https://www.youtube-nocookie.com/embed/UEBsHqL643c"
     ],
     "language": "eng",
     "country": "us",
@@ -422,17 +445,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rttScvWUnetgoy",
-    "name": "HTV Sports",
-    "iptv_urls": [
-      "https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "vie",
-    "country": "vn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "YJ0VLCpIyYcZ5V",
     "name": "InTrouble",
     "iptv_urls": [
@@ -459,7 +471,7 @@
     "name": "ItalianFishingTV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/n9fe9cLiTi8"
+      "https://www.youtube-nocookie.com/embed/AW2I1N5PRxU"
     ],
     "language": "ita",
     "country": "it",
@@ -552,17 +564,6 @@
     "youtube_urls": [],
     "language": "ita",
     "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "auc0jMNpvasOnO",
-    "name": "Meridiano TV",
-    "iptv_urls": [
-      "https://e1.viginet.vectormax.com:5210/quickstart/114-934-21/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ve",
     "isGeoBlocked": false
   },
   {
@@ -659,7 +660,8 @@
     "iptv_urls": [
       "https://pac12-roku-us.amagi.tv/playlist.m3u8",
       "https://pac12-samsungus.amagi.tv/playlist.m3u8",
-      "https://pac12-vizio.amagi.tv/playlist.m3u8"
+      "https://pac12-vizio.amagi.tv/playlist.m3u8",
+      "https://pac12-firetv.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -847,17 +849,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "VAXyuQmSe3glBx",
-    "name": "Sportdigital FUSSBALL HD",
-    "iptv_urls": [
-      "https://d162h6qqsk8wvl.cloudfront.net/8c880c40-991d-4253-aae9-754f1ed050ce/manifest.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Pj3Pb4MifHuOI3",
     "name": "Sports TV",
     "iptv_urls": [
@@ -974,17 +965,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "dSUYbIZ4emOJHZ",
-    "name": "TNC Sports",
-    "iptv_urls": [
-      "https://streamer1.nexgen.bz:443/TNC_SPORTS/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "bz",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "PoFjoPeTQSvrgP",
     "name": "TR Sport",
     "iptv_urls": [
@@ -1027,6 +1007,17 @@
     "youtube_urls": [],
     "language": "spa",
     "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lX8llbHeMkmnOY",
+    "name": "TVR Sport",
+    "iptv_urls": [
+      "https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist_b5160000.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ron",
+    "country": "ro",
     "isGeoBlocked": false
   },
   {
@@ -1141,17 +1132,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HoPPiJ6zSU8JBV",
-    "name": "W14DK-D 14.5 All Sports Television Network",
-    "iptv_urls": [
-      "https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "d0G4zB6FBlCOOM",
     "name": "Willow Sports",
     "iptv_urls": [
@@ -1240,17 +1220,6 @@
     "youtube_urls": [],
     "language": "rus",
     "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "yxXfCHd5uHQMJD",
-    "name": "Беларусь 5",
-    "iptv_urls": [
-      "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "by",
     "isGeoBlocked": false
   }
 ]

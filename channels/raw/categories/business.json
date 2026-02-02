@@ -80,8 +80,8 @@
     "nanoid": "3IPx7Vn2DfdZ1y",
     "name": "Asharq News",
     "iptv_urls": [
-      "https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/playlist.m3u8",
-      "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8"
+      "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8",
+      "https://live-news.asharq.com/asharq.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/f6VpkfV7m4Y"
@@ -409,10 +409,10 @@
     "nanoid": "PrbGgJSVKuINgQ",
     "name": "NDTV Profit",
     "iptv_urls": [
-      "https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8"
+      "https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/chunklist_5.m3u8"
     ],
     "youtube_urls": [],
-    "language": "",
+    "language": "eng",
     "country": "in",
     "isGeoBlocked": false
   },
@@ -420,12 +420,12 @@
     "nanoid": "PrbGgJSVKuINgQ",
     "name": "NDTV Profit",
     "iptv_urls": [
-      "https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/chunklist_5.m3u8"
+      "https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ydiWklMUhcQ"
+      "https://www.youtube-nocookie.com/embed/EN-N1xhtBqU"
     ],
-    "language": "eng",
+    "language": "",
     "country": "in",
     "isGeoBlocked": false
   },
@@ -441,14 +441,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "RUHNYqwyWf7P40",
-    "name": "Nei Monggol TV Economic & Life Channel",
+    "nanoid": "fEhuSbh6UZiVWk",
+    "name": "NW Economie",
     "iptv_urls": [
-      "https://play1-qk.nmtv.cn/live/1686562470947181.m3u8"
+      "https://hls.newworldtv.com/nw-economie/video/live.m3u8"
     ],
     "youtube_urls": [],
-    "language": "zho",
-    "country": "cn",
+    "language": "fra",
+    "country": "tg",
     "isGeoBlocked": false
   },
   {
@@ -504,8 +504,7 @@
       "https://amg00119-amg00119c1-firetv-us-4205.playouts.now.amagi.tv/playlist.m3u8",
       "https://yahoo-plex.amagi.tv/playlist.m3u8",
       "https://yahoo-roku-us.amagi.tv/playlist.m3u8",
-      "https://yahoo-samsung.amagi.tv/playlist.m3u8",
-      "https://yahoo-vizio.amagi.tv/playlist.m3u8"
+      "https://yahoo-samsung.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",

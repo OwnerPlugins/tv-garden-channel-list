@@ -143,10 +143,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "XzRqOxUzNRtPhH",
+    "name": "ECO Television",
+    "iptv_urls": [
+      "https://stream.ecoperu.tv/ECOTV/tracks-v1a1/mono.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "M8nsyNmz1k1pVX",
     "name": "Exitosa TV",
     "iptv_urls": [
-      "https://luna-3-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8"
+      "https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -231,17 +242,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ZgK3gN33Rh7QOj",
-    "name": "Miel TV",
-    "iptv_urls": [
-      "https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "JEOHsH5ZsjmOK3",
     "name": "Milenial TV",
     "iptv_urls": [
@@ -268,17 +268,6 @@
     "name": "Nativa",
     "iptv_urls": [
       "https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mi7Zl9xYkTcqpw",
-    "name": "Nativa TV Satipo",
-    "iptv_urls": [
-      "https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -397,17 +386,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wbr6x2NZ3c23qF",
-    "name": "Señal Perú TV",
-    "iptv_urls": [
-      "https://livestream.perucast.com/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "NWQzBG1ASDZW7k",
     "name": "Sol Televisión",
     "iptv_urls": [
@@ -474,10 +452,32 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "kzdXF1h7tKZGcP",
-    "name": "TV Cosmos",
+    "nanoid": "9jlzCfuFrzzmTZ",
+    "name": "TV Peru",
     "iptv_urls": [
-      "https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8"
+      "https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "aym",
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JAu8npSaIqe0rd",
+    "name": "TV Peru Internacional",
+    "iptv_urls": [
+      "https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c27.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tgMJA8Yrpo64wp",
+    "name": "TV Peru Noticias",
+    "iptv_urls": [
+      "https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e47.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -489,7 +489,7 @@
     "name": "TVLibertad ",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/TZE6tnK9WME"
+      "https://www.youtube-nocookie.com/embed/qLE0I6jJtw4"
     ],
     "language": "spa",
     "country": "pe",

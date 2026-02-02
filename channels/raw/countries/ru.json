@@ -79,35 +79,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "0RyvSnHcZVz1gC",
-    "name": "Duma TV",
-    "iptv_urls": [
-      "https://dumatv.iptv2022.com/tracks-v2a1/mono.m3u8",
-      "https://dumatv.iptv2022.com/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "EDJsRoJArkwgcL",
     "name": "Jetix",
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/5PtLHnSX6Wo"
     ],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "gSNslvci5VvEfL",
-    "name": "Kino 24",
-    "iptv_urls": [
-      "https://sirius.greenhosting.ru/Kino24Ru/video.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "rus",
     "country": "ru",
     "isGeoBlocked": false
@@ -222,6 +199,17 @@
     "name": "RU TV",
     "iptv_urls": [
       "https://hls-03-video.webcaramba.com/rutv/live.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uuwdAM4ggDTLQ4",
+    "name": "SONGTV Russia",
+    "iptv_urls": [
+      "https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -507,17 +495,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "OI13Nk31lvozG8",
-    "name": "За!ТВ",
-    "iptv_urls": [
-      "https://streaming.televizor-24-tochka.ru/live/25.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "0aNqMqNfvYuTeN",
     "name": "Звезда",
     "iptv_urls": [
@@ -754,17 +731,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "PZBt17abf1Uupk",
-    "name": "Миллет",
-    "iptv_urls": [
-      "https://live.trkmillet.ru/millet/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "spQq9ZgiXsXonS",
     "name": "Мир",
     "iptv_urls": [
@@ -857,6 +823,7 @@
     "nanoid": "gJChs4RXWcqghm",
     "name": "Мультимания",
     "iptv_urls": [
+      "https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8",
       "https://sirius.greenhosting.ru/MultimaniaRu/video.m3u8"
     ],
     "youtube_urls": [],
@@ -868,7 +835,8 @@
     "nanoid": "lCl8WMVdJ5MxcZ",
     "name": "Надежда",
     "iptv_urls": [
-      "https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8"
+      "https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8",
+      "https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -942,6 +910,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "D1kxUcXu5YSsG7",
+    "name": "Новый Век",
+    "iptv_urls": [
+      "https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "r7CIzrnkl8uDaW",
     "name": "НТВ",
     "iptv_urls": [
@@ -953,10 +932,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "SouHlOn23CzTQS",
+    "name": "НТВ Мир",
+    "iptv_urls": [
+      "https://streaming.thestream.cyou/live/213.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "v6hADKFPM0Ioy0",
     "name": "НТК 21 (Биробиджан)",
     "iptv_urls": [
       "https://s97982.cdn.ngenix.net/hls/CH_R79_OTT_DV_HVSK_NTK/variant.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xWysqbFfCvojGt",
+    "name": "НТМ (Народное телевидение Мордовии)",
+    "iptv_urls": [
+      "https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -1089,6 +1090,18 @@
     "name": "Победа",
     "iptv_urls": [
       "https://streaming.thestream.cyou/live/43.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "G2als9WLQge4uL",
+    "name": "Прима",
+    "iptv_urls": [
+      "https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8",
+      "https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -1530,6 +1543,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "AIHRA4w3vdxLfI",
+    "name": "Толк HD",
+    "iptv_urls": [
+      "https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8",
+      "https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "TfaEWFgppVp2Rt",
     "name": "Три Ангела",
     "iptv_urls": [
@@ -1558,6 +1583,17 @@
       "https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8"
     ],
     "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "VRSVNzRuNbdCXJ",
+    "name": "Ювелирочка",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/WqD_BIzno7M"
+    ],
     "language": "rus",
     "country": "ru",
     "isGeoBlocked": false

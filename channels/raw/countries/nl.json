@@ -25,7 +25,6 @@
     "nanoid": "VW5KCkVwmL5Q1A",
     "name": "A1 TV",
     "iptv_urls": [
-      "https://stream.a1mediagroep.nl/hls/a1tv.m3u8",
       "https://www.a1mediagroep.nl/hls/a1tv.m3u8"
     ],
     "youtube_urls": [],
@@ -94,6 +93,17 @@
     "iptv_urls": [
       "https://ms2.mx-cd.net/tv/228-1864150/Omroep_Helmond.smil/playlist.m3u8",
       "https://ms2.mx-cd.net/tv/Omroep_Helmond.smil/chunklist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "nld",
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "qCNy2ojifNspg9",
+    "name": "FomixTV",
+    "iptv_urls": [
+      "https://stream.fomixmedia.nl/FomixTV/video.m3u8"
     ],
     "youtube_urls": [],
     "language": "nld",
@@ -192,10 +202,10 @@
     "nanoid": "2ioy8BcEUEsaqv",
     "name": "INFAST",
     "iptv_urls": [
-      "https://insighttv-samsung-canada.amagi.tv/playlist.m3u8",
-      "https://insighttv-samsung-us.amagi.tv/playlist.m3u8",
+      "https://amg00861-amg00861c5-firetv-us-4727.playouts.now.amagi.tv/playlist.m3u8",
       "https://amg00861-amg00861c11-rlaxx-uk-3950.playouts.now.amagi.tv/playlist.m3u8",
-      "https://amg00861-amg00861c5-firetv-us-4727.playouts.now.amagi.tv/playlist.m3u8"
+      "https://insighttv-samsung-canada.amagi.tv/playlist.m3u8",
+      "https://insighttv-samsung-us.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -881,6 +891,17 @@
     "name": "Salto 2",
     "iptv_urls": [
       "https://d11lnfpmek70tc.cloudfront.net/nlpo/clr-nlpo/bad78523/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "nld",
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "EEWgpub612Jk4L",
+    "name": "Salto Brasa Music",
+    "iptv_urls": [
+      "https://salto-streams.nl/hls/sotv1.m3u8"
     ],
     "youtube_urls": [],
     "language": "nld",

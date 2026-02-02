@@ -33,17 +33,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "LG6Gi17D5ouvwt",
-    "name": "Balkan Radio Salzburg",
-    "iptv_urls": [
-      "https://channel.streams.ovh:1936/balkanradiosalzburgtv/balkanradiosalzburgtv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "srp",
-    "country": "at",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "SZKqh8My275jx3",
     "name": "FairON",
     "iptv_urls": [],
@@ -215,6 +204,17 @@
     "name": "ORF 2 Tirol HD",
     "iptv_urls": [
       "https://viamotionhsi.netplus.ch/live/eds/orf2/browser-HLS8/orf2.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "at",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RiifWdXjWLsqP4",
+    "name": "ORF III HD",
+    "iptv_urls": [
+      "https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
