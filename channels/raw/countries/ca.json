@@ -36,22 +36,10 @@
     "nanoid": "qza0cF55H7P2sc",
     "name": "Az Star TV",
     "iptv_urls": [
-      "https://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8",
       "https://live.livestreamtv.ca/azstar/ngrp:azstar/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "aze",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fruS79xWb73ha2",
-    "name": "Barney the Dinosaur",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/RdHibWPpZSU"
-    ],
-    "language": "eng",
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -169,6 +157,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "vzmtZPIdnHIMbY",
+    "name": "Cowboy Channel",
+    "iptv_urls": [
+      "https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8?ads.vf=6g9ilXeXVD8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "v0OeMdvjnnVO4J",
     "name": "Deshi TV",
     "iptv_urls": [
@@ -228,7 +227,7 @@
     "name": "Fugget About It",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/oD7B68MfFfQ"
+      "https://www.youtube-nocookie.com/embed/GRCEr4FtBAg"
     ],
     "language": "eng",
     "country": "ca",
@@ -241,17 +240,6 @@
       "https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "language": "eng",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hTAa42S6ckdNs5",
-    "name": "Garfield & Friends",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/AtIW8Vn8QSQ"
-    ],
     "language": "eng",
     "country": "ca",
     "isGeoBlocked": false
@@ -573,11 +561,10 @@
     "iptv_urls": [
       "https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8",
       "https://bamus-klowdtv.amagi.tv/playlist.m3u8",
-      "https://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8",
       "https://amg01515-amg01515c26-xumo-us-4765.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/daqB3i9WYIY"
+      "https://www.youtube-nocookie.com/embed/vBnErz43N1A"
     ],
     "language": "eng",
     "country": "ca",
@@ -602,17 +589,6 @@
     ],
     "youtube_urls": [],
     "language": "ell",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "PcZvzmtUOxudPS",
-    "name": "NACTV",
-    "iptv_urls": [
-      "https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -695,21 +671,21 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "k51puVCsLkbapL",
-    "name": "Parnian TV",
-    "iptv_urls": [
-      "https://live2.parnian.tv/hls/.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fas",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "GKly7Ww5aXXkJH",
     "name": "Plymouth Rock TV",
     "iptv_urls": [
       "https://d30au7974f7qoa.cloudfront.net/scheduler/scheduleMaster/419.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "CID3rJMl0Ytixb",
+    "name": "Prime Asia Tv",
+    "iptv_urls": [
+      "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/prime-asia-tv/index.m3u8?ads.vf=Vg9ARUkV43a"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -768,6 +744,17 @@
     ],
     "youtube_urls": [],
     "language": "pan",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mmZjHuy87LmO4O",
+    "name": "Sooriyan TV",
+    "iptv_urls": [
+      "https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tam",
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -1062,7 +1049,7 @@
     "name": "Super Simple: Bedtime Songs",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/-6rpQseP26w"
+      "https://www.youtube-nocookie.com/embed/APQOLUVobsw"
     ],
     "language": "eng",
     "country": "ca",
@@ -1073,7 +1060,7 @@
     "name": "Super Simple: Noodle and Pals",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/cHXAXX2CnUk"
+      "https://www.youtube-nocookie.com/embed/y4Jc2HFi2_4"
     ],
     "language": "eng",
     "country": "ca",
@@ -1084,7 +1071,7 @@
     "name": "Super Simple: Simple Songs",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/O997nL8p6y4"
+      "https://www.youtube-nocookie.com/embed/YRBz0B3es70"
     ],
     "language": "eng",
     "country": "ca",
@@ -1175,6 +1162,17 @@
     ],
     "youtube_urls": [],
     "language": "pan",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bXKVlszQEGdoup",
+    "name": "TV Témis",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/TYmoCDVdeb4"
+    ],
+    "language": "fra",
     "country": "ca",
     "isGeoBlocked": false
   },

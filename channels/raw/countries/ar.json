@@ -55,6 +55,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "2muybC4Eb4sLrh",
+    "name": "ATV Argentina",
+    "iptv_urls": [
+      "https://tv.streaming.com.bo/atvargentina/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "zZzdEeu5sohNZw",
     "name": "Azahares Radio Multimedia",
     "iptv_urls": [
@@ -121,6 +132,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "mbc3tMycOFDjGt",
+    "name": "Canal 2 de Ushuaia",
+    "iptv_urls": [
+      "https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "dP9dVYSF14RSuM",
     "name": "Canal 2 Misiones",
     "iptv_urls": [
@@ -136,6 +158,17 @@
     "name": "Canal 3 La Pampa",
     "iptv_urls": [
       "https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "HiSqdLo7Vz02nV",
+    "name": "Canal 3 Las Heras",
+    "iptv_urls": [
+      "https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -187,6 +220,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ZwcB80q6hf9Umn",
+    "name": "Canal 5 Pico Truncado",
+    "iptv_urls": [
+      "https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Qltnj6pxW46J3l",
     "name": "Canal 5 Santa Fe",
     "iptv_urls": [
@@ -213,6 +257,17 @@
     "name": "Canal 7 Jujuy",
     "iptv_urls": [
       "https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UFI1aabxRmg31y",
+    "name": "Canal 7 Neuquén",
+    "iptv_urls": [
+      "https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -247,7 +302,7 @@
     "name": "Canal 8 San Juan",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/GYPMNGLF_EE"
+      "https://www.youtube-nocookie.com/embed/ppe82AKjWC8"
     ],
     "language": "spa",
     "country": "ar",
@@ -276,22 +331,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pGg9E7GpQgpIle",
-    "name": "Canal 11 de la Costa",
-    "iptv_urls": [
-      "https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Gu6k19yrwk0QaT",
     "name": "Canal 13 San Juan",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ezmbGOD36N0"
+      "https://www.youtube-nocookie.com/embed/HMY1gTe1uOo"
     ],
     "language": "spa",
     "country": "ar",
@@ -323,7 +367,8 @@
     "nanoid": "IKwTslDp6GIv1l",
     "name": "Canal 26",
     "iptv_urls": [
-      "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8"
+      "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8",
+      "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/c8Uxc6pwDNA"
@@ -337,17 +382,6 @@
     "name": "Canal 34 San Juan",
     "iptv_urls": [
       "https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "v7fuzMjUcfiKGk",
-    "name": "Canal 79 La Costa",
-    "iptv_urls": [
-      "https://streamconex.com:19360/lacosta/lacosta.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -434,10 +468,21 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "njewIOEi3Bzjbb",
-    "name": "Chilecito TV",
+    "nanoid": "vUd9BZTcBgBOm3",
+    "name": "Catamarca TV",
     "iptv_urls": [
-      "https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8"
+      "https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR="
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "TyUx4dR3i3hPtN",
+    "name": "Celta TV",
+    "iptv_urls": [
+      "https://vivo.solumedia.com:19360/celta/celta.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -449,17 +494,6 @@
     "name": "Ciudad Magazine",
     "iptv_urls": [
       "https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "O1w7ZkcS7F2SpI",
-    "name": "Cosmos Tv",
-    "iptv_urls": [
-      "https://canaletaplus.com:3922/hybrid/play.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -489,17 +523,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "XCDnk2h8lWn1vm",
-    "name": "Diputados TV",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/4LKEirCb5_k"
-    ],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "GzM2c4cYlZpdvV",
     "name": "El Doce",
     "iptv_urls": [],
@@ -515,7 +538,7 @@
     "name": "El Observador 107.9",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/b9JmNYmbh5o"
+      "https://www.youtube-nocookie.com/embed/Xl7DS6LUFdY"
     ],
     "language": "spa",
     "country": "ar",
@@ -615,8 +638,19 @@
     "name": "La Nación+",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/unR6PQyi8TM"
+      "https://www.youtube-nocookie.com/embed/PDtB9Hc0YJM"
     ],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mZmnLqHFT8usTq",
+    "name": "Litus TV",
+    "iptv_urls": [
+      "https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "spa",
     "country": "ar",
     "isGeoBlocked": false
@@ -755,6 +789,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Xt24rqtDs7DtGk",
+    "name": "Radio Conexion Web TV",
+    "iptv_urls": [
+      "https://tuvideoonline.com.ar:3391/live/radioconexionlive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "o5d38JZC1UjVec",
     "name": "Radio Mitre",
     "iptv_urls": [],
@@ -858,7 +903,7 @@
     "name": "Telediario Digital",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ufHzWYx8tnM"
+      "https://www.youtube-nocookie.com/embed/6BWv7UzSZjo"
     ],
     "language": "spa",
     "country": "ar",
@@ -891,17 +936,6 @@
     "name": "Telemax",
     "iptv_urls": [
       "https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "5dobEuPzzWq3sH",
-    "name": "Telenord Corrientes",
-    "iptv_urls": [
-      "https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -991,7 +1025,7 @@
     "name": "Urbana Play 104.3 FM",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/lo1yxfwHRkE"
+      "https://www.youtube-nocookie.com/embed/FPR_v_7gCxA"
     ],
     "language": "spa",
     "country": "ar",

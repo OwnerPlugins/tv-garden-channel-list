@@ -11,17 +11,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "RsBXf0dOi8zF70",
-    "name": "3sat HD",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-HLS8/3sathd.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "LAPj7zIAvtxGKM",
     "name": "Alex Berlin",
     "iptv_urls": [
@@ -70,17 +59,6 @@
     "name": "ARD-alpha",
     "iptv_urls": [
       "https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "g8Hv6pDk4jg73i",
-    "name": "ARD-alpha HD",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/bralpha/browser-HLS8/bralpha.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -213,7 +191,6 @@
     "nanoid": "CkwbvjSh6HpPJp",
     "name": "BR Fernsehen Sud",
     "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/brhdsud/browser-HLS8/brhdsud.m3u8",
       "https://dash2.antik.sk/live/test_br_tizen/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -226,17 +203,6 @@
     "name": "Chemnitz Fernsehen",
     "iptv_urls": [
       "https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nj8aLvvoJDsy5b",
-    "name": "Comedy Central HD",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/comedycentral/browser-HLS8/comedycentral.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -280,8 +246,7 @@
     "nanoid": "95qUyvmztON27u",
     "name": "Das Erste",
     "iptv_urls": [
-      "https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8",
-      "https://viamotionhsi.netplus.ch/live/eds/daserstehd/browser-HLS8/daserstehd.m3u8"
+      "https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -325,8 +290,7 @@
     "nanoid": "hoEK50b8RIgSOh",
     "name": "Deluxe Music",
     "iptv_urls": [
-      "https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8",
-      "https://viamotionhsi.netplus.ch/live/eds/deluxemusic/browser-HLS8/deluxemusic.m3u8"
+      "https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -341,17 +305,6 @@
     ],
     "youtube_urls": [],
     "language": "eng",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nSzgFY1wA728Rf",
-    "name": "Disney Channel",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
     "country": "de",
     "isGeoBlocked": false
   },
@@ -510,6 +463,17 @@
     "name": "Filstalwelle",
     "iptv_urls": [
       "https://h055.video-stream-hosting.de/filstalwelle-live/_definst_/mp4:livestream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JUHY7ZFUwE8O9n",
+    "name": "Finest TV",
+    "iptv_urls": [
+      "https://media.finest.tv/hls/live.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -706,6 +670,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "BwAEx0LmqBTmqp",
+    "name": "Kanal 9 Erzgebirge",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/1AHbKxio5N4"
+    ],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hkGnYbKbnHGzDM",
     "name": "KaufBei TV",
     "iptv_urls": [
@@ -732,8 +707,7 @@
     "nanoid": "OH65zONOdo7fss",
     "name": "KiKA HD",
     "iptv_urls": [
-      "https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8",
-      "https://viamotionhsi.netplus.ch/live/eds/kikahd/browser-HLS8/kikahd.m3u8"
+      "https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -799,8 +773,7 @@
     "nanoid": "3RqH2CA3gTproY",
     "name": "MDR Fernsehen Thüringen",
     "iptv_urls": [
-      "https://dash4.antik.sk/live/test_mdr_tizen/playlist.m3u8",
-      "https://viamotionhsi.netplus.ch/live/eds/mdr/browser-HLS8/mdr.m3u8"
+      "https://dash4.antik.sk/live/test_mdr_tizen/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -841,28 +814,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1vBPSqBW9LaA0Z",
-    "name": "MyTime Movie Network Germany",
-    "iptv_urls": [
-      "https://appletree-mytimemoviegerman-rakuten.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "sUPjf9t1EEmdsB",
-    "name": "n-tv",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/ntv/browser-HLS8/ntv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "nSKKagLIpNXooQ",
     "name": "Naruto Germany",
     "iptv_urls": [
@@ -879,28 +830,6 @@
     "iptv_urls": [
       "https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8",
       "https://dash3.antik.sk/live/test_ndr_tizen/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GeKNyE31y73DJT",
-    "name": "NDR Hamburg",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/ndr/browser-HLS8/ndr.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "s3CR0taCvYhOMx",
-    "name": "Nick/Comedy Central +1 HD",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/comedycentralnick/browser-HLS8/comedycentralnick.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -946,17 +875,6 @@
     "name": "Niederbayern TV Passau",
     "iptv_urls": [
       "https://stream03.welocal.stream/stream/fhd-nbypassau_49171/ngrp:stream_all/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "uBPZhCtyPLBfeX",
-    "name": "Nitro HD",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-HLS8/rtlnitro.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -1030,17 +948,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "sUOa2YFtkV3OvI",
-    "name": "One HD",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/onehd/browser-HLS8/onehd.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hKXziqHmvJRVZi",
     "name": "Parlamentsfernsehen 1",
     "iptv_urls": [
@@ -1092,17 +999,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/7edPeO-8Rs0"
     ],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "h4zXktcunVVkyz",
-    "name": "Phoenix",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/phoenixhd/browser-HLS8/phoenixhd.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "deu",
     "country": "de",
     "isGeoBlocked": false
@@ -1211,8 +1107,7 @@
     "nanoid": "wzGJSCy2AvoKPw",
     "name": "rbb Fernsehen",
     "iptv_urls": [
-      "https://dash2.antik.sk/live/test_rbb_tizen/playlist.m3u8",
-      "https://viamotionhsi.netplus.ch/live/eds/rbb/browser-HLS8/rbb.m3u8"
+      "https://dash2.antik.sk/live/test_rbb_tizen/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -1278,8 +1173,7 @@
     "nanoid": "50AOLuz78mWfKm",
     "name": "RiC",
     "iptv_urls": [
-      "https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8",
-      "https://viamotionhsi.netplus.ch/live/eds/ric/browser-HLS8/ric.m3u8"
+      "https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -1303,39 +1197,6 @@
     "iptv_urls": [
       "https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8",
       "https://rt-ger.rttv.com/live/rtdeutsch/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "8vAqpTND3MkcrO",
-    "name": "RTL",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/rtl/browser-HLS8/rtl.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "brqnNRKBRjnKyb",
-    "name": "RTL Super",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-HLS8/superrtl.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kNvBUua8jrPHha",
-    "name": "RTL Zwei HD",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-HLS8/rtl2.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -1497,17 +1358,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fcxGwPv42vZBEZ",
-    "name": "SWR Fernsehen Baden-Württemberg",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/swrbw/browser-HLS8/swrbw.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "x3yWtwub5YZGg2",
     "name": "Tagesschau 24",
     "iptv_urls": [
@@ -1662,17 +1512,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "m9sTB8PM1zE7oy",
-    "name": "VOX",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/vox/browser-HLS8/vox.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "4YJWj04hCfbsQM",
     "name": "WDR 1 Live",
     "iptv_urls": [
@@ -1688,7 +1527,6 @@
     "nanoid": "xafAIlECB4fMek",
     "name": "WDR Fernsehen",
     "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/wdrhd/browser-HLS8/wdrhd.m3u8",
       "https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8",
       "https://wdrlokalzeit.akamaized.net/hls/live/2023550-b/wdrlz_koeln/master.m3u8",
       "https://dash3.antik.sk/live/test_wdr_tizen/playlist.m3u8"
@@ -1809,17 +1647,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ULG1kETQhacuFf",
-    "name": "WELT",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/n24/browser-HLS8/n24.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "K22wa9GZBp59RQ",
     "name": "Welt der Wunder TV",
     "iptv_urls": [
@@ -1860,50 +1687,6 @@
     ],
     "youtube_urls": [],
     "language": "",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "MTSj2olhZiM1t9",
-    "name": "XITE",
-    "iptv_urls": [
-      "https://xite-rakuten.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vhvjtBC2rj5W6D",
-    "name": "ZDF HD",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-HLS8/zdfhd.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "LIDUrWZ3fv3BqP",
-    "name": "ZDFinfo HD",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/zdfinfohd/browser-HLS8/zdfinfohd.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "cH8c2wY7TrkwXc",
-    "name": "ZDFneo HD",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-HLS8/zdfneohd.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
     "country": "de",
     "isGeoBlocked": false
   }
