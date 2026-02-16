@@ -15,7 +15,7 @@
     "name": "A Spor",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/FHjbZjTjG5k"
+      "https://www.youtube-nocookie.com/embed/mgeW8Qm8-SY"
     ],
     "language": "tur",
     "country": "tr",
@@ -97,17 +97,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "FsR4OMNuaQ7RDi",
-    "name": "Africa 24 Sport",
-    "iptv_urls": [
-      "https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "fr",
     "isGeoBlocked": false
   },
   {
@@ -245,10 +234,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "cRWaAoFcT7OCt9",
-    "name": "DD Sports",
+    "nanoid": "44h9Z4ZEgtGb2n",
+    "name": "DD Sports SD",
     "iptv_urls": [
-      "https://cdn-6.pishow.tv/live/13/master.m3u8"
+      "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8",
+      "https://cdn-6.pishow.tv/live/13/master.m3u8",
+      "https://mumt02.tangotv.in/DDSPORTS/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "hin",
@@ -333,17 +324,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1jYy0MieRH4RsH",
-    "name": "FOX Sports YT",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/vfR7f8_z9yo"
-    ],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "4r0QKfGoGD09Z7",
     "name": "FTV",
     "iptv_urls": [
@@ -375,17 +355,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "at",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "440EBhNILeBYuU",
-    "name": "Futbol",
-    "iptv_urls": [
-      "https://live.teleradiocom.tj/8/3m.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tgk",
-    "country": "tj",
     "isGeoBlocked": false
   },
   {
@@ -453,6 +422,17 @@
     ],
     "language": "tur",
     "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GV38pwWqigwkoF",
+    "name": "HTV Thể thao",
+    "iptv_urls": [
+      "https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "vie",
+    "country": "vn",
     "isGeoBlocked": false
   },
   {
@@ -624,7 +604,7 @@
     "nanoid": "057AuVcfpScIV5",
     "name": "MSG",
     "iptv_urls": [
-      "https://fl1.moveonjoy.com/MSG/index.m3u8"
+      "https://fl2.moveonjoy.com/MSG/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -676,6 +656,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "g2M151IR177r4N",
+    "name": "Nudge Sports Channel",
+    "iptv_urls": [
+      "https://streams.comclark.com/live_input/nudge_sports/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "yxyIFaB4Q9mpks",
     "name": "Oman Sports TV",
     "iptv_urls": [
@@ -687,24 +678,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GS1iJoWQ7ta8Q1",
-    "name": "Ovación TV",
-    "iptv_urls": [
-      "https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "1s9iqdlMC7cMrp",
     "name": "Pac 12 Insider",
     "iptv_urls": [
       "https://pac12-roku-us.amagi.tv/playlist.m3u8",
       "https://pac12-samsungus.amagi.tv/playlist.m3u8",
-      "https://pac12-vizio.amagi.tv/playlist.m3u8",
-      "https://pac12-firetv.amagi.tv/playlist.m3u8"
+      "https://pac12-vizio.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -801,6 +780,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "7TX9VjMY1i891b",
+    "name": "QSVS: Top Calcio 24",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/smcQvzsh5Qo"
+    ],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "PgSQJkjlJAZPaq",
     "name": "RACER International",
     "iptv_urls": [
@@ -820,6 +810,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "KSc2NtlozO0Aw7",
+    "name": "Radio Turrialba TV Sports",
+    "iptv_urls": [
+      "https://server5.cloundmediacp.in/turrialbatv/turrialbatv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cr",
     "isGeoBlocked": false
   },
   {
@@ -870,6 +871,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "5ajptuhyjIdeFx",
+    "name": "Sports Connect",
+    "iptv_urls": [
+      "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sports-connect/video.m3u8?ads.vf=K-yU3EWs_wu"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "za",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Pj3Pb4MifHuOI3",
     "name": "Sports TV",
     "iptv_urls": [
@@ -886,18 +898,8 @@
     "iptv_urls": [
       "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
       "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8",
+      "https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8",
       "https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ldE2XNsYj6C1rd",
-    "name": "Sportsman Channel",
-    "iptv_urls": [
-      "https://fl1.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -916,8 +918,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "idRoywP0TToz6k",
-    "name": "Swerve Sports",
+    "nanoid": "WY8xpPtdqP8OfL",
+    "name": "Swerve Combat",
     "iptv_urls": [
       "https://linear-253.frequency.stream/mt/roku/253/hls/master/playlist.m3u8",
       "https://linear-253.frequency.stream/dist/stirr/253/hls/master/playlist.m3u8",
@@ -1000,7 +1002,6 @@
     "nanoid": "KqqtNJzLvYMM8F",
     "name": "Trace Sports Stars",
     "iptv_urls": [
-      "https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8",
       "https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1130,14 +1131,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Ds5kjE7mChd5a5",
-    "name": "Varzesh TV",
+    "nanoid": "VwGLdAillsoWR5",
+    "name": "Viaplay TV (Finland)",
     "iptv_urls": [
-      "https://lenz.splus.ir/PLTV/88888888/224/3221226845/index.m3u8"
+      "https://live-fi.tvkaista.net/viaplay-tv/live.m3u8?hd=true"
     ],
     "youtube_urls": [],
-    "language": "fas",
-    "country": "ir",
+    "language": "fin",
+    "country": "fi",
     "isGeoBlocked": false
   },
   {

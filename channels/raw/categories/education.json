@@ -55,17 +55,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ZQE8Kkj7LLaHHY",
-    "name": "BVG",
-    "iptv_urls": [
-      "https://mumt05.tangotv.in/BVG/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "hin",
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "7vuNKG15VuJZNX",
     "name": "Campus TV",
     "iptv_urls": [
@@ -156,17 +145,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "TbETZirFbV6iE6",
-    "name": "Collier County Public Schools CCPS Education Channel (Naples FL)",
-    "iptv_urls": [
-      "https://watch.collierschools.com/EducationChannel/educhannel.stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "EHP7r0Fg5OJVXF",
     "name": "Create",
     "iptv_urls": [
@@ -222,10 +200,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nOQMyaxMLN1dPp",
-    "name": "DD KISAN HD",
+    "nanoid": "cGi1H67DnO2cou",
+    "name": "DD Kisan HD",
     "iptv_urls": [
-      "https://cdn-6.pishow.tv/live/9/master.m3u8"
+      "https://cdn-6.pishow.tv/live/9/master.m3u8",
+      "https://mumt04.tangotv.in/DDKISAN/index.m3u8",
+      "https://d2lk5u59tns74c.cloudfront.net/out/v1/4f053f2c12a24641bf701fb7f2376750/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "hin",
@@ -476,17 +456,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "avcRNsWqoTWnAw",
-    "name": "Education",
-    "iptv_urls": [
-      "https://cdn4.skygo.mn/live/disk1/Education/HLSv3-FTA/Education.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "mon",
-    "country": "mn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "DuJd4u0fDHyZVy",
     "name": "Eduvision",
     "iptv_urls": [
@@ -506,17 +475,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "M1xHzWMuYZ3C7M",
-    "name": "FGN Channel",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/1X5uF69PInw"
-    ],
-    "language": "urd",
-    "country": "in",
     "isGeoBlocked": false
   },
   {
@@ -737,17 +695,6 @@
     "youtube_urls": [],
     "language": "spa",
     "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "RisDHdMXTuhjri",
-    "name": "Orange County Vision TV (Orange County FL)",
-    "iptv_urls": [
-      "https://otv3.ocfl.net/VisionTV/smil:VisionTV.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1115,17 +1062,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JvGEcuMecAcih8",
-    "name": "Unison TV",
-    "iptv_urls": [
-      "https://stream.unison.mx/hls/unisontvatem.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "7UeLUueVRqvHR1",
     "name": "UNISUL TV",
     "iptv_urls": [
@@ -1175,8 +1111,8 @@
     "nanoid": "NpJ5K3Avxx4otV",
     "name": "WildEarth",
     "iptv_urls": [
-      "https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8",
       "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8",
+      "https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8",
       "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungnl/playlist.m3u8",
       "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungse/playlist.m3u8",
       "https://wildearth-xumo.amagi.tv/master.m3u8"
@@ -1191,6 +1127,17 @@
     "name": "World Channel",
     "iptv_urls": [
       "https://world.lls.pbs.org/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FqfjVtCq56Tw8t",
+    "name": "WPS TV",
+    "iptv_urls": [
+      "https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
