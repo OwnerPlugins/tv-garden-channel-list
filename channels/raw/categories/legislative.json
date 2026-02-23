@@ -66,6 +66,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "I5etK19ZRT3eHn",
+    "name": "ATXN1",
+    "iptv_urls": [
+      "https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(616d6f49-eaec-6f7e-7186-2bbaf66c69c0)/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "l6t1LyMy9mHMzV",
+    "name": "ATXN2",
+    "iptv_urls": [
+      "https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(f97b5ddc-b7e4-dff8-9f10-8c16d0833639)/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8nqwJcm0Fl92XH",
     "name": "Bolton Community Voice Channel (CVC) Government (Bolton CT)",
     "iptv_urls": [
@@ -299,6 +321,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "rIKYP5py1TrF7Q",
+    "name": "CT-N Court Feed",
+    "iptv_urls": [
+      "https://video.ct-n.com/live/ctnSupreme/playlist_DVR.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "54APtzgfl8rhY2",
     "name": "CT-N Live Stream 2",
     "iptv_urls": [
@@ -392,17 +425,6 @@
     "name": "District of Columbia Network (DCN)",
     "iptv_urls": [
       "https://video.oct.dc.gov/out/u/DCN.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "RHm7b5JVxj4i8h",
-    "name": "Escambia County TV ECTV (Escambia County FL)",
-    "iptv_urls": [
-      "https://cpcdn.azureedge.net/ESCAMBIACOFLLIVE1/ESCAMBIACOFLLIVE1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -586,28 +608,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "o3TJTeJqxvVtfC",
-    "name": "Legislative Assembly of British Columbia",
-    "iptv_urls": [
-      "https://cdn3.wowza.com/5/YldIU1hsTlljRWZF/hbs-prim-house-httpo/HouseP.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "sKpGu4p0lFyUMb",
-    "name": "Legislative Assembly of British Columbia Committee A",
-    "iptv_urls": [
-      "https://cdn3.wowza.com/5/YldIU1hsTlljRWZF/hbs-prim-dougfir-httpo/DougFirP.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "NLIFoRpmAx5nwO",
     "name": "Legislative Assembly of El Salvador",
     "iptv_urls": [
@@ -755,6 +755,17 @@
     "name": "Nashua GTV Channel 16 Nashua NH",
     "iptv_urls": [
       "https://livestream.telvue.com/nashuanh3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "G91NOrrqX23WUi",
+    "name": "Natick Government Channel",
+    "iptv_urls": [
+      "https://livestream.telvue.com/natickpegasus3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -966,7 +977,7 @@
     "name": "Rio TV Câmara",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/iHh6aAxMekE"
+      "https://www.youtube-nocookie.com/embed/YUsd-vA8e_0"
     ],
     "language": "por",
     "country": "br",
@@ -977,6 +988,7 @@
     "name": "Sansad TV 1",
     "iptv_urls": [
       "https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8",
+      "https://hls.media.nic.in/hls/live/lstv/lstv.m3u8",
       "https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8"
     ],
     "youtube_urls": [],
@@ -1053,17 +1065,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "bMkXILI7Cwn65v",
-    "name": "St. Pete TV (SPTV) (St Petersburg FL)",
-    "iptv_urls": [
-      "https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/stpete/G0187_003/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "4LXxz87wiJdex1",
     "name": "Stockton GovTV (Stockton CA)",
     "iptv_urls": [
@@ -1101,7 +1102,7 @@
     "name": "TV Assembleia Minas Gerais",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/gSDjr0QVH7w"
+      "https://www.youtube-nocookie.com/embed/nBNUVpdE93w"
     ],
     "language": "por",
     "country": "br",
@@ -1284,28 +1285,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "EbzVTLGaQ83k3R",
-    "name": "Whittier CityTV (Whittier CA)",
-    "iptv_urls": [
-      "https://whittier.cablecast.tv/live/stream-1/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "F2xwfHx05Hn1Zy",
-    "name": "Wolcott Governmental TV (Wolcott CT)",
-    "iptv_urls": [
-      "https://5a5c57d042315.streamlock.net/live11704001/ngrp:government_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "mAWCWxuOurkpj4",
     "name": "YouDotGov",
     "iptv_urls": [
@@ -1347,17 +1326,6 @@
     "youtube_urls": [],
     "language": "ell",
     "country": "gr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jdtDDFx09GQYAn",
-    "name": "Дума ТВ",
-    "iptv_urls": [
-      "https://dumatv.iptv2022.com/tracks-v2a1/mono.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
     "isGeoBlocked": false
   }
 ]

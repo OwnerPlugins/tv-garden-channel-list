@@ -66,6 +66,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "lhFBUBQYMx1tnO",
+    "name": "Canal 10",
+    "iptv_urls": [
+      "https://acceso.mediosdecostarica.com:3606/live/canal10costaricalive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Z3J6UkFFEng975",
     "name": "Canal 17 TV Nosara",
     "iptv_urls": [
@@ -103,6 +114,17 @@
     "name": "Costa Rica Channel",
     "iptv_urls": [
       "https://video0.rogohosting.com:19360/8006/8006.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wXST2Lc3NQDzOF",
+    "name": "Coto Brus TV",
+    "iptv_urls": [
+      "https://cloudvideo.servers10.com:8081/8030/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -209,21 +231,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KSc2NtlozO0Aw7",
-    "name": "Radio Turrialba TV Sports",
-    "iptv_urls": [
-      "https://server5.cloundmediacp.in/turrialbatv/turrialbatv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Oxstp5zvFaS9ZH",
     "name": "Retrox TV",
     "iptv_urls": [
-      "https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/playlist.m3u8"
+      "https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/chunks.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -235,17 +246,6 @@
     "name": "RTV Chirripó",
     "iptv_urls": [
       "https://lstv.duckdns.org:449/hls/rtchirripo.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KWtXBE79zVCsGO",
-    "name": "San José TV",
-    "iptv_urls": [
-      "https://rtmp.info/sanjosetv/envivo/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -301,6 +301,17 @@
     "name": "TeleMas",
     "iptv_urls": [
       "https://mist01.homestream.fun/hls/tlmas904/0_1/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nCrZkPwSbsCSnz",
+    "name": "Telered Television",
+    "iptv_urls": [
+      "https://k20.usastreams.com:8081/telered/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
