@@ -48,7 +48,7 @@
     "name": "BTQ - Телеканал",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/tb_xBZYRWo8"
+      "https://www.youtube-nocookie.com/embed/_SyFPd3KXR8"
     ],
     "language": "ukr",
     "country": "ua",
@@ -81,7 +81,7 @@
     "name": "CoinVaultTV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/LQnWDMvxtSE"
+      "https://www.youtube-nocookie.com/embed/aH-PdN9Iwus"
     ],
     "language": "eng",
     "country": "us",
@@ -118,17 +118,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "au",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "SZKqh8My275jx3",
-    "name": "FairON",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Fxk_PkJQWq0"
-    ],
-    "language": "deu",
-    "country": "at",
     "isGeoBlocked": false
   },
   {
@@ -419,6 +408,17 @@
     "youtube_urls": [],
     "language": "deu",
     "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nfUMYUgBEhhJaP",
+    "name": "Lao SV TV",
+    "iptv_urls": [
+      "https://livefta.malimarcdn.com/ftaedge00/laosvtv.stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "vie",
+    "country": "vn",
     "isGeoBlocked": false
   },
   {
@@ -761,6 +761,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "yLB43ge13jrHoP",
+    "name": "Red TV Shop",
+    "iptv_urls": [
+      "https://master.tucableip.com/redtvshop/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "CyzmTDSgy94fJZ",
     "name": "Shinsegae Shopping TV",
     "iptv_urls": [
@@ -954,17 +965,6 @@
     "youtube_urls": [],
     "language": "rus",
     "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "HZkqDitQwqQ0R5",
-    "name": "東森購物60",
-    "iptv_urls": [
-      "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "cmn",
-    "country": "tw",
     "isGeoBlocked": false
   }
 ]

@@ -33,17 +33,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1LD9fRGKwL67SK",
-    "name": "BestClasicosTV",
-    "iptv_urls": [
-      "https://acceso.mediosdecostarica.com:3873/live/bestclasicostvlive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "X0fe1ozGC5qVsh",
     "name": "Canal 1",
     "iptv_urls": [
@@ -59,17 +48,6 @@
     "name": "Canal 3 KMK TV",
     "iptv_urls": [
       "https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lhFBUBQYMx1tnO",
-    "name": "Canal 10",
-    "iptv_urls": [
-      "https://acceso.mediosdecostarica.com:3606/live/canal10costaricalive.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -209,6 +187,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "fNzNQyxrdQA2dG",
+    "name": "Multimedios Costa Rica",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/0K529IM-3Zw"
+    ],
+    "language": "spa",
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "K2jiXD7UiZELMV",
     "name": "Nicoya TV",
     "iptv_urls": [
@@ -231,10 +220,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Oxstp5zvFaS9ZH",
-    "name": "Retrox TV",
+    "nanoid": "KSc2NtlozO0Aw7",
+    "name": "Radio Turrialba TV Sports",
     "iptv_urls": [
-      "https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/chunks.m3u8"
+      "https://live20.bozztv.com/akamaissh101/ssh101/turrialbatv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -356,6 +345,28 @@
     "name": "Urbano TV",
     "iptv_urls": [
       "https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tTy2o9iN37Hvi8",
+    "name": "Vintage Music",
+    "iptv_urls": [
+      "https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "KTfqjR2nJysy7l",
+    "name": "VM Latino",
+    "iptv_urls": [
+      "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

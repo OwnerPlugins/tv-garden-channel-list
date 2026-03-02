@@ -4,7 +4,7 @@
     "name": "5 канал",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Xvskl6Vliqk"
+      "https://www.youtube-nocookie.com/embed/rrJNiRfLt2o"
     ],
     "language": "ukr",
     "country": "ua",
@@ -37,7 +37,7 @@
     "name": "BTQ - Телеканал",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/tb_xBZYRWo8"
+      "https://www.youtube-nocookie.com/embed/_SyFPd3KXR8"
     ],
     "language": "ukr",
     "country": "ua",
@@ -50,17 +50,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/ScdUZNkwcYc"
     ],
-    "language": "ukr",
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "1noDMwg9YAlG9Y",
-    "name": "Espreso TV",
-    "iptv_urls": [
-      "https://dash4.antik.sk/live/test_espresso/playlist.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "ukr",
     "country": "ua",
     "isGeoBlocked": false
@@ -80,8 +69,7 @@
     "nanoid": "iK2kLMwkLCeU8A",
     "name": "Freedom (FREEДOM) (UATV)",
     "iptv_urls": [
-      "https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8",
-      "https://dash2.antik.sk/live/test_uatv/playlist.m3u8"
+      "https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -96,28 +84,6 @@
       "https://www.youtube-nocookie.com/embed/ooJJSOlJZPQ"
     ],
     "language": "rus",
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2ijBxrnqlhILuI",
-    "name": "ITV",
-    "iptv_urls": [
-      "https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ukr",
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "WoGHZ2NiobEniJ",
-    "name": "Izmail TV",
-    "iptv_urls": [
-      "https://cdn10.live-tv.cloud/izod/izod-abr-lq/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ukr",
     "country": "ua",
     "isGeoBlocked": false
   },
@@ -166,10 +132,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KNtnaXZuhjC6uj",
-    "name": "TIS TV",
+    "nanoid": "t4HZl9R8oxsSaq",
+    "name": "TV Rivne 1",
     "iptv_urls": [
-      "https://cdn10.live-tv.cloud/riood/tisod-abr/riood/tisod720/playlist.m3u8"
+      "https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ukr",
@@ -177,10 +143,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "t4HZl9R8oxsSaq",
-    "name": "TV Rivne 1",
+    "nanoid": "TSbUr1OhqLkxuT",
+    "name": "TVA",
     "iptv_urls": [
-      "https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8"
+      "https://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8",
+      "https://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8",
+      "https://rtsp.cdn.ua/tva.ua_live/livestream/playlist.m3u8",
+      "https://hls.cdn.ua/tva.ua_live/livestream/chunklist_w396178779.m3u8"
     ],
     "youtube_urls": [],
     "language": "ukr",
@@ -195,17 +164,6 @@
     ],
     "youtube_urls": [],
     "language": "ukr",
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "8guglX3waEEweH",
-    "name": "Луганск 24",
-    "iptv_urls": [
-      "https://streaming.televizor-24-tochka.ru/live/29.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
     "country": "ua",
     "isGeoBlocked": false
   },
@@ -232,24 +190,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "aWkEDmohDUdyQY",
-    "name": "Сфера-ТВ",
-    "iptv_urls": [
-      "https://cdn10.live-tv.cloud/sferarv/sferarv-abr/playlist.m3u8"
+    "nanoid": "LFw2IVZK55i3Eh",
+    "name": "Суспільне Новини",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/SIRlElzXDTk"
     ],
-    "youtube_urls": [],
-    "language": "ukr",
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "PAYFPyuM6WHFCR",
-    "name": "ТВА (Чернiвцi)",
-    "iptv_urls": [
-      "https://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8",
-      "https://rtsp.cdn.ua/tva.ua_live/livestream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "ukr",
     "country": "ua",
     "isGeoBlocked": false
