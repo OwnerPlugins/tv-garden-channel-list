@@ -37,7 +37,7 @@
     "name": "BTQ - Телеканал",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/_SyFPd3KXR8"
+      "https://www.youtube-nocookie.com/embed/vDjP0_VEHZc"
     ],
     "language": "ukr",
     "country": "ua",
@@ -88,10 +88,21 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "tw81DnoVlplmdm",
-    "name": "M2",
+    "nanoid": "2ijBxrnqlhILuI",
+    "name": "ITV",
     "iptv_urls": [
-      "https://live.m2.tv/hls3/stream.m3u8"
+      "https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ukr",
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "WoGHZ2NiobEniJ",
+    "name": "Izmail TV",
+    "iptv_urls": [
+      "https://cdn10.live-tv.cloud/izod/izod-abr-lq/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ukr",
@@ -132,10 +143,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "t4HZl9R8oxsSaq",
-    "name": "TV Rivne 1",
+    "nanoid": "KNtnaXZuhjC6uj",
+    "name": "TIS TV",
     "iptv_urls": [
-      "https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8"
+      "https://cdn10.live-tv.cloud/riood/tisod-abr/riood/tisod720/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ukr",
@@ -143,13 +154,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "TSbUr1OhqLkxuT",
-    "name": "TVA",
+    "nanoid": "t4HZl9R8oxsSaq",
+    "name": "TV Rivne 1",
     "iptv_urls": [
-      "https://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8",
-      "https://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8",
-      "https://rtsp.cdn.ua/tva.ua_live/livestream/playlist.m3u8",
-      "https://hls.cdn.ua/tva.ua_live/livestream/chunklist_w396178779.m3u8"
+      "https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ukr",
@@ -196,6 +204,17 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/SIRlElzXDTk"
     ],
+    "language": "ukr",
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "aWkEDmohDUdyQY",
+    "name": "Сфера-ТВ",
+    "iptv_urls": [
+      "https://cdn10.live-tv.cloud/sferarv/sferarv-abr/playlist.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "ukr",
     "country": "ua",
     "isGeoBlocked": false

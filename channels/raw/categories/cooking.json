@@ -1,8 +1,9 @@
 [
   {
-    "nanoid": "DUFAretPDfRmgf",
-    "name": "Americas Test Kitchen",
+    "nanoid": "50BgEa7NMm2duG",
+    "name": "America's Test Kitchen",
     "iptv_urls": [
+      "https://pb-zwcfuzg8t5abc.akamaized.net/Americas_Test_Kitchen.m3u8",
       "https://aegis-cloudfront-1.tubi.video/0094c1fc-7c41-45d0-af7a-6bbb62d6cd6e/playlist.m3u8",
       "https://amg01420-americastestkitchen-amg01420c1-xumo-us-878.playouts.now.amagi.tv/playlist.m3u8"
     ],
@@ -10,6 +11,17 @@
     "language": "eng",
     "country": "us",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "UScHhHKQkcsuIt",
+    "name": "BBC Food",
+    "iptv_urls": [
+      "https://d1e9r0b71zfwk7.cloudfront.net/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "7IaAUT7wdg4ZfY",
@@ -71,7 +83,7 @@
     "name": "Food Network",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ZkbU8PUZosE"
+      "https://www.youtube-nocookie.com/embed/UFnBw6DD3Tw"
     ],
     "language": "eng",
     "country": "us",
@@ -89,8 +101,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "D9wYQdvH3cwnxL",
-    "name": "Gusto",
+    "nanoid": "m0G4odaANQiBkH",
+    "name": "Gusto TV",
     "iptv_urls": [
       "https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8",
       "https://gusto-xumo.amagi.tv/playlist.m3u8"
@@ -109,6 +121,17 @@
     "youtube_urls": [],
     "language": "ron",
     "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ERhS0NAqvOPlMN",
+    "name": "Hungry",
+    "iptv_urls": [
+      "https://dos35knl8v49a.cloudfront.net/v1/food/samsungheadend_us/latest/main/hls/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -159,17 +182,7 @@
     "nanoid": "hAcFI08ZNbAHCM",
     "name": "Tastemade",
     "iptv_urls": [
-      "https://rakutenaa-tm-germany-rakuten-ger-8jboz.amagi.tv/playlist/rakutenAA-tm-germany-rakuten-ger/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hAcFI08ZNbAHCM",
-    "name": "Tastemade",
-    "iptv_urls": [
+      "https://pb-rlo4if9lnjthw.akamaized.net/Tastemade.m3u8",
       "https://tastemade-xumo.amagi.tv/playlist.m3u8",
       "https://amg00047-tastemade-amg00047c4-cineverse-us-1361.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadefreetv16-cineverseus/playlist.m3u8"
     ],
@@ -215,6 +228,7 @@
     "nanoid": "YllG7rP25m7zOt",
     "name": "Tastemade Travel",
     "iptv_urls": [
+      "https://d6ef3usc6d9cl.cloudfront.net/Tastemade_Travel.m3u8",
       "https://amg00047-tastemade-amg00047c3-cineverse-us-1360.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadetravel-cineverseus/playlist.m3u8",
       "https://tm-tmtar-xumo.amagi.tv/playlist.m3u8"
     ],
@@ -222,16 +236,5 @@
     "language": "eng",
     "country": "us",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "XZJQPO8c8hmgew",
-    "name": "Сити Эдем Рецепты Гурмана",
-    "iptv_urls": [
-      "https://cityeden.catcast.tv/content/47516/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
   }
 ]

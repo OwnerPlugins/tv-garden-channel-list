@@ -3,7 +3,6 @@
     "nanoid": "QA1BHMxRwKgdpS",
     "name": "ANTV",
     "iptv_urls": [
-      "https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8",
       "https://liveh12.vtvprime.vn/hls/ANNINHTV/index.m3u8"
     ],
     "youtube_urls": [],
@@ -16,6 +15,17 @@
     "name": "Cần Thơ TV1",
     "iptv_urls": [
       "https://live.canthotv.vn/live/tv/chunklist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "vie",
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bmVfcr31sW64zk",
+    "name": "Cần Thơ TV2",
+    "iptv_urls": [
+      "https://megasystems-6c680321cd.gw-dthcdn.com/haugiangtv/haugiangtv.m3u8"
     ],
     "youtube_urls": [],
     "language": "vie",
@@ -60,7 +70,7 @@
     "name": "DGV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/LKB4pUGuWoU"
+      "https://www.youtube-nocookie.com/embed/SxiPZYST4rY"
     ],
     "language": "vie",
     "country": "vn",
@@ -127,8 +137,18 @@
     "nanoid": "MO8deGVLY2zQ9f",
     "name": "HanoiTV2",
     "iptv_urls": [
-      "https://cloudstreamhntv.tek4tv.vn/events/HN2/chunklist.m3u8",
       "https://liveh34.vtvprime.vn/hls/HANOI2TV/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "vie",
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "sb5v19pRAmTp7P",
+    "name": "HTV Key",
+    "iptv_urls": [
+      "https://liveh12.vtvprime.vn/hls/HTVKey/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "vie",
@@ -213,17 +233,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "8kdpWxJQ1i1LcH",
-    "name": "SCTV6",
-    "iptv_urls": [
-      "https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "vie",
-    "country": "vn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "iRf7kly7xqubVy",
     "name": "Tây Ninh TV",
     "iptv_urls": [
@@ -275,50 +284,6 @@
     ],
     "youtube_urls": [],
     "language": "eng",
-    "country": "vn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ALiBaFkWtEVwbv",
-    "name": "Vĩnh Long TV1",
-    "iptv_urls": [
-      "https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "vn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "qAUF947AFuFdtH",
-    "name": "Vĩnh Long TV5",
-    "iptv_urls": [
-      "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "vn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "CEgVz33BG95JV6",
-    "name": "VTV2 HD",
-    "iptv_urls": [
-      "https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "vie",
-    "country": "vn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xdh4Euikb2lJWI",
-    "name": "VTV3 HD",
-    "iptv_urls": [
-      "https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "vie",
     "country": "vn",
     "isGeoBlocked": false
   },

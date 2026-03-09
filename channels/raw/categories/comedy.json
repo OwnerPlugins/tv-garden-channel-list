@@ -55,14 +55,36 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zDrvFUZTP4zt2k",
-    "name": "alpha Moretime",
+    "nanoid": "Iv7qvCNAFClLRJ",
+    "name": "alpha Funny",
     "iptv_urls": [
-      "https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8"
+      "https://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
     "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uvGqqPEzc8FT4E",
+    "name": "America’s Funniest Home Videos",
+    "iptv_urls": [
+      "https://d1mp1kdk5zi1ie.cloudfront.net/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BFNn9BFX5O3vY0",
+    "name": "Anger Management Channel",
+    "iptv_urls": [
+      "https://aegis-cloudfront-1.tubi.video/0a019247-55a2-4b3e-8b62-b84c9cbd5b12/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -88,9 +110,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "K1Rki2QXOUbCd5",
+    "name": "Classic Mr Bean",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/XQLEvieRMj4"
+    ],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8j5W4jKa2q9Ms3",
     "name": "Comedy Dynamics",
     "iptv_urls": [
+      "https://d3a5mry3t5fzw9.cloudfront.net/playlist.m3u8",
       "https://aegis-cloudfront-1.tubi.video/03cfa38e-ff8b-4e52-8fd2-084636c0c043/playlist.m3u8",
       "https://linear-903.frequency.stream/dist/xumo/903/hls/master/playlist.m3u8"
     ],
@@ -122,6 +156,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "q6wDHNgUCUnAZX",
+    "name": "FailArmy",
+    "iptv_urls": [
+      "https://pb-w5ixcojas1swl.akamaized.net/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "I6D9IHQIDu6y7l",
     "name": "Güldür Güldür Show",
     "iptv_urls": [],
@@ -136,7 +181,6 @@
     "nanoid": "qy6bcbSL050Vab",
     "name": "Humor Mill",
     "iptv_urls": [
-      "https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-DistroTV/152.m3u8",
       "https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-PLEX/152.m3u8",
       "https://du1gyxfing4ke.cloudfront.net/scheduler/scheduleMaster/152.m3u8"
     ],
@@ -182,7 +226,8 @@
     "nanoid": "hpo8bmZBPSGLRO",
     "name": "LOL Network",
     "iptv_urls": [
-      "https://aegis-cloudfront-1.tubi.video/54f95462-b44d-4c99-b74b-af49467454fa/playlist.m3u8"
+      "https://aegis-cloudfront-1.tubi.video/54f95462-b44d-4c99-b74b-af49467454fa/playlist.m3u8",
+      "https://d1kt53vrikzr5o.cloudfront.net/v1/lol_lolnetwork_5/samsungheadend_us/latest/main/hls/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -215,6 +260,7 @@
     "nanoid": "D0c4Jvigf5dKNp",
     "name": "Mystery Science Theater 3000",
     "iptv_urls": [
+      "https://d1c73nj8qxp55a.cloudfront.net/Mystery_Science_Theater_3000.m3u8",
       "https://mst3k-vizio.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -245,17 +291,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "tWwmPx6ovJPksa",
-    "name": "Novo Comedy",
-    "iptv_urls": [
-      "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/novo-comedy/video.m3u8?ads.vf=WY7qC3DIF58"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "rD66Oim1zZv8fD",
     "name": "Persiana Comedy",
     "iptv_urls": [
@@ -264,6 +299,17 @@
     "youtube_urls": [],
     "language": "fas",
     "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "qFOPNZj5esf6S3",
+    "name": "RiffTrax",
+    "iptv_urls": [
+      "https://wurlrifftrax.global.transmit.live/hls/68222b9cbe836edbe6f39e74/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
     "isGeoBlocked": false
   },
   {

@@ -26,7 +26,8 @@
     "name": "AccuWeather Now",
     "iptv_urls": [
       "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8",
-      "https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist.m3u8"
+      "https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist.m3u8",
+      "https://d1gldweznovt26.cloudfront.net/Accuweather.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -37,6 +38,7 @@
     "nanoid": "9a6LkOKsyhE8Y4",
     "name": "FOX Weather",
     "iptv_urls": [
+      "https://pb-hum8cczphcrpf.akamaized.net/FOX_Weather.m3u8",
       "https://247wlive.foxweather.com/stream/index.m3u8",
       "https://aegis-cloudfront-1.tubi.video/d4d03a5e-dd3e-4b9a-8b11-b86c88d717fe/index.m3u8",
       "https://foxweather-xumo.amagi.tv/playlist.m3u8"
@@ -68,6 +70,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jJDH0xwjNSKT7T",
+    "name": "WeatherSpy",
+    "iptv_urls": [
+      "https://d12gab6t5iutxf.cloudfront.net/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
     "isGeoBlocked": false
   },
   {

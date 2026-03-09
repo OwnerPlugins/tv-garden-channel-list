@@ -15,7 +15,7 @@
     "name": "Asahi: Documentary",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/oom1PcFEtCM"
+      "https://www.youtube-nocookie.com/embed/ERntkHsIeOI"
     ],
     "language": "jpn",
     "country": "jp",
@@ -58,6 +58,7 @@
     "nanoid": "BKprRPWc9ugskl",
     "name": "Backstage",
     "iptv_urls": [
+      "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8",
       "https://fuse-backstage-xumo.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -70,6 +71,7 @@
     "name": "BBC Earth",
     "iptv_urls": [
       "https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8",
+      "https://pb-zjy36qhp8e8cz.akamaized.net/BBC_Earth_US.m3u8",
       "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8",
       "https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8"
     ],
@@ -90,9 +92,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "S7lyJHbl70de7u",
+    "nanoid": "WH7adDfFfMrDqi",
     "name": "Bloomberg Originals",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://dai.google.com/linear/hls/event/jKwfd4apQcuxQtyRI9Q6-Q/master.m3u8",
+      "https://aegis-cloudfront-1.tubi.video/c597e8ac-bfb2-4a1c-865c-cad55566f953/playlist.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/OlUMDZchivQ"
     ],
@@ -104,23 +109,13 @@
     "nanoid": "zV7a20HW4WTHRY",
     "name": "BritBox Mysteries",
     "iptv_urls": [
+      "https://pb-ippotemhtglhp.akamaized.net/playlist.m3u8",
       "https://aegis-cloudfront-1.tubi.video/c95700f8-e51c-4a36-ad46-56f70fc9f1d9/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "u673t64oVwJcTF",
-    "name": "CGTN Documentary",
-    "iptv_urls": [
-      "https://dash3.antik.sk/live/test_cgtn_doc/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "cn",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "u6zpmHPrnF1o3c",
@@ -131,6 +126,17 @@
     "youtube_urls": [],
     "language": "tur",
     "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "OAc1RsWsrgVUky",
+    "name": "China Travel",
+    "iptv_urls": [
+      "https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "zho",
+    "country": "cn",
     "isGeoBlocked": false
   },
   {
@@ -156,29 +162,18 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HJhyKYuHh72Bmv",
-    "name": "CNA Originals",
-    "iptv_urls": [
-      "https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8",
-      "https://amg01082-cna-amg01082c1-vidaa-gb-7580.playouts.now.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "sg",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "sm6jSJZU2R13Dv",
     "name": "Court TV",
     "iptv_urls": [
       "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8",
+      "https://pb-2rv53xe17yzvq.akamaized.net/Court_TV_US.m3u8",
       "https://aegis-cloudfront-1.tubi.video/661c498b-4af0-4ba9-ae1c-4081340ee085/playlist.m3u8",
       "https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "LGhrHQJDBR90AW",
@@ -192,12 +187,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "jAekBDqlLERFF0",
-    "name": "Dateline 24/7",
+    "nanoid": "yN0sLbfA3r2bT8",
+    "name": "DangerTV",
     "iptv_urls": [
-      "https://d4whmvwm0rdvi.cloudfront.net/10007/99993007/hls/master.m3u8?ads.xumo_channelId=99993007",
-      "https://aegis-cloudfront-1.tubi.video/240e3917-5be6-4a26-a1a2-878c9d40b5cf/master.m3u8",
-      "https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8"
+      "https://dk0n7jh428tzj.cloudfront.net/v1/dangertv/samsungheadend_us/latest/main/hls/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -205,10 +198,36 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "jAekBDqlLERFF0",
+    "name": "Dateline 24/7",
+    "iptv_urls": [
+      "https://d4whmvwm0rdvi.cloudfront.net/10007/99993007/hls/master.m3u8?ads.xumo_channelId=99993007",
+      "https://pb-cpf6bqkmt2btj.akamaized.net/master.m3u8",
+      "https://aegis-cloudfront-1.tubi.video/240e3917-5be6-4a26-a1a2-878c9d40b5cf/master.m3u8",
+      "https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "86GG55Alt5PoRN",
+    "name": "Discovering China",
+    "iptv_urls": [
+      "https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "zho",
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "6gbtius213QaZ4",
     "name": "Documentary+",
     "iptv_urls": [
-      "https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8"
+      "https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8",
+      "https://d1kx9y4yhe8h6h.cloudfront.net/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -316,18 +335,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "feuZPyWhX6la0P",
-    "name": "Law & Crime",
-    "iptv_urls": [
-      "https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8",
-      "https://cdn.lawandcrime.net/rewind/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "m1LaVg3IHystk9",
     "name": "Love The Planet",
     "iptv_urls": [
@@ -339,36 +346,36 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2IhVNnNGaDMY0V",
-    "name": "MagellanTV Now",
+    "nanoid": "29K3gt1fuyfoWN",
+    "name": "Lucky Dog",
     "iptv_urls": [
-      "https://amg00376-magellan-amg00376c5-samsung-nz-1714.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowww-samsungnz/playlist.m3u8"
+      "https://d3j95sejv6mybj.cloudfront.net/Lucky_Dog.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "CqXhOvAoEWsiJe",
+    "name": "MagellanTV TV Now",
+    "iptv_urls": [
+      "https://pb-5evqkeieu3o6d.akamaized.net/Magellan_TV_Now.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "kfNMC8gMIZfcGp",
     "name": "Nat Geo Animals",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/THooYCltViI"
+      "https://www.youtube-nocookie.com/embed/MiQe9ob9aDc"
     ],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hnN8CWpQReDXiB",
-    "name": "National Geographic Abu Dhabi HD",
-    "iptv_urls": [
-      "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/national_geo/national_geo_hls_nd/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
-    "country": "ae",
     "isGeoBlocked": false
   },
   {
@@ -402,17 +409,6 @@
     "youtube_urls": [],
     "language": "fas",
     "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "C9r0nQTewOjHW3",
-    "name": "RL PRO TV",
-    "iptv_urls": [
-      "https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "cd",
     "isGeoBlocked": false
   },
   {

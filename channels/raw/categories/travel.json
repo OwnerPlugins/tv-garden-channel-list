@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "9CUTsrF7PNhBjT",
-    "name": "4K TRAVEL TV",
-    "iptv_urls": [
-      "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8?ads.vf=-W-Hab4e1BO"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "aNWcalM8ImXSeK",
     "name": "Aruba.TV",
     "iptv_urls": [
@@ -77,6 +66,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "OAc1RsWsrgVUky",
+    "name": "China Travel",
+    "iptv_urls": [
+      "https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "zho",
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "0QTowwNml7pc3D",
     "name": "Costa Rica Channel",
     "iptv_urls": [
@@ -96,17 +96,6 @@
     "youtube_urls": [],
     "language": "urd",
     "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mT4U2yVFNPMK25",
-    "name": "DroneTV",
-    "iptv_urls": [
-      "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dronetv/playlist.m3u8?ads.vf=hSBeWdMc_Oi"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -143,15 +132,25 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "xhShEAoVCAmfV9",
-    "name": "InTravel",
+    "nanoid": "Vl0QVZKyw8Jx7M",
+    "name": "INTRAVEL",
     "iptv_urls": [
-      "https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8",
       "https://amg00861-amg00861c10-firetv-us-4726.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
     "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "IpMm8lGTn8YwfA",
+    "name": "Journy",
+    "iptv_urls": [
+      "https://d3s3a5c7f101eb.cloudfront.net/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -218,6 +217,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xJdfWe2cF6aQkl",
+    "name": "Tanzania Safari Channel",
+    "iptv_urls": [
+      "https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_31dabe40323511f08b8efff0016f3b67/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "tz",
     "isGeoBlocked": false
   },
   {

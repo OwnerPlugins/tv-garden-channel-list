@@ -22,6 +22,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "SCCSu7TMHcxg2h",
+    "name": "Akaal Channel",
+    "iptv_urls": [
+      "https://cdn-globecast.akamaized.net/live/eds/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "pan",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ziSogPvWMMpIww",
     "name": "Alhiwar TV",
     "iptv_urls": [
@@ -37,7 +48,7 @@
     "name": "Amazing World of Gumball",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/nIyaCRNwxhU"
+      "https://www.youtube-nocookie.com/embed/6dQnKVRq5s0"
     ],
     "language": "eng",
     "country": "uk",
@@ -59,7 +70,18 @@
     "name": "Archie's Weird Mysteries",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/uoKwxbe8U_o"
+      "https://www.youtube-nocookie.com/embed/OhODczlzgA0"
+    ],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "yqAqfz8NLIipuY",
+    "name": "Banijay Bluelight: Real Life Hospital Documentaries",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/-x7O3_7amaM"
     ],
     "language": "eng",
     "country": "uk",
@@ -70,7 +92,18 @@
     "name": "Banijay Crime: Britain's Biggest Heists",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/JVSkBZZIt5U"
+      "https://www.youtube-nocookie.com/embed/eu6Jn1C_fXw"
+    ],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "oFHtWQgYWs3Y0k",
+    "name": "Banijay Documentaries: Haunted Stories",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/UMHr__hBYYs"
     ],
     "language": "eng",
     "country": "uk",
@@ -81,7 +114,7 @@
     "name": "Banijay Engine: Full Custom Garage",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/b9FdY_lT7I4"
+      "https://www.youtube-nocookie.com/embed/0SJZQsG_xQ4"
     ],
     "language": "eng",
     "country": "uk",
@@ -127,6 +160,7 @@
     "name": "BBC Earth",
     "iptv_urls": [
       "https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8",
+      "https://pb-zjy36qhp8e8cz.akamaized.net/BBC_Earth_US.m3u8",
       "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8",
       "https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8"
     ],
@@ -150,8 +184,7 @@
     "nanoid": "g1kSsRGdu6pjqO",
     "name": "BBC News",
     "iptv_urls": [
-      "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8",
-      "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8"
+      "https://pb-iiczlgfysam0q.akamaized.net/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -159,10 +192,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "A7FjWEoxfZfQRg",
-    "name": "BBC News Europe",
+    "nanoid": "g1kSsRGdu6pjqO",
+    "name": "BBC News",
     "iptv_urls": [
-      "https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8"
+      "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8",
+      "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -273,17 +307,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "EAIG1mRKi1Vp2p",
-    "name": "BritAsiaTV",
-    "iptv_urls": [
-      "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/britasiatv/master.m3u8?ads.vf=65ah6vw-F20"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "RGisQUNDzBMFhg",
     "name": "Canaf54 TV",
     "iptv_urls": [
@@ -300,6 +323,17 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/XfZetbS9084"
+    ],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "K1Rki2QXOUbCd5",
+    "name": "Classic Mr Bean",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/XQLEvieRMj4"
     ],
     "language": "eng",
     "country": "uk",
@@ -427,10 +461,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4nHYlSOW4JxBnE",
-    "name": "FIFA+ United States",
+    "nanoid": "tmxui0c8hzZyDz",
+    "name": "FIFA+",
     "iptv_urls": [
-      "https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8"
+      "https://d2w9q46ikgrcwx.cloudfront.net/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -468,17 +502,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/QliL4CGc7iY"
     ],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "k9Z5raN5ubTZep",
-    "name": "Gems TV",
-    "iptv_urls": [
-      "https://lo3.gemporia.com/abrgemporiaukgfx/smil:livestream.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "eng",
     "country": "uk",
     "isGeoBlocked": false
@@ -561,17 +584,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "f4STSe9tgyRVf3",
-    "name": "Hobby Maker",
-    "iptv_urls": [
-      "https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "gfaamDst89W7kn",
     "name": "Horrid Henry",
     "iptv_urls": [],
@@ -626,7 +638,7 @@
       "https://live.playstop.me/LS-63503-4/index.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/A92pqZQAsm8"
+      "https://www.youtube-nocookie.com/embed/wk0uvX60fxg"
     ],
     "language": "fas",
     "country": "uk",
@@ -662,17 +674,6 @@
     ],
     "youtube_urls": [],
     "language": "hin",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "e8nAySYBqJpeIt",
-    "name": "Latest TV",
-    "iptv_urls": [
-      "https://5a0e89631aa14.streamlock.net/live/LatestTelevision/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -713,10 +714,22 @@
     "nanoid": "FeQiCZUhzv3lT3",
     "name": "Moonbug Kids",
     "iptv_urls": [
-      "https://moonbug-rokuus.amagi.tv/playlist.m3u8"
+      "https://moonbug-rokuus.amagi.tv/playlist.m3u8",
+      "https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mlJPw3ECDsvDmO",
+    "name": "MovieSphere",
+    "iptv_urls": [
+      "https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -735,7 +748,7 @@
     "nanoid": "R6VpE6L98QcSep",
     "name": "Mr. Bean Animated",
     "iptv_urls": [
-      "https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8"
+      "https://d2t1w90tnft92.cloudfront.net/Mr_Bean_Animated.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -857,17 +870,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hNQTzHtY43GPXe",
-    "name": "MyTime Movie Network",
-    "iptv_urls": [
-      "https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "IfkJanzGXFP1d9",
     "name": "MyZen Wellbeing TV",
     "iptv_urls": [
@@ -890,9 +892,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "LfWutn3icfqkaF",
-    "name": "Nolly Africa",
+    "nanoid": "XyuJDXxjcpUUuT",
+    "name": "Nolly Africa HD",
     "iptv_urls": [
+      "https://amg02784-amg02784c1-distrotv-latam-5650.playouts.now.amagi.tv/playlist/amg02784-nollyafricafast-nollyafricahd-distrotvlatam/playlist.m3u8",
       "https://amg02784-nollyafricafast-amg02784c1-cineverse-us-1124.playouts.now.amagi.tv/playlist/amg02784-nollyafricafast-nollyafricahd-cineverseus/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -993,6 +996,7 @@
     "nanoid": "v69UzxTpxlGJCh",
     "name": "Pop",
     "iptv_urls": [
+      "https://amg01753-narrativeentert-popkids-lggb-xyy5k.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-popkids-lggb/playlist.m3u8",
       "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-popkids-lggb/playlist.m3u8",
       "https://narrative-popkids-rakuten.amagi.tv/playlist.m3u8"
     ],
@@ -1074,6 +1078,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "mN7jjbfyCCrHDM",
+    "name": "Rakuten TV Romance Movies UK",
+    "iptv_urls": [
+      "https://2c88ed8c4df9479aa0c7138dc42115e2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "6OObHoCz5T6mVt",
     "name": "Rakuten TV Sci-Fi UK",
     "iptv_urls": [
@@ -1107,10 +1122,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "WQqSZQl27UG0sD",
-    "name": "Safeer TV",
+    "nanoid": "HJBdn9H2l9QQ1Y",
+    "name": "RugbyPass TV",
     "iptv_urls": [
-      "https://cdn3.wowza.com/1/YStGZlJRdktzZkdK/VXROZWNW/hls/live/playlist.m3u8"
+      "https://dt1kh32hg3tft.cloudfront.net/v1/world_rugby_rugbypasstv_1/samsungheadend_us/latest/main/hls/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -1118,10 +1133,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "73nv1GppLgBbPp",
-    "name": "Shaun the Sheep & Friends",
+    "nanoid": "WQqSZQl27UG0sD",
+    "name": "Safeer TV",
     "iptv_urls": [
-      "https://aar-shaun-xumo.otteravision.com/aar/shaun/shaun.m3u8"
+      "https://cdn3.wowza.com/1/YStGZlJRdktzZkdK/VXROZWNW/hls/live/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -1195,6 +1210,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "IOF8Iz2JmaTIcg",
+    "name": "Teletubbies",
+    "iptv_urls": [
+      "https://dy9gbyiaxw0rb.cloudfront.net/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "4YjOR1sj6Tzig4",
     "name": "Tennis+",
     "iptv_urls": [
@@ -1243,6 +1269,7 @@
     "name": "Tiny Pop",
     "iptv_urls": [
       "https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8",
+      "https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8",
       "https://amg01753-narrativeuk-amg01753c1-rakuten-uk-2339.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1277,6 +1304,7 @@
     "nanoid": "ibnE8ejnPqbYoZ",
     "name": "Top Gear",
     "iptv_urls": [
+      "https://d1daq1khzqxpku.cloudfront.net/playlist.m3u8",
       "https://aegis-cloudfront-1.tubi.video/33ccaca5-a666-4b28-8578-55a9ab9f06d5/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1351,17 +1379,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2e0RNEU1NHz9cZ",
-    "name": "TRACE Latina",
-    "iptv_urls": [
-      "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/encrypted.m3u8?ads.vf=jn5xeelzYbm"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "McADRCgZrX1wEb",
     "name": "True Lives",
     "iptv_urls": [
@@ -1413,6 +1430,17 @@
     ],
     "youtube_urls": [],
     "language": "",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "at7QYcug7oV0tu",
+    "name": "WildBrain Max: LEGO",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/GU1-MV7tcr0"
+    ],
+    "language": "eng",
     "country": "uk",
     "isGeoBlocked": false
   },

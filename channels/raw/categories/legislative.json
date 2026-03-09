@@ -44,17 +44,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "MYnHsDG9stKwV8",
-    "name": "ARTV Canal Parlamento",
-    "iptv_urls": [
-      "https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "por",
-    "country": "pt",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "1q3kaCpiJgYIgc",
     "name": "Assembleia SC: AO VIVO",
     "iptv_urls": [],
@@ -138,7 +127,7 @@
       "https://canalgov-stream.ebc.com.br/index.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/A6h5YsVcw38"
+      "https://www.youtube-nocookie.com/embed/eg_Ts0rz61Y"
     ],
     "language": "por",
     "country": "br",
@@ -310,17 +299,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rIKYP5py1TrF7Q",
-    "name": "CT-N Court Feed",
-    "iptv_urls": [
-      "https://video.ct-n.com/live/ctnSupreme/playlist_DVR.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "54APtzgfl8rhY2",
     "name": "CT-N Live Stream 2",
     "iptv_urls": [
@@ -476,17 +454,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "aZACmqFHyDlfSs",
-    "name": "Galveston County TV",
-    "iptv_urls": [
-      "https://edge-f.swagit.com/live/galvestontx/smil:hd-16x9-1-a/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "jNKciKxgIk0NeD",
     "name": "Gilroy CMAP TV Channel 17",
     "iptv_urls": [
@@ -619,20 +586,21 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "I6uCCfd71b4oev",
-    "name": "Legislative Assembly of Ontario",
+    "nanoid": "NLIFoRpmAx5nwO",
+    "name": "Legislative Assembly of El Salvador",
     "iptv_urls": [
-      "https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8"
+      "https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8"
     ],
     "youtube_urls": [],
-    "language": "eng",
-    "country": "ca",
+    "language": "spa",
+    "country": "sv",
     "isGeoBlocked": false
   },
   {
-    "nanoid": "RxJmNkclMKaXs2",
-    "name": "Legislative Assembly of Ontario (without interpretation)",
+    "nanoid": "I6uCCfd71b4oev",
+    "name": "Legislative Assembly of Ontario",
     "iptv_urls": [
+      "https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8",
       "https://temp2.isilive.ca/live/_definst_/ontla/house-en-cc/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -977,7 +945,7 @@
     "name": "Rio TV Câmara",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Hmv1m7nurMg"
+      "https://www.youtube-nocookie.com/embed/Eg-xWwfGMKw"
     ],
     "language": "por",
     "country": "br",
@@ -1113,7 +1081,7 @@
     "name": "TV Assembleia Minas Gerais",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/lW73aIZmfok"
+      "https://www.youtube-nocookie.com/embed/uIzyZOlI0G8"
     ],
     "language": "por",
     "country": "br",
@@ -1296,17 +1264,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "F2xwfHx05Hn1Zy",
-    "name": "Wolcott Governmental TV (Wolcott CT)",
-    "iptv_urls": [
-      "https://5a5c57d042315.streamlock.net/live11704001/ngrp:government_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "mAWCWxuOurkpj4",
     "name": "YouDotGov",
     "iptv_urls": [
@@ -1348,6 +1305,17 @@
     "youtube_urls": [],
     "language": "ell",
     "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jdtDDFx09GQYAn",
+    "name": "Дума ТВ",
+    "iptv_urls": [
+      "https://dumatv.iptv2022.com/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
     "isGeoBlocked": false
   }
 ]
