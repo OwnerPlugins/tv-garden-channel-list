@@ -58,7 +58,8 @@
     "nanoid": "mIBXDjfzsNrIT3",
     "name": "12TV Alicante",
     "iptv_urls": [
-      "https://cloud.fastchannel.es/mic/manifiest/hls/12tv/12tv.m3u8"
+      "https://cloud.fastchannel.es/mic/manifiest/hls/12tv/12tv.m3u8",
+      "https://cloud.streamingconnect.tv/hls/12tv/12tv2.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -69,11 +70,10 @@
     "nanoid": "Gt9j6xLi0290D1",
     "name": "24 Horas",
     "iptv_urls": [
-      "https://d32rw80ytx9uxs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vlldndmow4yre/24HES.m3u8",
       "https://ztnr.rtve.es/ztnr/1694255.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/5u5OmV6qqbo"
+      "https://www.youtube-nocookie.com/embed/Q32iSAGp-6A"
     ],
     "language": "spa",
     "country": "es",
@@ -356,17 +356,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fSeqRheB6IOZIg",
-    "name": "Canal Doñana",
-    "iptv_urls": [
-      "https://secure5.todostreaming.es/live/division-alm.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "CTfUhDJ1psN0TH",
     "name": "Canal Extremadura Satelite",
     "iptv_urls": [
@@ -506,17 +495,6 @@
     "name": "Ciudades Del Ocio TV",
     "iptv_urls": [
       "https://cloudvideo.servers10.com:8081/8024/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Dc4FxqftW4YwtA",
-    "name": "Clan",
-    "iptv_urls": [
-      "https://dum8zv1rbdjj2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x6uutpgph4tpt/ClanES.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -822,39 +800,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "254O8QVRoi3Ec6",
-    "name": "La 2",
-    "iptv_urls": [
-      "https://ztnr.rtve.es/ztnr/1688885.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "MtvAPbtuZZyeOW",
-    "name": "La 2 Canarias",
-    "iptv_urls": [
-      "https://ztnr.rtve.es/ztnr/5468585.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "YDIi3VBX7D7fKC",
-    "name": "La 2 Catalunya",
-    "iptv_urls": [
-      "https://ztnr.rtve.es/ztnr/3987218.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "cat",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "GHi6V9VFxBsZxp",
     "name": "Lancelot TV",
     "iptv_urls": [
@@ -1108,6 +1053,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "T3G7Gzr0nlBJuF",
+    "name": "Popular TV Murcia",
+    "iptv_urls": [
+      "https://cloud.fastchannel.es/mic/manifiest/populartvrm.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "i6pKqAEMfhkAww",
     "name": "Punt 3 Vall Uixó",
     "iptv_urls": [
@@ -1148,17 +1104,6 @@
     ],
     "youtube_urls": [],
     "language": "fin",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9Te0eCyfaDh09o",
-    "name": "Rakuten TV Action Movies Germany",
-    "iptv_urls": [
-      "https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1541,7 +1486,7 @@
     "name": "RTVE Noticias 24H",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ku09JnYKhz0"
+      "https://www.youtube-nocookie.com/embed/Uk56zwlxVZA"
     ],
     "language": "spa",
     "country": "es",
@@ -1625,34 +1570,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "RYfMxL6JZWi97a",
-    "name": "Teledeporte",
-    "iptv_urls": [
-      "https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "b0UZUurK9dP9q2",
     "name": "Teleganés",
     "iptv_urls": [
       "https://nlb2-live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/master.m3u8"
     ],
     "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "CQURQvpBc9NP2U",
-    "name": "Telemadrid",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/d1fgkjW9TP4"
-    ],
     "language": "spa",
     "country": "es",
     "isGeoBlocked": false
@@ -1821,6 +1744,17 @@
     ],
     "youtube_urls": [],
     "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6lhNwfN4k1Lr3T",
+    "name": "Urola Telebista",
+    "iptv_urls": [
+      "https://5940924978228.streamlock.net/j_Directo2/mp4:j_Directo2/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eus",
     "country": "es",
     "isGeoBlocked": false
   },

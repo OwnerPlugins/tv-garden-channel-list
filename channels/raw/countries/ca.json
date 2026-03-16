@@ -49,20 +49,9 @@
     "name": "Barney the Dinosaur",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/au_oN1yFaiA"
+      "https://www.youtube-nocookie.com/embed/K1PagL4WZ1E"
     ],
     "language": "eng",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vLJxCfSjAO72Wd",
-    "name": "Belmedia TV",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/-aWbH6k9968"
-    ],
-    "language": "fra",
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -256,12 +245,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "LRBUacm9msNRQ8",
+    "name": "Fight Network",
+    "iptv_urls": [
+      "https://a-cdn.klowdtv.com/live2/fight_720p/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "oj7vX3xxxcxlj0",
     "name": "Fugget About It",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/4F4GZ8IZo4U"
+      "https://www.youtube-nocookie.com/embed/kjqtB3VJN5k"
     ],
+    "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3PWIwG9FFIlO5Y",
+    "name": "Game+",
+    "iptv_urls": [
+      "https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "eng",
     "country": "ca",
     "isGeoBlocked": false
@@ -660,17 +671,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GKly7Ww5aXXkJH",
-    "name": "Plymouth Rock TV",
-    "iptv_urls": [
-      "https://d30au7974f7qoa.cloudfront.net/scheduler/scheduleMaster/419.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "8qNuUvk67ZKjp5",
     "name": "Qello Concerts by Stingray",
     "iptv_urls": [
@@ -715,17 +715,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mmZjHuy87LmO4O",
-    "name": "Sooriyan TV",
-    "iptv_urls": [
-      "https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tam",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "xfRnghclKAVK1r",
     "name": "Stingray CMusic",
     "iptv_urls": [
@@ -741,6 +730,17 @@
     "name": "Stingray Easy Listening",
     "iptv_urls": [
       "https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8qLFxbuQRNnGX0",
+    "name": "Stingray Euro Hits",
+    "iptv_urls": [
+      "https://lotus.stingray.com/manifest/ose-214ads-montreal/samsungtvplus/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -770,10 +770,21 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Nnw8JyE6aivi3B",
-    "name": "Stingray Holiday Hits",
+    "nanoid": "bGBVYmklyH3Rjz",
+    "name": "Stingray Holidayscapes",
     "iptv_urls": [
-      "https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8"
+      "https://d10cyxntpn0bwm.cloudfront.net/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JEGxm42oQErOhy",
+    "name": "Stingray Jukebox Oldies",
+    "iptv_urls": [
+      "https://lotus.stingray.com/manifest/ose-021ads-montreal/samsungtvplus/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -847,6 +858,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "6EKJRD9db0wXXf",
+    "name": "Stingray Soft Hits",
+    "iptv_urls": [
+      "https://lotus.stingray.com/manifest/ose-237ads-montreal/samsungtvplus/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "sNGGurE66w6NWe",
     "name": "Stingray Soul Storm",
     "iptv_urls": [
@@ -902,11 +924,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "W8lBjKciGjp1K5",
+    "name": "Stingray ZenLIFE",
+    "iptv_urls": [
+      "https://lotus.stingray.com/manifest/zenlife-zen001-montreal/samsungtvplus/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3C5tAme4Sy2gIV",
     "name": "Super Simple: Bedtime Songs",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/WDPrDMPZeCo"
+      "https://www.youtube-nocookie.com/embed/e6NGDFhQYAU"
     ],
     "language": "eng",
     "country": "ca",
@@ -917,7 +950,7 @@
     "name": "Super Simple: Noodle and Pals",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/MlNi7w3Njdg"
+      "https://www.youtube-nocookie.com/embed/jLdVk_91MNQ"
     ],
     "language": "eng",
     "country": "ca",
@@ -928,17 +961,17 @@
     "name": "Super Simple: Simple Songs",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/PMZ25SXeizA"
+      "https://www.youtube-nocookie.com/embed/WdhDC7ZrTRo"
     ],
     "language": "eng",
     "country": "ca",
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CE3h0ZjZw7sSVW",
-    "name": "Tamil Entertainment Television",
+    "nanoid": "DsGUoe2MbJmXQZ",
+    "name": "TamilVision-TV",
     "iptv_urls": [
-      "https://origin-de-y376549.cdn.nextologies.com:444/4c3caf7294b3/fbbd0aee3d9a8260/playlist.m3u8"
+      "https://live.cmr24.fm/TVI/HD/chunks.m3u8"
     ],
     "youtube_urls": [],
     "language": "tam",
@@ -1085,17 +1118,6 @@
     ],
     "youtube_urls": [],
     "language": "eng",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KCwFLWdyJegcPw",
-    "name": "Zee TV Canada",
-    "iptv_urls": [
-      "https://origin-cae-m462953.toober.com/4c3caf7294b3/c8bf99484885/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "hin",
     "country": "ca",
     "isGeoBlocked": false
   }
