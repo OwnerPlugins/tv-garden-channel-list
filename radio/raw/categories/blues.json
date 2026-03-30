@@ -167,18 +167,6 @@
     ]
   },
   {
-    "nanoid": "vfVWjR1FdlRSJi",
-    "name": "Arctic Outpost Radio",
-    "stream_urls": [
-      "https://radio.streemlion.com:3715/stream"
-    ],
-    "country": "no",
-    "languages": [
-      "nor",
-      "eng"
-    ]
-  },
-  {
     "nanoid": "eU7MzgJZMJ7xsa",
     "name": "ArtSound FM",
     "stream_urls": [
@@ -319,7 +307,8 @@
     "name": "BluesWave Radio",
     "stream_urls": [
       "https://blueswave.radio:8100/icyblues",
-      "https://blueswave.radio:8000/blueswave"
+      "https://blueswave.radio:8000/blueswave",
+      "https://blueswave.radio:8100/hifiblues"
     ],
     "country": "gr",
     "languages": [
@@ -359,17 +348,6 @@
     "country": "us",
     "languages": [
       "eng"
-    ]
-  },
-  {
-    "nanoid": "KKL3PVY6H4vEF5",
-    "name": "Candil Radio",
-    "stream_urls": [
-      "https://candilradio.com/liveradio/candil/live.mp3"
-    ],
-    "country": "es",
-    "languages": [
-      "spa"
     ]
   },
   {
@@ -591,12 +569,24 @@
     "nanoid": "CaH6zkqeux88Nq",
     "name": "FluxFM XJAZZ",
     "stream_urls": [
+      "https://fluxfm.streamabc.net/flx-xjazz-aacplus-64-9057824",
       "https://fluxfm.streamabc.net/flx-xjazz-mp3-128-9269412",
       "https://fluxfm.streamabc.net/flx-xjazz-mp3-320-9220663"
     ],
     "country": "de",
     "languages": [
       "deu"
+    ]
+  },
+  {
+    "nanoid": "HuTfJAwQ561RDd",
+    "name": "Friends of 'CSB",
+    "stream_urls": [
+      "https://s20.myradiostream.com:18792/listen.mp3"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
     ]
   },
   {
@@ -1225,6 +1215,17 @@
     ]
   },
   {
+    "nanoid": "24F2wP9EbspgXy",
+    "name": "Radio Art - Just Blues",
+    "stream_urls": [
+      "https://air.radioart.com/fJust_blues.mp3"
+    ],
+    "country": "gr",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "ytAPHch16DIn94",
     "name": "Radio Art: Acoustic Blues",
     "stream_urls": [
@@ -1247,21 +1248,14 @@
     ]
   },
   {
-    "nanoid": "c8MCjroSyWS5vP",
-    "name": "RADIO BOB! Blues",
-    "stream_urls": [
-      "https://regiocast.streamabc.net/regc-radiobobblues6003375-mp3-192-4052902"
-    ],
-    "country": "de",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
     "nanoid": "vftGcX0Qua3O2j",
     "name": "RADIO BOB! Blues",
     "stream_urls": [
-      "https://streams.radiobob.de/blues/aac-64/streams.radiobob.de/"
+      "https://regiocast.streamabc.net/regc-radiobobblues6003375-mp3-192-4052902",
+      "https://streams.radiobob.de/blues/aac-64/streams.radiobob.de/",
+      "https://streams.radiobob.de/blues/mp3-192/streams.radiobob.de/",
+      "https://streams.radiobob.de/blues/mp3-192/homepage/",
+      "https://streams.radiobob.de/blues/mp3-192/mediaplayer/"
     ],
     "country": "de",
     "languages": [
@@ -1272,7 +1266,12 @@
     "nanoid": "KyPu6hlhwjqmOS",
     "name": "RADIO BOB! Classic Rock",
     "stream_urls": [
-      "https://streams.radiobob.de/bob-classicrock/mp3-192/mediaplayer"
+      "https://streams.radiobob.de/bob-classicrock/mp3-192/mediaplayer",
+      "https://streams.radiobob.de/bob-classicrock/mp3-192/homepage/",
+      "https://streams.radiobob.de/bob-classicrock/mp3-128/mediaplayer",
+      "https://regiocast.streamabc.net/regc-boblivenational-mp3-192-4076554",
+      "https://streams.radiobob.de/bob-classicrock/mp3-192/streams.radiobob.de/",
+      "https://streams.radiobob.de/bob-classicrock/aac-64/mediaplayer"
     ],
     "country": "de",
     "languages": [
@@ -1283,7 +1282,10 @@
     "nanoid": "eyx4ukQvwH3r1P",
     "name": "RADIO BOB! Southern Rock",
     "stream_urls": [
-      "https://streams.radiobob.de/southernrock/aac-64/streams.radiobob.de/"
+      "https://streams.radiobob.de/southernrock/aac-64/streams.radiobob.de/",
+      "https://streams.radiobob.de/southernrock/mp3-192/streams.radiobob.de/",
+      "https://streams.radiobob.de/southernrock/mp3-192/mediaplayer",
+      "https://streams.radiobob.de/southernrock/aac-64/mediaplayer"
     ],
     "country": "de",
     "languages": [

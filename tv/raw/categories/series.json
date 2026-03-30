@@ -52,8 +52,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "0P7XMZptSTPRrM",
-    "name": "All Reality We TV",
+    "nanoid": "WEs6rrPA21VlGq",
+    "name": "All Reality WE tv",
     "stream_urls": [
       "https://pb-6pmy4e08w6rny.akamaized.net/playlist.m3u8"
     ],
@@ -149,9 +149,9 @@
     "name": "Baywatch",
     "stream_urls": [
       "https://amg00145-buzzr-bigballs-baywatch-rokuus-qq7iy.amagi.tv/playlist/amg00145-buzzr-bigballs-baywatch-rokuus/playlist.m3u8",
+      "https://baywatch-xumo.amagi.tv/playlist.m3u8",
       "https://pb-mubj6htj155c6.akamaized.net/Baywatch_SONO5.m3u8",
-      "https://aegis-cloudfront-1.tubi.video/9d1cd886-32b9-41ce-a7de-3babb46506aa/playlist.m3u8",
-      "https://baywatch-xumo.amagi.tv/playlist.m3u8"
+      "https://aegis-cloudfront-1.tubi.video/9d1cd886-32b9-41ce-a7de-3babb46506aa/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -183,7 +183,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -288,7 +287,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -302,7 +300,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -316,7 +313,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -325,19 +321,7 @@
     "name": "Dog the Bounty Hunter",
     "stream_urls": [
       "https://pb-f3c3g3zxfdxte.akamaized.net/DogTheBountyHunter_US.m3u8",
-      "https://aegis-cloudfront-1.tubi.video/ff0ad399-75ed-42ba-8c60-75bb6cb8c929/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "VgyLn8kQo0kzN9",
-    "name": "Dog The Bounty Hunter",
-    "stream_urls": [
+      "https://aegis-cloudfront-1.tubi.video/ff0ad399-75ed-42ba-8c60-75bb6cb8c929/playlist.m3u8",
       "https://amg00276-amg00276c11-rakuten-uk-3446.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-dogthebountyhunterall-rakutenuk/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -390,7 +374,8 @@
     "nanoid": "COFZbnjrkjQq8b",
     "name": "Duck Dynasty",
     "stream_urls": [
-      "https://pb-mfmqu5e0fq1lb.akamaized.net/Duck_Dynasty.m3u8"
+      "https://pb-mfmqu5e0fq1lb.akamaized.net/Duck_Dynasty.m3u8",
+      "https://aegis-cloudfront-1.tubi.video/ae3cd8ce-3c41-452b-92a0-78fdb3c5b855/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -400,14 +385,16 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "COFZbnjrkjQq8b",
-    "name": "Duck Dynasty",
-    "stream_urls": [
-      "https://aegis-cloudfront-1.tubi.video/ae3cd8ce-3c41-452b-92a0-78fdb3c5b855/playlist.m3u8"
+    "nanoid": "aUMgSxs4t83jMD",
+    "name": "Emret Komutanım",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/lUgK1_qdCdQ"
     ],
-    "youtube_urls": [],
-    "languages": [],
-    "country": "us",
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
     "isGeoBlocked": false
   },
   {
@@ -420,7 +407,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -436,6 +422,32 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JVxtiXW2idCdHw",
+    "name": "GEM Series",
+    "stream_urls": [
+      "https://ca-rt.onetv.app/gemseries/index-0.m3u8?token=onetv202"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fas"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dqVyBM2QbBZugL",
+    "name": "GEM Series Plus",
+    "stream_urls": [
+      "https://ca-rt.onetv.app/gemseriesplus/index-0.m3u8?token=onetv202"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fas"
+    ],
+    "country": "tr",
     "isGeoBlocked": false
   },
   {
@@ -461,8 +473,21 @@
     "languages": [
       "ara"
     ],
-    "language": "ara",
     "country": "sa",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JGmZB6n8iu1FW8",
+    "name": "Haunt TV",
+    "stream_urls": [
+      "https://d1ak5jijks54h1.cloudfront.net/Haunt_TV.m3u8",
+      "https://aegis-cloudfront-1.tubi.video/69da419c-6bb2-473f-98c3-246153fc909b/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
     "isGeoBlocked": false
   },
   {
@@ -522,12 +547,11 @@
     "name": "Land Of The Lost",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/YePbaGy5ViY"
+      "https://www.youtube-nocookie.com/embed/F7RSf5TxJIc"
     ],
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -574,8 +598,8 @@
     "nanoid": "X6kETzsLQOUt4r",
     "name": "MST3K",
     "stream_urls": [
-      "https://aegis-cloudfront-1.tubi.video/99c48388-377e-4f2c-ad8e-33d0dee33bc3/playlist.m3u8",
-      "https://amg00163-shoutfactory-mst3k-xumo-r2pwd.amagi.tv/playlist.m3u8"
+      "https://amg00163-shoutfactory-mst3k-xumo-r2pwd.amagi.tv/playlist.m3u8",
+      "https://aegis-cloudfront-1.tubi.video/99c48388-377e-4f2c-ad8e-33d0dee33bc3/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -594,7 +618,6 @@
     "languages": [
       "tur"
     ],
-    "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
   },
@@ -615,9 +638,9 @@
     "nanoid": "kOqansdIKBiOls",
     "name": "Nosey",
     "stream_urls": [
+      "https://amg00514-noseybaxterllc-nosey-cineverse-hvu5a.amagi.tv/playlist/amg00514-noseybaxterllc-nosey-cineverse/playlist.m3u8",
       "https://wurlnosey.global.transmit.live/hls/678a8e220d785cafbf154147/v1/nosey_2/samsung_us/latest/main/hls/playlist.m3u8",
-      "https://aegis-cloudfront-1.tubi.video/f111d6c2-02bf-45fb-9a90-2e55b18d9f70/playlist.m3u8",
-      "https://amg00514-noseybaxterllc-nosey-cineverse-hvu5a.amagi.tv/playlist/amg00514-noseybaxterllc-nosey-cineverse/playlist.m3u8"
+      "https://aegis-cloudfront-1.tubi.video/f111d6c2-02bf-45fb-9a90-2e55b18d9f70/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -705,7 +728,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -719,7 +741,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -733,7 +754,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -747,7 +767,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -761,7 +780,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -775,7 +793,6 @@
     "languages": [
       "spa"
     ],
-    "language": "spa",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -784,12 +801,11 @@
     "name": "Shout! Studios: Renegade",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/oEgU940xRnI"
+      "https://www.youtube-nocookie.com/embed/VoktPmzlFzY"
     ],
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -803,7 +819,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -922,7 +937,6 @@
     "languages": [
       "jpn"
     ],
-    "language": "jpn",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -931,12 +945,11 @@
     "name": "TokuSHOUTsu: Kamen Rider",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/xpJOJh9GQNE"
+      "https://www.youtube-nocookie.com/embed/Q9N_IllkIzE"
     ],
     "languages": [
       "jpn"
     ],
-    "language": "jpn",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -950,7 +963,6 @@
     "languages": [
       "jpn"
     ],
-    "language": "jpn",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -964,7 +976,6 @@
     "languages": [
       "jpn"
     ],
-    "language": "jpn",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -973,12 +984,11 @@
     "name": "TokuSHOUTsu: Kyōryū Sentai Zyuranger",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/xv0mEwsgD50"
+      "https://www.youtube-nocookie.com/embed/jSC4N7Za1P0"
     ],
     "languages": [
       "jpn"
     ],
-    "language": "jpn",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -1123,7 +1133,6 @@
     "languages": [
       "rus"
     ],
-    "language": "rus",
     "country": "ru",
     "isGeoBlocked": false
   },
@@ -1134,20 +1143,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/ozuhPITB_4g"
     ],
-    "languages": [
-      "rus"
-    ],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "N0XEtBmZuJSvlx",
-    "name": "Сити Эдем ТелеНовелла",
-    "stream_urls": [
-      "https://cityeden.catcast.tv/content/46209/index.m3u8"
-    ],
-    "youtube_urls": [],
     "languages": [
       "rus"
     ],
@@ -1177,7 +1172,6 @@
     "languages": [
       "rus"
     ],
-    "language": "rus",
     "country": "ru",
     "isGeoBlocked": false
   },
@@ -1191,7 +1185,6 @@
     "languages": [
       "kor"
     ],
-    "language": "kor",
     "country": "kr",
     "isGeoBlocked": false
   }

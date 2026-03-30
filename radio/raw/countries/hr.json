@@ -22,10 +22,10 @@
     ]
   },
   {
-    "nanoid": "2XDwlLNAlxaVVQ",
-    "name": "bravo! kids",
+    "nanoid": "2EiWjNfygJ4xXs",
+    "name": "Club Music Radio - 70s 80s 90s",
     "stream_urls": [
-      "https://audio.social3.hr/listen/bravo_kids/stream"
+      "https://cmr-hosting.com:7003/;stream/1"
     ],
     "country": "hr",
     "languages": [
@@ -37,6 +37,61 @@
     "name": "Club Music Radio - Cro Hits",
     "stream_urls": [
       "https://cmr-hosting.com:7006/;stream/1"
+    ],
+    "country": "hr",
+    "languages": [
+      "hrv"
+    ]
+  },
+  {
+    "nanoid": "gwbK0rk7m5jZAb",
+    "name": "Club Music Radio - Folk",
+    "stream_urls": [
+      "https://cmr-hosting.com:7001/;stream/1"
+    ],
+    "country": "hr",
+    "languages": [
+      "hrv"
+    ]
+  },
+  {
+    "nanoid": "fi4MZu5pyvWe55",
+    "name": "Club Music Radio - Italo Disco",
+    "stream_urls": [
+      "https://cmr-hosting.com:7005/;stream/1"
+    ],
+    "country": "hr",
+    "languages": [
+      "hrv"
+    ]
+  },
+  {
+    "nanoid": "31bcD0CaBPrs4x",
+    "name": "Club Music Radio - Love Song",
+    "stream_urls": [
+      "https://cmr-hosting.com:7004/;stream/1"
+    ],
+    "country": "hr",
+    "languages": [
+      "hrv"
+    ]
+  },
+  {
+    "nanoid": "7wd3RXpg9wuRQf",
+    "name": "Club Music Radio - Pop & Dance",
+    "stream_urls": [
+      "https://cmr-hosting.com:7002/;stream/1"
+    ],
+    "country": "hr",
+    "languages": [
+      "hrv"
+    ]
+  },
+  {
+    "nanoid": "cDfPyh3JF2FyW7",
+    "name": "Club Music Radio - Tambura",
+    "stream_urls": [
+      "https://cmr-hosting.com:7007/;stream/1"
     ],
     "country": "hr",
     "languages": [
@@ -82,17 +137,6 @@
     "name": "FolkyTon Radio",
     "stream_urls": [
       "https://ec2s.crolive.com.hr:6035/stream"
-    ],
-    "country": "hr",
-    "languages": [
-      "hrv"
-    ]
-  },
-  {
-    "nanoid": "acAcU6G1WSINJ0",
-    "name": "Gradski Radio Belišće",
-    "stream_urls": [
-      "https://mcp1.mydataknox.com:8006/stream"
     ],
     "country": "hr",
     "languages": [
@@ -313,6 +357,7 @@
     "nanoid": "q2OgRZAbqVkwPr",
     "name": "Otvoreni Fitness",
     "stream_urls": [
+      "https://stream2.otvoreni.hr/fitness",
       "https://stream.otvoreni.hr/fitness"
     ],
     "country": "hr",

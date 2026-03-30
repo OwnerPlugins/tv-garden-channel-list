@@ -249,7 +249,6 @@
     "nanoid": "bMM45PPHEkVCz9",
     "name": "24/7 Christmas Music Radio",
     "stream_urls": [
-      "https://streaming.live365.com/a29903",
       "https://ais-edge101-live365-dal02.cdnstream.com/a29903"
     ],
     "country": "us",
@@ -334,6 +333,17 @@
     "country": "us",
     "languages": [
       "eng"
+    ]
+  },
+  {
+    "nanoid": "AeKtrfsTC5cB06",
+    "name": "Absolut Christmas Time",
+    "stream_urls": [
+      "https://absolut-christmastime.live-sm.absolutradio.de/absolut-christmastime/stream/mp3"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
     ]
   },
   {
@@ -457,6 +467,17 @@
       "https://stream.antennethueringen.de/event/mp3-192/"
     ],
     "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "QLSvyOks8uctI3",
+    "name": "Antenne Vorarlberg Christkindl Radio",
+    "stream_urls": [
+      "https://web.radio.antennevorarlberg.at/av-christkindl"
+    ],
+    "country": "at",
     "languages": [
       "deu"
     ]
@@ -723,6 +744,7 @@
     "nanoid": "BmJ4qCNwd5qIUD",
     "name": "Christmas Vinyl",
     "stream_urls": [
+      "https://walmradio.com:8443/christmas",
       "https://icecast.walmradio.com:8443/christmas",
       "https://icecast.walmradio.com:8443/christmas_opus"
     ],
@@ -1305,17 +1327,6 @@
     ]
   },
   {
-    "nanoid": "tPKjWDp5xO5BM0",
-    "name": "Melyh Christmas",
-    "stream_urls": [
-      "https://stream.zeno.fm/rks5ag8p2w9uv"
-    ],
-    "country": "mx",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "OALFbxlSwYmxqT",
     "name": "Merry Christmas Radio",
     "stream_urls": [
@@ -1541,7 +1552,10 @@
     "nanoid": "6mUikIh5z3KoIx",
     "name": "RADIO BOB! Christmas Rock",
     "stream_urls": [
-      "https://streams.radiobob.de/bob-christmas/mp3-192/mediaplayer/"
+      "https://streams.radiobob.de/bob-christmas/mp3-192/mediaplayer/",
+      "https://streams.radiobob.de/bob-christmas/mp3-192/streams.radiobob.de/",
+      "https://streams.radiobob.de/bob-christmas/mp3-128/radiode",
+      "https://streams.radiobob.de/bob-christmas/aac-64/mediaplayer/"
     ],
     "country": "de",
     "languages": [
@@ -1622,6 +1636,18 @@
     "name": "Radio Köln - Dein Weihnachts Radio",
     "stream_urls": [
       "https://rnrw.cast.addradio.de/rnrw-0185/deinevent/high/stream.mp3"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "A3OOOKoGHX4WyI",
+    "name": "Radio Lausitz - Weihnachtsradio",
+    "stream_urls": [
+      "https://streams.bcs-systems.de/slp/xmas/lausitz/mp3/radio.de/playlist.m3u",
+      "https://streaming.radiolausitz.de/radio-lausitz_XMAS_192k_mp3"
     ],
     "country": "de",
     "languages": [
@@ -2217,17 +2243,6 @@
     ]
   },
   {
-    "nanoid": "XLdrvpvFWeB73L",
-    "name": "The Miller Lights Radio",
-    "stream_urls": [
-      "https://radio.themillerlights.com/listen/themillerlights/radio.mp3"
-    ],
-    "country": "us",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "FnrfcolUz09mwh",
     "name": "TheLight Christmas",
     "stream_urls": [
@@ -2410,17 +2425,6 @@
     "name": "Your Classical Holiday",
     "stream_urls": [
       "https://holiday.stream.publicradio.org/holiday_yc.mp3"
-    ],
-    "country": "us",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "RGqqbUnaZg8w2I",
-    "name": "ZChristmas",
-    "stream_urls": [
-      "https://ice.zradio.org/c/high.mp3"
     ],
     "country": "us",
     "languages": [

@@ -9,7 +9,6 @@
     "languages": [
       "ara"
     ],
-    "language": "ara",
     "country": "ae",
     "isGeoBlocked": false
   },
@@ -49,7 +48,6 @@
     "languages": [
       "ara"
     ],
-    "language": "ara",
     "country": "ae",
     "isGeoBlocked": false
   },
@@ -128,7 +126,6 @@
     "languages": [
       "ara"
     ],
-    "language": "ara",
     "country": "ae",
     "isGeoBlocked": false
   },
@@ -142,7 +139,19 @@
     "languages": [
       "ara"
     ],
-    "language": "ara",
+    "country": "ae",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UOQdhq6UsdYdn7",
+    "name": "Asharq News",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/f6VpkfV7m4Y"
+    ],
+    "languages": [
+      "ara"
+    ],
     "country": "ae",
     "isGeoBlocked": false
   },
@@ -156,7 +165,6 @@
     "languages": [
       "ara"
     ],
-    "language": "ara",
     "country": "ae",
     "isGeoBlocked": false
   },
@@ -170,7 +178,6 @@
     "languages": [
       "ara"
     ],
-    "language": "ara",
     "country": "ae",
     "isGeoBlocked": false
   },
@@ -184,7 +191,6 @@
     "languages": [
       "ara"
     ],
-    "language": "ara",
     "country": "ae",
     "isGeoBlocked": false
   },
@@ -245,6 +251,19 @@
     "name": "Nour TV",
     "stream_urls": [
       "https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fas"
+    ],
+    "country": "ae",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9BNETtZqVeBnGA",
+    "name": "PMC",
+    "stream_urls": [
+      "https://pmchls.wns.live/hls/stream.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -319,20 +338,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "PNu6nogB9kG5g5",
-    "name": "Sharjah Sports",
-    "stream_urls": [
-      "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8",
-      "https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ara"
-    ],
-    "country": "ae",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "RC2hZ1z0vrHMtE",
     "name": "Sharjah TV",
     "stream_urls": [
@@ -352,19 +357,7 @@
     "name": "Sky News Arabia",
     "stream_urls": [
       "https://stream.skynewsarabia.com/ott/ott.m3u8",
-      "https://stream.skynewsarabia.com/hls/sna.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ara"
-    ],
-    "country": "ae",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lHA8lYSDtLC5LR",
-    "name": "Sky News Arabia",
-    "stream_urls": [
+      "https://stream.skynewsarabia.com/hls/sna.m3u8",
       "https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8"
     ],
     "youtube_urls": [

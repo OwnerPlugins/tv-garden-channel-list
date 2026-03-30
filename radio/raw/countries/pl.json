@@ -23,17 +23,6 @@
     ]
   },
   {
-    "nanoid": "SlfNZYUdTCLCGm",
-    "name": "4Music",
-    "stream_urls": [
-      "https://s1.slotex.pl/shoutcast/7102/stream"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
-    ]
-  },
-  {
     "nanoid": "EDukHiPZ3u5Fa9",
     "name": "Akademickie Radio Kampus",
     "stream_urls": [
@@ -48,7 +37,6 @@
     "nanoid": "wqvSZhq1RLKF3y",
     "name": "Antyradio",
     "stream_urls": [
-      "https://an.cdn.eurozet.pl/ant-web.mp3",
       "https://n-4-4.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx",
       "https://an02.cdn.eurozet.pl/ant-web.mp3"
     ],
@@ -643,17 +631,6 @@
     ]
   },
   {
-    "nanoid": "10ITGMalB6TfFO",
-    "name": "Meloradio Olsztyn",
-    "stream_urls": [
-      "https://ml.cdn.eurozet.pl/mel-ols.mp3"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
-    ]
-  },
-  {
     "nanoid": "AsgXM863dkIeMT",
     "name": "Meloradio Opole",
     "stream_urls": [
@@ -708,17 +685,6 @@
     "languages": [
       "pol",
       "deu"
-    ]
-  },
-  {
-    "nanoid": "hPmKV5j9RrqK6w",
-    "name": "Music Family",
-    "stream_urls": [
-      "https://s3.slotex.pl:7216/stream"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
     ]
   },
   {
@@ -984,7 +950,6 @@
       "https://n09a-eu.rcs.revma.com/ye5kghkgcm0uv",
       "https://n23a-eu.rcs.revma.com/ye5kghkgcm0uv",
       "https://n23a-eu.rcs.revma.com/an1ugyygzk8uv",
-      "https://n04a-eu.rcs.revma.com/an1ugyygzk8uv",
       "https://n-11-21.dcs.redcdn.pl/sc/o2/radio357/live/radio357_pr.livx"
     ],
     "country": "pl",
@@ -1019,17 +984,6 @@
     "name": "Radio 7 90.8 FM",
     "stream_urls": [
       "https://stream.radio7.pl:443/radio7.mp3"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
-    ]
-  },
-  {
-    "nanoid": "UdsJX8rGGRMS5a",
-    "name": "Radio Afera 98.6 FM",
-    "stream_urls": [
-      "https://radio.afera.com.pl/afera128.ogg"
     ],
     "country": "pl",
     "languages": [
@@ -2469,17 +2423,6 @@
     ]
   },
   {
-    "nanoid": "Jtk00sL2RQUx5J",
-    "name": "Radio Park",
-    "stream_urls": [
-      "https://sluchaj2.radiopark.biz.pl:8443/stream"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
-    ]
-  },
-  {
     "nanoid": "bYJZMpxuehK2XP",
     "name": "Radio Pawarota",
     "stream_urls": [
@@ -2615,43 +2558,10 @@
     ]
   },
   {
-    "nanoid": "DCu6SbBZmNNXjw",
-    "name": "Radio Plus Legnica",
-    "stream_urls": [
-      "https://player.legnica.fm/listen/radio_plus_legnica/radio256.mp3"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
-    ]
-  },
-  {
     "nanoid": "gvBY1iP5Fm1nP2",
     "name": "Radio Plus Lublin",
     "stream_urls": [
       "https://waw.ic.smcdn.pl/4130-1.aac"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
-    ]
-  },
-  {
-    "nanoid": "M7SwHt7FhGit3m",
-    "name": "Radio Plus Olsztyn",
-    "stream_urls": [
-      "https://waw.ic.smcdn.pl/4110-1.aac"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
-    ]
-  },
-  {
-    "nanoid": "xBQ9wQLFer4x7G",
-    "name": "Radio Plus Warszawa",
-    "stream_urls": [
-      "https://pl.cdn.eurozet.pl/plu-waw.mp3"
     ],
     "country": "pl",
     "languages": [
@@ -3059,17 +2969,6 @@
     ]
   },
   {
-    "nanoid": "dPMtcic4UlcleG",
-    "name": "Radio TPI",
-    "stream_urls": [
-      "https://s1.slotex.pl/shoutcast/7632/stream"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
-    ]
-  },
-  {
     "nanoid": "aDVY9w1TNcjggd",
     "name": "Radio UAP",
     "stream_urls": [
@@ -3425,6 +3324,17 @@
     "name": "Radio Łódź nad Wartą",
     "stream_urls": [
       "https://stream.radiolodz.pl/RadioLodz-NW-HQ.aac"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "R3OioucKtiZut9",
+    "name": "Radio Łódź Sport",
+    "stream_urls": [
+      "https://stream.radiolodz.pl/RadioLodz-3-HQ.aac"
     ],
     "country": "pl",
     "languages": [
@@ -3872,8 +3782,7 @@
     "name": "SmoothJazz.com.pl",
     "stream_urls": [
       "https://bcast.vigormultimedia.com:48888/sjcompl320mp3",
-      "https://bcast.vigormultimedia.com:48888/sjcompl192aac",
-      "https://bcast.vigormultimedia.com:48888/sjcompl64aac"
+      "https://bcast.vigormultimedia.com:48888/sjcompl192aac"
     ],
     "country": "pl",
     "languages": [

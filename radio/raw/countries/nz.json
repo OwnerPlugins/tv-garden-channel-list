@@ -1,5 +1,16 @@
 [
   {
+    "nanoid": "JWPxoXWNlIxGWT",
+    "name": "8K.NZ",
+    "stream_urls": [
+      "https://radio8k.out.airtime.pro:8000/radio8k_a"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "Uozf9hXtraG8hM",
     "name": "91.2 FM Oamaru",
     "stream_urls": [
@@ -61,17 +72,6 @@
     "name": "Base FM 107.3",
     "stream_urls": [
       "https://stream.basefm.co.nz:8000/BaseHi"
-    ],
-    "country": "nz",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "hLMBmbEtG5A6ao",
-    "name": "Bay FM 100.7",
-    "stream_urls": [
-      "https://s38.myradiostream.com:8876/;;"
     ],
     "country": "nz",
     "languages": [
@@ -638,6 +638,7 @@
     "name": "Radiowave NZ",
     "stream_urls": [
       "https://stream.radiowavenz.com/stream",
+      "https://stream.radiowavenz.com/stream-aac",
       "https://stream.radiowavenz.com/stream-aac-low"
     ],
     "country": "nz",

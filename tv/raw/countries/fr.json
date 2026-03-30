@@ -98,7 +98,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -112,7 +111,6 @@
     "languages": [
       "fra"
     ],
-    "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -165,7 +163,6 @@
     "languages": [
       "fra"
     ],
-    "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -199,20 +196,6 @@
     ],
     "youtube_urls": [],
     "languages": [],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "XMr3ma47nJ4tEe",
-    "name": "BFM 2",
-    "stream_urls": [
-      "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM2/index.m3u8?end=END&start=LIVE",
-      "https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fra"
-    ],
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -398,6 +381,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "8sVssR2O9ofmMl",
+    "name": "BFM2",
+    "stream_urls": [
+      "https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8",
+      "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM2/index.m3u8?end=END&start=LIVE"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "9liJNhs1fNC6iE",
     "name": "Brionnais TV",
     "stream_urls": [
@@ -424,19 +421,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "RMbGSeJmY7CCNa",
-    "name": "Cannes Lérins TV",
-    "stream_urls": [
-      "https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "mPbuqsHG1z2Sb6",
     "name": "Cartoonito France: Tom Et Jerry",
     "stream_urls": [],
@@ -446,7 +430,6 @@
     "languages": [
       "fra"
     ],
-    "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -495,7 +478,6 @@
     "languages": [
       "spa"
     ],
-    "language": "spa",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -509,7 +491,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -536,7 +517,6 @@
     "languages": [
       "fra"
     ],
-    "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -550,7 +530,6 @@
     "languages": [
       "deu"
     ],
-    "language": "deu",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -564,7 +543,6 @@
     "languages": [
       "ita"
     ],
-    "language": "ita",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -578,7 +556,6 @@
     "languages": [
       "hun"
     ],
-    "language": "hun",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -592,7 +569,6 @@
     "languages": [
       "pol"
     ],
-    "language": "pol",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -606,7 +582,6 @@
     "languages": [
       "por"
     ],
-    "language": "por",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -620,7 +595,6 @@
     "languages": [
       "ron"
     ],
-    "language": "ron",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -634,7 +608,6 @@
     "languages": [
       "ell"
     ],
-    "language": "ell",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -648,7 +621,6 @@
     "languages": [
       "rus"
     ],
-    "language": "rus",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -748,25 +720,14 @@
     "nanoid": "kUPfKpGmxXWYT4",
     "name": "France 24",
     "stream_urls": [
-      "https://dash4.antik.sk/live/test_france24_france/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kUPfKpGmxXWYT4",
-    "name": "France 24",
-    "stream_urls": [
+      "https://dash4.antik.sk/live/test_france24_france/playlist.m3u8",
       "https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/l8PMl7tUDIE"
     ],
     "languages": [
+      "fra",
       "eng"
     ],
     "country": "fr",
@@ -815,7 +776,6 @@
     "languages": [
       "spa"
     ],
-    "language": "spa",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -840,7 +800,6 @@
     "languages": [
       "fra"
     ],
-    "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -997,7 +956,6 @@
     "languages": [
       "fra"
     ],
-    "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -1011,7 +969,6 @@
     "languages": [
       "fra"
     ],
-    "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -1038,7 +995,6 @@
     "languages": [
       "fra"
     ],
-    "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -1293,7 +1249,6 @@
     "languages": [
       "fra"
     ],
-    "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -1307,7 +1262,6 @@
     "languages": [
       "fra"
     ],
-    "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -1345,17 +1299,6 @@
     "languages": [
       "eng"
     ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kVuXOdBXr2x3dW",
-    "name": "Rakuten TV Alerte Cobra",
-    "stream_urls": [
-      "https://alarm-for-cobra-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6477/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -1468,7 +1411,6 @@
     "languages": [
       "fra"
     ],
-    "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -1496,7 +1438,6 @@
     "languages": [
       "fra"
     ],
-    "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -1588,7 +1529,6 @@
     "languages": [
       "fra"
     ],
-    "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -1602,7 +1542,6 @@
     "languages": [
       "fra"
     ],
-    "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -1616,7 +1555,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -1630,7 +1568,6 @@
     "languages": [
       "fra"
     ],
-    "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -1648,12 +1585,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "TbvZvu9msl34uz",
-    "name": "TRACE Latina",
+    "nanoid": "RcxxzdMu6ZS2Ab",
+    "name": "Trace Latina",
     "stream_urls": [
+      "https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist.m3u8",
       "https://amg01131-tracetv-amg01131c3-stirr-us-4391.playouts.now.amagi.tv/playlist.m3u8",
-      "https://amg01131-tracetv-tracelatina-klowdtv-v10em.amagi.tv/playlist/amg01131-tracetv-tracelatina-klowdtv/playlist.m3u8",
-      "https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist.m3u8"
+      "https://amg01131-tracetv-tracelatina-klowdtv-v10em.amagi.tv/playlist/amg01131-tracetv-tracelatina-klowdtv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1676,12 +1613,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "lqgZakAmtFu3zY",
-    "name": "TRACE Urban",
+    "nanoid": "wIUeNDlNNSx9pm",
+    "name": "Trace Urban",
     "stream_urls": [
+      "https://amg01131-tracetv-traceurban-glewed-g705j.amagi.tv/playlist.m3u8",
       "https://amg01131-tracetv-amg01131c1-stirr-us-4393.playouts.now.amagi.tv/playlist.m3u8",
-      "https://amg01131-tracetv-traceurban-klowdtv-utiqd.amagi.tv/playlist/amg01131-tracetv-traceurban-klowdtv/playlist.m3u8",
-      "https://amg01131-tracetv-traceurban-glewed-g705j.amagi.tv/playlist.m3u8"
+      "https://amg01131-tracetv-traceurban-klowdtv-utiqd.amagi.tv/playlist/amg01131-tracetv-traceurban-klowdtv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1796,6 +1733,19 @@
       "https://srv.zenith-tv.fr:8888/zenithwchl/main_stream.m3u8"
     ],
     "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kz1QrxbntvR2ns",
+    "name": "Zig & Sharko",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/L__U0QsEda8"
+    ],
     "languages": [
       "fra"
     ],

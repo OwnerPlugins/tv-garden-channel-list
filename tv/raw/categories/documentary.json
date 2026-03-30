@@ -17,12 +17,11 @@
     "name": "Asahi: Documentary",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/kEcpBH9l_JA"
+      "https://www.youtube-nocookie.com/embed/rlvAbSg9teM"
     ],
     "languages": [
       "jpn"
     ],
-    "language": "jpn",
     "country": "jp",
     "isGeoBlocked": false
   },
@@ -187,7 +186,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "sg",
     "isGeoBlocked": false
   },
@@ -238,9 +236,9 @@
     "name": "Dateline 24/7",
     "stream_urls": [
       "https://d4whmvwm0rdvi.cloudfront.net/10007/99993007/hls/master.m3u8?ads.xumo_channelId=99993007",
+      "https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8",
       "https://pb-cpf6bqkmt2btj.akamaized.net/master.m3u8",
-      "https://aegis-cloudfront-1.tubi.video/240e3917-5be6-4a26-a1a2-878c9d40b5cf/master.m3u8",
-      "https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8"
+      "https://aegis-cloudfront-1.tubi.video/240e3917-5be6-4a26-a1a2-878c9d40b5cf/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -329,6 +327,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "5wM1NwxDDPeLH5",
+    "name": "GEM Nature",
+    "stream_urls": [
+      "https://ca-rt.onetv.app/gemnature/index-0.m3u8?token=onetv202"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fas"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "GOMdLvvyu3y5ss",
     "name": "GZT",
     "stream_urls": [
@@ -346,6 +357,7 @@
     "name": "History TV18 HD",
     "stream_urls": [
       "https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8",
+      "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/HistoryTV18HD.m3u8",
       "https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -456,12 +468,11 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
   {
-    "nanoid": "AbcJxYxf3cyf3H",
+    "nanoid": "kc1rOesWp3ooeg",
     "name": "NatureTime",
     "stream_urls": [
       "https://amg00090-blueantmedia-naturetime-samsungse-axgcn.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungse/playlist.m3u8"
@@ -470,7 +481,7 @@
     "languages": [
       "spa"
     ],
-    "country": "es",
+    "country": "ca",
     "isGeoBlocked": false
   },
   {
@@ -580,6 +591,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ExqfRu5vFNM6yj",
+    "name": "Total Crime",
+    "stream_urls": [
+      "https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "JLRlLiosJOhAzH",
     "name": "UMSA TVU Internacional",
     "stream_urls": [
@@ -598,9 +622,9 @@
     "stream_urls": [
       "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8",
       "https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8",
+      "https://wildearth-xumo.amagi.tv/master.m3u8",
       "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungnl/playlist.m3u8",
-      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungse/playlist.m3u8",
-      "https://wildearth-xumo.amagi.tv/master.m3u8"
+      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungse/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -623,8 +647,21 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "oC136YQUk5tweB",
-    "name": "Наука",
+    "nanoid": "sao2rpFyAlLRAD",
+    "name": "Нано ТВ HD",
+    "stream_urls": [
+      "https://s1.tv-nano.com/Nano_rec/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "U1CYvPtiUwkGzD",
+    "name": "НАУКА",
     "stream_urls": [
       "https://vod.tuva.ru/nauka2/index.m3u8"
     ],

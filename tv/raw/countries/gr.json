@@ -9,7 +9,6 @@
     "languages": [
       "ell"
     ],
-    "language": "ell",
     "country": "gr",
     "isGeoBlocked": false
   },
@@ -148,12 +147,11 @@
     "name": "ecclesiaTV.gr",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/z8LTGE-0N00"
+      "https://www.youtube-nocookie.com/embed/7a1Vryj28Wg"
     ],
     "languages": [
       "ell"
     ],
-    "language": "ell",
     "country": "gr",
     "isGeoBlocked": false
   },
@@ -239,7 +237,6 @@
     "nanoid": "nOgaKVJqtjFRdy",
     "name": "Nea TV",
     "stream_urls": [
-      "https://live.neatv.gr:8888/hls/neatv.m3u8",
       "https://live.neatv.gr:8888/hls/neatv_high/index.m3u8"
     ],
     "youtube_urls": [],
@@ -254,6 +251,19 @@
     "name": "Notioi TV",
     "stream_urls": [
       "https://srv.streamserver.gr:3451/stream/play.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ell"
+    ],
+    "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pjEgd6IVJGjdu8",
+    "name": "NRG TV",
+    "stream_urls": [
+      "https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -316,8 +326,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Bvo4qWR2BxTVV4",
-    "name": "STAR HD [Non geo blocked]",
+    "nanoid": "uhkrreTROoHk00",
+    "name": "STAR HD  [Non geo blocked]",
     "stream_urls": [
       "https://livestar.siliconweb.com/starvod/star4/star4.m3u8"
     ],
@@ -372,6 +382,19 @@
     "name": "Telekriti",
     "stream_urls": [
       "https://neon.streams.gr:8081/telekriti/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ell"
+    ],
+    "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Nhov9FRmWvJ4cy",
+    "name": "Thraki Net TV",
+    "stream_urls": [
+      "https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

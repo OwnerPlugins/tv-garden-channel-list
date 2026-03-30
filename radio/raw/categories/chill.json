@@ -81,6 +81,18 @@
     ]
   },
   {
+    "nanoid": "RGw9EJMtbWI5lb",
+    "name": "0nlineradio Dinner Lounge",
+    "stream_urls": [
+      "https://0nlineradio.radioho.st/lounge-dinner-lounge"
+    ],
+    "country": "de",
+    "languages": [
+      "deu",
+      "eng"
+    ]
+  },
+  {
     "nanoid": "lfsMCJYeM63XLa",
     "name": "0nlineradio Hotel Lounge",
     "stream_urls": [
@@ -97,6 +109,19 @@
     "name": "0nlineradio Jazz",
     "stream_urls": [
       "https://stream.0nlineradio.com/jazz"
+    ],
+    "country": "de",
+    "languages": [
+      "deu",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "lk1Aeb7yj2cqGa",
+    "name": "0nlineradio Lo-Fi",
+    "stream_urls": [
+      "https://0nlineradio.radioho.st/0r-lo-fi",
+      "https://stream.0nlineradio.com/lo-fi"
     ],
     "country": "de",
     "languages": [
@@ -215,7 +240,8 @@
     "nanoid": "C1TC8xRHJIujkp",
     "name": "1 Slow-Radio",
     "stream_urls": [
-      "https://1slowradio.stream.laut.fm/1_slowradio"
+      "https://1slowradio.stream.laut.fm/1_slowradio",
+      "https://1_slowradio.stream.laut.fm/1_slowradio"
     ],
     "country": "de",
     "languages": [
@@ -554,17 +580,6 @@
     ]
   },
   {
-    "nanoid": "w3TeVX87QbaGdL",
-    "name": "1A Radio - Chillout",
-    "stream_urls": [
-      "https://1a-chillout.radionetz.de/1a-chillout.aac"
-    ],
-    "country": "de",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
     "nanoid": "1ju44WjPRp1nz8",
     "name": "1A Radio - Entspannt",
     "stream_urls": [
@@ -777,17 +792,6 @@
     ]
   },
   {
-    "nanoid": "lyIP72A2tDO2OX",
-    "name": "95.5 Charivari Lounge",
-    "stream_urls": [
-      "https://rs24.stream24.net/lounge.aac"
-    ],
-    "country": "de",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
     "nanoid": "lmjfwmWkxgHPgR",
     "name": "95.5 Jazz",
     "stream_urls": [
@@ -863,6 +867,18 @@
     "country": "fr",
     "languages": [
       "fra"
+    ]
+  },
+  {
+    "nanoid": "5sXoTZ5ybwfyz7",
+    "name": "Absolut Coffeemusic",
+    "stream_urls": [
+      "https://absolut-coffeemusic.live-sm.absolutradio.de/absolut-coffeemusic",
+      "https://absolut-coffeemusic.live-sm.absolutradio.de/absolut-coffeemusic/stream/mp3"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
     ]
   },
   {
@@ -1220,6 +1236,39 @@
     ]
   },
   {
+    "nanoid": "UizHfcQVGxOOgM",
+    "name": "Antenne Bayern - Chillout",
+    "stream_urls": [
+      "https://stream.antenne.de/chillout/stream/aacp",
+      "https://mp3channels.webradio.antenne.de/chillout",
+      "https://s4-webradio.antenne.de/chillout/stream/aacp",
+      "https://s1-webradio.antenne.de/chillout",
+      "https://s2-webradio.antenne.de/chillout.aac",
+      "https://s7-webradio.antenne.de/chillout"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "MhfLKb8uU4zrN2",
+    "name": "Antenne Bayern - Coffee Music",
+    "stream_urls": [
+      "https://stream.antenne.de/coffee/stream/aacp",
+      "https://mp3channels.webradio.de/coffee",
+      "https://stream.antenne.de/coffee/stream/mp3",
+      "https://s6-webradio.antenne.de/coffee/stream/aacp",
+      "https://s3-webradio.webradio.de/coffee",
+      "https://s6-webradio.antenne.de/coffee.aac",
+      "https://mp3channels.webradio.antenne.de/coffee.aac"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
     "nanoid": "Z1IFlyonVMOJCU",
     "name": "Antenne Bayern - Lounge",
     "stream_urls": [
@@ -1238,7 +1287,8 @@
       "https://stream.antenne.de/relax/stream/aacp",
       "https://mp3channels.webradio.antenne.de/relax",
       "https://s4-webradio.antenne.de/relax/stream/aacp",
-      "https://s8-webradio.antenne.de/relax"
+      "https://s8-webradio.antenne.de/relax",
+      "https://s2-webradio.antenne.de/relax.aac"
     ],
     "country": "de",
     "languages": [
@@ -1274,6 +1324,18 @@
       "https://stream.lokalradio.nrw/445dzn7"
     ],
     "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "DmX6gm2yTmZ09U",
+    "name": "Antenne Vorarlberg Chillout Lounge",
+    "stream_urls": [
+      "https://web.radio.antennevorarlberg.at/av-chillout",
+      "https://web.radio.antennevorarlberg.at/av-chillout/stream/mp3"
+    ],
+    "country": "at",
     "languages": [
       "deu"
     ]
@@ -1436,17 +1498,6 @@
     "country": "uk",
     "languages": [
       "eng"
-    ]
-  },
-  {
-    "nanoid": "F8mIaiS38fpIzh",
-    "name": "Bitter Sweet Music",
-    "stream_urls": [
-      "https://sonicssl.namehost.ro/8520/stream"
-    ],
-    "country": "ro",
-    "languages": [
-      "ron"
     ]
   },
   {
@@ -1780,17 +1831,6 @@
     "country": "ru",
     "languages": [
       "rus"
-    ]
-  },
-  {
-    "nanoid": "gZXGskDIbZd2AO",
-    "name": "Cathedral 13",
-    "stream_urls": [
-      "https://listen.shoutcast.com/cathedralxiii"
-    ],
-    "country": "us",
-    "languages": [
-      "eng"
     ]
   },
   {
@@ -2183,7 +2223,8 @@
     "nanoid": "zxaaD8Y4npYwYX",
     "name": "CITY23",
     "stream_urls": [
-      "https://live.radiomax.technology/city23"
+      "https://live.radiomax.technology/city23",
+      "https://edge61.stream.maxfive.com/max5-city23"
     ],
     "country": "at",
     "languages": [
@@ -2251,6 +2292,17 @@
     ]
   },
   {
+    "nanoid": "31bcD0CaBPrs4x",
+    "name": "Club Music Radio - Love Song",
+    "stream_urls": [
+      "https://cmr-hosting.com:7004/;stream/1"
+    ],
+    "country": "hr",
+    "languages": [
+      "hrv"
+    ]
+  },
+  {
     "nanoid": "1SjAwlQ7XSU3Yd",
     "name": "Code Radio",
     "stream_urls": [
@@ -2259,6 +2311,17 @@
     "country": "ca",
     "languages": [
       "eng"
+    ]
+  },
+  {
+    "nanoid": "wxn0Xr1dfwAwee",
+    "name": "Coffee FM",
+    "stream_urls": [
+      "https://stream.pcradio.ru/Vintazh_kafe-med"
+    ],
+    "country": "ru",
+    "languages": [
+      "rus"
     ]
   },
   {
@@ -2556,7 +2619,8 @@
     "nanoid": "cHyTkghDfrMV4u",
     "name": "Crooner Radio Premium",
     "stream_urls": [
-      "https://croonerradio_inprivate.ice.infomaniak.ch/croonerradio-inprivate-midfi.mp3"
+      "https://croonerradio_inprivate.ice.infomaniak.ch/croonerradio-inprivate-midfi.mp3",
+      "https://direct.croonerradio.fr/croonerradio-inprivate-midfi.mp3"
     ],
     "country": "fr",
     "languages": [
@@ -2688,6 +2752,18 @@
     "country": "it",
     "languages": [
       "ita"
+    ]
+  },
+  {
+    "nanoid": "bYhqBnJizbJ3Zy",
+    "name": "Dinamo.fm Caffe",
+    "stream_urls": [
+      "https://channels.dinamo.fm/caffe-mp3"
+    ],
+    "country": "tr",
+    "languages": [
+      "eng",
+      "tur"
     ]
   },
   {
@@ -2919,17 +2995,6 @@
     ]
   },
   {
-    "nanoid": "oexd3lNgE4MkhI",
-    "name": "El Café del Mundo",
-    "stream_urls": [
-      "https://cloudstream2030.conectarhosting.com/8184/stream"
-    ],
-    "country": "ar",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "FRghqIUdcac235",
     "name": "Eldoradio Chill",
     "stream_urls": [
@@ -2963,6 +3028,17 @@
     "country": "de",
     "languages": [
       "deu"
+    ]
+  },
+  {
+    "nanoid": "vD8hDOiAJ03173",
+    "name": "ELF Radio",
+    "stream_urls": [
+      "https://s0.radioheart.ru:8000/RH22766"
+    ],
+    "country": "ru",
+    "languages": [
+      "rus"
     ]
   },
   {
@@ -3076,6 +3152,17 @@
     ]
   },
   {
+    "nanoid": "3t4UCNf1i7T3S0",
+    "name": "Enigma",
+    "stream_urls": [
+      "https://stream.pcradio.ru/Enigma-hi"
+    ],
+    "country": "de",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "DnEoN475cakWCm",
     "name": "Enigmatic Station",
     "stream_urls": [
@@ -3146,6 +3233,18 @@
     ]
   },
   {
+    "nanoid": "0qN5yCX2vkEzQp",
+    "name": "Epic Classical - Dinner",
+    "stream_urls": [
+      "https://stream.epic-classical.com/classical-dinner"
+    ],
+    "country": "de",
+    "languages": [
+      "deu",
+      "eng"
+    ]
+  },
+  {
     "nanoid": "qdqkCH2S5oROBY",
     "name": "Epic Classical - Guitar",
     "stream_urls": [
@@ -3182,10 +3281,34 @@
     ]
   },
   {
+    "nanoid": "DaxVRU90Nu2wqF",
+    "name": "Epic Classical - Love Music",
+    "stream_urls": [
+      "https://stream.epic-classical.com/classical-love-music"
+    ],
+    "country": "de",
+    "languages": [
+      "deu",
+      "eng"
+    ]
+  },
+  {
     "nanoid": "VvWehL9vvTvko6",
     "name": "Epic Classical - Meditation",
     "stream_urls": [
       "https://stream.epic-classical.com/classical-meditation"
+    ],
+    "country": "de",
+    "languages": [
+      "deu",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "aLDpq3IugWTVlP",
+    "name": "Epic Classical - Music for Sleep",
+    "stream_urls": [
+      "https://stream.epic-classical.com/classical-music-for-sleep"
     ],
     "country": "de",
     "languages": [
@@ -3350,6 +3473,18 @@
     ]
   },
   {
+    "nanoid": "nHmWQzTwFtQ9Nc",
+    "name": "Epic Lounge - Dinner Lounge",
+    "stream_urls": [
+      "https://stream.epic-lounge.com/dinner-lounge"
+    ],
+    "country": "de",
+    "languages": [
+      "deu",
+      "eng"
+    ]
+  },
+  {
     "nanoid": "OZ5cErcDygGVrT",
     "name": "Epic Lounge - French Café Lounge",
     "stream_urls": [
@@ -3386,10 +3521,46 @@
     ]
   },
   {
+    "nanoid": "KLDCAcOqmvbKp5",
+    "name": "Epic Lounge - Ibiza Chillout Lounge",
+    "stream_urls": [
+      "https://stream.epic-lounge.com/ibiza-chillout-lounge"
+    ],
+    "country": "de",
+    "languages": [
+      "deu",
+      "eng"
+    ]
+  },
+  {
     "nanoid": "iqdChK4XPlKikp",
     "name": "Epic Lounge - Jazzhop",
     "stream_urls": [
       "https://stream.epic-lounge.com/jazzhop-lounge"
+    ],
+    "country": "de",
+    "languages": [
+      "deu",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "UP2xjQkO1PmmbE",
+    "name": "Epic Lounge - Lounge Covers",
+    "stream_urls": [
+      "https://stream.epic-lounge.com/lounge-covers"
+    ],
+    "country": "de",
+    "languages": [
+      "deu",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "FkPmy1dnHKS4tk",
+    "name": "Epic Lounge - Massage Lounge",
+    "stream_urls": [
+      "https://stream.epic-lounge.com/massage-lounge"
     ],
     "country": "de",
     "languages": [
@@ -3494,6 +3665,18 @@
     ]
   },
   {
+    "nanoid": "FYZgNVR4Iss7rz",
+    "name": "Epic Lounge - Soft House Lounge",
+    "stream_urls": [
+      "https://stream.epic-lounge.com/soft-house-lounge"
+    ],
+    "country": "de",
+    "languages": [
+      "deu",
+      "eng"
+    ]
+  },
+  {
     "nanoid": "HTYmXo3yDrkpkp",
     "name": "Epic Lounge - Soul Lounge",
     "stream_urls": [
@@ -3530,10 +3713,34 @@
     ]
   },
   {
+    "nanoid": "akQcM4THONBbmR",
+    "name": "Epic Lounge - Workday Lounge",
+    "stream_urls": [
+      "https://stream.epic-lounge.com/workday-lounge"
+    ],
+    "country": "de",
+    "languages": [
+      "deu",
+      "eng"
+    ]
+  },
+  {
     "nanoid": "PeMq89eAvWMBXs",
     "name": "Epic Piano - Chillout Piano",
     "stream_urls": [
       "https://stream.epic-piano.com/chillout-piano"
+    ],
+    "country": "de",
+    "languages": [
+      "deu",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "oT3bu9cWG8YpNd",
+    "name": "Epic Piano - Romantic Piano",
+    "stream_urls": [
+      "https://stream.epic-piano.com/romantic-piano"
     ],
     "country": "de",
     "languages": [
@@ -3550,17 +3757,6 @@
     "country": "gr",
     "languages": [
       "ell"
-    ]
-  },
-  {
-    "nanoid": "NxQriIsAhbZxZ4",
-    "name": "Erotica Lounge",
-    "stream_urls": [
-      "https://stream.zeno.fm/89asra0sfa0uv"
-    ],
-    "country": "us",
-    "languages": [
-      "eng"
     ]
   },
   {
@@ -3723,6 +3919,19 @@
     ]
   },
   {
+    "nanoid": "3rfvSV3eAKGjs2",
+    "name": "FluxFM Berlin Beach House",
+    "stream_urls": [
+      "https://fluxfm.streamabc.net/flx-berlinbeachhouse-mp3-320-2854993",
+      "https://fluxfm.streamabc.net/flx-berlinbeachhouse-mp3-128-8501254",
+      "https://fluxfm.streamabc.net/flx-berlinbeachhouse-aacplus-64-4242899"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
     "nanoid": "EE4uk97iC4B8xB",
     "name": "FluxFM Chillhop",
     "stream_urls": [
@@ -3761,7 +3970,9 @@
     "nanoid": "QNk5YGl26d8ZeB",
     "name": "FluxFM FluxLounge",
     "stream_urls": [
-      "https://fluxfm.streamabc.net/flx-fluxlounge-mp3-128-8660249"
+      "https://fluxfm.streamabc.net/flx-fluxlounge-mp3-320-6616851",
+      "https://fluxfm.streamabc.net/flx-fluxlounge-mp3-128-8660249",
+      "https://fluxfm.streamabc.net/flx-fluxlounge-aacplus-64-3246257"
     ],
     "country": "de",
     "languages": [
@@ -3772,7 +3983,9 @@
     "nanoid": "RoKKfnGAfNE7aM",
     "name": "FluxFM Hippie Trippy Garden Pretty",
     "stream_urls": [
-      "https://fluxfm.streamabc.net/flx-event02-mp3-320-7134332"
+      "https://fluxfm.streamabc.net/flx-event02-mp3-320-7134332",
+      "https://fluxfm.streamabc.net/flx-event02-mp3-128-5288342",
+      "https://fluxfm.streamabc.net/flx-event02-aacplus-64-5884732"
     ],
     "country": "de",
     "languages": [
@@ -3784,7 +3997,8 @@
     "name": "FluxFM neoFM",
     "stream_urls": [
       "https://fluxfm.streamabc.net/flx-neofm-mp3-320-1670254",
-      "https://fluxfm.streamabc.net/flx-neofm-mp3-128-5182467"
+      "https://fluxfm.streamabc.net/flx-neofm-mp3-128-5182467",
+      "https://fluxfm.streamabc.net/flx-neofm-aacplus-64-5150487"
     ],
     "country": "de",
     "languages": [
@@ -4042,6 +4256,17 @@
     ]
   },
   {
+    "nanoid": "qXemkGQWOr55um",
+    "name": "Hit 88.9 Relax",
+    "stream_urls": [
+      "https://n11.radiojar.com/ecngxqha1mzuv"
+    ],
+    "country": "gr",
+    "languages": [
+      "ell"
+    ]
+  },
+  {
     "nanoid": "9wsd6nqO9W7WVF",
     "name": "Hitrádio Zóna Lásky",
     "stream_urls": [
@@ -4114,17 +4339,6 @@
     "name": "Huaiyuan Radio",
     "stream_urls": [
       "https://lhttp.qingting.fm/live/5021993/64k.mp3"
-    ],
-    "country": "cn",
-    "languages": [
-      "zho"
-    ]
-  },
-  {
-    "nanoid": "mVnb3yKH9agZqm",
-    "name": "Huangshi Economic Broadcasting",
-    "stream_urls": [
-      "https://lhttp.qingting.fm/live/3964/64k.mp3"
     ],
     "country": "cn",
     "languages": [
@@ -4543,17 +4757,6 @@
     ]
   },
   {
-    "nanoid": "eAyUg6ryJcXb6a",
-    "name": "Kamchatka Live - Chillout",
-    "stream_urls": [
-      "https://radio.kamchatkalive.ru:8103/chillout"
-    ],
-    "country": "ru",
-    "languages": [
-      "rus"
-    ]
-  },
-  {
     "nanoid": "vK5DIpaK6IUspc",
     "name": "Khaos FM",
     "stream_urls": [
@@ -4873,12 +5076,35 @@
     "nanoid": "YtOi7tT3RtFjp7",
     "name": "Lounge FM",
     "stream_urls": [
-      "https://cast.mediaonline.net.ua/loungefm320"
+      "https://cast.mediaonline.net.ua/loungefm320",
+      "https://cast.mediaonline.net.ua/chillout320"
     ],
     "country": "ua",
     "languages": [
       "ukr",
       "eng"
+    ]
+  },
+  {
+    "nanoid": "ukoBc04LIQYJC5",
+    "name": "Lounge FM Acoustic",
+    "stream_urls": [
+      "https://cast.mediaonline.net.ua/acoustic320"
+    ],
+    "country": "ua",
+    "languages": [
+      "ukr"
+    ]
+  },
+  {
+    "nanoid": "kcbphyymMb18VF",
+    "name": "Lounge FM Terrace",
+    "stream_urls": [
+      "https://cast.mediaonline.net.ua/terrace320"
+    ],
+    "country": "ua",
+    "languages": [
+      "ukr"
     ]
   },
   {
@@ -4899,7 +5125,8 @@
     "stream_urls": [
       "https://de1.streamhosting.ch/",
       "https://fr1.streamhosting.ch/lounge128.mp3",
-      "https://player.streamhosting.ch/lounge128.ogg"
+      "https://player.streamhosting.ch/lounge128.ogg",
+      "https://player.streamhosting.ch/lounge64.aac"
     ],
     "country": "ch",
     "languages": [
@@ -4939,18 +5166,6 @@
     "country": "at",
     "languages": [
       "deu"
-    ]
-  },
-  {
-    "nanoid": "pkdDCIqVNLigUG",
-    "name": "Loungetunes",
-    "stream_urls": [
-      "https://loungetunes.stream.laut.fm/loungetunes"
-    ],
-    "country": "de",
-    "languages": [
-      "deu",
-      "eng"
     ]
   },
   {
@@ -5031,6 +5246,17 @@
     "country": "fr",
     "languages": [
       "fra"
+    ]
+  },
+  {
+    "nanoid": "LGKjT6QIWrOhDL",
+    "name": "M.Deep Radio",
+    "stream_urls": [
+      "https://deephousex.ru/live"
+    ],
+    "country": "ru",
+    "languages": [
+      "rus"
     ]
   },
   {
@@ -5166,6 +5392,18 @@
     "country": "it",
     "languages": [
       "ita"
+    ]
+  },
+  {
+    "nanoid": "B1N34gqiRdEteN",
+    "name": "Medi 1 Lounge",
+    "stream_urls": [
+      "https://live.medi1.com/Lounge"
+    ],
+    "country": "ma",
+    "languages": [
+      "ara",
+      "fra"
     ]
   },
   {
@@ -5788,6 +6026,7 @@
     "name": "NRK Jazz",
     "stream_urls": [
       "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/jazz_mp3_h",
+      "https://lyd.nrk.no/nrk_radio_jazz_aac_h",
       "https://lyd.nrk.no/nrk_radio_jazz_mp3_h",
       "https://lyd.nrk.no/nrk_radio_jazz_mp3_l"
     ],
@@ -5937,6 +6176,7 @@
     "nanoid": "q2OgRZAbqVkwPr",
     "name": "Otvoreni Fitness",
     "stream_urls": [
+      "https://stream2.otvoreni.hr/fitness",
       "https://stream.otvoreni.hr/fitness"
     ],
     "country": "hr",
@@ -6284,28 +6524,6 @@
     ]
   },
   {
-    "nanoid": "EFHBfAScKgVkIa",
-    "name": "Positively Peaceful 432Hz",
-    "stream_urls": [
-      "https://streaming.positivity.radio/pr/posipeaceful/icecast.audio"
-    ],
-    "country": "ae",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "HiAtEYaXmvNFKk",
-    "name": "Positively Reiki",
-    "stream_urls": [
-      "https://streaming.positivity.radio/pr/reiki/icecast.audio"
-    ],
-    "country": "ae",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "ZXJd7nmhjcdYYM",
     "name": "Positively Rejuvenate 528Hz",
     "stream_urls": [
@@ -6508,7 +6726,6 @@
     "nanoid": "nm7jUYzX0rv6DF",
     "name": "PromoDJ - Nu",
     "stream_urls": [
-      "https://radio.promodj.com/nu-192",
       "https://radio.promodj.com/toonu-192"
     ],
     "country": "ru",
@@ -6695,6 +6912,17 @@
     ]
   },
   {
+    "nanoid": "TIrTOF5R5LFJDQ",
+    "name": "Radio Art - Ambient",
+    "stream_urls": [
+      "https://air.radioart.com/fAmbient.mp3"
+    ],
+    "country": "gr",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "eVZjGJkIcSB0bp",
     "name": "Radio Art - Ambient Piano",
     "stream_urls": [
@@ -6710,6 +6938,17 @@
     "name": "Radio Art - Antonio Vivaldi",
     "stream_urls": [
       "https://air.radioart.com/fVivaldi.mp3"
+    ],
+    "country": "gr",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "v0NPzMRyJghqKt",
+    "name": "Radio Art - Aromatherapy",
+    "stream_urls": [
+      "https://air.radioart.com/fAromatherapy.mp3"
     ],
     "country": "gr",
     "languages": [
@@ -6733,6 +6972,39 @@
     "name": "Radio Art - Baby Sleep",
     "stream_urls": [
       "https://air.radioart.online/fBaby_sleep.mp3"
+    ],
+    "country": "gr",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "dgVSME1uruDNJJ",
+    "name": "Radio Art - Cello for Sleep",
+    "stream_urls": [
+      "https://air.radioart.online/fCello_for_sleep.mp3"
+    ],
+    "country": "gr",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "HP4tAH1irELr7M",
+    "name": "Radio Art - Chillout",
+    "stream_urls": [
+      "https://air.radioart.com/fChillout.mp3"
+    ],
+    "country": "gr",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "qpk2IjiZwyq2Mu",
+    "name": "Radio Art - Chillout & Tropical",
+    "stream_urls": [
+      "https://air.radioart.com/fChillout_and_tropical.mp3"
     ],
     "country": "gr",
     "languages": [
@@ -6766,6 +7038,17 @@
     "name": "Radio Art - Deep Focus & Concentration",
     "stream_urls": [
       "https://air.radioart.online/fDeep_focus.mp3"
+    ],
+    "country": "gr",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "jvhFqQ0lEH5DL8",
+    "name": "Radio Art - Didgeridoo",
+    "stream_urls": [
+      "https://air.radioart.com/fDidgeridoo.mp3"
     ],
     "country": "gr",
     "languages": [
@@ -6830,6 +7113,28 @@
     ]
   },
   {
+    "nanoid": "aFgtYAH29cU0GE",
+    "name": "Radio Art - Inspiration",
+    "stream_urls": [
+      "https://air.radioart.com/fFor_inspiration.mp3"
+    ],
+    "country": "gr",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "IBDwZg8vt9l44h",
+    "name": "Radio Art - Instrumental",
+    "stream_urls": [
+      "https://air.radioart.com/fInstrumental.mp3"
+    ],
+    "country": "gr",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "qMnuSzaQhZkIN7",
     "name": "Radio Art - Jazz for Sleep",
     "stream_urls": [
@@ -6841,9 +7146,43 @@
     ]
   },
   {
+    "nanoid": "daq9oFM3lz4Dq7",
+    "name": "Radio Art - Joyful Classical",
+    "stream_urls": [
+      "https://air.radioart.com/fJoyful_classical.mp3"
+    ],
+    "country": "gr",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "AReCwM2aXcBClb",
+    "name": "Radio Art - Lounge",
+    "stream_urls": [
+      "https://air.radioart.com/fLounge.mp3"
+    ],
+    "country": "gr",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "qd2fS3VzkEtivW",
+    "name": "Radio Art - Love Smooth Jazz",
+    "stream_urls": [
+      "https://live.radioart.com/fLove_smooth_jazz.mp3"
+    ],
+    "country": "gr",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "f89MbwWVGxpoxl",
     "name": "Radio Art - Luciano Pavarotti",
     "stream_urls": [
+      "https://air.radioart.com/fLuciano_pavarotti.mp3",
       "https://live.radioart.com/fLuciano_pavarotti.mp3"
     ],
     "country": "gr",
@@ -6863,10 +7202,32 @@
     ]
   },
   {
+    "nanoid": "zBXQQozt4PdRbv",
+    "name": "Radio Art - Lute",
+    "stream_urls": [
+      "https://air.radioart.com/fLute.mp3"
+    ],
+    "country": "gr",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "rS9wr85zpoppXe",
     "name": "Radio Art - Mantras",
     "stream_urls": [
       "https://air.radioart.com/fMantras.mp3"
+    ],
+    "country": "gr",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "lpPJQDefpUlQYT",
+    "name": "Radio Art - Massage",
+    "stream_urls": [
+      "https://air.radioart.com/fMassage.mp3"
     ],
     "country": "gr",
     "languages": [
@@ -6890,6 +7251,17 @@
     "name": "Radio Art - Mellow Smooth Jazz",
     "stream_urls": [
       "https://live.radioart.com/fMellow_smooth_jazz.mp3"
+    ],
+    "country": "gr",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "kWW3qbeeN2IKTq",
+    "name": "Radio Art - Music for Moms",
+    "stream_urls": [
+      "https://live.radioart.com/fMusic_for_moms.mp3"
     ],
     "country": "gr",
     "languages": [
@@ -6942,6 +7314,29 @@
     ]
   },
   {
+    "nanoid": "boPaV3A396VEcr",
+    "name": "Radio Art - Peaceful Classical",
+    "stream_urls": [
+      "https://air.radioart.com/fPeaceful_classical.mp3"
+    ],
+    "country": "gr",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "BHGynvQYDDbFLm",
+    "name": "Radio Art - Piano & Guitar",
+    "stream_urls": [
+      "https://air-tunein.radioart.com/fPiano_and_guitar.mp3",
+      "https://air.radioart.com/fPiano_and_guitar.mp3"
+    ],
+    "country": "gr",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "dJemwoS26VlvV6",
     "name": "Radio Art - Piano Trios",
     "stream_urls": [
@@ -6964,11 +7359,77 @@
     ]
   },
   {
+    "nanoid": "SiwZOAPjdu2yF6",
+    "name": "Radio Art - Positivity",
+    "stream_urls": [
+      "https://air.radioart.com/fPositivity.mp3"
+    ],
+    "country": "gr",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "0G1Lp2OM5b1ABt",
+    "name": "Radio Art - Pregnancy Relaxation",
+    "stream_urls": [
+      "https://live.radioart.com/fPregnancy_relaxation.mp3"
+    ],
+    "country": "gr",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "eJGYbiXqSOLba3",
     "name": "Radio Art - Psyndora Chillout",
     "stream_urls": [
       "https://cast.magicstreams.gr:9125/stream",
       "https://cast.magicstreams.gr/sc/psychill/stream"
+    ],
+    "country": "gr",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "4sKcwsJXaZbQSo",
+    "name": "Radio Art - Reflexology",
+    "stream_urls": [
+      "https://air.radioart.com/fReflexology.mp3"
+    ],
+    "country": "gr",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "y4JenAM6Jtz0oF",
+    "name": "Radio Art - Reiki",
+    "stream_urls": [
+      "https://air.radioart.com/fReiki.mp3"
+    ],
+    "country": "gr",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "3ArJ8cSc7igtdI",
+    "name": "Radio Art - Relationship",
+    "stream_urls": [
+      "https://live.radioart.com/fRelationship.mp3"
+    ],
+    "country": "gr",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "1PaIKgvggDoPjC",
+    "name": "Radio Art - Relaxing (Piano, Violin & Cello)",
+    "stream_urls": [
+      "https://air.radioart.com/fRelaxing.mp3"
     ],
     "country": "gr",
     "languages": [
@@ -6990,7 +7451,41 @@
     "nanoid": "mL8yTvDrXTzJzK",
     "name": "Radio Art - Sleep",
     "stream_urls": [
+      "https://air-tunein.radioart.com/fSleep.mp3",
       "https://air.radioart.com/fSleep.mp3"
+    ],
+    "country": "gr",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "jdZafgboKvVt5O",
+    "name": "Radio Art - Smooth Bossa Nova",
+    "stream_urls": [
+      "https://live.radioart.com/fSmooth_bossa_nova.mp3"
+    ],
+    "country": "gr",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "hYC4s0dGfDR0kf",
+    "name": "Radio Art - Smooth Jazz",
+    "stream_urls": [
+      "https://live.radioart.com/fSmooth_jazz.mp3"
+    ],
+    "country": "gr",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "NgCaKxGUWdUsbP",
+    "name": "Radio Art - Smooth Lounge",
+    "stream_urls": [
+      "https://air.radioart.com/fSmooth_lounge.mp3"
     ],
     "country": "gr",
     "languages": [
@@ -7002,6 +7497,28 @@
     "name": "Radio Art - Smooth Up Tempo",
     "stream_urls": [
       "https://air.radioart.com/fSmooth_up_tempo.mp3"
+    ],
+    "country": "gr",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "9AIpmo1VLjBsa9",
+    "name": "Radio Art - Smooth Vocal",
+    "stream_urls": [
+      "https://live.radioart.com/fSmooth_vocal.mp3"
+    ],
+    "country": "gr",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "mMGztq3hmKrqMn",
+    "name": "Radio Art - Solo Guitar",
+    "stream_urls": [
+      "https://air.radioart.com/fSolo_guitar.mp3"
     ],
     "country": "gr",
     "languages": [
@@ -7038,6 +7555,17 @@
     "name": "Radio Art - Violin Works",
     "stream_urls": [
       "https://air.radioart.com/fViolin_works.mp3"
+    ],
+    "country": "gr",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "S2ulhX7PzUixJ9",
+    "name": "Radio Art - Vocal Lounge",
+    "stream_urls": [
+      "https://air.radioart.com/fVocal_lounge.mp3"
     ],
     "country": "gr",
     "languages": [
@@ -7139,6 +7667,11 @@
     "name": "RADIO BOB! Unplugged",
     "stream_urls": [
       "https://streams.radiobob.de/bob-chillout/mp3-192/mediaplayer/",
+      "https://streams.radiobob.de/bob-chillout/aac-64/streams.radiobob.de/",
+      "https://streams.radiobob.de/bob-chillout/mp3-192/streams.radiobob.de/",
+      "https://streams.radiobob.de/bob-chillout/mp3-192/homepage/",
+      "https://streams.radiobob.de/bob-chillout/aac-64/",
+      "https://streams.radiobob.de/bob-chillout/mp3-192/",
       "https://streams.radiobob.de/bob-chillout/aac-64/mediaplayer/"
     ],
     "country": "de",
@@ -7350,6 +7883,17 @@
     "country": "de",
     "languages": [
       "deu"
+    ]
+  },
+  {
+    "nanoid": "yX01PxW8NWMOC2",
+    "name": "Radio Freedom",
+    "stream_urls": [
+      "https://stream.zeno.fm/sbm7c72dbkhvv"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
     ]
   },
   {
@@ -7644,6 +8188,17 @@
     ]
   },
   {
+    "nanoid": "7rYGWzYzuqxv0B",
+    "name": "Radio ON - Smooth Jazz",
+    "stream_urls": [
+      "https://0n-smoothjazz.radionetz.de/0n-smoothjazz.mp3"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
     "nanoid": "0JRC3kfgVwTXJo",
     "name": "Radio Paradise",
     "stream_urls": [
@@ -7722,17 +8277,6 @@
     "country": "pl",
     "languages": [
       "pol"
-    ]
-  },
-  {
-    "nanoid": "RX1VXMZgbMfRUT",
-    "name": "Radio Picados",
-    "stream_urls": [
-      "https://stream.picados.beer/radio/live"
-    ],
-    "country": "cl",
-    "languages": [
-      "spa"
     ]
   },
   {
@@ -7880,6 +8424,17 @@
     ]
   },
   {
+    "nanoid": "tMZdEUvq9FI38E",
+    "name": "Radio Regenbogen - Soft & Lazy",
+    "stream_urls": [
+      "https://stream.regenbogen.de/softlazy/mp3-128/radiobrowser"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
     "nanoid": "1Q2t8oH3DrqaR4",
     "name": "Radio Relax",
     "stream_urls": [
@@ -7954,6 +8509,17 @@
     "country": "ru",
     "languages": [
       "rus"
+    ]
+  },
+  {
+    "nanoid": "2J1y1xOr9Q4Rbs",
+    "name": "Radio Rudina",
+    "stream_urls": [
+      "https://azuracast.datea.services:8000/radio.mp3"
+    ],
+    "country": "at",
+    "languages": [
+      "eng"
     ]
   },
   {
@@ -8247,17 +8813,6 @@
     ]
   },
   {
-    "nanoid": "o67N2FpGBPWYZu",
-    "name": "Rain Sounds",
-    "stream_urls": [
-      "https://stream.zeno.fm/ckptaagp6x8uv"
-    ],
-    "country": "cn",
-    "languages": [
-      "zho"
-    ]
-  },
-  {
     "nanoid": "Uy2wbX00Tu5iEa",
     "name": "RauteMusik Coffee Music",
     "stream_urls": [
@@ -8278,6 +8833,19 @@
     "languages": [
       "deu",
       "eng"
+    ]
+  },
+  {
+    "nanoid": "b85sJmDBI9NUNm",
+    "name": "RauteMusik Lounge",
+    "stream_urls": [
+      "https://lounge-high.rautemusik.fm/",
+      "https://rautemusik-de-hz-fal-stream15.radiohost.de/lounge",
+      "https://lounge-aacp.rautemusik.fm/"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
     ]
   },
   {
@@ -8724,10 +9292,24 @@
     ]
   },
   {
+    "nanoid": "loiwi2G7Y4WZov",
+    "name": "RPR1. Chillout Zone",
+    "stream_urls": [
+      "https://streams.rpr1.de/rpr-chilloutzone-128-mp3",
+      "https://streams.rpr1.de/rpr-chilloutzone-128-aac"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
     "nanoid": "t0t6WCEFrqRekf",
     "name": "RPR1. Lounge",
     "stream_urls": [
-      "https://streams.rpr1.de/lounge-128-mp3"
+      "https://streams.rpr1.de/lounge-128-mp3",
+      "https://streams.rpr1.de/rpr-lounge-128-mp3",
+      "https://streams.rpr1.de/rpr-lounge-128-aac"
     ],
     "country": "de",
     "languages": [
@@ -8739,6 +9321,19 @@
     "name": "RPR1. Musik-Bar",
     "stream_urls": [
       "https://stream.rpr1.de/musikbar/mp3-128/radio-browser"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "LQ4uFyxIlKmJmK",
+    "name": "RPR1. Yoga Sounds",
+    "stream_urls": [
+      "https://streams.rpr1.de/rpr-entspannung-128-mp3",
+      "https://streams.rpr1.de/rpr-entspannung-128-aac",
+      "https://stream.rpr1.de/yogasounds/mp3-128/radiobrowser"
     ],
     "country": "de",
     "languages": [
@@ -8838,7 +9433,6 @@
     "nanoid": "GKYa09oecSOMp8",
     "name": "SerrebiRadio",
     "stream_urls": [
-      "https://radio.serrebiradio.com/listen/serrebiradio/SerrebiRadio",
       "https://radio.serrebiradio.com/listen/serrebiradio/SerrebiRadioHD"
     ],
     "country": "ca",
@@ -9300,8 +9894,7 @@
     "name": "SmoothJazz.com.pl",
     "stream_urls": [
       "https://bcast.vigormultimedia.com:48888/sjcompl320mp3",
-      "https://bcast.vigormultimedia.com:48888/sjcompl192aac",
-      "https://bcast.vigormultimedia.com:48888/sjcompl64aac"
+      "https://bcast.vigormultimedia.com:48888/sjcompl192aac"
     ],
     "country": "pl",
     "languages": [
@@ -9485,7 +10078,6 @@
     "nanoid": "b4PjrkQQ5oMEhK",
     "name": "SomaFM: Secret Agent",
     "stream_urls": [
-      "https://ice6.somafm.com/secretagent-64-aac",
       "https://ice.somafm.com/secretagent",
       "https://ice3.somafm.com/secretagent-128-aac"
     ],
@@ -9742,7 +10334,8 @@
     "nanoid": "d6z9nilnlXDzVJ",
     "name": "sunshine live - Lounge",
     "stream_urls": [
-      "https://stream.sunshine-live.de/lounge/mp3-192"
+      "https://stream.sunshine-live.de/lounge/mp3-192",
+      "https://stream.sunshine-live.de/lounge/mp3-192/stream.sunshine-live.de/"
     ],
     "country": "de",
     "languages": [
@@ -10084,17 +10677,6 @@
     "country": "de",
     "languages": [
       "deu"
-    ]
-  },
-  {
-    "nanoid": "Kj6nHIW26YxNB7",
-    "name": "Tracks Audio - Chill House",
-    "stream_urls": [
-      "https://radiospromo.com/listen/tracksaudio.com_-_chill_house_music/radio.mp3"
-    ],
-    "country": "gr",
-    "languages": [
-      "eng"
     ]
   },
   {
@@ -10597,17 +11179,6 @@
     ]
   },
   {
-    "nanoid": "U4ZYfrIL4aHTwg",
-    "name": "Радио Красота",
-    "stream_urls": [
-      "https://radiokrasota.ru:1035/stream"
-    ],
-    "country": "ru",
-    "languages": [
-      "rus"
-    ]
-  },
-  {
     "nanoid": "A6KLYIiEKpZtqJ",
     "name": "Радио Мантра",
     "stream_urls": [
@@ -10634,6 +11205,17 @@
     "name": "Радио Новая Волна: Для души",
     "stream_urls": [
       "https://stream.radionv.ru:4265/stream"
+    ],
+    "country": "ru",
+    "languages": [
+      "rus"
+    ]
+  },
+  {
+    "nanoid": "124icRPl3JRox6",
+    "name": "Радио Пляж",
+    "stream_urls": [
+      "https://stream.pcradio.ru/radio_beach_net-med"
     ],
     "country": "ru",
     "languages": [

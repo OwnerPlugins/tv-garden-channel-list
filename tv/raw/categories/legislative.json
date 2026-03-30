@@ -52,6 +52,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "MYnHsDG9stKwV8",
+    "name": "ARTV Canal Parlamento",
+    "stream_urls": [
+      "https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "por"
+    ],
+    "country": "pt",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "1q3kaCpiJgYIgc",
     "name": "Assembleia SC: AO VIVO",
     "stream_urls": [],
@@ -61,7 +74,6 @@
     "languages": [
       "por"
     ],
-    "language": "por",
     "country": "br",
     "isGeoBlocked": false
   },
@@ -169,6 +181,19 @@
       "spa"
     ],
     "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zjs8fScsFVoj7q",
+    "name": "Canal Parlamento del Congreso de Jalisco",
+    "stream_urls": [
+      "https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
     "isGeoBlocked": false
   },
   {
@@ -293,12 +318,11 @@
     "name": "Congreso del Perú en Vivo",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/JQQkk4SgeAI"
+      "https://www.youtube-nocookie.com/embed/H7LS3xLYb40"
     ],
     "languages": [
       "spa"
     ],
-    "language": "spa",
     "country": "pe",
     "isGeoBlocked": false
   },
@@ -320,19 +344,6 @@
     "name": "Cruz TV",
     "stream_urls": [
       "https://reflect-communitytv.cablecast.tv/live-4/live/stream-2/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rIKYP5py1TrF7Q",
-    "name": "CT-N Court Feed",
-    "stream_urls": [
-      "https://video.ct-n.com/live/ctnSupreme/playlist_DVR.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -399,19 +410,6 @@
     "stream_urls": [
       "https://video.oct.dc.gov/out/u/15_12.m3u8",
       "https://video.oct.dc.gov/out/u/DCC.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Nf4iMslErjtXta",
-    "name": "DC.gov Council Hearing Room 120 (Washington DC)",
-    "stream_urls": [
-      "https://video.oct.dc.gov/out/u/97_12.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -886,21 +884,7 @@
     "languages": [
       "slv"
     ],
-    "language": "slv",
     "country": "si",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "c0XE4mMPfOFYJz",
-    "name": "Olelo Community Media Channel 49",
-    "stream_urls": [
-      "https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_009/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -935,19 +919,6 @@
     "name": "Orange Government Access TV (Orange CT)",
     "stream_urls": [
       "https://livestream.telvue.com/ogat1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "iPhkcC76kYpp0C",
-    "name": "Palm Beach County TV Channel 20 (Palm Beach County FL)",
-    "stream_urls": [
-      "https://pbcvideostreams1.pbc.gov/memfs/1af49f9a-6b90-4ec2-a640-7f65ceebed4a.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1101,20 +1072,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "TGxMGkMiPXHlY0",
-    "name": "Rio TV Câmara",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/huSXzWgbmBc"
-    ],
-    "languages": [
-      "por"
-    ],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "rq2drD41O4s9tZ",
     "name": "Sangsad TV",
     "stream_urls": [
@@ -1131,9 +1088,21 @@
     "nanoid": "02FZNtdjYpb1eU",
     "name": "Sansad TV 1",
     "stream_urls": [
-      "https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8",
       "https://hls.media.nic.in/hls/live/lstv/lstv.m3u8",
       "https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "hin"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "j8GjIxe1UG7jq7",
+    "name": "Sansad TV 1 HD",
+    "stream_urls": [
+      "https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1279,12 +1248,11 @@
     "name": "TV Assembleia Minas Gerais",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/11kLbcva4F0"
+      "https://www.youtube-nocookie.com/embed/G7DKJQmPj0Y"
     ],
     "languages": [
       "por"
     ],
-    "language": "por",
     "country": "br",
     "isGeoBlocked": false
   },
@@ -1302,6 +1270,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ljxQJllBAK9Pvk",
+    "name": "TV Câmara Porto Alegre",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/Lzyj1lnQpHs"
+    ],
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "l4Wb4BRdTvGYCb",
     "name": "TV Justiça",
     "stream_urls": [],
@@ -1311,7 +1292,6 @@
     "languages": [
       "por"
     ],
-    "language": "por",
     "country": "br",
     "isGeoBlocked": false
   },
@@ -1547,6 +1527,19 @@
       "ell"
     ],
     "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jdtDDFx09GQYAn",
+    "name": "Дума ТВ",
+    "stream_urls": [
+      "https://dumatv.iptv2022.com/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
     "isGeoBlocked": false
   }
 ]

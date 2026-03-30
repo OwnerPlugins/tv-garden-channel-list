@@ -255,7 +255,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "de",
     "isGeoBlocked": false
   },
@@ -396,7 +395,7 @@
     "name": "DW English",
     "stream_urls": [
       "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8",
-      "https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8"
+      "https://liveh12.vtvprime.vn/hls/DW/03.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/LuKwFajn37U"
@@ -430,7 +429,6 @@
     "languages": [
       "spa"
     ],
-    "language": "spa",
     "country": "de",
     "isGeoBlocked": false
   },
@@ -583,7 +581,6 @@
     "languages": [
       "deu"
     ],
-    "language": "deu",
     "country": "de",
     "isGeoBlocked": false
   },
@@ -645,7 +642,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "de",
     "isGeoBlocked": false
   },
@@ -659,7 +655,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "de",
     "isGeoBlocked": false
   },
@@ -747,7 +742,9 @@
     "stream_urls": [
       "https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8"
     ],
-    "youtube_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/vbKz0nMFKGY"
+    ],
     "languages": [
       "deu"
     ],
@@ -777,7 +774,6 @@
     "languages": [
       "deu"
     ],
-    "language": "deu",
     "country": "de",
     "isGeoBlocked": false
   },
@@ -946,6 +942,17 @@
     "languages": [
       "deu"
     ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1vBPSqBW9LaA0Z",
+    "name": "MyTime Movie Network Germany",
+    "stream_urls": [
+      "https://appletree-mytimemoviegerman-rakuten.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
     "country": "de",
     "isGeoBlocked": false
   },
@@ -1167,7 +1174,6 @@
     "languages": [
       "deu"
     ],
-    "language": "deu",
     "country": "de",
     "isGeoBlocked": false
   },
@@ -1194,7 +1200,6 @@
     "languages": [
       "deu"
     ],
-    "language": "deu",
     "country": "de",
     "isGeoBlocked": false
   },
@@ -1208,7 +1213,6 @@
     "languages": [
       "deu"
     ],
-    "language": "deu",
     "country": "de",
     "isGeoBlocked": false
   },
@@ -1236,6 +1240,17 @@
     "languages": [
       "deu"
     ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rahlDGPnE1FWrR",
+    "name": "Rakuten TV Crime Series Germany",
+    "stream_urls": [
+      "https://b6244e915ee04a5aa758e863a55a6a3d.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6217/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
     "country": "de",
     "isGeoBlocked": false
   },
@@ -1462,6 +1477,19 @@
       "https://bild-und-ton.stream/snj-de/snj-de.smil/.m3u8"
     ],
     "youtube_urls": [],
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Shv7333JOv8tjv",
+    "name": "Shop LC",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/omxxaJLELAE"
+    ],
     "languages": [
       "deu"
     ],
@@ -1927,23 +1955,13 @@
     "nanoid": "Rbcaed64dSHjvH",
     "name": "World of Freesports",
     "stream_urls": [
-      "https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8"
+      "https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8",
+      "https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
       "deu"
     ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Rbcaed64dSHjvH",
-    "name": "World of Freesports",
-    "stream_urls": [
-      "https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
     "country": "de",
     "isGeoBlocked": false
   }

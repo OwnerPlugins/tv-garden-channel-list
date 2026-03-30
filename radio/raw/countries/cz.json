@@ -272,7 +272,8 @@
     "nanoid": "IJAGOUeFV1RXaB",
     "name": "Frekvence 1",
     "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/FREKVENCE1.mp3"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/FREKVENCE1.mp3",
+      "https://ice.actve.net/fm-frekvence1-aac"
     ],
     "country": "cz",
     "languages": [
@@ -796,6 +797,30 @@
     ]
   },
   {
+    "nanoid": "NpKnYf6l8RCovL",
+    "name": "Radio Farda",
+    "stream_urls": [
+      "https://stream.radiojar.com/cp13r2cpn3quv",
+      "https://n01.radiojar.com/cp13r2cpn3quv",
+      "https://rfe21.akacast.akamaistream.net/7/751/437779/v1/ibb.akacast.akamaistream.net/rfe21"
+    ],
+    "country": "cz",
+    "languages": [
+      "fas"
+    ]
+  },
+  {
+    "nanoid": "DDlCEO0SwcRteg",
+    "name": "Radio Free Europe/Radio Liberty",
+    "stream_urls": [
+      "https://n05.radiojar.com/wm9sntcpn3quv"
+    ],
+    "country": "cz",
+    "languages": [
+      "rus"
+    ]
+  },
+  {
     "nanoid": "7n2ZMGemw0jVoy",
     "name": "Radio Haná",
     "stream_urls": [
@@ -890,7 +915,9 @@
     "nanoid": "ulHbdzmz1raY72",
     "name": "Radio Prague International",
     "stream_urls": [
-      "https://rozhlas.stream/radio_prague_int_high.aac"
+      "https://rozhlas.stream/cro7_mp3_128.mp3",
+      "https://rozhlas.stream/radio_prague_int_high.aac",
+      "https://icecast2.play.cz/cro7-128.mp3"
     ],
     "country": "cz",
     "languages": [
@@ -1142,7 +1169,8 @@
     "nanoid": "d0fbBj3x6u3ZUk",
     "name": "Rádio Jih",
     "stream_urls": [
-      "https://icecast6.play.cz/jih32.mp3"
+      "https://icecast6.play.cz/jih32.mp3",
+      "https://icecast6.play.cz/jih128.mp3"
     ],
     "country": "cz",
     "languages": [
@@ -1205,6 +1233,17 @@
     ]
   },
   {
+    "nanoid": "8lEvkQcf3oS0rB",
+    "name": "Rádio O 106",
+    "stream_urls": [
+      "https://www.radioking.com/play/o106"
+    ],
+    "country": "cz",
+    "languages": [
+      "ces"
+    ]
+  },
+  {
     "nanoid": "5qJxfnwQ7BlJ1j",
     "name": "Rádio Pohádka",
     "stream_urls": [
@@ -1241,7 +1280,6 @@
     "nanoid": "Y092PJAm8VTgON",
     "name": "Rádio Samson",
     "stream_urls": [
-      "https://icecast8.play.cz/samsonfm128.mp3",
       "https://icecast2.play.cz/samsonfm128aac"
     ],
     "country": "cz",
@@ -1487,17 +1525,6 @@
     ]
   },
   {
-    "nanoid": "Z9rX60A0ug0n1w",
-    "name": "Český rozhlas Ostrava",
-    "stream_urls": [
-      "https://rozhlas.stream/ostrava_high.aac"
-    ],
-    "country": "cz",
-    "languages": [
-      "ces"
-    ]
-  },
-  {
     "nanoid": "TGCDQZOWi5a0m2",
     "name": "Český rozhlas Plus",
     "stream_urls": [
@@ -1690,6 +1717,17 @@
     "country": "cz",
     "languages": [
       "tgk"
+    ]
+  },
+  {
+    "nanoid": "0uYniFneizDwYZ",
+    "name": "Радыё Свабода",
+    "stream_urls": [
+      "https://n0b.radiojar.com/zv9u3eapn3quv"
+    ],
+    "country": "cz",
+    "languages": [
+      "bel"
     ]
   },
   {

@@ -65,6 +65,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "lhFBUBQYMx1tnO",
+    "name": "Canal 10",
+    "stream_urls": [
+      "https://acceso.mediosdecostarica.com:3606/live/canal10costaricalive.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Z3J6UkFFEng975",
     "name": "Canal 17 TV Nosara",
     "stream_urls": [
@@ -79,7 +92,7 @@
     "nanoid": "O4M3Z3Jo7F6qrX",
     "name": "Cartago Medios TV",
     "stream_urls": [
-      "https://acceso.mediosdecostarica.com:3511/live/cartagomediostvlive.m3u8"
+      "https://acceso.mediosdecostarica.com:3511/stream/play.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -223,12 +236,11 @@
     "name": "Multimedios Costa Rica",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/KArOnszcDBA"
+      "https://www.youtube-nocookie.com/embed/QVK3kfjZP3g"
     ],
     "languages": [
       "spa"
     ],
-    "language": "spa",
     "country": "cr",
     "isGeoBlocked": false
   },
@@ -275,7 +287,8 @@
     "nanoid": "Oxstp5zvFaS9ZH",
     "name": "Retrox TV",
     "stream_urls": [
-      "https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/chunks.m3u8"
+      "https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/chunks.m3u8",
+      "https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -302,6 +315,19 @@
     "name": "Sarapiqui TV",
     "stream_urls": [
       "https://lstv.duckdns.org:449/hls/stv.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2ogrHzPUOLVEgc",
+    "name": "SOY Plancha TV",
+    "stream_urls": [
+      "https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -354,6 +380,19 @@
     "name": "Telered Television",
     "stream_urls": [
       "https://k20.usastreams.com:8081/telered/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "aeI6TVNDKNvZiP",
+    "name": "TeleSUR Costa Rica",
+    "stream_urls": [
+      "https://s1.tvdatta.com:3582/live/telesurlive.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

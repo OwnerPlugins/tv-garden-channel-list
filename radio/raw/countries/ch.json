@@ -1212,7 +1212,8 @@
     "stream_urls": [
       "https://de1.streamhosting.ch/",
       "https://fr1.streamhosting.ch/lounge128.mp3",
-      "https://player.streamhosting.ch/lounge128.ogg"
+      "https://player.streamhosting.ch/lounge128.ogg",
+      "https://player.streamhosting.ch/lounge64.aac"
     ],
     "country": "ch",
     "languages": [
@@ -2329,7 +2330,6 @@
     "nanoid": "RFx4FgfJYRAByu",
     "name": "Radio Vostok",
     "stream_urls": [
-      "https://radiovostok.ice.infomaniak.ch/lavostoke.aac",
       "https://radiovostok.ice.infomaniak.ch/radiovostok.aac"
     ],
     "country": "ch",
@@ -2618,6 +2618,17 @@
     ]
   },
   {
+    "nanoid": "Gt6ee35jTpEMRf",
+    "name": "Sabaton Radio",
+    "stream_urls": [
+      "https://stream.pcradio.ru/sabaton-hi"
+    ],
+    "country": "ch",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "cW0raGWKNF3BjY",
     "name": "Spoon Radio",
     "stream_urls": [
@@ -2716,6 +2727,17 @@
     "languages": [
       "eng",
       "deu"
+    ]
+  },
+  {
+    "nanoid": "lWxPhJxiJd9VkP",
+    "name": "Ta Radio",
+    "stream_urls": [
+      "https://stream.taradio.ch/dab"
+    ],
+    "country": "ch",
+    "languages": [
+      "fra"
     ]
   },
   {
