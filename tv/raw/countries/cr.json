@@ -39,6 +39,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "1LD9fRGKwL67SK",
+    "name": "BestClasicosTV",
+    "stream_urls": [
+      "https://acceso.mediosdecostarica.com:3873/multi_live/play.m3u8",
+      "https://acceso.mediosdecostarica.com:3873/live/bestclasicostvlive.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "X0fe1ozGC5qVsh",
     "name": "Canal 1",
     "stream_urls": [
@@ -65,19 +79,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "lhFBUBQYMx1tnO",
-    "name": "Canal 10",
-    "stream_urls": [
-      "https://acceso.mediosdecostarica.com:3606/live/canal10costaricalive.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Z3J6UkFFEng975",
     "name": "Canal 17 TV Nosara",
     "stream_urls": [
@@ -92,7 +93,7 @@
     "nanoid": "O4M3Z3Jo7F6qrX",
     "name": "Cartago Medios TV",
     "stream_urls": [
-      "https://acceso.mediosdecostarica.com:3511/stream/play.m3u8"
+      "https://acceso.mediosdecostarica.com:3511/live/cartagomediostvlive.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -180,10 +181,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GD6GIT9MV0x6kz",
-    "name": "Garabito TV",
+    "nanoid": "WGsDfHy5YE0QGF",
+    "name": "GAMTV.cr",
     "stream_urls": [
-      "https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8"
+      "https://v2.azulstream.com:8081/gamtv/gamtv/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -193,10 +194,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vPLx0tYa5CbY79",
-    "name": "Gex TV",
+    "nanoid": "GD6GIT9MV0x6kz",
+    "name": "Garabito TV",
     "stream_urls": [
-      "https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8"
+      "https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -236,7 +237,7 @@
     "name": "Multimedios Costa Rica",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/QVK3kfjZP3g"
+      "https://www.youtube-nocookie.com/embed/I6g7Bu357zw"
     ],
     "languages": [
       "spa"
@@ -284,20 +285,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Oxstp5zvFaS9ZH",
-    "name": "Retrox TV",
-    "stream_urls": [
-      "https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/chunks.m3u8",
-      "https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "KWtXBE79zVCsGO",
     "name": "San José TV",
     "stream_urls": [
@@ -315,19 +302,6 @@
     "name": "Sarapiqui TV",
     "stream_urls": [
       "https://lstv.duckdns.org:449/hls/stv.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2ogrHzPUOLVEgc",
-    "name": "SOY Plancha TV",
-    "stream_urls": [
-      "https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -419,6 +393,19 @@
     "name": "TV Sur Canal 14",
     "stream_urls": [
       "https://k20.usastreams.com:8081/tvsur/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "sue3ShLLkmrNlc",
+    "name": "Urbano TV",
+    "stream_urls": [
+      "https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

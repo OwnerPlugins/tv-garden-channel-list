@@ -1,18 +1,5 @@
 [
   {
-    "nanoid": "lJZF8lFAuSkpYI",
-    "name": "30A Golf Kingdom",
-    "stream_urls": [
-      "https://30a-tv.com/feeds/vidaa/golf.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "UyP5uli9gNPXtq",
     "name": "A Spor",
     "stream_urls": [],
@@ -172,6 +159,19 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "haAQVTXfQJECVE",
+    "name": "CazeTV (1080i)",
+    "stream_urls": [
+      "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Mut1mafEBDelBc",
     "name": "CBS Sports Golazo Network",
     "stream_urls": [
@@ -198,19 +198,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "upZUS4jnd1EPJG",
-    "name": "Chelsea Football Club",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/rTly9cYoMms"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "eR1xoR8d2AHyV1",
     "name": "DAZN Combat",
     "stream_urls": [
@@ -228,7 +215,8 @@
     "name": "DD Sports SD",
     "stream_urls": [
       "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8",
-      "https://cdn-6.pishow.tv/live/13/master.m3u8"
+      "https://cdn-6.pishow.tv/live/13/master.m3u8",
+      "https://mumt02.tangotv.in/DDSPORTS/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -256,7 +244,7 @@
     "name": "Enduro Life Media",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/qRE2ysbhvZ4"
+      "https://www.youtube-nocookie.com/embed/TrYl7woH7wE"
     ],
     "languages": [
       "eng"
@@ -346,7 +334,8 @@
     "nanoid": "LRBUacm9msNRQ8",
     "name": "Fight Network",
     "stream_urls": [
-      "https://amg00966-amg00966c10-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0081/playlist.m3u8"
+      "https://amg00966-amg00966c10-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0081/playlist.m3u8",
+      "https://a-cdn.klowdtv.com/live2/fight_720p/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -397,6 +386,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "4r0QKfGoGD09Z7",
+    "name": "FTV",
+    "stream_urls": [
+      "https://master.tucableip.com/ftvhd/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "rSbwbBDpFexSew",
     "name": "fubo Sports Network",
     "stream_urls": [
@@ -435,6 +437,19 @@
       "tgk"
     ],
     "country": "tj",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3PWIwG9FFIlO5Y",
+    "name": "Game+",
+    "stream_urls": [
+      "https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
     "isGeoBlocked": false
   },
   {
@@ -635,19 +650,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Da460ZcoL5SJKT",
-    "name": "Multivisión Sports",
-    "stream_urls": [
-      "https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "gt",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "RcmUVMpfqvK186",
     "name": "NBA TV",
     "stream_urls": [
@@ -701,19 +703,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "g2M151IR177r4N",
-    "name": "Nudge Sports Channel",
-    "stream_urls": [
-      "https://streams.comclark.com/live_input/nudge_sports/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "ph",
     "isGeoBlocked": false
   },
   {
@@ -987,8 +976,8 @@
     "name": "SportsGrid",
     "stream_urls": [
       "https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8",
-      "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
-      "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8"
+      "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8",
+      "https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1136,6 +1125,7 @@
     "nanoid": "KqqtNJzLvYMM8F",
     "name": "Trace Sports Stars",
     "stream_urls": [
+      "https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8",
       "https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1317,24 +1307,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HoPPiJ6zSU8JBV",
-    "name": "W14DK-D 14.5 All Sports Television Network",
-    "stream_urls": [
-      "https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "jZEkpGlt5AGs91",
     "name": "WCW",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/lD8PpHHJvms"
+      "https://www.youtube-nocookie.com/embed/SIBP7u0tDJY"
     ],
     "languages": [
       "eng"
@@ -1419,7 +1396,7 @@
     "name": "WWE",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/AkeYTf2Itwk"
+      "https://www.youtube-nocookie.com/embed/-b4UEAGPBBQ"
     ],
     "languages": [
       "eng"
@@ -1432,7 +1409,7 @@
     "name": "WWE Vault",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/6eGh6PkcnCM"
+      "https://www.youtube-nocookie.com/embed/yqYTyztFSw8"
     ],
     "languages": [
       "eng"

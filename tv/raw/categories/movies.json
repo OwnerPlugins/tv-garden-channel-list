@@ -27,19 +27,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "y94OEClSj765DZ",
-    "name": "30A TV Classic Movies",
-    "stream_urls": [
-      "https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "dxikGwdAEpOW2i",
     "name": "ABN Bible Movies",
     "stream_urls": [
@@ -106,6 +93,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "P7GocxvCrb9Z27",
+    "name": "All Time Movies",
+    "stream_urls": [
+      "https://mumt03.tangotv.in/ALLTIMEMOVIES/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "hin"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "miNrjenD6E2QJg",
     "name": "alpha Cinema",
     "stream_urls": [
@@ -145,10 +145,24 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "qS9h25t8tf42wr",
+    "name": "Aurora Media Films",
+    "stream_urls": [
+      "https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "gt",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "xXmpVBCoUAjDqh",
     "name": "B4U Bhojpuri",
     "stream_urls": [
-      "https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8"
+      "https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8",
+      "https://mumt05.tangotv.in/B4UBHOJPURI/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -162,7 +176,8 @@
     "name": "B4U Kadak",
     "stream_urls": [
       "https://amg00877-b4unew-amg00877c4-lg-in-5452.playouts.now.amagi.tv/playlist.m3u8",
-      "https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8"
+      "https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8",
+      "https://mumt02.tangotv.in/B4UKADAK/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -176,7 +191,8 @@
     "name": "B4U Movies",
     "stream_urls": [
       "https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u8",
-      "https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8"
+      "https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8",
+      "https://mumt02.tangotv.in/B4UMOVIES/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -209,19 +225,6 @@
       "uzb"
     ],
     "country": "uz",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "5fPdHbPWBlhNGl",
-    "name": "Boreal",
-    "stream_urls": [
-      "https://mlb.essastream.com:8081/borealtelevision/tracks-v1a1/mono.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "do",
     "isGeoBlocked": false
   },
   {
@@ -554,7 +557,8 @@
     "nanoid": "Z3ikslJzUV8EMT",
     "name": "Goldmines",
     "stream_urls": [
-      "https://cdn-2.pishow.tv/live/1459/master.m3u8"
+      "https://cdn-2.pishow.tv/live/1459/master.m3u8",
+      "https://mumt04.tangotv.in/GOLDMINES/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -788,7 +792,8 @@
     "nanoid": "9tdQOe3oPZhf4V",
     "name": "Kairali We",
     "stream_urls": [
-      "https://cdn-3.pishow.tv/live/1530/master.m3u8"
+      "https://cdn-3.pishow.tv/live/1530/master.m3u8",
+      "https://mumt01.tangotv.in/WETV/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -863,23 +868,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xJcplFZvvoAwWP",
-    "name": "Maah TV",
-    "stream_urls": [
-      "https://hls.maahtv.live/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fas"
-    ],
-    "country": "my",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "tWWWWJwjjkFKBL",
     "name": "Maha Movie",
     "stream_urls": [
-      "https://cdn-6.pishow.tv/live/10007/master.m3u8"
+      "https://cdn-6.pishow.tv/live/10007/master.m3u8",
+      "https://mumt02.tangotv.in/MAHAMOVIE/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -899,45 +892,6 @@
       "hin"
     ],
     "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "eYL7gjaPIYarUU",
-    "name": "Max Movies",
-    "stream_urls": [
-      "https://live.maxtn.in/maxmovies/maxmovies/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "tam"
-    ],
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fG091FxoA2NCwZ",
-    "name": "MCI Televisión",
-    "stream_urls": [
-      "https://video.ejeserver.com/live/mcitelevision.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "CH0OBldtzqtjEK",
-    "name": "Mega Cine TV",
-    "stream_urls": [
-      "https://mlb.essastream.com:8081/megacinetv/tracks-v1a1/mono.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "do",
     "isGeoBlocked": false
   },
   {
@@ -967,6 +921,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "3oZt6WW4bpgdn6",
+    "name": "MH One Movies",
+    "stream_urls": [
+      "https://mumt03.tangotv.in/MHONEMOVIE/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "hin"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "zNKcIL8vSfNOiJ",
     "name": "Mix Hollywood",
     "stream_urls": [
@@ -977,6 +944,19 @@
       "ara"
     ],
     "country": "eg",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Ja6UIGMi8J4VxL",
+    "name": "Movieplex",
+    "stream_urls": [
+      "https://mumt04.tangotv.in/MOVIEPLEX/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "hin"
+    ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
@@ -1034,23 +1014,9 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hNQTzHtY43GPXe",
-    "name": "MyTime Movie Network",
-    "stream_urls": [
-      "https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "OO4sfDrtpxEZzI",
     "name": "MyTime Movie Network",
     "stream_urls": [
-      "https://mytime-tcl.amagi.tv/playlist.m3u8",
       "https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1192,6 +1158,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "WcVSwnwXJXy7AW",
+    "name": "Public Movies",
+    "stream_urls": [
+      "https://mumt04.tangotv.in/PUBLICMOVIES/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "kan"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "v5Cnt9e5fETRq9",
     "name": "QTV-3",
     "stream_urls": [
@@ -1205,14 +1184,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "cZ8WdRSawqzh4E",
-    "name": "Rakuten TV Action Movies Finland",
+    "nanoid": "OfgEoWKYhuXnuw",
+    "name": "Rakuten Top Movies UK",
     "stream_urls": [
-      "https://bca5a421a70c46ad911efd0a4767c4bf.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6075/master.m3u8"
+      "https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
-      "fin"
+      "eng"
     ],
     "country": "es",
     "isGeoBlocked": false
@@ -1226,6 +1205,19 @@
     "youtube_urls": [],
     "languages": [
       "deu"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "C4SJBjbzRYK0Ib",
+    "name": "Rakuten TV Action Movies Italy",
+    "stream_urls": [
+      "https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ita"
     ],
     "country": "es",
     "isGeoBlocked": false
@@ -1265,6 +1257,19 @@
     "youtube_urls": [],
     "languages": [
       "fin"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "WZiR0UbRbq9wCY",
+    "name": "Rakuten TV Comedy Movies Germany",
+    "stream_urls": [
+      "https://ecac08c9e2214375b907d6825aaf9a01.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6182/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "deu"
     ],
     "country": "es",
     "isGeoBlocked": false
@@ -1400,6 +1405,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "GM8ISh0gwWKywf",
+    "name": "Rakuten TV Family Movies Italy",
+    "stream_urls": [
+      "https://3315fc3e7276420f895e19cf807dbee1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6215/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ita"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "urCoNCEQ0JVzsM",
     "name": "Rakuten TV Family Movies Spain",
     "stream_urls": [
@@ -1478,16 +1496,16 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "dGOfxttCQdrVvT",
-    "name": "Rakuten TV Top Movies Spain",
+    "nanoid": "lHKnRUC8C4E8Tq",
+    "name": "Roja Movies",
     "stream_urls": [
-      "https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8"
+      "https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
-      "spa"
+      "tam"
     ],
-    "country": "es",
+    "country": "in",
     "isGeoBlocked": false
   },
   {
@@ -1595,6 +1613,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "NazIwx46NznWNx",
+    "name": "South Station",
+    "stream_urls": [
+      "https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "hin"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "7IkC4ULHCXJ2FZ",
     "name": "Studio One +",
     "stream_urls": [
@@ -1631,6 +1662,19 @@
       "fas"
     ],
     "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "SaJL6RdlIDIuUu",
+    "name": "The Movie Club +2",
+    "stream_urls": [
+      "https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ytipwjqub3kf8/TMC2_IN.m3u8?ads.ads_cdn=cf&ads.cdn=cf"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "hin"
+    ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
@@ -1804,19 +1848,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GXyfpkGN0MGlca",
-    "name": "Дом Кино",
-    "stream_urls": [
-      "https://streaming.thestream.cyou/live/44.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "lQnAhlrKiieUTC",
     "name": "Кино 1 International",
     "stream_urls": [
@@ -1861,19 +1892,6 @@
     "name": "Патриот (576i)",
     "stream_urls": [
       "https://catchup.videoline.ru/asvtv/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "OtO4WFOzaNdFUD",
-    "name": "Сити Эдем КиноАзия",
-    "stream_urls": [
-      "https://cityeden.catcast.tv/content/34393/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
