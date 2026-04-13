@@ -156,19 +156,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "sJtHUQ2FEosClO",
-    "name": "Educa TV",
-    "stream_urls": [
-      "https://avm.ecuamedia.net/educatv/live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "c6puAkcPu1cmVK",
     "name": "El Sol Network TV",
     "stream_urls": [
@@ -225,6 +212,19 @@
     "name": "Infinita TV",
     "stream_urls": [
       "https://s2.tvdatta.com:3753/hybrid/play.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BQiZCJpf4JlMdt",
+    "name": "La Nueva Radio TV 97.7",
+    "stream_urls": [
+      "https://sv72.ecuaradiotv.net/lanuevatv/live/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -585,19 +585,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CY38SV2i5DFUTV",
-    "name": "TV Cisne",
-    "stream_urls": [
-      "https://video2.lhdserver.es/tvcisne/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "7rCpyg4PCpPsco",
     "name": "TV Color Canal 36",
     "stream_urls": [
@@ -615,6 +602,32 @@
     "name": "TV Universal Ecuador",
     "stream_urls": [
       "https://cdn.mycloudstream.io/hls/live/broadcast/uwcedjt2/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uhXaKy0zwMPJAb",
+    "name": "UNIANDES TV",
+    "stream_urls": [
+      "https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9TUqw93GWA6FwZ",
+    "name": "Vos y TV",
+    "stream_urls": [
+      "https://cloud37.ecuatel.com/vostv/live/manifest.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
