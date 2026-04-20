@@ -392,19 +392,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "s4rmwbOJvp7dJM",
-    "name": "Cupertino City Channel",
-    "stream_urls": [
-      "https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/cupertino/G0067_003/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "UNZk7CUnok8L3a",
     "name": "Cypress Public Access Channel 36 (Cypress CA)",
     "stream_urls": [
@@ -601,6 +588,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "fA9TEJ4ZsGIi2e",
+    "name": "HTV 1 Houston Television",
+    "stream_urls": [
+      "https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "l0iAfvu6mSVdXN",
+    "name": "HTV 2 Houston Television",
+    "stream_urls": [
+      "https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-b/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "MdYnmsFTlP5Wem",
     "name": "Justicia TV",
     "stream_urls": [
@@ -706,10 +719,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "8TYOGIS9hhXK0X",
-    "name": "LHCAZTV",
+    "nanoid": "JNyo9F9UzYyge3",
+    "name": "LGTV",
     "stream_urls": [
-      "https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/lakehavasucity/G0643_003/playlist.m3u8"
+      "https://livestream.telvue.com/lexmedia3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/lexmedia3/stream1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -719,10 +732,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nM9QbGyGixB92t",
-    "name": "Long Beach Television",
+    "nanoid": "8TYOGIS9hhXK0X",
+    "name": "LHCAZTV",
     "stream_urls": [
-      "https://edge-f.swagit.com/live/longbeachca/live-3-a/playlist.m3u8"
+      "https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/lakehavasucity/G0643_003/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -915,32 +928,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "iPhkcC76kYpp0C",
-    "name": "Palm Beach County TV Channel 20 (Palm Beach County FL)",
-    "stream_urls": [
-      "https://pbcvideostreams1.pbc.gov/memfs/1af49f9a-6b90-4ec2-a640-7f65ceebed4a.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hKXziqHmvJRVZi",
-    "name": "Parlamentsfernsehen 1",
-    "stream_urls": [
-      "https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "pGZdS7NMq1FAlR",
     "name": "Parliament TV",
     "stream_urls": [
@@ -1036,7 +1023,7 @@
     "name": "Rio TV Câmara",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/fZXhc7KsC2g"
+      "https://www.youtube-nocookie.com/embed/Iwgw6Y6N1ok"
     ],
     "languages": [
       "por"
@@ -1090,7 +1077,8 @@
     "stream_urls": [
       "https://hls.media.nic.in/hls/live/rstv/rstv.m3u8",
       "https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8",
-      "https://playhls.media.nic.in/hls/live/rstv/rstv.m3u8"
+      "https://playhls.media.nic.in/hls/live/rstv/rstv.m3u8",
+      "https://cdn-2.pishow.tv/live/39/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1178,6 +1166,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "4LXxz87wiJdex1",
+    "name": "Stockton GovTV (Stockton CA)",
+    "stream_urls": [
+      "https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/stockton/G0044_008/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "RErWNfh4idOsdr",
     "name": "Thai Parliament TV",
     "stream_urls": [
@@ -1208,7 +1209,7 @@
     "name": "TV Assembleia Minas Gerais",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/nlOOjEbF74o"
+      "https://www.youtube-nocookie.com/embed/7JS8HfuwpT8"
     ],
     "languages": [
       "por"
@@ -1234,7 +1235,7 @@
     "name": "TV Câmara Porto Alegre",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/td1FW2ftfz4"
+      "https://www.youtube-nocookie.com/embed/HCO2mVudipo"
     ],
     "languages": [
       "por"

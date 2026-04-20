@@ -122,17 +122,6 @@
     ]
   },
   {
-    "nanoid": "iC1Est2ruhZIHl",
-    "name": "Bharata Radio",
-    "stream_urls": [
-      "https://c1.siar.us:8800/live"
-    ],
-    "country": "id",
-    "languages": [
-      "ind"
-    ]
-  },
-  {
     "nanoid": "DZHLqVHS0WHCZc",
     "name": "Bravo FM 96.1",
     "stream_urls": [
@@ -155,6 +144,17 @@
     ]
   },
   {
+    "nanoid": "Tjc1W7Rd9cqkNd",
+    "name": "Cakrawala FM Surabaya",
+    "stream_urls": [
+      "https://streaming.cakrawalafm.net:8040/;"
+    ],
+    "country": "id",
+    "languages": [
+      "ind"
+    ]
+  },
+  {
     "nanoid": "K4X0ZTHyBGunyz",
     "name": "CLASSY NetRadio",
     "stream_urls": [
@@ -163,6 +163,18 @@
     "country": "id",
     "languages": [
       "eng",
+      "ind"
+    ]
+  },
+  {
+    "nanoid": "cj1XdQVT1Ii2F7",
+    "name": "CNN Indonesia",
+    "stream_urls": [
+      "https://live.cnnindonesia.com/livecnn/smil:cnntv/chunklist.m3u8",
+      "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w275412545_b384000_sleng.m3u8"
+    ],
+    "country": "id",
+    "languages": [
       "ind"
     ]
   },
@@ -344,6 +356,17 @@
     ]
   },
   {
+    "nanoid": "P0Jl3qShuQyboB",
+    "name": "Gema Surya FM",
+    "stream_urls": [
+      "https://r5.siar.us:9420/aac.m4a"
+    ],
+    "country": "id",
+    "languages": [
+      "ind"
+    ]
+  },
+  {
     "nanoid": "3xVOEEsCpRoGUi",
     "name": "Hard Rock FM Bandung",
     "stream_urls": [
@@ -358,8 +381,7 @@
     "nanoid": "ja1dAtwLqKRGyx",
     "name": "Hard Rock FM Jakarta",
     "stream_urls": [
-      "https://n13.radiojar.com/7csmg90fuqruv",
-      "https://stream.radiojar.com/7csmg90fuqruv"
+      "https://n13.radiojar.com/7csmg90fuqruv"
     ],
     "country": "id",
     "languages": [
@@ -382,17 +404,6 @@
     "name": "Harley Radio Show",
     "stream_urls": [
       "https://live.harleyradioshow.com/listen/harleyradio/harleyradio"
-    ],
-    "country": "id",
-    "languages": [
-      "ind"
-    ]
-  },
-  {
-    "nanoid": "kfBOwQF8vlMCXr",
-    "name": "Heartline FM Tangerang",
-    "stream_urls": [
-      "https://stream.heartline.co.id:8443/heartline_tangerang"
     ],
     "country": "id",
     "languages": [
@@ -534,6 +545,17 @@
     ]
   },
   {
+    "nanoid": "x1VDlhxRCvFjKw",
+    "name": "Jak 101 FM",
+    "stream_urls": [
+      "https://wz.mari.co.id:1936/web_jakfm/jakfm/playlist.m3u8"
+    ],
+    "country": "id",
+    "languages": [
+      "ind"
+    ]
+  },
+  {
     "nanoid": "eXnnVy4kqc2Ond",
     "name": "Jiz FM 89.5",
     "stream_urls": [
@@ -592,7 +614,9 @@
     "nanoid": "XCwqqPSGUBqUA7",
     "name": "KLCBS",
     "stream_urls": [
-      "https://streaming.klcbsofficial.com/listen/klcbs/klcbs"
+      "https://streaming.klcbsofficial.com/listen/klcbs/klcbs",
+      "https://streaming.klcbs.id/listen/klcbs/klcbs",
+      "https://streaming.klcbs.id/listen/klcbs/klcbs-hd"
     ],
     "country": "id",
     "languages": [
@@ -769,6 +793,18 @@
     ]
   },
   {
+    "nanoid": "YcJwENE4NlGWBn",
+    "name": "Most Radio 105.8 FM",
+    "stream_urls": [
+      "https://wz.mari.co.id:1936/web_mostfm/mostfm/playlist.m3u8",
+      "https://wz.mari.co.id:1936/web_mostfm/mostfm/chunklist_w405836415.m3u8"
+    ],
+    "country": "id",
+    "languages": [
+      "ind"
+    ]
+  },
+  {
     "nanoid": "GOCAiIi1NGinur",
     "name": "Nindy Radio 98.2 FM",
     "stream_urls": [
@@ -849,10 +885,21 @@
     ]
   },
   {
-    "nanoid": "dBeBDekGlxtBCP",
-    "name": "Radar CBS Tegal",
+    "nanoid": "LjPMJnuv8BXqlN",
+    "name": "PTPN Radio Solo",
     "stream_urls": [
-      "https://a5.siar.us/radio/8010/radio"
+      "https://ssg.streamingmurah.com:8040/stream"
+    ],
+    "country": "id",
+    "languages": [
+      "ind"
+    ]
+  },
+  {
+    "nanoid": "mZ8i8ZrE485Rrl",
+    "name": "Radio 4 You TV",
+    "stream_urls": [
+      "https://streamsrv2.nets-sr.com:19360/4youtv/4youtv.m3u8"
     ],
     "country": "id",
     "languages": [
@@ -892,6 +939,17 @@
     "languages": [
       "ind",
       "jav"
+    ]
+  },
+  {
+    "nanoid": "abTI7j0zfbSIOV",
+    "name": "Radio CBB 105.4 FM",
+    "stream_urls": [
+      "https://stream01-ssl.arenastreaming.com:8056/live"
+    ],
+    "country": "id",
+    "languages": [
+      "ind"
     ]
   },
   {
@@ -1028,6 +1086,29 @@
     ]
   },
   {
+    "nanoid": "PGYq0AKwMF6omY",
+    "name": "Radio Indah Siar",
+    "stream_urls": [
+      "https://az2.radioislam.my.id:8150/;stream.nsv"
+    ],
+    "country": "id",
+    "languages": [
+      "ara",
+      "ind"
+    ]
+  },
+  {
+    "nanoid": "2uVY4ucwONN9P1",
+    "name": "Radio Islam Belitung",
+    "stream_urls": [
+      "https://az4.radioislam.my.id:8200/radio.mp3"
+    ],
+    "country": "id",
+    "languages": [
+      "ind"
+    ]
+  },
+  {
     "nanoid": "TqohavXllp6twC",
     "name": "Radio Kanca Tani",
     "stream_urls": [
@@ -1091,6 +1172,17 @@
     "country": "id",
     "languages": [
       "eng",
+      "ind"
+    ]
+  },
+  {
+    "nanoid": "YLF5rvdgz8EnPd",
+    "name": "Radio Patria Blitar",
+    "stream_urls": [
+      "https://streaming.radiopatria.net/radio/8000/patria"
+    ],
+    "country": "id",
+    "languages": [
       "ind"
     ]
   },
@@ -1309,10 +1401,10 @@
     ]
   },
   {
-    "nanoid": "PVk4a53a7HuGLU",
-    "name": "RRI Channel 5",
+    "nanoid": "3bAZea3XXZTcT3",
+    "name": "RRI Pro 1 Ambon",
     "stream_urls": [
-      "https://stream-node1.rri.co.id/streaming/41/8941/chlima.mp3"
+      "https://stream-node2.rri.co.id/streaming/15/9315/rriambonpro1.mp3"
     ],
     "country": "id",
     "languages": [
@@ -1320,10 +1412,10 @@
     ]
   },
   {
-    "nanoid": "3bAZea3XXZTcT3",
-    "name": "RRI Pro 1 Ambon",
+    "nanoid": "WxQQWmPZX6U1sg",
+    "name": "RRI Pro 1 Atambua",
     "stream_urls": [
-      "https://stream-node2.rri.co.id/streaming/15/9315/rriambonpro1.mp3"
+      "https://stream-node1.rri.co.id/streaming/25/9225/rriatambuapro1.mp3"
     ],
     "country": "id",
     "languages": [
@@ -1357,6 +1449,17 @@
     "name": "RRI Pro 1 Banjarmasin",
     "stream_urls": [
       "https://stream-node0.rri.co.id/streaming/19/9019/rribanjarmasinpro1.mp3"
+    ],
+    "country": "id",
+    "languages": [
+      "ind"
+    ]
+  },
+  {
+    "nanoid": "yQppKJTnPZkVpC",
+    "name": "RRI Pro 1 Jakarta",
+    "stream_urls": [
+      "https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro1.mp3"
     ],
     "country": "id",
     "languages": [
@@ -1401,17 +1504,6 @@
     "name": "RRI Pro 1 Medan",
     "stream_urls": [
       "https://stream-node0.rri.co.id/streaming/11/9011/rrimedanpro1.mp3"
-    ],
-    "country": "id",
-    "languages": [
-      "ind"
-    ]
-  },
-  {
-    "nanoid": "SrwioqTOGD6xnp",
-    "name": "RRI Pro 1 Nias Selatan",
-    "stream_urls": [
-      "https://stream-node1.rri.co.id/streaming/20/9220/rriniasselatanpro1.mp3"
     ],
     "country": "id",
     "languages": [
@@ -1636,6 +1728,18 @@
     "country": "id",
     "languages": [
       "ind"
+    ]
+  },
+  {
+    "nanoid": "OtEnJfaJo9DLVd",
+    "name": "Sebayu FM Tegal",
+    "stream_urls": [
+      "https://radio-streaming.tegalkota.go.id/stream.mp3"
+    ],
+    "country": "id",
+    "languages": [
+      "ind",
+      "jav"
     ]
   },
   {
