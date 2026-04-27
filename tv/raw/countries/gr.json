@@ -20,14 +20,28 @@
     ],
     "youtube_urls": [],
     "languages": [
+      "ell",
+      "eng"
+    ],
+    "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FcrizhjFuogVcE",
+    "name": "Action 24",
+    "stream_urls": [
+      "https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
       "ell"
     ],
     "country": "gr",
     "isGeoBlocked": false
   },
   {
-    "nanoid": "eCehtdFo2W9HPb",
-    "name": "Alert",
+    "nanoid": "cHmM9b8VS7jwKX",
+    "name": "Alert TV",
     "stream_urls": [
       "https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8"
     ],
@@ -121,7 +135,7 @@
     "name": "ecclesiaTV.gr",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Zsr84RwF1lk"
+      "https://www.youtube-nocookie.com/embed/RGnmsmHXEkU"
     ],
     "languages": [
       "ell"
@@ -153,7 +167,7 @@
       "ell"
     ],
     "country": "gr",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "BBnkN7RuoWZuoo",
@@ -169,8 +183,21 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "5ZeYm0HuWlcYQ2",
-    "name": "Ionian Channel",
+    "nanoid": "zfdgzXgQZmoAvu",
+    "name": "Hellenic Parliament TV",
+    "stream_urls": [
+      "https://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ell"
+    ],
+    "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zSgRIxf4rZgvt7",
+    "name": "Ionian TV",
     "stream_urls": [
       "https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8"
     ],
@@ -224,8 +251,8 @@
     "nanoid": "nOgaKVJqtjFRdy",
     "name": "Nea TV",
     "stream_urls": [
-      "https://live.neatv.gr:8888/hls/neatv.m3u8",
-      "https://live.neatv.gr:8888/hls/neatv_high/index.m3u8"
+      "https://live.neatv.gr:8888/hls/neatv_high/index.m3u8",
+      "https://live.neatv.gr:8888/hls/neatv.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -258,7 +285,7 @@
       "ell"
     ],
     "country": "gr",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "L3j1vKGF6lnpfD",
@@ -301,8 +328,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "uhkrreTROoHk00",
-    "name": "STAR HD  [Non geo blocked]",
+    "nanoid": "HzfqSOVb2ipubL",
+    "name": "Star Channel",
     "stream_urls": [
       "https://livestar.siliconweb.com/starvod/star4/star4.m3u8"
     ],
@@ -314,8 +341,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "AB50H5YfbCXfVv",
-    "name": "STAR International",
+    "nanoid": "CMlxA1iloVyrYH",
+    "name": "Star Channel International",
     "stream_urls": [
       "https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8"
     ],
@@ -340,19 +367,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "lH4dJFZ2RLNxKP",
-    "name": "Syros TV1",
-    "stream_urls": [
-      "https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ell"
-    ],
-    "country": "gr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ExXGZtUJaG1vOi",
     "name": "Telekriti",
     "stream_urls": [
@@ -366,10 +380,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Xstsz3HxvmyGSQ",
-    "name": "TV Creta",
+    "nanoid": "Nhov9FRmWvJ4cy",
+    "name": "Thraki Net TV",
     "stream_urls": [
-      "https://live.streams.ovh/tvcreta/tvcreta/chunklist.m3u8"
+      "https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -379,10 +393,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "D9a6Bz5bh6RDhY",
-    "name": "Βουλή Τηλεόραση",
+    "nanoid": "Xstsz3HxvmyGSQ",
+    "name": "TV Creta",
     "stream_urls": [
-      "https://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8"
+      "https://live.streams.ovh/tvcreta/tvcreta/chunklist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

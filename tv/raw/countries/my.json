@@ -13,7 +13,7 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GNHioLFAvTFsHe",
+    "nanoid": "DYBLtycErqVQgF",
     "name": "Berita RTM",
     "stream_urls": [],
     "youtube_urls": [
@@ -21,6 +21,19 @@
     ],
     "languages": [
       "msa"
+    ],
+    "country": "my",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "xJcplFZvvoAwWP",
+    "name": "Maah TV",
+    "stream_urls": [
+      "https://hls.maahtv.live/hls/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fas"
     ],
     "country": "my",
     "isGeoBlocked": false
@@ -56,7 +69,7 @@
     "name": "SuriaTV",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/rRiVvvnCrd4"
+      "https://www.youtube-nocookie.com/embed/OsTc-JurP6I"
     ],
     "languages": [
       "msa"
@@ -71,9 +84,7 @@
       "https://vodcdn.bamboo-cloud.com/livehls/6901607706304423c1685213/master.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [
-      "msa"
-    ],
+    "languages": [],
     "country": "my",
     "isGeoBlocked": false
   }

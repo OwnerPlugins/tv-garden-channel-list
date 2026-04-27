@@ -39,19 +39,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Am77zbsA4kDJTi",
-    "name": "Afra Series",
-    "stream_urls": [
-      "https://afrashls.wns.live/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fas"
-    ],
-    "country": "ir",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "sVMuojFlIFBAT6",
     "name": "Al Wilayah",
     "stream_urls": [
@@ -94,7 +81,8 @@
     "nanoid": "Fr9iAxQAFp5S9O",
     "name": "Arvan TV",
     "stream_urls": [
-      "https://arvhls.wns.live/hls/stream.m3u8"
+      "https://arvhls.wns.live/hls/stream.m3u8",
+      "https://me2hls.wns.live/hls/stream.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -125,6 +113,19 @@
     "youtube_urls": [],
     "languages": [
       "ara"
+    ],
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "7IAAjOwAYELwdi",
+    "name": "Atrina TV",
+    "stream_urls": [
+      "https://atrihls.wns.live/hls/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fas"
     ],
     "country": "ir",
     "isGeoBlocked": false
@@ -198,7 +199,8 @@
     "nanoid": "44xxX5UC9CRU0p",
     "name": "Datis TV",
     "stream_urls": [
-      "https://dathls.wns.live/hls/stream.m3u8"
+      "https://dathls.wns.live/hls/stream.m3u8",
+      "https://ronhls.wns.live/hls/stream.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -214,7 +216,9 @@
       "https://rdejhls.wns.live/hls/stream.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [],
+    "languages": [
+      "fas"
+    ],
     "country": "ir",
     "isGeoBlocked": false
   },
@@ -232,8 +236,21 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "iWUUKHrNYmm1vc",
-    "name": "FX TV 1",
+    "nanoid": "J5HDeVjO016Oz1",
+    "name": "EPlanet TV",
+    "stream_urls": [
+      "https://eplhls.wns.live/hls/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fas"
+    ],
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5S85oBbAlyHm6s",
+    "name": "FX 1",
     "stream_urls": [
       "https://fxtvhls.wns.live/hls/stream.m3u8"
     ],
@@ -245,8 +262,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "VMUEMoQp7ZNxmO",
-    "name": "FX TV 2",
+    "nanoid": "Kg8Y9N9U1Cs1tP",
+    "name": "FX 2",
     "stream_urls": [
       "https://toonixhls.wns.live/hls/stream.m3u8"
     ],
@@ -271,8 +288,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FRDoZrDehG1Lc7",
-    "name": "Home Plus",
+    "nanoid": "gb422U2XCi76AZ",
+    "name": "HomePlus",
     "stream_urls": [
       "https://homeplushls.wns.live/hls/stream.m3u8"
     ],
@@ -343,6 +360,7 @@
     ],
     "youtube_urls": [],
     "languages": [
+      "eng",
       "fas"
     ],
     "country": "ir",
@@ -355,18 +373,9 @@
       "https://khbhls.wns.live/hls/stream.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [],
-    "country": "ir",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "RPzsbGvay5vzZl",
-    "name": "Khalij TV",
-    "stream_urls": [
-      "https://khalijhls.wns.live/hls/stream.m3u8"
+    "languages": [
+      "fas"
     ],
-    "youtube_urls": [],
-    "languages": [],
     "country": "ir",
     "isGeoBlocked": false
   },
@@ -401,6 +410,19 @@
     "name": "Mohabat TV",
     "stream_urls": [
       "https://5acf9f9415a10.streamlock.net/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fas"
+    ],
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RYW8cokw1YUAPH",
+    "name": "NewFlix",
+    "stream_urls": [
+      "https://newfhls.wns.live/hls/stream.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -540,6 +562,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "gNhOgT2v5bREO2",
+    "name": "VOX1",
+    "stream_urls": [
+      "https://hls.vox1.live/hls/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fas"
+    ],
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hukeqny6nOwPuT",
     "name": "WiseHumanTv",
     "stream_urls": [
@@ -559,7 +594,9 @@
       "https://zedhls.wns.live/hls/stream.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [],
+    "languages": [
+      "fas"
+    ],
     "country": "ir",
     "isGeoBlocked": false
   }

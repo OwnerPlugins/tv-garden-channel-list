@@ -1,19 +1,6 @@
 [
   {
-    "nanoid": "o7f2wdALXEzHZs",
-    "name": "Ajman TV",
-    "stream_urls": [
-      "https://cdn1.logichost.in/ajmantv/live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ara"
-    ],
-    "country": "ae",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "izm1ENwmj0AflI",
+    "nanoid": "kkVzrzXzjFuUCN",
     "name": "Al Arabiya",
     "stream_urls": [],
     "youtube_urls": [
@@ -56,7 +43,7 @@
     "name": "Al Mashhad",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/codXbsH3w_Y"
+      "https://www.youtube-nocookie.com/embed/w83yVGPCQIw"
     ],
     "languages": [
       "ara"
@@ -143,6 +130,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "L928jkxbfp0TYR",
+    "name": "Alarabiya",
+    "stream_urls": [
+      "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_1080p/chunks.m3u8",
+      "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ara"
+    ],
+    "country": "ae",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ymEZZ9kXLlqF9g",
     "name": "Asharq Business اقتصاد الشرق",
     "stream_urls": [],
@@ -200,6 +201,19 @@
     "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/Koe1Dmep7fI"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "country": "ae",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "URU3r9PZvWBdLZ",
+    "name": "CNBC Arabia",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/f2VcI5ndebM"
     ],
     "languages": [
       "ara"
@@ -306,7 +320,8 @@
     ],
     "youtube_urls": [],
     "languages": [
-      "ara"
+      "ara",
+      "eng"
     ],
     "country": "ae",
     "isGeoBlocked": false
@@ -354,9 +369,9 @@
     "nanoid": "RC2hZ1z0vrHMtE",
     "name": "Sharjah TV",
     "stream_urls": [
+      "https://cdn-globecast.akamaized.net/live/eds/sharjah_tv/hls_roku/index.m3u8",
       "https://live.kwikmotion.com/smc1live/smc1tv.smil/playlist.m3u8",
-      "https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8",
-      "https://cdn-globecast.akamaized.net/live/eds/sharjah_tv/hls_roku/index.m3u8"
+      "https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -369,26 +384,13 @@
     "nanoid": "lHA8lYSDtLC5LR",
     "name": "Sky News Arabia",
     "stream_urls": [
-      "https://stream.skynewsarabia.com/ott/ott.m3u8",
+      "https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8",
       "https://stream.skynewsarabia.com/hls/sna.m3u8",
-      "https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8"
+      "https://stream.skynewsarabia.com/ott/ott.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/U--OjmpjF5o"
+      "https://www.youtube-nocookie.com/embed/ymYr5ze2XeA"
     ],
-    "languages": [
-      "ara"
-    ],
-    "country": "ae",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "54585W8guS2T76",
-    "name": "Sky News Arabia (Portrait)",
-    "stream_urls": [
-      "https://stream.skynewsarabia.com/vertical/vertical.m3u8"
-    ],
-    "youtube_urls": [],
     "languages": [
       "ara"
     ],
@@ -399,7 +401,8 @@
     "nanoid": "za3qiXgehwFjJ6",
     "name": "Sky News Arabia Vertical",
     "stream_urls": [
-      "https://live-stream.skynewsarabia.com/c-vertical-channel/vertical-stream/index.m3u8"
+      "https://live-stream.skynewsarabia.com/c-vertical-channel/vertical-stream/index.m3u8",
+      "https://stream.skynewsarabia.com/vertical/vertical.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

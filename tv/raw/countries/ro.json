@@ -1,5 +1,18 @@
 [
   {
+    "nanoid": "aoIXV21LUXbgqK",
+    "name": "A7TV",
+    "stream_urls": [
+      "https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "g5kkuBi9J5OPSY",
     "name": "Agro TV",
     "stream_urls": [
@@ -78,19 +91,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2UXhXxAP9FifSB",
-    "name": "Arges TV",
-    "stream_urls": [
-      "https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "c1gByRg7bGFR8Z",
     "name": "Atomic Academy TV",
     "stream_urls": [
@@ -111,14 +111,29 @@
     ],
     "youtube_urls": [],
     "languages": [
+      "eng",
       "ron"
     ],
     "country": "ro",
     "isGeoBlocked": false
   },
   {
+    "nanoid": "oRcDPIbbTYiK2b",
+    "name": "Bollywood HD",
+    "stream_urls": [
+      "https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "hin",
+      "rus"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "RIYeoEqG7KpyCd",
-    "name": "Bucovina TV (576i)",
+    "name": "Bucovina TV",
     "stream_urls": [
       "https://www.bucovinatv.ro/proxy/video/playlist.m3u8"
     ],
@@ -234,37 +249,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "E9smyEh0BaQpif",
-    "name": "JOB TV",
-    "stream_urls": [
-      "https://jobtvserver.eu/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "H8lAJKYghBWOpW",
     "name": "Kanal D",
     "stream_urls": [
-      "https://stream1.kanald.ro/iphone/knd-live.m3u8",
-      "https://stream1.kanald.ro/iphone/knd-live_low/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "3hq4NpWZFKw05F",
-    "name": "Kiss TV",
-    "stream_urls": [
-      "https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8"
+      "https://stream1.kanald.ro/iphone/knd-live_low/index.m3u8",
+      "https://stream1.kanald.ro/iphone/knd-live.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -300,19 +289,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "dfvV9SkyUqJgjs",
-    "name": "MeteoTV",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/lqMWeBc6_Kg"
-    ],
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "U81csRB9YHDFcc",
     "name": "Mireasa",
     "stream_urls": [
@@ -339,23 +315,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HXUJ0Y6Fs5W3Ui",
-    "name": "Mooz Hits",
+    "nanoid": "wAAXdhWFrvqJmH",
+    "name": "Mooz Dance",
     "stream_urls": [
-      "https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2U91fowazsObgI",
-    "name": "Mooz Ro!",
-    "stream_urls": [
-      "https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8"
+      "https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -404,10 +367,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "6q00FwKF9RQHrm",
-    "name": "Pro TV News",
+    "nanoid": "R7k8oMS31tDfb7",
+    "name": "PROFI 24 TV",
     "stream_urls": [
-      "https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0"
+      "https://owncast-jjg42-u20330.vm.elestio.app/hls/0/stream.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -417,10 +380,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "R7k8oMS31tDfb7",
-    "name": "PROFI 24 TV",
+    "nanoid": "4h6cMZ9oIjvfDv",
+    "name": "PROTV News",
     "stream_urls": [
-      "https://owncast-jjg42-u20330.vm.elestio.app/hls/0/stream.m3u8"
+      "https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0"
     ],
     "youtube_urls": [],
     "languages": [
@@ -479,7 +442,7 @@
       "ron"
     ],
     "country": "ro",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "xgGgBivUKaFSsJ",
@@ -622,7 +585,7 @@
       "ron"
     ],
     "country": "ro",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "QmyDk7u02PWKpA",

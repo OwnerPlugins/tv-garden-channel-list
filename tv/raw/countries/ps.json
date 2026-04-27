@@ -39,8 +39,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "qtsvyZ238Pd7nc",
-    "name": "MusawaChannel",
+    "nanoid": "ZCiUSJXZU6vxjw",
+    "name": "Musawa Channel",
     "stream_urls": [
       "https://pbc.furrera.ps/musawahd/index.m3u8"
     ],
@@ -81,8 +81,8 @@
     "nanoid": "fwZ0THu9CrthiO",
     "name": "Palestine Satellite Channel",
     "stream_urls": [
-      "https://pbc.furrera.ps/palestinehd/index.m3u8",
-      "https://cdn-globecast.akamaized.net/live/eds/palestinian_satellite_channel/hls_roku/palestinian_satellite_channel.m3u8"
+      "https://cdn-globecast.akamaized.net/live/eds/palestinian_satellite_channel/hls_roku/palestinian_satellite_channel.m3u8",
+      "https://pbc.furrera.ps/palestinehd/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -102,7 +102,7 @@
       "ara"
     ],
     "country": "ps",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "szNEw4C0KNRO1w",
@@ -135,6 +135,19 @@
     "name": "Shabab FM",
     "stream_urls": [
       "https://streaming.zaytonatube.com:8081/ShababFM/shabab/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ara"
+    ],
+    "country": "ps",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zJ9zGl534t9s19",
+    "name": "Watar TV",
+    "stream_urls": [
+      "https://htvint.mada.ps/orient/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
