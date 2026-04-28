@@ -1,5 +1,28 @@
 [
   {
+    "nanoid": "4QFLpjzqiwMDrn",
+    "name": "All The Best Radio",
+    "stream_urls": [
+      "https://c4.radioboss.fm/stream/537"
+    ],
+    "country": "ee",
+    "languages": [
+      "est"
+    ]
+  },
+  {
+    "nanoid": "LNCtg5L75GUA4z",
+    "name": "Äripäeva Raadio",
+    "stream_urls": [
+      "https://liveplay.aripaev.ee/stream.mp3",
+      "https://www.aripaev.ee/raadio/stream.mp3"
+    ],
+    "country": "ee",
+    "languages": [
+      "est"
+    ]
+  },
+  {
     "nanoid": "tYBYocapbIXXZ5",
     "name": "Duo Country",
     "stream_urls": [
@@ -127,8 +150,8 @@
     "nanoid": "pgJFT5uLm4dw3d",
     "name": "Kiss FM",
     "stream_urls": [
-      "https://stream.skymedia.ee/live/KISS",
-      "https://edge02.cdn.bitflip.ee:8888/KISS"
+      "https://edge02.cdn.bitflip.ee:8888/KISS",
+      "https://stream.skymedia.ee/live/KISS"
     ],
     "country": "ee",
     "languages": [
@@ -565,8 +588,8 @@
     "nanoid": "e0Fr6xGbgQJk3B",
     "name": "Sky Plus",
     "stream_urls": [
-      "https://skymedia-live.bitflip.ee/SKYPLUS",
-      "https://stream.skymedia.ee/live/SKYPLUS"
+      "https://stream.skymedia.ee/live/SKYPLUS",
+      "https://skymedia-live.bitflip.ee/SKYPLUS"
     ],
     "country": "ee",
     "languages": [
@@ -600,8 +623,8 @@
     "nanoid": "hISwPTB6rsOPCm",
     "name": "Star FM",
     "stream_urls": [
-      "https://ice.leviracloud.eu/star96-aac",
-      "https://ice.leviracloud.eu/star320-mp3"
+      "https://ice.leviracloud.eu/star320-mp3",
+      "https://ice.leviracloud.eu/star96-aac"
     ],
     "country": "ee",
     "languages": [
@@ -623,20 +646,8 @@
     "nanoid": "kIccpDNKEGqRvE",
     "name": "Vikerraadio",
     "stream_urls": [
-      "https://icecast.err.ee/vikerraadiokorge.mp3",
-      "https://icecast.err.ee/vikerraadio.mp3"
-    ],
-    "country": "ee",
-    "languages": [
-      "est"
-    ]
-  },
-  {
-    "nanoid": "LNCtg5L75GUA4z",
-    "name": "Äripäeva Raadio",
-    "stream_urls": [
-      "https://www.aripaev.ee/raadio/stream.mp3",
-      "https://liveplay.aripaev.ee/stream.mp3"
+      "https://icecast.err.ee/vikerraadio.mp3",
+      "https://icecast.err.ee/vikerraadiokorge.mp3"
     ],
     "country": "ee",
     "languages": [

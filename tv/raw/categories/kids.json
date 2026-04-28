@@ -145,19 +145,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fJhDeLcyoA6z4o",
-    "name": "BBC Kids",
-    "stream_urls": [
-      "https://dmr1h4skdal9h.cloudfront.net/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "aDSSb0MXYf6HZV",
     "name": "BeJoy.kids",
     "stream_urls": [
@@ -292,7 +279,6 @@
     "nanoid": "eXRHxuSjLuhKid",
     "name": "Carousel",
     "stream_urls": [
-      "https://streaming.televizor-24-tochka.ru/live/232.m3u8",
       "https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8"
     ],
     "youtube_urls": [],
@@ -301,19 +287,6 @@
     ],
     "country": "ru",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "lSTW1dzY0A0GTW",
-    "name": "Cartoon Classics FAST",
-    "stream_urls": [
-      "https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "QFKHFoExvGyTwt",
@@ -483,6 +456,19 @@
     ],
     "country": "es",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "hboH9AkWIrBLT1",
+    "name": "Clifford the Big Red Dog: Classic",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/uo_zaYcBboA"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "DWHNlPkSNnnnSG",
@@ -747,19 +733,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "w1TyAWzZva88k1",
-    "name": "ETV 2",
-    "stream_urls": [
-      "https://sb.err.ee/live/etv2.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "est"
-    ],
-    "country": "ee",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ejJZfMgOR7K5m8",
     "name": "Extrema Kids TV",
     "stream_urls": [
@@ -857,8 +830,8 @@
     "name": "Kartoon Channel!",
     "stream_urls": [
       "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8",
-      "https://aegis-cloudfront-1.tubi.video/ba23a03c-22ff-4a48-ae7e-dd8bf4ee4e29/kc_co.m3u8",
-      "https://d2z0ysa6dgxhlc.cloudfront.net/kchan.m3u8"
+      "https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8",
+      "https://aegis-cloudfront-1.tubi.video/ba23a03c-22ff-4a48-ae7e-dd8bf4ee4e29/kc_co.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1095,6 +1068,7 @@
     "nanoid": "FeQiCZUhzv3lT3",
     "name": "Moonbug Kids",
     "stream_urls": [
+      "https://moonbug-rokuus.amagi.tv/playlist.m3u8",
       "https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8"
     ],
     "youtube_urls": [],
@@ -1226,7 +1200,6 @@
     "nanoid": "Vq8mDnKI72KTqe",
     "name": "NickOnline Spongebob",
     "stream_urls": [
-      "https://pc.x1co.com.br/hls/stream.m3u8",
       "https://lowa8026-cmyk.github.io/Brazil/NickOnlineSpongebob.m3u8"
     ],
     "youtube_urls": [],
@@ -1268,19 +1241,6 @@
     "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/SvHAV2yHNxc"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "DwXz9p5aswScVu",
-    "name": "PAW Patrol (English)",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/bZHo-wGJrE4"
     ],
     "languages": [
       "eng"
@@ -1380,6 +1340,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "9q3m5MrdjQd0TM",
+    "name": "PBS Kids: Daniel Tiger",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/VrEKkzmBaXc"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "OFaC3xiaMJRsBM",
+    "name": "PBS KIDS: Sid the Science Kid",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/vRCSX42k0og"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "yzwKpvNdMAZglL",
     "name": "PBS KIDS: Weather Hunters",
     "stream_urls": [],
@@ -1403,6 +1389,19 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2SkwDt1DzEdQq9",
+    "name": "Peppa Pig Brasil",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/0J9JO-GQwPs"
+    ],
+    "languages": [
+      "por"
+    ],
+    "country": "br",
     "isGeoBlocked": false
   },
   {
@@ -1868,19 +1867,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "YCPZsdEDhEaJOB",
-    "name": "TRT Cocuk",
-    "stream_urls": [
-      "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "aIKbRpQHmkkXLq",
     "name": "TRT Diyanet Cocuk",
     "stream_urls": [
@@ -2038,6 +2024,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "he2lOUztjAzsDr",
+    "name": "WildBrain: Teletubbies",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/gV11CEcJFLs"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hzA9M1g8Uiyjea",
     "name": "Xtrema Cartoons",
     "stream_urls": [
@@ -2115,6 +2114,19 @@
       "rus"
     ],
     "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0REjP55mYk4y0F",
+    "name": "小猪佩奇 中文官方 - Peppa Pig",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/jVbrf0otna4"
+    ],
+    "languages": [
+      "zho"
+    ],
+    "country": "cn",
     "isGeoBlocked": false
   }
 ]

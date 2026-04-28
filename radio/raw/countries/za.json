@@ -14,9 +14,9 @@
     "nanoid": "9EzUBMpOO1s7pT",
     "name": "702",
     "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/FM702_SC",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/FM702_192AAC.aac",
-      "https://28993.live.streamtheworld.com:443/FM702_SC"
+      "https://25293.live.streamtheworld.com/FM702_SC",
+      "https://28563.live.streamtheworld.com/FM702_SC"
     ],
     "country": "za",
     "languages": [
@@ -40,8 +40,8 @@
     "name": "947",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/FM947AAC_SC",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/FM947_SC",
-      "https://28933.live.streamtheworld.com:443/FM947AAC_SC"
+      "https://28503.live.streamtheworld.com/FM947_SC",
+      "https://25633.live.streamtheworld.com/FM947_SC"
     ],
     "country": "za",
     "languages": [
@@ -63,8 +63,8 @@
     "nanoid": "UEL4CizobsJz0W",
     "name": "Al-Ansaar Radio",
     "stream_urls": [
-      "https://al-ansaar.simplestreaming.co.za/listen/al-ansaar_radio/radio.mp3",
-      "https://al-ansaar.simplestreaming.co.za/radio/8000/radio.mp3"
+      "https://al-ansaar.simplestreaming.co.za/radio/8000/radio.mp3",
+      "https://al-ansaar.simplestreaming.co.za/listen/al-ansaar_radio/radio.mp3"
     ],
     "country": "za",
     "languages": [
@@ -84,8 +84,8 @@
     "nanoid": "SvxvICXMyYJSBZ",
     "name": "Amapiano FM",
     "stream_urls": [
-      "https://stream.zeno.fm/xs6zeac1ts8uv",
-      "https://stream-37.zeno.fm/xs6zeac1ts8uv"
+      "https://stream-37.zeno.fm/xs6zeac1ts8uv",
+      "https://stream.zeno.fm/xs6zeac1ts8uv"
     ],
     "country": "za",
     "languages": [
@@ -93,6 +93,15 @@
       "xho",
       "zul"
     ]
+  },
+  {
+    "nanoid": "99Jl6qlaK8X3AG",
+    "name": "Āti Awa Toa FM",
+    "stream_urls": [
+      "https://icast1.streamcom.net/Atiawa"
+    ],
+    "country": "za",
+    "languages": []
   },
   {
     "nanoid": "ixrf08PKIqM0ti",
@@ -109,8 +118,8 @@
     "nanoid": "1eTWNO60e1i0Uj",
     "name": "BOX Chillwave",
     "stream_urls": [
-      "https://play.streamafrica.net/chillwave",
-      "https://boxradio-edge-00.streamafrica.net/chillwave"
+      "https://boxradio-edge-00.streamafrica.net/chillwave",
+      "https://play.streamafrica.net/chillwave"
     ],
     "country": "za",
     "languages": []
@@ -125,21 +134,12 @@
     "languages": []
   },
   {
-    "nanoid": "8rg4fzawNAqBJg",
-    "name": "Bush Radio 89.5 FM",
-    "stream_urls": [
-      "https://zas4.ndx.co.za:9100/stream"
-    ],
-    "country": "za",
-    "languages": []
-  },
-  {
     "nanoid": "cmssuXkPvx4TcG",
     "name": "Cape Talk",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/CAPE_TALK_SC",
-      "https://27863.live.streamtheworld.com/CAPE_TALKAAC_SC",
-      "https://25683.live.streamtheworld.com:443/CAPE_TALK_SC"
+      "https://25453.live.streamtheworld.com/CAPE_TALK_SC",
+      "https://25643.live.streamtheworld.com/CAPE_TALK_SC"
     ],
     "country": "za",
     "languages": [
@@ -262,9 +262,9 @@
     "nanoid": "6FZOKj01MdUOhM",
     "name": "East Coast Radio",
     "stream_urls": [
+      "https://live.ecr.co.za/ecrlow.aac",
       "https://live.ecr.co.za/ecrhigh.mp3",
-      "https://edge.iono.fm/xice/ecr_live_medium.aac",
-      "https://live.ecr.co.za/ecrlow.aac"
+      "https://edge.iono.fm/xice/ecr_live_medium.aac"
     ],
     "country": "za",
     "languages": [
@@ -285,6 +285,15 @@
     "name": "Fine Music Radio",
     "stream_urls": [
       "https://edge.iono.fm/xhls/fmr_live_medium.m3u8"
+    ],
+    "country": "za",
+    "languages": []
+  },
+  {
+    "nanoid": "op7EbH173gy4K4",
+    "name": "Fresh 87.6 FM",
+    "stream_urls": [
+      "https://stream-173.zeno.fm/ut4p7ak2uhhvv"
     ],
     "country": "za",
     "languages": []
@@ -350,6 +359,17 @@
     ]
   },
   {
+    "nanoid": "8llsQz2HHmdPkJ",
+    "name": "Hot 91.9 FM",
+    "stream_urls": [
+      "https://edge.iono.fm/xice/57_medium.aac"
+    ],
+    "country": "za",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "vCb37ekU0qc2Nz",
     "name": "Hot 102.7 FM",
     "stream_urls": [
@@ -368,21 +388,10 @@
     "languages": []
   },
   {
-    "nanoid": "8llsQz2HHmdPkJ",
-    "name": "Hot 91.9 FM",
+    "nanoid": "ympNITteOkkeX6",
+    "name": "Ikwekwezi FM",
     "stream_urls": [
-      "https://edge.iono.fm/xice/57_medium.aac"
-    ],
-    "country": "za",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "3Xyl1a4hWGAGqv",
-    "name": "Impala Radio",
-    "stream_urls": [
-      "https://maggie.torontocast.com:8014/stream"
+      "https://27873.live.streamtheworld.com/IKWEKWEZIAAC.aac"
     ],
     "country": "za",
     "languages": []
@@ -392,13 +401,13 @@
     "name": "Jacaranda FM",
     "stream_urls": [
       "https://live.jacarandafm.com/jacarandalow.aac",
-      "https://live.jacarandafm.com/jacarandahigh.mp3",
-      "https://edge.iono.fm/xice/jacarandafm_live_medium.aac"
+      "https://edge.iono.fm/xice/jacarandafm_live_high.aac",
+      "https://live.jacarandafm.com/jacarandahigh.mp3"
     ],
     "country": "za",
     "languages": [
-      "eng",
-      "afr"
+      "afr",
+      "eng"
     ]
   },
   {
@@ -423,8 +432,8 @@
       "sot",
       "tsn",
       "tso",
-      "zul",
-      "ven"
+      "ven",
+      "zul"
     ]
   },
   {
@@ -501,8 +510,8 @@
     "nanoid": "g1gpIsb2GxwVr2",
     "name": "Lesedi FM",
     "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/LESEDIAAC_SC",
-      "https://27863.live.streamtheworld.com/LESEDIAAC.aac"
+      "https://27863.live.streamtheworld.com/LESEDIAAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/LESEDIAAC_SC"
     ],
     "country": "za",
     "languages": []
@@ -733,6 +742,15 @@
     "name": "PEP Feel Good FM",
     "stream_urls": [
       "https://edge.iono.fm/xice/feelgood_live_high.aac"
+    ],
+    "country": "za",
+    "languages": []
+  },
+  {
+    "nanoid": "S17jSyy1DJhhGS",
+    "name": "PERRONFM 95.1",
+    "stream_urls": [
+      "https://zas7.ndx.co.za:8044/stream"
     ],
     "country": "za",
     "languages": []
@@ -1073,8 +1091,8 @@
     "nanoid": "KfXtkyqflyHBeM",
     "name": "Thobela FM",
     "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/THOBELAAAC.aac",
-      "https://22183.live.streamtheworld.com/THOBELAAAC.aac"
+      "https://22183.live.streamtheworld.com/THOBELAAAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/THOBELAAAC.aac"
     ],
     "country": "za",
     "languages": []
@@ -1220,15 +1238,6 @@
     "name": "zoibi FM",
     "stream_urls": [
       "https://radio.eclipse-streaming.co.za/listen/zoibi_fm/zoibifm.mp3"
-    ],
-    "country": "za",
-    "languages": []
-  },
-  {
-    "nanoid": "99Jl6qlaK8X3AG",
-    "name": "Āti Awa Toa FM",
-    "stream_urls": [
-      "https://icast1.streamcom.net/Atiawa"
     ],
     "country": "za",
     "languages": []

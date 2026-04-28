@@ -36,8 +36,8 @@
     "nanoid": "oWsPBMkOV6q2rb",
     "name": "Emisoras Paraguay 106.1 FM",
     "stream_urls": [
-      "https://rds3.desdeparaguay.net/movemisoras/movemisoras.stream/chunklist_w1882715633.m3u8",
-      "https://rds3.desdeparaguay.net/movemisoras/movemisoras.stream/playlist.m3u8"
+      "https://rds3.desdeparaguay.net/movemisoras/movemisoras.stream/playlist.m3u8",
+      "https://rds3.desdeparaguay.net/movemisoras/movemisoras.stream/chunklist_w1882715633.m3u8"
     ],
     "country": "py",
     "languages": [
@@ -64,8 +64,8 @@
     ],
     "country": "py",
     "languages": [
-      "spa",
-      "grn"
+      "grn",
+      "spa"
     ]
   },
   {
@@ -76,8 +76,8 @@
     ],
     "country": "py",
     "languages": [
-      "spa",
-      "grn"
+      "grn",
+      "spa"
     ]
   },
   {
@@ -137,17 +137,6 @@
     ]
   },
   {
-    "nanoid": "vM84hdWb8IBkDr",
-    "name": "Radio Amor 95.9 FM",
-    "stream_urls": [
-      "https://copaco.desdeparaguay.net/movamor/movamor.stream/playlist.m3u8"
-    ],
-    "country": "py",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "aIAegWEtKlqbmO",
     "name": "Radio América Clásicos",
     "stream_urls": [
@@ -159,11 +148,22 @@
     ]
   },
   {
+    "nanoid": "vM84hdWb8IBkDr",
+    "name": "Radio Amor 95.9 FM",
+    "stream_urls": [
+      "https://copaco.desdeparaguay.net/movamor/movamor.stream/playlist.m3u8"
+    ],
+    "country": "py",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
     "nanoid": "BJRsGuXBvxeXUn",
     "name": "Radio Aranduka 87.9 FM",
     "stream_urls": [
-      "https://tigocloud.desdeparaguay.net/movaranduka/movaranduka.stream/playlist.m3u8",
-      "https://rds3.desdeparaguay.net/movaranduka/movaranduka.stream/playlist.m3u8"
+      "https://rds3.desdeparaguay.net/movaranduka/movaranduka.stream/playlist.m3u8",
+      "https://tigocloud.desdeparaguay.net/movaranduka/movaranduka.stream/playlist.m3u8"
     ],
     "country": "py",
     "languages": [
@@ -174,8 +174,8 @@
     "nanoid": "gI5zcm2dLzpzhM",
     "name": "Radio Aspen 102.7 FM",
     "stream_urls": [
-      "https://copaco.desdeparaguay.net/movaspen/movaspen.stream/playlist.m3u8",
       "https://rds3.desdeparaguay.net/movaspen/movaspen.stream/playlist.m3u8",
+      "https://copaco.desdeparaguay.net/movaspen/movaspen.stream/playlist.m3u8",
       "https://tigocloud.desdeparaguay.net/movaspen/movaspen.stream/playlist.m3u8"
     ],
     "country": "py",
@@ -228,11 +228,22 @@
     ]
   },
   {
+    "nanoid": "ybdgotK1ZHZFAB",
+    "name": "Radio Éxitos de Ayer",
+    "stream_urls": [
+      "https://stream.zeno.fm/hvnh6d5uebruv"
+    ],
+    "country": "py",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
     "nanoid": "vDsXy8hCCki9eH",
     "name": "Radio Monumental 1080 AM",
     "stream_urls": [
-      "https://mdstrm.com/audio/62d81ca6a459e4082203c95b/icecast.audio",
-      "https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/62d81ca6a459e4082203c95b"
+      "https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/62d81ca6a459e4082203c95b",
+      "https://mdstrm.com/audio/62d81ca6a459e4082203c95b/icecast.audio"
     ],
     "country": "py",
     "languages": [
@@ -274,33 +285,11 @@
     ]
   },
   {
-    "nanoid": "2siRkXvA7YfizL",
-    "name": "Radio Vallenatos Clásicos",
-    "stream_urls": [
-      "https://stream.zeno.fm/z07vyxbqz8quv"
-    ],
-    "country": "py",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "EZ8TWLFdGNrszq",
     "name": "Radio Vibras 92.7 FM",
     "stream_urls": [
       "https://rds3.desdeparaguay.net/movvibras/movvibras.stream/playlist.m3u8",
       "https://copaco.desdeparaguay.net/movvibras/movvibras.stream/chunklist_w1786225280.m3u8"
-    ],
-    "country": "py",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "ybdgotK1ZHZFAB",
-    "name": "Radio Éxitos de Ayer",
-    "stream_urls": [
-      "https://stream.zeno.fm/hvnh6d5uebruv"
     ],
     "country": "py",
     "languages": [

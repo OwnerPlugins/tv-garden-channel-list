@@ -13,6 +13,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "KgfZTMdFAXl97l",
+    "name": "Allgau TV",
+    "stream_urls": [
+      "https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "I4If5zWiJMNu7L",
     "name": "Anixe +",
     "stream_urls": [
@@ -81,6 +94,7 @@
     "nanoid": "LGLjherg6GkxIA",
     "name": "Augsburg TV",
     "stream_urls": [
+      "https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/playlist.m3u8",
       "https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -327,9 +341,7 @@
     "stream_urls": [
       "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8"
     ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/jRnqxURJ120"
-    ],
+    "youtube_urls": [],
     "languages": [
       "spa"
     ],
@@ -463,6 +475,17 @@
     "languages": [
       "deu"
     ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "XvhMxajfmHe1iL",
+    "name": "FrankenPlus",
+    "stream_urls": [
+      "https://stream01.welocal.stream/stream/fhd-frankenplus_119/ngrp:stream_all/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
     "country": "de",
     "isGeoBlocked": false
   },
@@ -816,6 +839,59 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "d8YHTAnPVAiw8c",
+    "name": "Niederbayern TV",
+    "stream_urls": [
+      "https://stream03.welocal.stream/stream/sat-nby/ngrp:sat-nby.stream_all/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5HPuRsaIZ7wi9S",
+    "name": "Niederbayern TV Deggendorf & Straubing",
+    "stream_urls": [
+      "https://stream03.welocal.stream/stream/fhd-nbydeggendorf_99148/ngrp:stream_all/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dqYeIYeXXFZBkI",
+    "name": "Niederbayern TV Landshut",
+    "stream_urls": [
+      "https://stream03.welocal.stream/stream/fhd-nbylandshut_75262/ngrp:stream_all/index.m3u8",
+      "https://isar-tv.iptv-playoutcenter.de/isar-tv/isar-tv.stream_1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0xxDuqMMk42taZ",
+    "name": "Niederbayern TV Passau",
+    "stream_urls": [
+      "https://stream03.welocal.stream/stream/fhd-nbypassau_49171/ngrp:stream_all/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "1lj5zvclavtoue",
     "name": "noa4 Hamburg",
     "stream_urls": [
@@ -1099,19 +1175,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FT8VcZltRS1FOf",
-    "name": "Rakuten TV Action Movies Germany",
-    "stream_urls": [
-      "https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ILjNpPssxRQReN",
     "name": "RAN1",
     "stream_urls": [
@@ -1198,6 +1261,19 @@
     "stream_urls": [
       "https://58bd5b7a98e04.streamlock.net/medienasa-live/RFH_high/playlist.m3u8",
       "https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:RFH_high/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Wm5wGl36SAC05e",
+    "name": "RFO",
+    "stream_urls": [
+      "https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1537,6 +1613,19 @@
     ],
     "youtube_urls": [],
     "languages": [],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1FPfpylopFQcAU",
+    "name": "TV Ingolstadt",
+    "stream_urls": [
+      "https://stream01.welocal.stream/stream/fhd-tvingolstadt_44349/ngrp:stream_all/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "deu"
+    ],
     "country": "de",
     "isGeoBlocked": false
   },

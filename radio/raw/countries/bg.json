@@ -14,8 +14,8 @@
     "nanoid": "cWqmvzq7FKZFGV",
     "name": "Avto Radio",
     "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/AVTORADIOAAC_L.aac",
-      "https://25483.live.streamtheworld.com/AVTORADIOAAC_L.aac"
+      "https://25483.live.streamtheworld.com/AVTORADIOAAC_L.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/AVTORADIOAAC_L.aac"
     ],
     "country": "bg",
     "languages": [
@@ -59,8 +59,8 @@
     "nanoid": "qWRAH2QtX5fAi0",
     "name": "BG Estrada",
     "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/BG_ESTRADAAAC_L.aac",
-      "https://play.global.audio/bgestrada"
+      "https://play.global.audio/bgestrada",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/BG_ESTRADAAAC_L.aac"
     ],
     "country": "bg",
     "languages": [
@@ -201,6 +201,17 @@
     ]
   },
   {
+    "nanoid": "JdcQNQDrKwANpl",
+    "name": "Deluxe Radio",
+    "stream_urls": [
+      "https://play.radiomaxxfm.com/deluxe-high"
+    ],
+    "country": "bg",
+    "languages": [
+      "bul"
+    ]
+  },
+  {
     "nanoid": "XNAvtu2Sn0yCgV",
     "name": "DJ Zone House Radio",
     "stream_urls": [
@@ -216,8 +227,8 @@
     "name": "Easy Radio",
     "stream_urls": [
       "https://live.easyradio.bg/aac",
-      "https://live.easyradio.bg/192",
-      "https://c30.radioboss.fm:8758/live"
+      "https://c30.radioboss.fm:8758/live",
+      "https://live.easyradio.bg/192"
     ],
     "country": "bg",
     "languages": [
@@ -283,8 +294,8 @@
     "nanoid": "UM0tmXHSLfE1OQ",
     "name": "Kolednoto Radio",
     "stream_urls": [
-      "https://play.global.audio/radio1-koleda.aac",
-      "https://play.global.audio/radio1-koledahi.aac"
+      "https://play.global.audio/radio1-koledahi.aac",
+      "https://play.global.audio/radio1-koleda.aac"
     ],
     "country": "bg",
     "languages": [
@@ -296,6 +307,17 @@
     "name": "Magic FM",
     "stream_urls": [
       "https://bss1.neterra.tv/magicfm/magicfm.m3u8"
+    ],
+    "country": "bg",
+    "languages": [
+      "bul"
+    ]
+  },
+  {
+    "nanoid": "B0DtY21JahvzRw",
+    "name": "Maxx FM",
+    "stream_urls": [
+      "https://play.radiomaxxfm.com/maxx-high"
     ],
     "country": "bg",
     "languages": [
@@ -375,9 +397,9 @@
     "nanoid": "XuemyzBPqtFAzw",
     "name": "Radio City",
     "stream_urls": [
-      "https://play.global.audio/city.opus",
       "https://play.global.audio/cityhi.aac",
-      "https://play.global.audio/city64"
+      "https://play.global.audio/city64",
+      "https://play.global.audio/city_low.ogg"
     ],
     "country": "bg",
     "languages": [
@@ -602,8 +624,8 @@
     "nanoid": "7esfZ8QICof4SP",
     "name": "Radio Veronika",
     "stream_urls": [
-      "https://play.global.audio/veronika64",
-      "https://play.global.audio/veronikahi.aac"
+      "https://play.global.audio/veronikahi.aac",
+      "https://play.global.audio/veronika64"
     ],
     "country": "bg",
     "languages": [
@@ -666,6 +688,17 @@
     ]
   },
   {
+    "nanoid": "G2cfWg9qfG29fT",
+    "name": "Sweet Radio",
+    "stream_urls": [
+      "https://stream.sweetradio.online:8001/HD"
+    ],
+    "country": "bg",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "FNa0mqIPuWSPPc",
     "name": "The Voice",
     "stream_urls": [
@@ -682,17 +715,6 @@
     "name": "Vanilla",
     "stream_urls": [
       "https://play.global.audio/vanillahi.aac"
-    ],
-    "country": "bg",
-    "languages": [
-      "bul"
-    ]
-  },
-  {
-    "nanoid": "IBkJmkoD02mSWa",
-    "name": "Victoria Radio",
-    "stream_urls": [
-      "https://play.radiomaxxfm.com/victoriafm"
     ],
     "country": "bg",
     "languages": [

@@ -85,13 +85,13 @@
     "nanoid": "wkeFF48saoGDWb",
     "name": "Free Radio Luxembourg",
     "stream_urls": [
-      "https://www.radioking.com/play/rfm-luxembourg/137599",
-      "https://listen.radioking.com/radio/66160/stream/137599"
+      "https://listen.radioking.com/radio/66160/stream/137599",
+      "https://www.radioking.com/play/rfm-luxembourg/137599"
     ],
     "country": "lu",
     "languages": [
-      "ltz",
       "eng",
+      "ltz",
       "lub"
     ]
   },
@@ -104,19 +104,7 @@
     ],
     "country": "lu",
     "languages": [
-      "lub",
       "eng",
-      "fra"
-    ]
-  },
-  {
-    "nanoid": "3alsjb8weIfHxD",
-    "name": "L'essentiel Radio",
-    "stream_urls": [
-      "https://lessentielradio.ice.infomaniak.ch/lessentielradio-128.mp3"
-    ],
-    "country": "lu",
-    "languages": [
       "fra",
       "lub"
     ]
@@ -125,16 +113,16 @@
     "nanoid": "tTgontwEamSflU",
     "name": "Radio 100,7",
     "stream_urls": [
-      "https://stream.100komma7.lu/100komma7/live/aac/48/stream.aac",
+      "https://100komma7.cast.addradio.de/100komma7/live/mp3/320/stream.mp3",
       "https://stream.100komma7.lu/100komma7/live/mp3/128/stream.mp3",
       "https://100komma7.cast.addradio.de/100komma7/live/mp3/128/stream.mp3"
     ],
     "country": "lu",
     "languages": [
-      "ltz",
       "eng",
-      "lub",
-      "fra"
+      "fra",
+      "ltz",
+      "lub"
     ]
   },
   {
@@ -150,6 +138,18 @@
     ]
   },
   {
+    "nanoid": "wEzGRt5VApKiLd",
+    "name": "Rádio Larochette",
+    "stream_urls": [
+      "https://servidor14.brlogic.com:8150/live"
+    ],
+    "country": "lu",
+    "languages": [
+      "ltz",
+      "por"
+    ]
+  },
+  {
     "nanoid": "Nly9jpOHuGK1QV",
     "name": "Radio Radijacija",
     "stream_urls": [
@@ -157,8 +157,8 @@
     ],
     "country": "lu",
     "languages": [
-      "srp",
-      "ltz"
+      "ltz",
+      "srp"
     ]
   },
   {
@@ -178,14 +178,14 @@
     "nanoid": "AgREmnfsVMxwtb",
     "name": "RTL Radio",
     "stream_urls": [
+      "https://stream.rtlradio.de/rtl-de-national/mp3-192",
       "https://rtlberlin.streamabc.net/rtlb-rtldeukw-mp3-128-2318218",
-      "https://stream.rtlradio.de/rtl-de-national/mp3-192/",
       "https://rtlberlin.streamabc.net/rtlb-rtldenational-mp3-192-3082173"
     ],
     "country": "lu",
     "languages": [
-      "lub",
-      "deu"
+      "deu",
+      "lub"
     ]
   },
   {
@@ -204,23 +204,11 @@
     "nanoid": "KXl0CPP90yBNcj",
     "name": "RTL Schlagerliebe",
     "stream_urls": [
-      "https://stream.rtlradio.de/schlagerliebe/mp3-192/"
+      "https://stream.rtlradio.de/schlagerliebe/mp3-192"
     ],
     "country": "lu",
     "languages": [
       "deu"
-    ]
-  },
-  {
-    "nanoid": "wEzGRt5VApKiLd",
-    "name": "Rádio Larochette",
-    "stream_urls": [
-      "https://servidor14.brlogic.com:8150/live"
-    ],
-    "country": "lu",
-    "languages": [
-      "por",
-      "ltz"
     ]
   }
 ]

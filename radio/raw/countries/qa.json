@@ -14,9 +14,9 @@
     "nanoid": "QJzD1uEd78Y1q8",
     "name": "Al Jazeera Arabic",
     "stream_urls": [
-      "https://live-hls-audio-web-aja.getaj.net/VOICE-AJA/01.m3u8",
+      "https://live-hls-web-aja.getaj.net/AJA/index.m3u8",
       "https://live-hls-audio-web-aja.getaj.net/VOICE-AJA/index.m3u8",
-      "https://live-hls-web-aja.getaj.net/AJA/index.m3u8"
+      "https://live-hls-audio-web-aja.getaj.net/VOICE-AJA/01.m3u8"
     ],
     "country": "qa",
     "languages": [
@@ -27,8 +27,8 @@
     "nanoid": "rP1T51VOQCVt0Q",
     "name": "Al Jazeera English",
     "stream_urls": [
-      "https://live-hls-audio-web-aje.getaj.net/VOICE-AJE/01.m3u8",
-      "https://live-hls-web-aje-gcp.thehlive.com/VOICE-AJE/index.m3u8"
+      "https://live-hls-web-aje-gcp.thehlive.com/VOICE-AJE/index.m3u8",
+      "https://live-hls-audio-web-aje.getaj.net/VOICE-AJE/01.m3u8"
     ],
     "country": "qa",
     "languages": [
@@ -47,11 +47,22 @@
     ]
   },
   {
+    "nanoid": "F2RiffpCmzqIyl",
+    "name": "Qabayan Radio 94.3 FM",
+    "stream_urls": [
+      "https://c2.radioboss.fm:8478/live"
+    ],
+    "country": "qa",
+    "languages": [
+      "tgl"
+    ]
+  },
+  {
     "nanoid": "HesRwbRJDo3YTS",
     "name": "Radio Olive 106.3 FM",
     "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/OLIVE1063AAC.aac",
-      "https://22733.live.streamtheworld.com/OLIVE1063.mp3"
+      "https://22733.live.streamtheworld.com/OLIVE1063.mp3",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/OLIVE1063AAC.aac"
     ],
     "country": "qa",
     "languages": [

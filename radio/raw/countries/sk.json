@@ -45,17 +45,6 @@
     ]
   },
   {
-    "nanoid": "2PWNDuzLmDI0vW",
-    "name": "Duflo Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/kxwhyvz2fm0uv"
-    ],
-    "country": "sk",
-    "languages": [
-      "slk"
-    ]
-  },
-  {
     "nanoid": "Nch2xCW6pjQcXV",
     "name": "Europa 2",
     "stream_urls": [
@@ -140,8 +129,8 @@
     ],
     "country": "sk",
     "languages": [
-      "slk",
-      "ces"
+      "ces",
+      "slk"
     ]
   },
   {
@@ -222,82 +211,21 @@
     ]
   },
   {
-    "nanoid": "Ytsu54NmO9WZF9",
-    "name": "Radio Basavel",
-    "stream_urls": [
-      "https://stream.zeno.fm/6gd9c6yn4nhvv"
-    ],
-    "country": "sk",
-    "languages": [
-      "slk"
-    ]
-  },
-  {
-    "nanoid": "cjkr3jqmbB9XKj",
-    "name": "Radio Metropolitan",
-    "stream_urls": [
-      "https://mpc2.mediacp.eu:8214/stream"
-    ],
-    "country": "sk",
-    "languages": [
-      "slk"
-    ]
-  },
-  {
-    "nanoid": "PGA1rmanjFV5Fh",
-    "name": "Radio Slovakia International",
-    "stream_urls": [
-      "https://icecast.stv.livebox.sk/rsi_128.mp3"
-    ],
-    "country": "sk",
-    "languages": [
-      "slk",
-      "eng",
-      "deu",
-      "fra",
-      "spa",
-      "rus"
-    ]
-  },
-  {
-    "nanoid": "nqqSBgrq2QaXuA",
-    "name": "Radio TLIS",
-    "stream_urls": [
-      "https://stream.tlis.sk/tlis.mp3"
-    ],
-    "country": "sk",
-    "languages": [
-      "slk"
-    ]
-  },
-  {
-    "nanoid": "ug8hHOhT9BNrwW",
-    "name": "Radio Viva",
-    "stream_urls": [
-      "https://stream.sepia.sk/viva128.mp3",
-      "https://stream.sepia.sk:8000/viva128.mp3"
-    ],
-    "country": "sk",
-    "languages": [
-      "slk"
-    ]
-  },
-  {
-    "nanoid": "4fXnpEJLnADMzB",
-    "name": "Rusyn FM",
-    "stream_urls": [
-      "https://stream.rusyn.fm/rusyny.mp3"
-    ],
-    "country": "sk",
-    "languages": [
-      "slk"
-    ]
-  },
-  {
     "nanoid": "lSNwFlHp683RQi",
     "name": "Rádio 7",
     "stream_urls": [
       "https://play.radio7.sk/128"
+    ],
+    "country": "sk",
+    "languages": [
+      "slk"
+    ]
+  },
+  {
+    "nanoid": "Ytsu54NmO9WZF9",
+    "name": "Radio Basavel",
+    "stream_urls": [
+      "https://stream.zeno.fm/6gd9c6yn4nhvv"
     ],
     "country": "sk",
     "languages": [
@@ -323,8 +251,8 @@
     ],
     "country": "sk",
     "languages": [
-      "slk",
-      "ces"
+      "ces",
+      "slk"
     ]
   },
   {
@@ -420,8 +348,19 @@
     "nanoid": "wCm1VBmKjvbkcO",
     "name": "Rádio Melody",
     "stream_urls": [
-      "https://stream.bauermedia.sk/melody-lo.mp3",
-      "https://stream.bauermedia.sk/melody-hi.mp3"
+      "https://stream.bauermedia.sk/melody-hi.mp3",
+      "https://stream.bauermedia.sk/melody-lo.mp3"
+    ],
+    "country": "sk",
+    "languages": [
+      "slk"
+    ]
+  },
+  {
+    "nanoid": "cjkr3jqmbB9XKj",
+    "name": "Radio Metropolitan",
+    "stream_urls": [
+      "https://mpc2.mediacp.eu:8214/stream"
     ],
     "country": "sk",
     "languages": [
@@ -447,8 +386,8 @@
     ],
     "country": "sk",
     "languages": [
-      "slk",
-      "hun"
+      "hun",
+      "slk"
     ]
   },
   {
@@ -467,6 +406,17 @@
     "name": "Rádio Pyramída",
     "stream_urls": [
       "https://icecast.stv.livebox.sk/klasika_128.mp3"
+    ],
+    "country": "sk",
+    "languages": [
+      "slk"
+    ]
+  },
+  {
+    "nanoid": "nvND7555xtvWRs",
+    "name": "Rádio Rebeca",
+    "stream_urls": [
+      "https://mpc2.mediacp.eu:8200/rebecaweb"
     ],
     "country": "sk",
     "languages": [
@@ -551,6 +501,22 @@
     ]
   },
   {
+    "nanoid": "PGA1rmanjFV5Fh",
+    "name": "Radio Slovakia International",
+    "stream_urls": [
+      "https://icecast.stv.livebox.sk/rsi_128.mp3"
+    ],
+    "country": "sk",
+    "languages": [
+      "deu",
+      "eng",
+      "fra",
+      "rus",
+      "slk",
+      "spa"
+    ]
+  },
+  {
     "nanoid": "F9iHUKYdOfKozK",
     "name": "Rádio Slovensko",
     "stream_urls": [
@@ -566,6 +532,29 @@
     "name": "Rádio SUB FM",
     "stream_urls": [
       "https://stream.subfm.sk/subfm"
+    ],
+    "country": "sk",
+    "languages": [
+      "slk"
+    ]
+  },
+  {
+    "nanoid": "nqqSBgrq2QaXuA",
+    "name": "Radio TLIS",
+    "stream_urls": [
+      "https://stream.tlis.sk/tlis.mp3"
+    ],
+    "country": "sk",
+    "languages": [
+      "slk"
+    ]
+  },
+  {
+    "nanoid": "ug8hHOhT9BNrwW",
+    "name": "Radio Viva",
+    "stream_urls": [
+      "https://stream.sepia.sk:8000/viva128.mp3",
+      "https://stream.sepia.sk/viva128.mp3"
     ],
     "country": "sk",
     "languages": [
@@ -632,6 +621,17 @@
     "name": "Rádio_FM",
     "stream_urls": [
       "https://icecast.stv.livebox.sk/fm_128.mp3"
+    ],
+    "country": "sk",
+    "languages": [
+      "slk"
+    ]
+  },
+  {
+    "nanoid": "4fXnpEJLnADMzB",
+    "name": "Rusyn FM",
+    "stream_urls": [
+      "https://stream.rusyn.fm/rusyny.mp3"
     ],
     "country": "sk",
     "languages": [

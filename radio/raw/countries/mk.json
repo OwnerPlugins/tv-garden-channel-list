@@ -45,10 +45,12 @@
     ]
   },
   {
-    "nanoid": "W7bCwkx7XKw8wv",
-    "name": "Kanal 103",
+    "nanoid": "zLYbwvx7xdVnLd",
+    "name": "Kanal 77",
     "stream_urls": [
-      "https://radiostream.neotel.mk/kanal103"
+      "https://radiocnd.mms.mk/proxy/reactradio/stream",
+      "https://radiocnd.mms.mk/proxy/offnet/stream",
+      "https://radiocnd.mms.mk/proxy/player/stream"
     ],
     "country": "mk",
     "languages": [
@@ -56,12 +58,10 @@
     ]
   },
   {
-    "nanoid": "zLYbwvx7xdVnLd",
-    "name": "Kanal 77",
+    "nanoid": "W7bCwkx7XKw8wv",
+    "name": "Kanal 103",
     "stream_urls": [
-      "https://radiocnd.mms.mk/proxy/reactradio/stream",
-      "https://radiocnd.mms.mk/proxy/offnet/stream",
-      "https://radiocnd.mms.mk/proxy/player/stream"
+      "https://radiostream.neotel.mk/kanal103"
     ],
     "country": "mk",
     "languages": [
@@ -272,6 +272,17 @@
     "name": "Time FM",
     "stream_urls": [
       "https://s2.free-shoutcast.com/stream/18058"
+    ],
+    "country": "mk",
+    "languages": [
+      "mkd"
+    ]
+  },
+  {
+    "nanoid": "wTKPnafPAPcZBn",
+    "name": "Urban FM",
+    "stream_urls": [
+      "https://securestreams4.autopo.st:1668/stream"
     ],
     "country": "mk",
     "languages": [

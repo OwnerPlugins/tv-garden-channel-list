@@ -11,6 +11,17 @@
     ]
   },
   {
+    "nanoid": "jRRDSPZjhR0Nkb",
+    "name": "Abu Dhabi FM",
+    "stream_urls": [
+      "https://admn-radio-cdn-lb.starzplayarabia.com/out/v1/admn_radio_enc/abudhabi_fm/abudhabi_fm_hls_nd/index.m3u8"
+    ],
+    "country": "ae",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
     "nanoid": "Wk1vU3A2BDcODE",
     "name": "Big Melodies",
     "stream_urls": [
@@ -361,9 +372,9 @@
     ],
     "country": "ae",
     "languages": [
-      "hin",
       "ara",
-      "eng"
+      "eng",
+      "hin"
     ]
   },
   {
@@ -378,18 +389,6 @@
     ]
   },
   {
-    "nanoid": "nPEkwZnImsnFr0",
-    "name": "Classical Radio - Andrea Bocelli",
-    "stream_urls": [
-      "https://drive.uber.radio/uber/crandreabocelli/icecast.audio"
-    ],
-    "country": "ae",
-    "languages": [
-      "ita",
-      "eng"
-    ]
-  },
-  {
     "nanoid": "0W9hOJc7UN53MK",
     "name": "Classical Radio - André Rieu",
     "stream_urls": [
@@ -398,6 +397,18 @@
     "country": "ae",
     "languages": [
       "eng"
+    ]
+  },
+  {
+    "nanoid": "nPEkwZnImsnFr0",
+    "name": "Classical Radio - Andrea Bocelli",
+    "stream_urls": [
+      "https://drive.uber.radio/uber/crandreabocelli/icecast.audio"
+    ],
+    "country": "ae",
+    "languages": [
+      "eng",
+      "ita"
     ]
   },
   {
@@ -430,8 +441,8 @@
     ],
     "country": "ae",
     "languages": [
-      "eng",
-      "deu"
+      "deu",
+      "eng"
     ]
   },
   {
@@ -453,8 +464,8 @@
     ],
     "country": "ae",
     "languages": [
-      "eng",
-      "deu"
+      "deu",
+      "eng"
     ]
   },
   {
@@ -1221,8 +1232,8 @@
     "nanoid": "ZnXnf5pLFuzHeV",
     "name": "Easy Doris Day",
     "stream_urls": [
-      "https://streaming.exclusive.radio/uber/easydorisday/icecast.audio",
-      "https://streaming.exclusive.radio/uber/easybertkaempfert/icecast.audio"
+      "https://streaming.exclusive.radio/uber/easybertkaempfert/icecast.audio",
+      "https://streaming.exclusive.radio/uber/easydorisday/icecast.audio"
     ],
     "country": "ae",
     "languages": [
@@ -1285,10 +1296,10 @@
     ]
   },
   {
-    "nanoid": "llwz9fm6pwsDqj",
-    "name": "Exclusively 10cc",
+    "nanoid": "dad4ahBFAYziuS",
+    "name": "Exclusively 2Pac",
     "stream_urls": [
-      "https://streaming.exclusive.radio/er/10cc/icecast.audio"
+      "https://streaming.exclusive.radio/er/2pac/icecast.audio"
     ],
     "country": "ae",
     "languages": [
@@ -1296,10 +1307,10 @@
     ]
   },
   {
-    "nanoid": "dad4ahBFAYziuS",
-    "name": "Exclusively 2Pac",
+    "nanoid": "llwz9fm6pwsDqj",
+    "name": "Exclusively 10cc",
     "stream_urls": [
-      "https://streaming.exclusive.radio/er/2pac/icecast.audio"
+      "https://streaming.exclusive.radio/er/10cc/icecast.audio"
     ],
     "country": "ae",
     "languages": [
@@ -1332,8 +1343,8 @@
     "nanoid": "fShpq405bJkRRJ",
     "name": "Exclusively ABBA",
     "stream_urls": [
-      "https://streaming.exclusive.radio/er/abba/icecast.audio",
-      "https://2.mystreaming.net/er/abba/icecast.audio"
+      "https://2.mystreaming.net/er/abba/icecast.audio",
+      "https://streaming.exclusive.radio/er/abba/icecast.audio"
     ],
     "country": "ae",
     "languages": [
@@ -1377,8 +1388,8 @@
     "nanoid": "k0lfsOx082Fv1h",
     "name": "Exclusively Adam Lambert",
     "stream_urls": [
-      "https://streaming.exclusive.radio/er/adamlambert/icecast.audio",
-      "https://2.mystreaming.net/er-app/adamlambert/icecast.audio"
+      "https://2.mystreaming.net/er-app/adamlambert/icecast.audio",
+      "https://streaming.exclusive.radio/er/adamlambert/icecast.audio"
     ],
     "country": "ae",
     "languages": [
@@ -1547,8 +1558,8 @@
     ],
     "country": "ae",
     "languages": [
-      "ita",
-      "eng"
+      "eng",
+      "ita"
     ]
   },
   {
@@ -1786,8 +1797,8 @@
     "nanoid": "W4HbHR7OXJYA3A",
     "name": "Exclusively Beastie Boys",
     "stream_urls": [
-      "https://streaming.exclusive.radio/er/beastieboys/icecast.audio",
-      "https://streaming.exclusive.radio/er-app/beastieboys/icecast.audio"
+      "https://streaming.exclusive.radio/er-app/beastieboys/icecast.audio",
+      "https://streaming.exclusive.radio/er/beastieboys/icecast.audio"
     ],
     "country": "ae",
     "languages": [
@@ -1831,8 +1842,8 @@
     "nanoid": "8JtMRPYbhnv6b0",
     "name": "Exclusively Big Country",
     "stream_urls": [
-      "https://streaming.exclusive.radio/er/bigcountry/icecast.audio",
-      "https://2.mystreaming.net/er/bigcountry/icecast.audio"
+      "https://2.mystreaming.net/er/bigcountry/icecast.audio",
+      "https://streaming.exclusive.radio/er/bigcountry/icecast.audio"
     ],
     "country": "ae",
     "languages": [
@@ -1843,8 +1854,8 @@
     "nanoid": "ppVJ7QIxP5gVxW",
     "name": "Exclusively Bill Withers",
     "stream_urls": [
-      "https://streaming.exclusive.radio/er/billwithers/icecast.audio",
-      "https://2.mystreaming.net/er/billwithers/icecast.audio"
+      "https://2.mystreaming.net/er/billwithers/icecast.audio",
+      "https://streaming.exclusive.radio/er/billwithers/icecast.audio"
     ],
     "country": "ae",
     "languages": [
@@ -1866,8 +1877,8 @@
     "nanoid": "Wc3mCHe8PJpwDZ",
     "name": "Exclusively Billy Idol",
     "stream_urls": [
-      "https://streaming.exclusive.radio/er/billyidol/icecast.audio",
-      "https://2.mystreaming.net/er/billyidol/icecast.audio"
+      "https://2.mystreaming.net/er/billyidol/icecast.audio",
+      "https://streaming.exclusive.radio/er/billyidol/icecast.audio"
     ],
     "country": "ae",
     "languages": [
@@ -2065,8 +2076,8 @@
     "nanoid": "VNtUJrFgFvouMg",
     "name": "Exclusively Bonnie Raitt",
     "stream_urls": [
-      "https://streaming.exclusive.radio/er/bonnieraitt/icecast.audio",
-      "https://2.mystreaming.net/er/bonnieraitt/icecast.audio"
+      "https://2.mystreaming.net/er/bonnieraitt/icecast.audio",
+      "https://streaming.exclusive.radio/er/bonnieraitt/icecast.audio"
     ],
     "country": "ae",
     "languages": [
@@ -2077,8 +2088,8 @@
     "nanoid": "9HOvhfgtvjVY4M",
     "name": "Exclusively Booker T & The MG's",
     "stream_urls": [
-      "https://streaming.exclusive.radio/er/bookert/icecast.audio",
-      "https://2.mystreaming.net/er/bookert/icecast.audio"
+      "https://2.mystreaming.net/er/bookert/icecast.audio",
+      "https://streaming.exclusive.radio/er/bookert/icecast.audio"
     ],
     "country": "ae",
     "languages": [
@@ -2101,17 +2112,6 @@
     "name": "Exclusively Brad Paisley",
     "stream_urls": [
       "https://streaming.exclusive.radio/er/bradpaisley/icecast.audio"
-    ],
-    "country": "ae",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "JaAPEK4tc6aNpN",
-    "name": "Exclusively Brad Paisley Hits",
-    "stream_urls": [
-      "https://streaming.exclusive.radio/er/bradpaisleyhits/icecast.audio"
     ],
     "country": "ae",
     "languages": [
@@ -2177,8 +2177,8 @@
     "nanoid": "3igSHLOCnQXkjF",
     "name": "Exclusively Bruce Springsteen",
     "stream_urls": [
-      "https://streaming.exclusive.radio/er/springsteen/icecast.audio",
-      "https://nl4.mystreaming.net/er/springsteen/icecast.audio"
+      "https://nl4.mystreaming.net/er/springsteen/icecast.audio",
+      "https://streaming.exclusive.radio/er/springsteen/icecast.audio"
     ],
     "country": "ae",
     "languages": [
@@ -2233,8 +2233,8 @@
     "nanoid": "2oqj4GtR0kFJH8",
     "name": "Exclusively Bryan Ferry",
     "stream_urls": [
-      "https://streaming.exclusive.radio/er/bryanferry/icecast.audio",
-      "https://nl4.mystreaming.net/er/bryanferry/icecast.audio"
+      "https://nl4.mystreaming.net/er/bryanferry/icecast.audio",
+      "https://streaming.exclusive.radio/er/bryanferry/icecast.audio"
     ],
     "country": "ae",
     "languages": [
@@ -2249,8 +2249,8 @@
     ],
     "country": "ae",
     "languages": [
-      "kor",
-      "eng"
+      "eng",
+      "kor"
     ]
   },
   {
@@ -2358,8 +2358,8 @@
     "nanoid": "twdJOvMzcggfk5",
     "name": "Exclusively Carole King",
     "stream_urls": [
-      "https://streaming.exclusive.radio/er/caroleking/icecast.audio",
-      "https://2.mystreaming.net/er/caroleking/icecast.audio"
+      "https://2.mystreaming.net/er/caroleking/icecast.audio",
+      "https://streaming.exclusive.radio/er/caroleking/icecast.audio"
     ],
     "country": "ae",
     "languages": [
@@ -2392,8 +2392,8 @@
     "nanoid": "uIyjHYHbMDBxlz",
     "name": "Exclusively Cat Stevens",
     "stream_urls": [
-      "https://streaming.exclusive.radio/er/catstevens/icecast.audio",
-      "https://2.mystreaming.net/er/catstevens/icecast.audio"
+      "https://2.mystreaming.net/er/catstevens/icecast.audio",
+      "https://streaming.exclusive.radio/er/catstevens/icecast.audio"
     ],
     "country": "ae",
     "languages": [
@@ -2782,8 +2782,8 @@
     "nanoid": "LIPMCVPhO4CGsA",
     "name": "Exclusively Diana Krall",
     "stream_urls": [
-      "https://streaming.exclusive.radio/er/dianakrall/icecast.audio",
-      "https://nl4.mystreaming.net/er/dianakrall/icecast.audio"
+      "https://nl4.mystreaming.net/er/dianakrall/icecast.audio",
+      "https://streaming.exclusive.radio/er/dianakrall/icecast.audio"
     ],
     "country": "ae",
     "languages": [
@@ -2802,22 +2802,11 @@
     ]
   },
   {
-    "nanoid": "vMLh0nCwyzHQEA",
-    "name": "Exclusively Diana Ross Hits",
-    "stream_urls": [
-      "https://streaming.exclusive.radio/er/dianarosshits/icecast.audio"
-    ],
-    "country": "ae",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "pI7A1lxOifer9X",
     "name": "Exclusively Dionne Warwick",
     "stream_urls": [
-      "https://streaming.exclusive.radio/er/dionnewarwick/icecast.audio",
-      "https://2.mystreaming.net/er/dionnewarwick/icecast.audio"
+      "https://2.mystreaming.net/er/dionnewarwick/icecast.audio",
+      "https://streaming.exclusive.radio/er/dionnewarwick/icecast.audio"
     ],
     "country": "ae",
     "languages": [
@@ -2828,8 +2817,8 @@
     "nanoid": "bBzfi6ptXK1GDp",
     "name": "Exclusively Dire Straits",
     "stream_urls": [
-      "https://streaming.exclusive.radio/er/direstraits/icecast.audio",
-      "https://2.mystreaming.net/er/direstraits/icecast.audio"
+      "https://2.mystreaming.net/er/direstraits/icecast.audio",
+      "https://streaming.exclusive.radio/er/direstraits/icecast.audio"
     ],
     "country": "ae",
     "languages": [
@@ -2884,8 +2873,8 @@
     "nanoid": "19KbhqDureflMB",
     "name": "Exclusively Donna Summer",
     "stream_urls": [
-      "https://streaming.exclusive.radio/er/donnasummer/icecast.audio",
-      "https://nl4.mystreaming.net/er/donnasummer/icecast.audio"
+      "https://nl4.mystreaming.net/er/donnasummer/icecast.audio",
+      "https://streaming.exclusive.radio/er/donnasummer/icecast.audio"
     ],
     "country": "ae",
     "languages": [
@@ -2951,8 +2940,8 @@
     "nanoid": "oLegQS4OiaPtdz",
     "name": "Exclusively Duke Ellington",
     "stream_urls": [
-      "https://streaming.exclusive.radio/er/dukeellington/icecast.audio",
-      "https://2.mystreaming.net/er/dukeellington/icecast.audio"
+      "https://2.mystreaming.net/er/dukeellington/icecast.audio",
+      "https://streaming.exclusive.radio/er/dukeellington/icecast.audio"
     ],
     "country": "ae",
     "languages": [
@@ -2985,8 +2974,8 @@
     "nanoid": "teh3KawJgXvwAo",
     "name": "Exclusively Earth, Wind & Fire",
     "stream_urls": [
-      "https://streaming.exclusive.radio/er/earthwindandfire/icecast.audio",
-      "https://nl4.mystreaming.net/er/earthwindandfire/icecast.audio"
+      "https://nl4.mystreaming.net/er/earthwindandfire/icecast.audio",
+      "https://streaming.exclusive.radio/er/earthwindandfire/icecast.audio"
     ],
     "country": "ae",
     "languages": [
@@ -3030,9 +3019,9 @@
     "nanoid": "E5sKE3uIsMpe4c",
     "name": "Exclusively Ella Fitzgerald",
     "stream_urls": [
-      "https://streaming.exclusive.radio/er/ellafitzgerald/icecast.audio",
       "https://2.mystreaming.net/er/ellafitzgerald/icecast.audio",
-      "https://nl4.mystreaming.net/er/ellafitzgerald/icecast.audio"
+      "https://nl4.mystreaming.net/er/ellafitzgerald/icecast.audio",
+      "https://streaming.exclusive.radio/er/ellafitzgerald/icecast.audio"
     ],
     "country": "ae",
     "languages": [
@@ -3065,8 +3054,8 @@
     "nanoid": "OTkyF6ttCxsNMd",
     "name": "Exclusively Elton John",
     "stream_urls": [
-      "https://streaming.exclusive.radio/er/eltonjohn/icecast.audio",
-      "https://2.mystreaming.net/er/eltonjohn/icecast.audio"
+      "https://2.mystreaming.net/er/eltonjohn/icecast.audio",
+      "https://streaming.exclusive.radio/er/eltonjohn/icecast.audio"
     ],
     "country": "ae",
     "languages": [
@@ -3147,8 +3136,8 @@
     ],
     "country": "ae",
     "languages": [
-      "spa",
-      "eng"
+      "eng",
+      "spa"
     ]
   },
   {
@@ -3344,8 +3333,8 @@
     "nanoid": "JQlds4iR8ejYNB",
     "name": "Exclusively Genesis",
     "stream_urls": [
-      "https://2.mystreaming.net/er/genesis/icecast.audio",
-      "https://streaming.exclusive.radio/er/genesis/icecast.audio"
+      "https://streaming.exclusive.radio/er/genesis/icecast.audio",
+      "https://2.mystreaming.net/er/genesis/icecast.audio"
     ],
     "country": "ae",
     "languages": [
@@ -3468,8 +3457,8 @@
     "nanoid": "eyTrbkBWnfuzko",
     "name": "Exclusively Gloria Estefan",
     "stream_urls": [
-      "https://streaming.exclusive.radio/er/gloriaestefan/icecast.audio",
-      "https://2.mystreaming.net/er/gloriaestefan/icecast.audio"
+      "https://2.mystreaming.net/er/gloriaestefan/icecast.audio",
+      "https://streaming.exclusive.radio/er/gloriaestefan/icecast.audio"
     ],
     "country": "ae",
     "languages": [
@@ -3534,17 +3523,6 @@
     ]
   },
   {
-    "nanoid": "ysU3VHdq5bGddt",
-    "name": "Exclusively Hall & Oates Hits",
-    "stream_urls": [
-      "https://streaming.exclusive.radio/er/hallandoateshits/icecast.audio"
-    ],
-    "country": "ae",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "90KNg46QW1sYkc",
     "name": "Exclusively Hank Williams",
     "stream_urls": [
@@ -3570,8 +3548,8 @@
     "nanoid": "ohA5s8NC8hFEbz",
     "name": "Exclusively Heart",
     "stream_urls": [
-      "https://nl4.mystreaming.net/er/heart/icecast.audio",
-      "https://streaming.exclusive.radio/er/heart/icecast.audio"
+      "https://streaming.exclusive.radio/er/heart/icecast.audio",
+      "https://nl4.mystreaming.net/er/heart/icecast.audio"
     ],
     "country": "ae",
     "languages": [
@@ -3605,8 +3583,8 @@
     "nanoid": "ATwSK08T8oJDbV",
     "name": "Exclusively Huey Lewis & The News",
     "stream_urls": [
-      "https://nl4.mystreaming.net/er/hueylewis/icecast.audio",
-      "https://streaming.exclusive.radio/er/hueylewis/icecast.audio"
+      "https://streaming.exclusive.radio/er/hueylewis/icecast.audio",
+      "https://nl4.mystreaming.net/er/hueylewis/icecast.audio"
     ],
     "country": "ae",
     "languages": [
@@ -3724,33 +3702,11 @@
     ]
   },
   {
-    "nanoid": "0ImvW2Yy9KYzDE",
-    "name": "Exclusively James Brown Hits",
-    "stream_urls": [
-      "https://streaming.exclusive.radio/er/jamesbrownhits/icecast.audio"
-    ],
-    "country": "ae",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "visKiMD81EPrN2",
     "name": "Exclusively James Taylor",
     "stream_urls": [
       "https://streaming.exclusive.radio/er/jamestaylor/icecast.audio",
       "https://2.mystreaming.net/er/jamestaylor/icecast.audio"
-    ],
-    "country": "ae",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "9gLDTT6RBFOT7d",
-    "name": "Exclusively James Taylor Hits",
-    "stream_urls": [
-      "https://streaming.exclusive.radio/er/jamestaylorhits/icecast.audio"
     ],
     "country": "ae",
     "languages": [
@@ -4082,8 +4038,8 @@
     "nanoid": "clU1Y5PuQGnhlf",
     "name": "Exclusively Joni Mitchell",
     "stream_urls": [
-      "https://streaming.exclusive.radio/er/jonimitchell/icecast.audio",
-      "https://2.mystreaming.net/er/jonimitchell/icecast.audio"
+      "https://2.mystreaming.net/er/jonimitchell/icecast.audio",
+      "https://streaming.exclusive.radio/er/jonimitchell/icecast.audio"
     ],
     "country": "ae",
     "languages": [
@@ -4094,8 +4050,8 @@
     "nanoid": "FUHC5xv9TUEeyE",
     "name": "Exclusively Joni Mitchell Hits",
     "stream_urls": [
-      "https://streaming.exclusive.radio/er/jonimitchellhits/icecast.audio",
-      "https://nl4.mystreaming.net/er/jonimitchellhits/icecast.audio"
+      "https://nl4.mystreaming.net/er/jonimitchellhits/icecast.audio",
+      "https://streaming.exclusive.radio/er/jonimitchellhits/icecast.audio"
     ],
     "country": "ae",
     "languages": [
@@ -4205,8 +4161,8 @@
     "nanoid": "9woMYnnW80Hfqm",
     "name": "Exclusively Kate Bush",
     "stream_urls": [
-      "https://streaming.exclusive.radio/er/katebush/icecast.audio",
-      "https://2.mystreaming.net/er/katebush/icecast.audio"
+      "https://2.mystreaming.net/er/katebush/icecast.audio",
+      "https://streaming.exclusive.radio/er/katebush/icecast.audio"
     ],
     "country": "ae",
     "languages": [
@@ -4372,8 +4328,8 @@
     "nanoid": "5AnuxgQpnDW5Dx",
     "name": "Exclusively Lady Gaga",
     "stream_urls": [
-      "https://nl4.mystreaming.net/er-app/ladygaga/icecast.audio",
-      "https://streaming.exclusive.radio/er/ladygaga/icecast.audio"
+      "https://streaming.exclusive.radio/er/ladygaga/icecast.audio",
+      "https://nl4.mystreaming.net/er-app/ladygaga/icecast.audio"
     ],
     "country": "ae",
     "languages": [
@@ -4443,8 +4399,8 @@
     "nanoid": "aMYdlBW6xmoH36",
     "name": "Exclusively Level 42",
     "stream_urls": [
-      "https://2.mystreaming.net/er/level42/icecast.audio",
-      "https://streaming.exclusive.radio/er/level42/icecast.audio"
+      "https://streaming.exclusive.radio/er/level42/icecast.audio",
+      "https://2.mystreaming.net/er/level42/icecast.audio"
     ],
     "country": "ae",
     "languages": [
@@ -4466,8 +4422,8 @@
     "nanoid": "PbsLnW6MJinewO",
     "name": "Exclusively Linda Ronstadt",
     "stream_urls": [
-      "https://streaming.exclusive.radio/er/lindaronstadt/icecast.audio",
-      "https://2.mystreaming.net/er/lindaronstadt/icecast.audio"
+      "https://2.mystreaming.net/er/lindaronstadt/icecast.audio",
+      "https://streaming.exclusive.radio/er/lindaronstadt/icecast.audio"
     ],
     "country": "ae",
     "languages": [
@@ -4566,8 +4522,8 @@
     "nanoid": "r5jXiyEPmM7Z9M",
     "name": "Exclusively Louis Armstrong",
     "stream_urls": [
-      "https://nl4.mystreaming.net/er/louisarmstrong/icecast.audio",
-      "https://streaming.exclusive.radio/er/louisarmstrong/icecast.audio"
+      "https://streaming.exclusive.radio/er/louisarmstrong/icecast.audio",
+      "https://nl4.mystreaming.net/er/louisarmstrong/icecast.audio"
     ],
     "country": "ae",
     "languages": [
@@ -4861,6 +4817,17 @@
     ]
   },
   {
+    "nanoid": "5MiNGHhEfnjewW",
+    "name": "Exclusively Mötley Crüe",
+    "stream_urls": [
+      "https://streaming.exclusive.radio/er/motleycrue/icecast.audio"
+    ],
+    "country": "ae",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "R3H5q5Sdt6vuYv",
     "name": "Exclusively Motörhead",
     "stream_urls": [
@@ -4875,8 +4842,8 @@
     "nanoid": "6vKF5T3dpg2eNT",
     "name": "Exclusively Muddy Waters",
     "stream_urls": [
-      "https://2.mystreaming.net/er/muddywaters/icecast.audio",
-      "https://streaming.exclusive.radio/er/muddywaters/icecast.audio"
+      "https://streaming.exclusive.radio/er/muddywaters/icecast.audio",
+      "https://2.mystreaming.net/er/muddywaters/icecast.audio"
     ],
     "country": "ae",
     "languages": [
@@ -4888,17 +4855,6 @@
     "name": "Exclusively Muse",
     "stream_urls": [
       "https://streaming.exclusive.radio/er/muse/icecast.audio"
-    ],
-    "country": "ae",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "5MiNGHhEfnjewW",
-    "name": "Exclusively Mötley Crüe",
-    "stream_urls": [
-      "https://streaming.exclusive.radio/er/motleycrue/icecast.audio"
     ],
     "country": "ae",
     "languages": [
@@ -5251,9 +5207,9 @@
     "nanoid": "IXsZLwLWrzPHX1",
     "name": "Exclusively Pete Seeger",
     "stream_urls": [
-      "https://nl4.mystreaming.net/er/peteseeger/icecast.audio",
       "https://streaming.exclusive.radio/er/peteseeger/icecast.audio",
-      "https://2.mystreaming.net/er/peteseeger/icecast.audio"
+      "https://2.mystreaming.net/er/peteseeger/icecast.audio",
+      "https://nl4.mystreaming.net/er/peteseeger/icecast.audio"
     ],
     "country": "ae",
     "languages": [
@@ -5752,8 +5708,8 @@
     "nanoid": "i8IPWpxDDk1uq1",
     "name": "Exclusively Sade",
     "stream_urls": [
-      "https://streaming.exclusive.radio/er/sade/icecast.audio",
-      "https://2.mystreaming.net/er/sade/icecast.audio"
+      "https://2.mystreaming.net/er/sade/icecast.audio",
+      "https://streaming.exclusive.radio/er/sade/icecast.audio"
     ],
     "country": "ae",
     "languages": [
@@ -5835,8 +5791,8 @@
     ],
     "country": "ae",
     "languages": [
-      "spa",
-      "eng"
+      "eng",
+      "spa"
     ]
   },
   {
@@ -5847,8 +5803,8 @@
     ],
     "country": "ae",
     "languages": [
-      "spa",
-      "eng"
+      "eng",
+      "spa"
     ]
   },
   {
@@ -5975,17 +5931,6 @@
     ]
   },
   {
-    "nanoid": "N843FfADR1HTug",
-    "name": "Exclusively Slade Hits",
-    "stream_urls": [
-      "https://streaming.exclusive.radio/er/sladehits/icecast.audio"
-    ],
-    "country": "ae",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "ag1Y5UL9fNlZgy",
     "name": "Exclusively Small Faces",
     "stream_urls": [
@@ -6055,8 +6000,8 @@
     "nanoid": "4mVGg2n9eoXxKw",
     "name": "Exclusively Steeleye Span",
     "stream_urls": [
-      "https://nl4.mystreaming.net/er/steeleyespan/icecast.audio",
-      "https://streaming.exclusive.radio/er/steeleyespan/icecast.audio"
+      "https://streaming.exclusive.radio/er/steeleyespan/icecast.audio",
+      "https://nl4.mystreaming.net/er/steeleyespan/icecast.audio"
     ],
     "country": "ae",
     "languages": [
@@ -6492,8 +6437,8 @@
     "nanoid": "hAVVP2V1vAexbl",
     "name": "Exclusively The Drifters",
     "stream_urls": [
-      "https://streaming.exclusive.radio/er/drifters/icecast.audio",
-      "https://nl4.mystreaming.net/er/drifters/icecast.audio"
+      "https://nl4.mystreaming.net/er/drifters/icecast.audio",
+      "https://streaming.exclusive.radio/er/drifters/icecast.audio"
     ],
     "country": "ae",
     "languages": [
@@ -6504,8 +6449,8 @@
     "nanoid": "Zzi0wwSEfUMdYe",
     "name": "Exclusively The Dubliners",
     "stream_urls": [
-      "https://streaming.exclusive.radio/er/thedubliners/icecast.audio",
-      "https://2.mystreaming.net/er/thedubliners/icecast.audio"
+      "https://2.mystreaming.net/er/thedubliners/icecast.audio",
+      "https://streaming.exclusive.radio/er/thedubliners/icecast.audio"
     ],
     "country": "ae",
     "languages": [
@@ -6539,17 +6484,6 @@
     "name": "Exclusively The Everly Brothers",
     "stream_urls": [
       "https://streaming.exclusive.radio/er/everlybrothers/icecast.audio"
-    ],
-    "country": "ae",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "35PYZXuCTIMrV3",
-    "name": "Exclusively The Everly Brothers Hits",
-    "stream_urls": [
-      "https://streaming.exclusive.radio/er/everlybrothershits/icecast.audio"
     ],
     "country": "ae",
     "languages": [
@@ -6593,8 +6527,8 @@
     "nanoid": "1ePsZx7HhMe1Je",
     "name": "Exclusively The Human League",
     "stream_urls": [
-      "https://nl4.mystreaming.net/er/humanleague/icecast.audio",
-      "https://streaming.exclusive.radio/er/humanleague/icecast.audio"
+      "https://streaming.exclusive.radio/er/humanleague/icecast.audio",
+      "https://nl4.mystreaming.net/er/humanleague/icecast.audio"
     ],
     "country": "ae",
     "languages": [
@@ -6838,8 +6772,8 @@
     "nanoid": "rn7Q3G6WhnD4dm",
     "name": "Exclusively Tina Turner",
     "stream_urls": [
-      "https://streaming.exclusive.radio/er/tinaturner/icecast.audio",
-      "https://2.mystreaming.net/er/tinaturner/icecast.audio"
+      "https://2.mystreaming.net/er/tinaturner/icecast.audio",
+      "https://streaming.exclusive.radio/er/tinaturner/icecast.audio"
     ],
     "country": "ae",
     "languages": [
@@ -7462,8 +7396,8 @@
     ],
     "country": "ae",
     "languages": [
-      "hin",
-      "eng"
+      "eng",
+      "hin"
     ]
   },
   {
@@ -7485,8 +7419,8 @@
     ],
     "country": "ae",
     "languages": [
-      "zho",
-      "eng"
+      "eng",
+      "zho"
     ]
   },
   {
@@ -7530,8 +7464,8 @@
     ],
     "country": "ae",
     "languages": [
-      "fra",
-      "eng"
+      "eng",
+      "fra"
     ]
   },
   {
@@ -7575,8 +7509,8 @@
     ],
     "country": "ae",
     "languages": [
-      "zho",
-      "eng"
+      "eng",
+      "zho"
     ]
   },
   {
@@ -7631,8 +7565,8 @@
     ],
     "country": "ae",
     "languages": [
-      "tur",
-      "eng"
+      "eng",
+      "tur"
     ]
   },
   {
@@ -8263,17 +8197,6 @@
     ]
   },
   {
-    "nanoid": "t3Bu28qS24o6Mb",
-    "name": "Pulse 95",
-    "stream_urls": [
-      "https://svs.itworkscdn.net/pulse95live/pulse96/chunks.m3u8"
-    ],
-    "country": "ae",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "N8dlxhb9VJE1Qs",
     "name": "Radio Mango",
     "stream_urls": [
@@ -8575,14 +8498,14 @@
     "nanoid": "1E5t9WSUJ4jkks",
     "name": "TAG 91.1",
     "stream_urls": [
+      "https://cast4.servcast.net/proxy/v81radioworldwide/live",
       "https://stream-159.zeno.fm/7neg6f1hbm0uv",
-      "https://stream-161.zeno.fm/7neg6f1hbm0uv",
-      "https://cast4.servcast.net/proxy/v81radioworldwide/live"
+      "https://stream-161.zeno.fm/7neg6f1hbm0uv"
     ],
     "country": "ae",
     "languages": [
-      "tgl",
-      "eng"
+      "eng",
+      "tgl"
     ]
   },
   {
@@ -8593,8 +8516,8 @@
     ],
     "country": "ae",
     "languages": [
-      "tgl",
-      "eng"
+      "eng",
+      "tgl"
     ]
   },
   {
@@ -8634,8 +8557,8 @@
     "nanoid": "TrP3QhAinSUl4c",
     "name": "Tick Tock Radio 1953",
     "stream_urls": [
-      "https://streaming.ticktock.radio/tt/2023/icecast.audio",
-      "https://streaming.ticktock.radio/tt/1953/icecast.audio"
+      "https://streaming.ticktock.radio/tt/1953/icecast.audio",
+      "https://streaming.ticktock.radio/tt/2023/icecast.audio"
     ],
     "country": "ae",
     "languages": [
@@ -9420,8 +9343,8 @@
     ],
     "country": "ae",
     "languages": [
-      "jpn",
-      "eng"
+      "eng",
+      "jpn"
     ]
   },
   {
@@ -9432,8 +9355,8 @@
     ],
     "country": "ae",
     "languages": [
-      "kor",
-      "eng"
+      "eng",
+      "kor"
     ]
   },
   {

@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "jvzGsgMa7KyKJu",
-    "name": "AXR Hong Kong",
-    "stream_urls": [
-      "https://hongkongstream.axr.online/"
-    ],
-    "country": "hk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "V1f41VrHUTYx65",
     "name": "Bluesfan Radio",
     "stream_urls": [
@@ -135,8 +124,8 @@
     "nanoid": "ROj6IH2z9oHBNC",
     "name": "Liangyou Radio - Tongxing",
     "stream_urls": [
-      "https://stream.zeno.fm/2uvcyzjw38ivv",
-      "https://c23.radioboss.fm/stream/194"
+      "https://c23.radioboss.fm/stream/194",
+      "https://stream.zeno.fm/2uvcyzjw38ivv"
     ],
     "country": "hk",
     "languages": [
@@ -159,6 +148,17 @@
     "name": "Metro Finance",
     "stream_urls": [
       "https://1716664847.rsc.cdn77.org/1716664847/tracks-a1/mono.ts.m3u8"
+    ],
+    "country": "hk",
+    "languages": [
+      "zho"
+    ]
+  },
+  {
+    "nanoid": "rACSAGMRg7D48D",
+    "name": "Metro Info",
+    "stream_urls": [
+      "https://1603884249.rsc.cdn77.org/1603884249/index.m3u8"
     ],
     "country": "hk",
     "languages": [
@@ -202,8 +202,8 @@
     "nanoid": "J9KmsC1julwY27",
     "name": "RTHK Radio 1",
     "stream_urls": [
-      "https://stm1.rthk.hk/radio1",
       "https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/master.m3u8",
+      "https://stm1.rthk.hk/radio1",
       "https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/index_64_a.m3u8"
     ],
     "country": "hk",

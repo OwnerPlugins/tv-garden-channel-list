@@ -44,11 +44,22 @@
     ]
   },
   {
+    "nanoid": "25xvkjomUf130G",
+    "name": "Prvi (Radio Slovenija 1)",
+    "stream_urls": [
+      "https://mp3.rtvslo.si/ra1"
+    ],
+    "country": "si",
+    "languages": [
+      "slv"
+    ]
+  },
+  {
     "nanoid": "QDH4U7P7TEPOsV",
     "name": "Radio 1",
     "stream_urls": [
-      "https://live.radio1.si/Radio80",
-      "https://live.radio.si/Radio1"
+      "https://live.radio.si/Radio1",
+      "https://live.radio1.si/Radio80"
     ],
     "country": "si",
     "languages": [
@@ -63,6 +74,18 @@
     ],
     "country": "si",
     "languages": [
+      "slv"
+    ]
+  },
+  {
+    "nanoid": "HdLWlAkWEmbBiE",
+    "name": "Radio Capodistria",
+    "stream_urls": [
+      "https://mp3.rtvslo.si/capo"
+    ],
+    "country": "si",
+    "languages": [
+      "ita",
       "slv"
     ]
   },
@@ -107,8 +130,8 @@
     ],
     "country": "si",
     "languages": [
-      "slv",
-      "ita"
+      "ita",
+      "slv"
     ]
   },
   {
@@ -152,8 +175,8 @@
     ],
     "country": "si",
     "languages": [
-      "slv",
-      "eng"
+      "eng",
+      "slv"
     ]
   },
   {
@@ -164,8 +187,8 @@
     ],
     "country": "si",
     "languages": [
-      "slv",
-      "eng"
+      "eng",
+      "slv"
     ]
   },
   {
@@ -176,8 +199,8 @@
     ],
     "country": "si",
     "languages": [
-      "slv",
-      "eng"
+      "eng",
+      "slv"
     ]
   },
   {
@@ -221,9 +244,9 @@
     ],
     "country": "si",
     "languages": [
-      "slv",
-      "hrv",
       "bos",
+      "hrv",
+      "slv",
       "srp"
     ]
   },
@@ -246,9 +269,31 @@
     ],
     "country": "si",
     "languages": [
-      "slv",
+      "deu",
       "eng",
-      "deu"
+      "slv"
+    ]
+  },
+  {
+    "nanoid": "JTj1dUO89VDmtH",
+    "name": "Radio Štajerski val",
+    "stream_urls": [
+      "https://stream.stajerskival.si:8443/live"
+    ],
+    "country": "si",
+    "languages": [
+      "slv"
+    ]
+  },
+  {
+    "nanoid": "Lf9Tmy52YvECm2",
+    "name": "Radio Študent",
+    "stream_urls": [
+      "https://kruljo.radiostudent.si:8001/hiq"
+    ],
+    "country": "si",
+    "languages": [
+      "slv"
     ]
   },
   {
@@ -259,8 +304,8 @@
     ],
     "country": "si",
     "languages": [
-      "slv",
-      "eng"
+      "eng",
+      "slv"
     ]
   },
   {
@@ -297,28 +342,6 @@
     ]
   },
   {
-    "nanoid": "JTj1dUO89VDmtH",
-    "name": "Radio Štajerski val",
-    "stream_urls": [
-      "https://stream.stajerskival.si:8443/live"
-    ],
-    "country": "si",
-    "languages": [
-      "slv"
-    ]
-  },
-  {
-    "nanoid": "Lf9Tmy52YvECm2",
-    "name": "Radio Študent",
-    "stream_urls": [
-      "https://kruljo.radiostudent.si:8001/hiq"
-    ],
-    "country": "si",
-    "languages": [
-      "slv"
-    ]
-  },
-  {
     "nanoid": "Y7AqJZaebYQG8b",
     "name": "Radio Žica",
     "stream_urls": [
@@ -338,17 +361,6 @@
     "country": "si",
     "languages": [
       "hun",
-      "slv"
-    ]
-  },
-  {
-    "nanoid": "NTEt2N2rNLXRVA",
-    "name": "Toti Radio",
-    "stream_urls": [
-      "https://live.radio.si/Toti"
-    ],
-    "country": "si",
-    "languages": [
       "slv"
     ]
   },

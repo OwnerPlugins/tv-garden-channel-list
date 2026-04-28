@@ -158,6 +158,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "yxXfCHd5uHQMJD",
+    "name": "Belarus-5",
+    "stream_urls": [
+      "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "by",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "M4nYho03XLslkh",
     "name": "Billiard TV",
     "stream_urls": [
@@ -291,6 +304,20 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "CuPJ7DXi3sDSGh",
+    "name": "Esport3 Originals",
+    "stream_urls": [
+      "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
+      "https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "cat"
+    ],
+    "country": "es",
     "isGeoBlocked": false
   },
   {
@@ -491,19 +518,6 @@
     ],
     "country": "pt",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "440EBhNILeBYuU",
-    "name": "Futbol",
-    "stream_urls": [
-      "https://live.teleradiocom.tj/8/3m.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "tgk"
-    ],
-    "country": "tj",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "3PWIwG9FFIlO5Y",
@@ -1170,19 +1184,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "5f6bpRedKmTZgN",
-    "name": "TDM Sports",
-    "stream_urls": [
-      "https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "zho"
-    ],
-    "country": "mo",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "4Me0RU4rvtok1Y",
     "name": "Tele Rebelde",
     "stream_urls": [
@@ -1221,19 +1222,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "MoxZ4VGCEYwUa4",
-    "name": "Tigo Sports",
-    "stream_urls": [
-      "https://live.enhdtv.com:8081/8160/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "py",
     "isGeoBlocked": false
   },
   {
@@ -1295,6 +1283,7 @@
     "name": "Trace Sport Stars",
     "stream_urls": [
       "https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8",
+      "https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8",
       "https://tracesportstars-samsunges.amagi.tv/hls/amagi_hls_data_samsunguk-tracesport-samsungspain/CDN/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1329,20 +1318,6 @@
       "spa"
     ],
     "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "RZf6sd1eGccVGj",
-    "name": "TVMsport+",
-    "stream_urls": [
-      "https://stream.smashmalta.com:25463/live/webplayer/livestream/29.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng",
-      "mlt"
-    ],
-    "country": "mt",
     "isGeoBlocked": false
   },
   {

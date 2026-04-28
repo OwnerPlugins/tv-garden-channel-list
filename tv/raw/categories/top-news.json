@@ -53,7 +53,9 @@
       "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8",
       "https://cbsn-us-vtt.cbsnstream.cbsnews.com/out/v1/ef868690d34144509eda696884bf1619/master.m3u8"
     ],
-    "youtube_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/OJnTu_mV6_Y"
+    ],
     "languages": [
       "eng"
     ],
@@ -109,6 +111,23 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "vyAlDaoF9WU1Q1",
+    "name": "Euronews English",
+    "stream_urls": [
+      "https://aegis-cloudfront-1.tubi.video/b1c4d439-03a5-4c40-ae9d-90a183e010c9/euronews-en.m3u8",
+      "https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8",
+      "https://dash4.antik.sk/live/test_euronews/playlist.m3u8"
+    ],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/pykpO5kQJ98"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "oTQxI54nBGEd6Z",
     "name": "France 24 English",
     "stream_urls": [
@@ -130,7 +149,6 @@
     "name": "LiveNOW from FOX",
     "stream_urls": [
       "https://pb-k5p02dtnr2162.akamaized.net/LiveNOW_from_FOX.m3u8",
-      "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
       "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-livenowbyfox-lgus/playlist.m3u8"
     ],
     "youtube_urls": [
@@ -224,8 +242,8 @@
     "name": "WION",
     "stream_urls": [
       "https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_in/streams/in/WION.in.m3u8",
-      "https://wion-klowdtv.amagi.tv/playlist.m3u8",
-      "https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8"
+      "https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8",
+      "https://d7x8z4yuq42qn.cloudfront.net/index_2.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/vfszY1JYbMc"

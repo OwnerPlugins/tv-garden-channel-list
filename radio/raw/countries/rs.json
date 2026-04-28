@@ -18,8 +18,8 @@
     ],
     "country": "rs",
     "languages": [
-      "srp",
-      "eng"
+      "eng",
+      "srp"
     ]
   },
   {
@@ -27,17 +27,6 @@
     "name": "Domus Radio",
     "stream_urls": [
       "https://libretime.domusradio.com/icecast/main"
-    ],
-    "country": "rs",
-    "languages": [
-      "srp"
-    ]
-  },
-  {
-    "nanoid": "aYIl11kELD1ngH",
-    "name": "Dream Klub",
-    "stream_urls": [
-      "https://stream.spettro.info/listen/dream_klub_-_public_illegal/radio.mp3"
     ],
     "country": "rs",
     "languages": [
@@ -189,11 +178,34 @@
     ]
   },
   {
+    "nanoid": "TmozLjJpPbZTRp",
+    "name": "Naš Radio",
+    "stream_urls": [
+      "https://radio.dukahosting.com:7043/;"
+    ],
+    "country": "rs",
+    "languages": [
+      "srp"
+    ]
+  },
+  {
+    "nanoid": "K6FEpady2TXuID",
+    "name": "Naš radio MM",
+    "stream_urls": [
+      "https://radio.dukahosting.com:7045/;",
+      "https://radio.dukahosting.com:7045/stream"
+    ],
+    "country": "rs",
+    "languages": [
+      "srp"
+    ]
+  },
+  {
     "nanoid": "cEMqZoA6NWMAuo",
     "name": "Naxi 70e Radio",
     "stream_urls": [
-      "https://naxidigital-70s128ssl.streaming.rs:8382/;",
-      "https://naxidigital-70s128ssl.streaming.rs:8042/;"
+      "https://naxidigital-70s128ssl.streaming.rs:8042/;",
+      "https://naxidigital-70s128ssl.streaming.rs:8382/;"
     ],
     "country": "rs",
     "languages": [
@@ -509,29 +521,6 @@
     ]
   },
   {
-    "nanoid": "TmozLjJpPbZTRp",
-    "name": "Naš Radio",
-    "stream_urls": [
-      "https://radio.dukahosting.com:7043/;"
-    ],
-    "country": "rs",
-    "languages": [
-      "srp"
-    ]
-  },
-  {
-    "nanoid": "K6FEpady2TXuID",
-    "name": "Naš radio MM",
-    "stream_urls": [
-      "https://radio.dukahosting.com:7045/stream",
-      "https://radio.dukahosting.com:7045/;"
-    ],
-    "country": "rs",
-    "languages": [
-      "srp"
-    ]
-  },
-  {
     "nanoid": "ONmNR8rvcdLCgY",
     "name": "Nišville Radio",
     "stream_urls": [
@@ -690,6 +679,17 @@
     ]
   },
   {
+    "nanoid": "vn5EF6jx3dcuaL",
+    "name": "Radio 4P Narodna",
+    "stream_urls": [
+      "https://server4p.com:8002/stream"
+    ],
+    "country": "rs",
+    "languages": [
+      "srp"
+    ]
+  },
+  {
     "nanoid": "2kLTE2buLQ1frM",
     "name": "Radio 021",
     "stream_urls": [
@@ -745,32 +745,10 @@
     ]
   },
   {
-    "nanoid": "8cbS94nIALZglD",
-    "name": "Radio 101",
-    "stream_urls": [
-      "https://as1.radioserveri.com:8090/radio.mp3"
-    ],
-    "country": "rs",
-    "languages": [
-      "srp"
-    ]
-  },
-  {
     "nanoid": "OZiTr1MEcHQWSR",
     "name": "Radio 31 Plus",
     "stream_urls": [
       "https://cast4.asurahosting.com/proxy/dejan/stream"
-    ],
-    "country": "rs",
-    "languages": [
-      "srp"
-    ]
-  },
-  {
-    "nanoid": "vn5EF6jx3dcuaL",
-    "name": "Radio 4P Narodna",
-    "stream_urls": [
-      "https://server4p.com:8002/stream"
     ],
     "country": "rs",
     "languages": [
@@ -792,7 +770,7 @@
     "nanoid": "f2PH4WkspDU43v",
     "name": "Radio Aparat",
     "stream_urls": [
-      "https://stream4.rcast.net/72355/"
+      "https://stream4.rcast.net/72355"
     ],
     "country": "rs",
     "languages": [
@@ -847,8 +825,8 @@
     "nanoid": "aQshWRXCSbLzHD",
     "name": "Radio Beograd 1",
     "stream_urls": [
-      "https://rtsradio-live.morescreens.com/RTS_2_001/audio/chunklist.m3u8",
-      "https://rtsradio-live.morescreens.com/RTS_2_001/playlist.m3u8"
+      "https://rtsradio-live.morescreens.com/RTS_2_001/playlist.m3u8",
+      "https://rtsradio-live.morescreens.com/RTS_2_001/audio/chunklist.m3u8"
     ],
     "country": "rs",
     "languages": [
@@ -881,7 +859,7 @@
     "nanoid": "pLRNxcAQsYBm5Z",
     "name": "Radio D59B",
     "stream_urls": [
-      "https://n01.radiojar.com:443/gn6dqzhf9mzuv"
+      "https://n0c.radiojar.com/gn6dqzhf9mzuv"
     ],
     "country": "rs",
     "languages": [
@@ -1048,18 +1026,7 @@
     "nanoid": "SfazWknWL1r2t7",
     "name": "Radio Luna",
     "stream_urls": [
-      "https://eu10.fastcast4u.com:6110/stream/7/"
-    ],
-    "country": "rs",
-    "languages": [
-      "srp"
-    ]
-  },
-  {
-    "nanoid": "1dBpqJWp5slZrF",
-    "name": "Radio Maestro",
-    "stream_urls": [
-      "https://radio-maestro.com:8443/stream.mp3"
+      "https://eu10.fastcast4u.com:6110/stream/7"
     ],
     "country": "rs",
     "languages": [
@@ -1178,6 +1145,17 @@
     ]
   },
   {
+    "nanoid": "Jlw7EKYlKirj0T",
+    "name": "Radio S3",
+    "stream_urls": [
+      "https://edge-rs-01.maksnet.tv/asmedia/pingvin/chunklist_w12686921.m3u8"
+    ],
+    "country": "rs",
+    "languages": [
+      "srp"
+    ]
+  },
+  {
     "nanoid": "cM1FIKoHzdd5Ky",
     "name": "Radio S3 Folk Stars",
     "stream_urls": [
@@ -1281,7 +1259,7 @@
     "nanoid": "BXsyF9vVsqdsEF",
     "name": "Radio Stari Grad",
     "stream_urls": [
-      "https://stream.rsg.rs/live/"
+      "https://stream.rsg.rs/live"
     ],
     "country": "rs",
     "languages": [
@@ -1292,7 +1270,7 @@
     "nanoid": "cDjPb3bRh6xg9p",
     "name": "Radio Stari Grad - Party Time",
     "stream_urls": [
-      "https://stream.rsg.rs/partytime/"
+      "https://stream.rsg.rs/partytime"
     ],
     "country": "rs",
     "languages": [
@@ -1303,51 +1281,7 @@
     "nanoid": "halNdXfgu7rqwm",
     "name": "Radio Stari Grad - Relax",
     "stream_urls": [
-      "https://stream.rsg.rs/relax/"
-    ],
-    "country": "rs",
-    "languages": [
-      "srp"
-    ]
-  },
-  {
-    "nanoid": "evzKnkyKoHUde0",
-    "name": "Radio Starčevo",
-    "stream_urls": [
-      "https://mpc2.mediacp.eu:8350/stream"
-    ],
-    "country": "rs",
-    "languages": [
-      "srp"
-    ]
-  },
-  {
-    "nanoid": "N1QWGOh2weMlkR",
-    "name": "Radio Tri",
-    "stream_urls": [
-      "https://radiotri-128.streaming.rs:9302/;stream.mp3"
-    ],
-    "country": "rs",
-    "languages": [
-      "srp"
-    ]
-  },
-  {
-    "nanoid": "ffyic7bHQOqigy",
-    "name": "Radio Užice",
-    "stream_urls": [
-      "https://uzice.yunethosting.net/stream"
-    ],
-    "country": "rs",
-    "languages": [
-      "srp"
-    ]
-  },
-  {
-    "nanoid": "JwTu9Z8jfX0beu",
-    "name": "Radio Zrenjanin 103.6",
-    "stream_urls": [
-      "https://radio.dukahosting.com:7031/stream"
+      "https://stream.rsg.rs/relax"
     ],
     "country": "rs",
     "languages": [
@@ -1399,6 +1333,28 @@
     ]
   },
   {
+    "nanoid": "N1QWGOh2weMlkR",
+    "name": "Radio Tri",
+    "stream_urls": [
+      "https://radiotri-128.streaming.rs:9302/;stream.mp3"
+    ],
+    "country": "rs",
+    "languages": [
+      "srp"
+    ]
+  },
+  {
+    "nanoid": "JwTu9Z8jfX0beu",
+    "name": "Radio Zrenjanin 103.6",
+    "stream_urls": [
+      "https://radio.dukahosting.com:7031/stream"
+    ],
+    "country": "rs",
+    "languages": [
+      "srp"
+    ]
+  },
+  {
     "nanoid": "oop1mSrYKkzZyN",
     "name": "Red Radio",
     "stream_urls": [
@@ -1439,8 +1395,8 @@
     ],
     "country": "rs",
     "languages": [
-      "srp",
-      "eng"
+      "eng",
+      "srp"
     ]
   },
   {
@@ -1451,16 +1407,15 @@
     ],
     "country": "rs",
     "languages": [
-      "srp",
-      "eng"
+      "eng",
+      "srp"
     ]
   },
   {
     "nanoid": "pXYlzGSK0Mp6JU",
     "name": "Rock Radio",
     "stream_urls": [
-      "https://edge9.pink.rs/rockstream",
-      "https://edge9.pink.rs/rockstream/"
+      "https://edge9.pink.rs/rockstream"
     ],
     "country": "rs",
     "languages": [
@@ -1479,10 +1434,10 @@
     ]
   },
   {
-    "nanoid": "Ne41zWb5NLcKW8",
-    "name": "RTS Radio Beograd 202",
+    "nanoid": "W9gEwInb9OQDY1",
+    "name": "RTS Radio Beograd 3",
     "stream_urls": [
-      "https://rtsradio-live.morescreens.com/RTS_2_004/audio/chunklist.m3u8"
+      "https://rtsradio-live.morescreens.com/RTS_2_003/audio/chunklist.m3u8"
     ],
     "country": "rs",
     "languages": [
@@ -1490,10 +1445,10 @@
     ]
   },
   {
-    "nanoid": "W9gEwInb9OQDY1",
-    "name": "RTS Radio Beograd 3",
+    "nanoid": "Ne41zWb5NLcKW8",
+    "name": "RTS Radio Beograd 202",
     "stream_urls": [
-      "https://rtsradio-live.morescreens.com/RTS_2_003/audio/chunklist.m3u8"
+      "https://rtsradio-live.morescreens.com/RTS_2_004/audio/chunklist.m3u8"
     ],
     "country": "rs",
     "languages": [
@@ -1638,17 +1593,6 @@
     "name": "WTF Radio 100.4",
     "stream_urls": [
       "https://live.wtfradio.rs/wtfradio.mp3"
-    ],
-    "country": "rs",
-    "languages": [
-      "srp"
-    ]
-  },
-  {
-    "nanoid": "yid8xB3p3jefs0",
-    "name": "Yu Radio 107.1",
-    "stream_urls": [
-      "https://yuradio.ipradio.rs:9036/;"
     ],
     "country": "rs",
     "languages": [

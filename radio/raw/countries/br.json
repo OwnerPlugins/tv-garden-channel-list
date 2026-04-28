@@ -1,82 +1,5 @@
 [
   {
-    "nanoid": "nQsQtnsyduUyLx",
-    "name": "012 Rock News",
-    "stream_urls": [
-      "https://9881.brasilstream.com.br/stream"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "HQSljAzOSiFf2d",
-    "name": "100e7 FM",
-    "stream_urls": [
-      "https://radio.saopaulo01.com.br:10919/live"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "T3DQjaE7SvBrDw",
-    "name": "102.3 FM",
-    "stream_urls": [
-      "https://liverd102fm.rbsdirect.com.br/primary/ita_poa.sdp/chunklist_0ac85862-caaa-446f-93bf-3e12816c36a0.m3u8"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "KJ8KDwETGKEhTE",
-    "name": "103 FM Aracaju",
-    "stream_urls": [
-      "https://player.voxcast.com.br/proxy/7030"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "DI4b7LXDAaIUBV",
-    "name": "104 FM Bezerros",
-    "stream_urls": [
-      "https://sv10.hdradios.net:8616/stream"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "rVAtqrMYbvStR0",
-    "name": "104 FM Natal",
-    "stream_urls": [
-      "https://radios.braviahost.com.br:8000/radio.mp3"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "L7q6nqmJWPmbF0",
-    "name": "105 FM",
-    "stream_urls": [
-      "https://wz7.servidoresbrasil.com:8070/stream"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
     "nanoid": "YicMLxj0N7tAKN",
     "name": "80 FM Dance Music",
     "stream_urls": [
@@ -113,6 +36,7 @@
     "nanoid": "EBiml6grmsYYR6",
     "name": "89 FM A Rádio Rock",
     "stream_urls": [
+      "https://ice.fabricahost.com.br/89aradiorockgo",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_89FM_ADP.aac"
     ],
     "country": "br",
@@ -298,6 +222,83 @@
     ]
   },
   {
+    "nanoid": "T3DQjaE7SvBrDw",
+    "name": "102.3 FM",
+    "stream_urls": [
+      "https://liverd102fm.rbsdirect.com.br/primary/ita_poa.sdp/chunklist_0ac85862-caaa-446f-93bf-3e12816c36a0.m3u8"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "KJ8KDwETGKEhTE",
+    "name": "103 FM Aracaju",
+    "stream_urls": [
+      "https://player.voxcast.com.br/proxy/7030"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "DI4b7LXDAaIUBV",
+    "name": "104 FM Bezerros",
+    "stream_urls": [
+      "https://sv10.hdradios.net:8616/stream"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "8OgfCarwrZp4m3",
+    "name": "104 FM Goioerê",
+    "stream_urls": [
+      "https://ice.fabricahost.com.br/104fmgoioerepr"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "rVAtqrMYbvStR0",
+    "name": "104 FM Natal",
+    "stream_urls": [
+      "https://radios.braviahost.com.br:8000/radio.mp3"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "L7q6nqmJWPmbF0",
+    "name": "105 FM",
+    "stream_urls": [
+      "https://wz7.servidoresbrasil.com:8070/stream"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "IZZmrAeHksRgPA",
+    "name": "107 FM Tatuí",
+    "stream_urls": [
+      "https://ice.fabricahost.com.br/107fm"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
     "nanoid": "a8R1GPkDmO2Su0",
     "name": "A Sertaneja 106.7 FM",
     "stream_urls": [
@@ -397,17 +398,6 @@
     ]
   },
   {
-    "nanoid": "wcPpkfeYYIOQb3",
-    "name": "Amor FM 103.7",
-    "stream_urls": [
-      "https://r10.ciclano.io:15067/stream"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
     "nanoid": "XyxCrj5vWZMYKC",
     "name": "Anos Dourados FM",
     "stream_urls": [
@@ -422,9 +412,9 @@
     "nanoid": "JYCchnYjAUL5Eq",
     "name": "Antena 1",
     "stream_urls": [
-      "https://www.antena1.com.br/stream/stream/1",
+      "https://antenaone.crossradio.com.br/stream/2;",
       "https://antenaone.crossradio.com.br/stream/1",
-      "https://antenaone.crossradio.com.br/stream/2;"
+      "https://www.antena1.com.br/stream/stream/1"
     ],
     "country": "br",
     "languages": [
@@ -498,28 +488,6 @@
     ]
   },
   {
-    "nanoid": "AZaNemgtImPPa7",
-    "name": "Atlântida FM 100.9",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/ATL_FLO.mp3"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "SICQHinaf3en4l",
-    "name": "Atlântida FM 104.3",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/ATL_JOIAAC.aac"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
     "nanoid": "XYqOCQJ3ZzOQyh",
     "name": "Atlântida FM 94.3",
     "stream_urls": [
@@ -542,6 +510,28 @@
     ]
   },
   {
+    "nanoid": "AZaNemgtImPPa7",
+    "name": "Atlântida FM 100.9",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/ATL_FLO.mp3"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "SICQHinaf3en4l",
+    "name": "Atlântida FM 104.3",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/ATL_JOIAAC.aac"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
     "nanoid": "a72PMT7FrFktK7",
     "name": "Atlântida FM Blumenau",
     "stream_urls": [
@@ -557,6 +547,28 @@
     "name": "Atos FM",
     "stream_urls": [
       "https://s.bul.tec.br:8020/128"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "uDiy4R1rTsOtaE",
+    "name": "Bahia FM 88.7",
+    "stream_urls": [
+      "https://ice.fabricahost.com.br/radiobahiafm"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "9eFy9Kdj1MNrWV",
+    "name": "Bahia FM Sul 102.1",
+    "stream_urls": [
+      "https://ice.fabricahost.com.br/bahiafmsul"
     ],
     "country": "br",
     "languages": [
@@ -687,6 +699,17 @@
     ]
   },
   {
+    "nanoid": "mXmyen8sVzqR7L",
+    "name": "Bíblia em Áudio Rádio Web",
+    "stream_urls": [
+      "https://stm3.voxhd.com.br:8062/stream"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
     "nanoid": "O12y7mLPFRgJZc",
     "name": "BIZ Web Radio",
     "stream_urls": [
@@ -777,28 +800,6 @@
     ]
   },
   {
-    "nanoid": "mXmyen8sVzqR7L",
-    "name": "Bíblia em Áudio Rádio Web",
-    "stream_urls": [
-      "https://stm3.voxhd.com.br:8062/stream"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "w7whZqYkeNf3ph",
-    "name": "Canarinho FM 102.3",
-    "stream_urls": [
-      "https://paineldj.com.br:20196/stream"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
     "nanoid": "fTOZJ89aEhnEfB",
     "name": "Canaã FM 93.5",
     "stream_urls": [
@@ -810,10 +811,10 @@
     ]
   },
   {
-    "nanoid": "V062KVnf7HRveq",
-    "name": "Capital do Papel FM 101.9",
+    "nanoid": "tmhqXSTaeyF4eh",
+    "name": "Capão FM 90.7",
     "stream_urls": [
-      "https://5a57bda70564a.streamlock.net/capitaldopapelpr/capitaldopapelpr.stream/playlist.m3u8"
+      "https://cast4.audiostream.com.br:2656/mp3"
     ],
     "country": "br",
     "languages": [
@@ -821,10 +822,10 @@
     ]
   },
   {
-    "nanoid": "tmhqXSTaeyF4eh",
-    "name": "Capão FM 90.7",
+    "nanoid": "V062KVnf7HRveq",
+    "name": "Capital do Papel FM 101.9",
     "stream_urls": [
-      "https://cast4.audiostream.com.br:2656/mp3"
+      "https://5a57bda70564a.streamlock.net/capitaldopapelpr/capitaldopapelpr.stream/playlist.m3u8"
     ],
     "country": "br",
     "languages": [
@@ -998,6 +999,17 @@
     ]
   },
   {
+    "nanoid": "WFc3VSALh9thrh",
+    "name": "Cidade FM 87.9",
+    "stream_urls": [
+      "https://live.virtualcast.com.br/cidadecamposgerais"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
     "nanoid": "RJG7I6mQKewZP0",
     "name": "Cidade FM 91.1",
     "stream_urls": [
@@ -1035,17 +1047,6 @@
     "name": "Cidade FM Loanda",
     "stream_urls": [
       "https://stm26.srvaudio.com.br:10484/stream"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "aODB8H11zi3QRn",
-    "name": "Cidade Sol FM",
-    "stream_urls": [
-      "https://stream01.ouveai.com.br:1040/stream"
     ],
     "country": "br",
     "languages": [
@@ -1108,10 +1109,10 @@
     ]
   },
   {
-    "nanoid": "toMx5GWJCvVei4",
-    "name": "Clube FM 100.5",
+    "nanoid": "b9VILKF6fMSrJW",
+    "name": "Clube FM 96.5",
     "stream_urls": [
-      "https://sc4s.cdn.upx.com:8069/stream%22%20data-turbolinks-permanent"
+      "https://8112.brasilstream.com.br/stream"
     ],
     "country": "br",
     "languages": [
@@ -1123,6 +1124,17 @@
     "name": "Clube FM 99",
     "stream_urls": [
       "https://18008.brasilstream.com.br/stream"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "toMx5GWJCvVei4",
+    "name": "Clube FM 100.5",
+    "stream_urls": [
+      "https://sc4s.cdn.upx.com:8069/stream%22%20data-turbolinks-permanent"
     ],
     "country": "br",
     "languages": [
@@ -1229,6 +1241,29 @@
     ]
   },
   {
+    "nanoid": "F6eZZ1hGeiPy1u",
+    "name": "Conquista WebStation",
+    "stream_urls": [
+      "https://stream.zeno.fm/ecryaaflji9tv"
+    ],
+    "country": "br",
+    "languages": [
+      "eng",
+      "por"
+    ]
+  },
+  {
+    "nanoid": "CmM3gGpIOrF1nW",
+    "name": "Costa do Sol FM 101.7",
+    "stream_urls": [
+      "https://ice.fabricahost.com.br/radiocostadosol"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
     "nanoid": "igixdwP3YRwyQJ",
     "name": "Criatividade FM 98.3",
     "stream_urls": [
@@ -1244,6 +1279,17 @@
     "name": "Cruzeiro FM 92.3",
     "stream_urls": [
       "https://stm26.xcast.com.br:12050/stream"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "4bC1zj7LO9sKe2",
+    "name": "Cultura FM 95.1",
+    "stream_urls": [
+      "https://8040.brasilstream.com.br/stream"
     ],
     "country": "br",
     "languages": [
@@ -1284,17 +1330,6 @@
     ]
   },
   {
-    "nanoid": "4bC1zj7LO9sKe2",
-    "name": "Cultura FM 95.1",
-    "stream_urls": [
-      "https://8040.brasilstream.com.br/stream"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
     "nanoid": "9x3II8xCFRd2nq",
     "name": "CV Mais FM 97.5",
     "stream_urls": [
@@ -1321,6 +1356,17 @@
     "name": "Delta FM 99.7",
     "stream_urls": [
       "https://player.painelvox.com/proxy/8066"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "7wx6cp6LidocuH",
+    "name": "Diário FM",
+    "stream_urls": [
+      "https://rrdns-megasistema.webnow.com.br/diario.aac"
     ],
     "country": "br",
     "languages": [
@@ -1383,17 +1429,6 @@
     ]
   },
   {
-    "nanoid": "7wx6cp6LidocuH",
-    "name": "Diário FM",
-    "stream_urls": [
-      "https://rrdns-megasistema.webnow.com.br/diario.aac"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
     "nanoid": "mfxOr3CADBem38",
     "name": "Dj Guu Ofc",
     "stream_urls": [
@@ -1438,10 +1473,10 @@
     ]
   },
   {
-    "nanoid": "703VXDY6oN2fzk",
-    "name": "Educadora FM 107.5",
+    "nanoid": "OhcvtWXJfjCAZ3",
+    "name": "Educadora FM 91.7",
     "stream_urls": [
-      "https://streaming.educadorafm.ba.gov.br/stream-01"
+      "https://stm22.xcast.com.br:11282/stream"
     ],
     "country": "br",
     "languages": [
@@ -1449,10 +1484,10 @@
     ]
   },
   {
-    "nanoid": "OhcvtWXJfjCAZ3",
-    "name": "Educadora FM 91.7",
+    "nanoid": "703VXDY6oN2fzk",
+    "name": "Educadora FM 107.5",
     "stream_urls": [
-      "https://stm22.xcast.com.br:11282/stream"
+      "https://streaming.educadorafm.ba.gov.br/stream-01"
     ],
     "country": "br",
     "languages": [
@@ -1548,6 +1583,17 @@
     ]
   },
   {
+    "nanoid": "10a7sQUZKBbKTY",
+    "name": "Estereosom FM",
+    "stream_urls": [
+      "https://ice.fabricahost.com.br/estereosom"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
     "nanoid": "1ZwJHZ1MLJu7oc",
     "name": "Estilo FM",
     "stream_urls": [
@@ -1604,6 +1650,17 @@
     ]
   },
   {
+    "nanoid": "Qq3kul7TdDuAV5",
+    "name": "FM O Dia 99.7",
+    "stream_urls": [
+      "https://wz7.servidoresbrasil.com:8274/stream"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
     "nanoid": "9Ou1za8dNP6JHW",
     "name": "FM O Dia 100.5",
     "stream_urls": [
@@ -1616,10 +1673,10 @@
     ]
   },
   {
-    "nanoid": "Qq3kul7TdDuAV5",
-    "name": "FM O Dia 99.7",
+    "nanoid": "DvHNcdBxFJw37s",
+    "name": "FM Vale Verde 96.7",
     "stream_urls": [
-      "https://wz7.servidoresbrasil.com:8274/stream"
+      "https://ice.fabricahost.com.br/fmvaleverde"
     ],
     "country": "br",
     "languages": [
@@ -1705,12 +1762,22 @@
     ]
   },
   {
+    "nanoid": "JVXmvIoy6YFVi0",
+    "name": "GFM 90.1",
+    "stream_urls": [
+      "https://ice.fabricahost.com.br/radiogfm"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
     "nanoid": "W4O3tFExYuXSFu",
     "name": "Gold Instrumental",
     "stream_urls": [
-      "https://centova.svdns.com.br:19373/stream1",
       "https://centova.svdns.com.br:19373/stream",
-      "https://centova.svdns.com.br:19373/stream/2/"
+      "https://centova.svdns.com.br:19373/stream1"
     ],
     "country": "br",
     "languages": [
@@ -1742,6 +1809,17 @@
     ]
   },
   {
+    "nanoid": "IJI4UCBAfYIyxF",
+    "name": "Graúna FM 95.5",
+    "stream_urls": [
+      "https://ice.fabricahost.com.br/graunafm"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
     "nanoid": "sFhN4X5w0HlLVS",
     "name": "GrooveWave Lounge",
     "stream_urls": [
@@ -1750,8 +1828,8 @@
     "country": "br",
     "languages": [
       "eng",
-      "spa",
-      "por"
+      "por",
+      "spa"
     ]
   },
   {
@@ -1788,10 +1866,10 @@
     ]
   },
   {
-    "nanoid": "w5fYftQU2S2GwX",
-    "name": "Hits FM 106.9",
+    "nanoid": "LQBUjxQ6SQ6Zxj",
+    "name": "Hits FM 87.9",
     "stream_urls": [
-      "https://wz7.servidoresbrasil.com:9984/stream"
+      "https://stm24.srvaudio.com.br:10082/stream"
     ],
     "country": "br",
     "languages": [
@@ -1799,10 +1877,10 @@
     ]
   },
   {
-    "nanoid": "LQBUjxQ6SQ6Zxj",
-    "name": "Hits FM 87.9",
+    "nanoid": "w5fYftQU2S2GwX",
+    "name": "Hits FM 106.9",
     "stream_urls": [
-      "https://stm24.srvaudio.com.br:10082/stream"
+      "https://wz7.servidoresbrasil.com:9984/stream"
     ],
     "country": "br",
     "languages": [
@@ -1989,6 +2067,17 @@
     ]
   },
   {
+    "nanoid": "yZsGgnEycX9vBA",
+    "name": "Ilustrada FM 102.3",
+    "stream_urls": [
+      "https://ice.fabricahost.com.br/ilustradafm"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
     "nanoid": "p5TsY9ODOtdOQR",
     "name": "Imbé FM 101.5",
     "stream_urls": [
@@ -2026,17 +2115,6 @@
     "name": "Interativa FM 101.7",
     "stream_urls": [
       "https://r10.ciclano.io:15007/stream"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "Fsf4WEtLDkKtsh",
-    "name": "Interativa FM 104.3",
-    "stream_urls": [
-      "https://r6.ciclano.io:15090/stream"
     ],
     "country": "br",
     "languages": [
@@ -2113,8 +2191,8 @@
     "nanoid": "ShpkSxQq32zJSz",
     "name": "JBFM 99.9",
     "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/JBFMAAC1.aac",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/JBFMAAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/JBFMAAC1.aac",
       "https://26573.live.streamtheworld.com/JBFMAAC.aac"
     ],
     "country": "br",
@@ -2127,50 +2205,6 @@
     "name": "Joinville Cultural FM 105.1",
     "stream_urls": [
       "https://cast.youngtech.radio.br/listen/fundacaoculturaljlle/radio"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "y58zZ5rrUmkm8h",
-    "name": "Jovem Pan FM 100.9",
-    "stream_urls": [
-      "https://stream.zeno.fm/c45wbq2us3buv"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "9F3H1KU3cKgUIe",
-    "name": "Jovem Pan FM 103.3",
-    "stream_urls": [
-      "https://shout25.crossradio.com.br:24030//1"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "yEgVJmZywK9Bpk",
-    "name": "Jovem Pan FM 106.3",
-    "stream_urls": [
-      "https://shout25.crossradio.com.br:18022/1"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "RqNhu6Xr7e5qTc",
-    "name": "Jovem Pan FM 106.9",
-    "stream_urls": [
-      "https://radio.saopaulo01.com.br:10937/aac"
     ],
     "country": "br",
     "languages": [
@@ -2233,11 +2267,55 @@
     ]
   },
   {
+    "nanoid": "y58zZ5rrUmkm8h",
+    "name": "Jovem Pan FM 100.9",
+    "stream_urls": [
+      "https://stream.zeno.fm/c45wbq2us3buv"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "9F3H1KU3cKgUIe",
+    "name": "Jovem Pan FM 103.3",
+    "stream_urls": [
+      "https://shout25.crossradio.com.br:24030//1"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "yEgVJmZywK9Bpk",
+    "name": "Jovem Pan FM 106.3",
+    "stream_urls": [
+      "https://shout25.crossradio.com.br:18022/1"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
     "nanoid": "lq9cfMsnQ1xe26",
     "name": "Jovem Pan FM Belo Horizonte",
     "stream_urls": [
       "https://8062.brasilstream.com.br/mp3",
       "https://8062.brasilstream.com.br/stream"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "lxHCnYZ2UPecCL",
+    "name": "Jovem Pan FM Blumenau",
+    "stream_urls": [
+      "https://ice.fabricahost.com.br/jpblumenau"
     ],
     "country": "br",
     "languages": [
@@ -2435,10 +2513,10 @@
     ]
   },
   {
-    "nanoid": "k7HTBXwloitCZ5",
-    "name": "Massa FM 101.1",
+    "nanoid": "jdmecymzBnhh7h",
+    "name": "Maringá FM 97.1",
     "stream_urls": [
-      "https://live.virtualcast.com.br/massapontagrossa"
+      "https://ice.fabricahost.com.br/maringafmpr971"
     ],
     "country": "br",
     "languages": [
@@ -2461,6 +2539,17 @@
     "name": "Massa FM 99.7",
     "stream_urls": [
       "https://paineldj.com.br:20004/live"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "k7HTBXwloitCZ5",
+    "name": "Massa FM 101.1",
+    "stream_urls": [
+      "https://live.virtualcast.com.br/massapontagrossa"
     ],
     "country": "br",
     "languages": [
@@ -2516,6 +2605,61 @@
     "name": "Metal Heads",
     "stream_urls": [
       "https://hts01.brascast.com:9194/live"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "bnQRwYGXPmOomx",
+    "name": "Metropolitana FM 98.5",
+    "stream_urls": [
+      "https://ice.fabricahost.com.br/metropolitana985sp"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "rAGbLpG31JLmUS",
+    "name": "Metropolitana FM Light",
+    "stream_urls": [
+      "https://ice.fabricahost.com.br/metropolitanasplight"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "x3dKHpKsWTrppe",
+    "name": "Metropolitana FM Pop",
+    "stream_urls": [
+      "https://ice.fabricahost.com.br/metrosppop"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "xOF8VBgz47Qd9X",
+    "name": "Metropolitana MPB",
+    "stream_urls": [
+      "https://ice.fabricahost.com.br/metropolitanampb"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "cAIZ491I9rnFLi",
+    "name": "Metropolitana Sertanejo",
+    "stream_urls": [
+      "https://ice.fabricahost.com.br/metrospsertanejo"
     ],
     "country": "br",
     "languages": [
@@ -2876,6 +3020,17 @@
     ]
   },
   {
+    "nanoid": "nAlHSRp83eF4ya",
+    "name": "Mundi FM 99.3",
+    "stream_urls": [
+      "https://ice.fabricahost.com.br/mundifm"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
     "nanoid": "q4vIyBKEpXeutb",
     "name": "Mundial FM",
     "stream_urls": [
@@ -2898,17 +3053,6 @@
     ]
   },
   {
-    "nanoid": "P87IBEiEt50VlV",
-    "name": "Mundo Livre FM 102.5",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/MUNDOLIVRE_MGAAAC.aac"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
     "nanoid": "EJ2ZU66whm8aUk",
     "name": "Mundo Livre FM 93.1",
     "stream_urls": [
@@ -2924,6 +3068,28 @@
     "name": "Mundo Livre FM 93.9",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/MUNDOLIVRE_CWBAAC_64.aac"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "P87IBEiEt50VlV",
+    "name": "Mundo Livre FM 102.5",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/MUNDOLIVRE_MGAAAC.aac"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "tQuuPyJVr7OP6E",
+    "name": "Musirama FM 92.1",
+    "stream_urls": [
+      "https://ice.fabricahost.com.br/musirama"
     ],
     "country": "br",
     "languages": [
@@ -2978,7 +3144,18 @@
     "nanoid": "QqFFLm4BLIaBYc",
     "name": "Nova FM Tapejara",
     "stream_urls": [
-      "https://stm2.streamproarte.com.br:7358/stream/"
+      "https://stm2.streamproarte.com.br:7358/stream"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "as0tAGQO7hghoY",
+    "name": "Nova Onda FM 99.3",
+    "stream_urls": [
+      "https://ice.fabricahost.com.br/novaondafm"
     ],
     "country": "br",
     "languages": [
@@ -3009,18 +3186,6 @@
     ]
   },
   {
-    "nanoid": "WGl5HPjTiJa0lK",
-    "name": "Novabrasil FM 106.5",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_FORAAC_SC",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_FORAAC.aac"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
     "nanoid": "ZJ8ytkGNh2dlTE",
     "name": "Novabrasil FM 89.5",
     "stream_urls": [
@@ -3035,8 +3200,8 @@
     "nanoid": "CjPAQeaatTEj4j",
     "name": "Novabrasil FM 89.7",
     "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_SPAAC.aac",
-      "https://23043.live.streamtheworld.com/NOVABRASIL_SPAAC.aac"
+      "https://23043.live.streamtheworld.com/NOVABRASIL_SPAAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_SPAAC.aac"
     ],
     "country": "br",
     "languages": [
@@ -3048,8 +3213,8 @@
     "name": "Novabrasil FM 93.5",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_ARACAJUAAC_SC",
-      "https://26563.live.streamtheworld.com:443/NOVABRASIL_ARACAJUAAC_SC",
-      "https://24493.live.streamtheworld.com:443/NOVABRASIL_ARACAJUAAC_SC"
+      "https://29319.live.streamtheworld.com/NOVABRASIL_ARACAJUAAC_SC",
+      "https://29327.live.streamtheworld.com/NOVABRASIL_ARACAJUAAC_SC"
     ],
     "country": "br",
     "languages": [
@@ -3072,6 +3237,18 @@
     "name": "Novabrasil FM 97.5",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_BSBAAC_SC"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "WGl5HPjTiJa0lK",
+    "name": "Novabrasil FM 106.5",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_FORAAC_SC",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_FORAAC.aac"
     ],
     "country": "br",
     "languages": [
@@ -3120,7 +3297,62 @@
     "country": "br",
     "languages": [
       "eng",
-      "spa",
+      "por",
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "Ff9H4zwxfz6Dax",
+    "name": "Ômega FM",
+    "stream_urls": [
+      "https://webradio.amsolution.com.br/radio/8000/omega"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "9fCLPZZ6HBUxp0",
+    "name": "Ótima FM 89.1",
+    "stream_urls": [
+      "https://ice.fabricahost.com.br/otimafm891"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "w6fxynbRTMqKxD",
+    "name": "Ótima FM 90.3",
+    "stream_urls": [
+      "https://ice.fabricahost.com.br/otimafm903"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "v7dpJ2ATOCyRec",
+    "name": "Ótima FM 95.5",
+    "stream_urls": [
+      "https://ice.fabricahost.com.br/otimafm955"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "HysoSyxqyxPCNM",
+    "name": "Panorama FM 94.9",
+    "stream_urls": [
+      "https://ice.fabricahost.com.br/fmpanorama"
+    ],
+    "country": "br",
+    "languages": [
       "por"
     ]
   },
@@ -3154,8 +3386,8 @@
     ],
     "country": "br",
     "languages": [
-      "por",
-      "eng"
+      "eng",
+      "por"
     ]
   },
   {
@@ -3199,8 +3431,8 @@
     ],
     "country": "br",
     "languages": [
-      "por",
-      "eng"
+      "eng",
+      "por"
     ]
   },
   {
@@ -3229,8 +3461,8 @@
     "nanoid": "T913zsAFCmZ5Cx",
     "name": "PorDeus.fm",
     "stream_urls": [
-      "https://stream.zenolive.com/92ptm8uua2zuv.aac",
-      "https://stream.zeno.fm/92ptm8uua2zuv.aac"
+      "https://stream.zeno.fm/92ptm8uua2zuv.aac",
+      "https://stream.zenolive.com/92ptm8uua2zuv.aac"
     ],
     "country": "br",
     "languages": [
@@ -3304,550 +3536,6 @@
     ]
   },
   {
-    "nanoid": "6hhVLNN5Sux8ip",
-    "name": "Radio América Latina",
-    "stream_urls": [
-      "https://streaming.radiostreamlive.com/radioamericalatina_devices"
-    ],
-    "country": "br",
-    "languages": [
-      "spa",
-      "por"
-    ]
-  },
-  {
-    "nanoid": "Ik7Vf9Qy4pHg8c",
-    "name": "Radio CNN",
-    "stream_urls": [
-      "https://stm13.voxhd.com.br:7148/;"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "vME3ySAM6OUZrL",
-    "name": "Radio Dorminhoca",
-    "stream_urls": [
-      "https://stream.zeno.fm/dkyrn1814k0uv"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "PKnrgaX9x5pzXk",
-    "name": "Radio Energia Dance",
-    "stream_urls": [
-      "https://s05.w3bserver.com:20025/;"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "2TliTxO8LWqjii",
-    "name": "Radio Facopp",
-    "stream_urls": [
-      "https://radio.saopaulo01.com.br/8276/stream"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "KP4ljLcNsP4KbD",
-    "name": "Radio Hot 97.7",
-    "stream_urls": [
-      "https://servidor23.brlogic.com:7782/autodj"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "0KpnhX94J9mb7F",
-    "name": "Radio Instrumental Gospel",
-    "stream_urls": [
-      "https://live8.livemus.com.br:27142/stream"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "rbI9YpH6ab9sS8",
-    "name": "Radio Joli Beatles",
-    "stream_urls": [
-      "https://stream.zeno.fm/3hgez706e3quv"
-    ],
-    "country": "br",
-    "languages": [
-      "por",
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "0Tr64yBJQdu28B",
-    "name": "Radio Joli MPB",
-    "stream_urls": [
-      "https://stream-163.zeno.fm/mrutsyhkc3quv",
-      "https://stream.zeno.fm/mrutsyhkc3quv"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "aEZEfKDWxPIZYU",
-    "name": "Radio MixHits",
-    "stream_urls": [
-      "https://hts02.brascast.com:11000/live"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "oXW5cDswB94hL5",
-    "name": "Radio MPB Máquina do Tempo",
-    "stream_urls": [
-      "https://servidor28.brlogic.com:8032/live"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "wolPm7e2eWM8ma",
-    "name": "Radio New Black SP",
-    "stream_urls": [
-      "https://servidor39-3.brlogic.com:8238/live"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "bwA54CU1sqzzjg",
-    "name": "Radio Norte 100.3 FM",
-    "stream_urls": [
-      "https://servidor17.brlogic.com:9394/live"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "CLjHF8DSEMhHna",
-    "name": "Radio Nova Instrumental",
-    "stream_urls": [
-      "https://streaming.radioempresabrasil.com.br/proxy/novainstrumental/stream"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "ygcdnPzFXXwdVm",
-    "name": "Radio Paredão Pagodão",
-    "stream_urls": [
-      "https://stream.zeno.fm/3vwwc66wm8quv"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "glrvmWH8Ppuz3B",
-    "name": "Radio Piratininga 1070 AM",
-    "stream_urls": [
-      "https://s35.maxcast.com.br:8002/live"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "SzzzE7YakbUrj6",
-    "name": "Radio Rap A Voz do Gueto",
-    "stream_urls": [
-      "https://bissau.radio/listen/10047"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "IeeHVjadZAeWDf",
-    "name": "Radio RCK+",
-    "stream_urls": [
-      "https://stm1.colossocastpro.com.br:7064/stream"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "vNFTF9UcYGc6PP",
-    "name": "Radio Rede Vida FM 97.9",
-    "stream_urls": [
-      "https://r15.ciclano.io/proxy/diariofm/stream"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "pZhtRdYPUrHHFi",
-    "name": "Radio Reggae Brasil",
-    "stream_urls": [
-      "https://casthttps.suaradionanet.net/13805/stream"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "x0dIpZ86NQdIpX",
-    "name": "Radio Sepiol",
-    "stream_urls": [
-      "https://paineldj.com.br:20087/stream"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "gX1Mu8GrZckRlY",
-    "name": "Radio Sertaneja Mix",
-    "stream_urls": [
-      "https://stm1.hdmidia.srv.br:7008/stream"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "OAdwyrhqTlrQZT",
-    "name": "Radio Sertaneja Top",
-    "stream_urls": [
-      "https://radiosertanejatop.stream.laut.fm/radiosertanejatop"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "MNmHtACmHk8iha",
-    "name": "Radio Shock Box",
-    "stream_urls": [
-      "https://r6.ciclano.io:15110/stream"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "zb8OYMbb0Vmw8h",
-    "name": "Radio Studio Bala",
-    "stream_urls": [
-      "https://stream.zeno.fm/87t0h7c51zquv.aac"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "iOg8VON5RAJ7vg",
-    "name": "Radio Studio Flashback",
-    "stream_urls": [
-      "https://stream-163.zeno.fm/6gv76f1xruquv",
-      "https://stream.zeno.fm/6gv76f1xruquv"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "OzV2h5yQFeaHuy",
-    "name": "Radio Studio Souto - Rap Nacional",
-    "stream_urls": [
-      "https://centova5.transmissaodigital.com:20031/stream"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "bGFyKDCYBxczcQ",
-    "name": "Radio Studio Souto - The Beatles",
-    "stream_urls": [
-      "https://centova5.transmissaodigital.com:20001/;"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "qM8w75YDszneP6",
-    "name": "Radio Só MPB",
-    "stream_urls": [
-      "https://s27.maxcast.com.br:8103/live"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "oeitwx6rZ9rC75",
-    "name": "Radio Viva 94.5 FM",
-    "stream_urls": [
-      "https://r6.ciclano.io:15030/stream"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "Q9XXuOpKm0qrod",
-    "name": "Radio ZTOP",
-    "stream_urls": [
-      "https://stream.zeno.fm/bd0hmtmb2d0uv"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "KFz1xe9lErilYS",
-    "name": "RadioNOS Lounge Channel",
-    "stream_urls": [
-      "https://nos.radio.br/stream/13/;"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "U17aOzk7dJmTRn",
-    "name": "RBN FM 94.3",
-    "stream_urls": [
-      "https://stm10.virtualcast.com.br:8464/rbnjaraguasul"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "IWvqpgeToxxaME",
-    "name": "RBR Rádio Brasileira 88.3 FM",
-    "stream_urls": [
-      "https://webradio.amsolution.com.br/radio/8060/radio.mp3"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "zBEsdQ21vCcU4E",
-    "name": "RC FM 98.1",
-    "stream_urls": [
-      "https://player.transmissaodigital.com/proxy/7434/"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "uPI6GikHOrcpxY",
-    "name": "Rede 3.16",
-    "stream_urls": [
-      "https://servidor21.brlogic.com:7976/live"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "lxy1HctnSNYWoE",
-    "name": "Rede Aleluia 99.9 FM",
-    "stream_urls": [
-      "https://134398c.ha.azioncdn.net/primary/radiorecord.sdp/playlist.m3u8"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "9N4Z2buVKmpyOk",
-    "name": "Rede Aleluia Jundiaí",
-    "stream_urls": [
-      "https://14398c.ha.azioncdn.net/primary/sp_jundiai.sdp/chunklist_e598b1e4-b25c-4fb1-838c-9d247c2b677a.m3u8"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "cV2W28UUf0K2bq",
-    "name": "Rede Blast",
-    "stream_urls": [
-      "https://centova4.transmissaodigital.com:20143/principal;"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "xR8vpbrft2WpME",
-    "name": "Rede Blitz",
-    "stream_urls": [
-      "https://c32.radioboss.fm:8254/source"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "vp3xzFXYm5Ws7j",
-    "name": "Rede Conexão FM 98.1",
-    "stream_urls": [
-      "https://ssl1.transmissaodigital.com:20441/stream"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "ElUBVx7IoHZP2d",
-    "name": "Rede Tropical FM 94.7",
-    "stream_urls": [
-      "https://servidor37-5.brlogic.com:8044/live"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "yi3SMIkMv3z8uf",
-    "name": "Rio Sul Radio",
-    "stream_urls": [
-      "https://stream.riosulradio.com/"
-    ],
-    "country": "br",
-    "languages": [
-      "por",
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "VlV6fK1mGeqZj4",
-    "name": "Rock na Teia",
-    "stream_urls": [
-      "https://s19.maxcast.com.br:8182/live"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "5cMW4HT97aLIDG",
-    "name": "Rock no Pinheiro",
-    "stream_urls": [
-      "https://hts02.brascast.com:11442/stream"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "vdKmumnzwGca5o",
-    "name": "Rocket 977",
-    "stream_urls": [
-      "https://8817.brasilstream.com.br/stream"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "cfH4McT16DXZv2",
-    "name": "RST Radio Rock",
-    "stream_urls": [
-      "https://servidor37-1.brlogic.com:8100/live"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "k6FGeNGYIEHVDk",
-    "name": "RTL FM 91.7",
-    "stream_urls": [
-      "https://live.virtualcast.com.br/rtl"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "18dY4NRsKe9hkb",
-    "name": "RTM Brasil",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOTRANSMUNDIALAAC_SC"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
     "nanoid": "n5wJGF4R5Y6B6L",
     "name": "Rádio 100 FM",
     "stream_urls": [
@@ -3874,6 +3562,17 @@
     "name": "Rádio 102 FM",
     "stream_urls": [
       "https://radio.saopaulo01.com.br:10948/stream"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "Rof0KsRhJHRycR",
+    "name": "Rádio 105.7 FM",
+    "stream_urls": [
+      "https://ice.fabricahost.com.br/1057anapolis"
     ],
     "country": "br",
     "languages": [
@@ -3936,6 +3635,17 @@
     ]
   },
   {
+    "nanoid": "UwM8ho5czyRToy",
+    "name": "Rádio Ágape",
+    "stream_urls": [
+      "https://servidor40-5.brlogic.com:8086/live"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
     "nanoid": "egHgCHys2qVLJG",
     "name": "Rádio Aliança FM",
     "stream_urls": [
@@ -3991,6 +3701,18 @@
     ]
   },
   {
+    "nanoid": "6hhVLNN5Sux8ip",
+    "name": "Radio América Latina",
+    "stream_urls": [
+      "https://streaming.radiostreamlive.com/radioamericalatina_devices"
+    ],
+    "country": "br",
+    "languages": [
+      "por",
+      "spa"
+    ]
+  },
+  {
     "nanoid": "kfcLpUVXO1j9t5",
     "name": "Rádio Amiga 87.9 FM",
     "stream_urls": [
@@ -4017,17 +3739,6 @@
     "name": "Rádio Amigos do Flashback",
     "stream_urls": [
       "https://stm4.voxhd.com.br:7086/;"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "eBKsUab1jXizUQ",
-    "name": "Rádio Amigos do Futebol",
-    "stream_urls": [
-      "https://ssl.voxhd.com.br:7086/;"
     ],
     "country": "br",
     "languages": [
@@ -4138,6 +3849,17 @@
     "name": "Rádio Baiana FM 89.3",
     "stream_urls": [
       "https://cast.radiu.live:8903/stream"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "xOaGtN48ZgUH2f",
+    "name": "Rádio Banda B",
+    "stream_urls": [
+      "https://ice.fabricahost.com.br/bandabctb"
     ],
     "country": "br",
     "languages": [
@@ -4332,10 +4054,10 @@
     ]
   },
   {
-    "nanoid": "eZqFhlW5cTBiPO",
-    "name": "Rádio Campeira FM",
+    "nanoid": "SF0zg3Ku8qPUV9",
+    "name": "Rádio Câmara",
     "stream_urls": [
-      "https://servidor34-3.brlogic.com:8164/live"
+      "https://stream3.camara.gov.br/radiocamara1t64/manifest.m3u8"
     ],
     "country": "br",
     "languages": [
@@ -4343,10 +4065,10 @@
     ]
   },
   {
-    "nanoid": "HroNrRbGa732ds",
-    "name": "Rádio Cantate FM 104.5",
+    "nanoid": "eZqFhlW5cTBiPO",
+    "name": "Rádio Campeira FM",
     "stream_urls": [
-      "https://stream3.svrdedicado.org/8118/stream"
+      "https://servidor34-3.brlogic.com:8164/live"
     ],
     "country": "br",
     "languages": [
@@ -4359,6 +4081,17 @@
     "stream_urls": [
       "https://cloud1.cdnseguro.com:20038/stream",
       "https://streaming.fox.srv.br:8094/stream"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "HroNrRbGa732ds",
+    "name": "Rádio Cantate FM 104.5",
+    "stream_urls": [
+      "https://stream3.svrdedicado.org/8118/stream"
     ],
     "country": "br",
     "languages": [
@@ -4403,17 +4136,6 @@
     "name": "Rádio Catarinense FM",
     "stream_urls": [
       "https://catarinensefm.streams.com.br/stream"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "4umAMYqZyy8pYf",
-    "name": "Rádio Catedral FM 102.3",
-    "stream_urls": [
-      "https://5a2b083e9f360.streamlock.net//catedral/catedral.stream/playlist.m3u8"
     ],
     "country": "br",
     "languages": [
@@ -4542,6 +4264,17 @@
     ]
   },
   {
+    "nanoid": "zChbJUad1USoeI",
+    "name": "Rádio Cidade FM 98.3",
+    "stream_urls": [
+      "https://5a2b083e9f360.streamlock.net/radiorural/radiorural.stream/playlist.m3u8"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
     "nanoid": "11qHnagjWdUHkz",
     "name": "Rádio Cidade FM Matão",
     "stream_urls": [
@@ -4564,6 +4297,17 @@
     ]
   },
   {
+    "nanoid": "21NlsgEmqghX43",
+    "name": "Rádio Cidade Jundiaí",
+    "stream_urls": [
+      "https://r18.ciclano.io:9693/stream"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
     "nanoid": "TKsoYV9AmF7qZa",
     "name": "Rádio Cidade Maluca",
     "stream_urls": [
@@ -4579,6 +4323,39 @@
     "name": "Rádio Cidade Verde 93.5 FM",
     "stream_urls": [
       "https://ssl1.transmissaodigital.com:20010/;"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "cefRJWlsm8ZApA",
+    "name": "Rádio Clássica",
+    "stream_urls": [
+      "https://stm11.painelcast.com:7530/stream"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "ifmyw72bREC2Hg",
+    "name": "Rádio Clássica Brasil",
+    "stream_urls": [
+      "https://streaming.livebroadcast.biz/radio/8010/classica"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "VPLvkOPGet9v29",
+    "name": "Rádio Clube 92 FM",
+    "stream_urls": [
+      "https://ice.fabricahost.com.br/clube92votuporanga"
     ],
     "country": "br",
     "languages": [
@@ -4630,32 +4407,21 @@
     ]
   },
   {
-    "nanoid": "cefRJWlsm8ZApA",
-    "name": "Rádio Clássica",
-    "stream_urls": [
-      "https://stm11.painelcast.com:7530/stream"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "ifmyw72bREC2Hg",
-    "name": "Rádio Clássica Brasil",
-    "stream_urls": [
-      "https://streaming.livebroadcast.biz/radio/8010/classica"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
     "nanoid": "T2aKvb3Hsms3D0",
     "name": "Rádio CNMA",
     "stream_urls": [
       "https://stream.zeno.fm/m3ytuubv0uhvv"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "Ik7Vf9Qy4pHg8c",
+    "name": "Radio CNN",
+    "stream_urls": [
+      "https://stm13.voxhd.com.br:7148/;"
     ],
     "country": "br",
     "languages": [
@@ -4763,32 +4529,21 @@
     ]
   },
   {
-    "nanoid": "m5KN7qw2evXg8z",
-    "name": "Rádio Cultura Rio Grande",
-    "stream_urls": [
-      "https://casthttps.suaradionanet.net/10402/stream"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "SF0zg3Ku8qPUV9",
-    "name": "Rádio Câmara",
-    "stream_urls": [
-      "https://stream3.camara.gov.br/radiocamara1t64/manifest.m3u8"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
     "nanoid": "53kE1Y0HdTWzbY",
     "name": "Rádio da Memória Nacional Adventista",
     "stream_urls": [
       "https://stream-172.zeno.fm/m3ytuubv0uhvv"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "cM4KU4UyZtROwD",
+    "name": "Rádio Dádiva",
+    "stream_urls": [
+      "https://stm47.stmsrv.com:16180/stream"
     ],
     "country": "br",
     "languages": [
@@ -4885,10 +4640,10 @@
     ]
   },
   {
-    "nanoid": "cM4KU4UyZtROwD",
-    "name": "Rádio Dádiva",
+    "nanoid": "vME3ySAM6OUZrL",
+    "name": "Radio Dorminhoca",
     "stream_urls": [
-      "https://stm47.stmsrv.com:16180/stream"
+      "https://stream.zeno.fm/dkyrn1814k0uv"
     ],
     "country": "br",
     "languages": [
@@ -4962,17 +4717,6 @@
     ]
   },
   {
-    "nanoid": "3P00VSxJhqSyVS",
-    "name": "Rádio Elohim 100.7 FM",
-    "stream_urls": [
-      "https://servidor34-5.brlogic.com:8190/live"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
     "nanoid": "qpEcu3n7tLSjsh",
     "name": "Rádio Elétrica",
     "stream_urls": [
@@ -4984,10 +4728,21 @@
     ]
   },
   {
-    "nanoid": "4qln76ALtVEWvW",
-    "name": "Rádio Emboabas FM 96.9",
+    "nanoid": "3P00VSxJhqSyVS",
+    "name": "Rádio Elohim 100.7 FM",
     "stream_urls": [
-      "https://paineldj6.com.br:20144/stream"
+      "https://servidor34-5.brlogic.com:8190/live"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "PKnrgaX9x5pzXk",
+    "name": "Radio Energia Dance",
+    "stream_urls": [
+      "https://s05.w3bserver.com:20025/;"
     ],
     "country": "br",
     "languages": [
@@ -5051,10 +4806,10 @@
     ]
   },
   {
-    "nanoid": "KiOQSBmBscTa7h",
-    "name": "Rádio Estrada Real FM 102.5",
+    "nanoid": "XUCxoGIccjJPy5",
+    "name": "Rádio Estádio",
     "stream_urls": [
-      "https://9981.brasilstream.com.br/stream"
+      "https://stm5.painelcast.com:7556/stream"
     ],
     "country": "br",
     "languages": [
@@ -5062,10 +4817,10 @@
     ]
   },
   {
-    "nanoid": "XUCxoGIccjJPy5",
-    "name": "Rádio Estádio",
+    "nanoid": "KiOQSBmBscTa7h",
+    "name": "Rádio Estrada Real FM 102.5",
     "stream_urls": [
-      "https://stm5.painelcast.com:7556/stream"
+      "https://9981.brasilstream.com.br/stream"
     ],
     "country": "br",
     "languages": [
@@ -5084,10 +4839,10 @@
     ]
   },
   {
-    "nanoid": "D1NNzNszJDHDYM",
-    "name": "Rádio Fay",
+    "nanoid": "2TliTxO8LWqjii",
+    "name": "Radio Facopp",
     "stream_urls": [
-      "https://ssl.xcast.com.br:7132/stremig"
+      "https://radio.saopaulo01.com.br/8276/stream"
     ],
     "country": "br",
     "languages": [
@@ -5216,6 +4971,29 @@
     ]
   },
   {
+    "nanoid": "ulz47owFdwTfXq",
+    "name": "Rádio Gaúcha 93.7 FM",
+    "stream_urls": [
+      "https://liverdgaupoa.rbsdirect.com.br/primary/gaucha_rbs.sdp/playlist.m3u8",
+      "https://1132747t.ha.azioncdn.net/primary/gaucha_rbs.sdp/playlist.m3u8"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "y7UyUhqnuARXjB",
+    "name": "Rádio Gaúcha Serra",
+    "stream_urls": [
+      "https://liverdgauserra.rbsdirect.com.br/primary/gau_serra.sdp/chunklist_b32baa2b-bdde-45e8-bf11-b64cac697b0a.m3u8"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
     "nanoid": "jBSDGkRMPrOmv8",
     "name": "Rádio Gaudéria das Missões",
     "stream_urls": [
@@ -5238,29 +5016,6 @@
     ]
   },
   {
-    "nanoid": "ulz47owFdwTfXq",
-    "name": "Rádio Gaúcha 93.7 FM",
-    "stream_urls": [
-      "https://1132747t.ha.azioncdn.net/primary/gaucha_rbs.sdp/playlist.m3u8",
-      "https://liverdgaupoa.rbsdirect.com.br/primary/gaucha_rbs.sdp/playlist.m3u8"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "y7UyUhqnuARXjB",
-    "name": "Rádio Gaúcha Serra",
-    "stream_urls": [
-      "https://liverdgauserra.rbsdirect.com.br/primary/gau_serra.sdp/chunklist_b32baa2b-bdde-45e8-bf11-b64cac697b0a.m3u8"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
     "nanoid": "Fia1BiHGq1R4kS",
     "name": "Rádio Germânica",
     "stream_urls": [
@@ -5268,8 +5023,8 @@
     ],
     "country": "br",
     "languages": [
-      "por",
-      "deu"
+      "deu",
+      "por"
     ]
   },
   {
@@ -5394,6 +5149,17 @@
     ]
   },
   {
+    "nanoid": "KP4ljLcNsP4KbD",
+    "name": "Radio Hot 97.7",
+    "stream_urls": [
+      "https://servidor23.brlogic.com:7782/autodj"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
     "nanoid": "xjZzIooXyoOWom",
     "name": "Rádio I Love Anos 80",
     "stream_urls": [
@@ -5420,6 +5186,17 @@
     "name": "Rádio Impacto Web",
     "stream_urls": [
       "https://s19.maxcast.com.br:8746/live"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "0KpnhX94J9mb7F",
+    "name": "Radio Instrumental Gospel",
+    "stream_urls": [
+      "https://live8.livemus.com.br:27142/stream"
     ],
     "country": "br",
     "languages": [
@@ -5467,8 +5244,8 @@
     ],
     "country": "br",
     "languages": [
-      "por",
-      "jpn"
+      "jpn",
+      "por"
     ]
   },
   {
@@ -5520,6 +5297,30 @@
     "name": "Rádio Jesus a Vida",
     "stream_urls": [
       "https://servidor40-3.brlogic.com:8004/live"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "rbI9YpH6ab9sS8",
+    "name": "Radio Joli Beatles",
+    "stream_urls": [
+      "https://stream.zeno.fm/3hgez706e3quv"
+    ],
+    "country": "br",
+    "languages": [
+      "eng",
+      "por"
+    ]
+  },
+  {
+    "nanoid": "0Tr64yBJQdu28B",
+    "name": "Radio Joli MPB",
+    "stream_urls": [
+      "https://stream.zeno.fm/mrutsyhkc3quv",
+      "https://stream-163.zeno.fm/mrutsyhkc3quv"
     ],
     "country": "br",
     "languages": [
@@ -5683,17 +5484,6 @@
     ]
   },
   {
-    "nanoid": "wDZWHCQxYXcrgH",
-    "name": "Rádio Litoral Paulista",
-    "stream_urls": [
-      "https://servidor23-3.brlogic.com:7036/live"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
     "nanoid": "fRwsrYr4Drbtry",
     "name": "Rádio Livre Som",
     "stream_urls": [
@@ -5749,6 +5539,61 @@
     ]
   },
   {
+    "nanoid": "0IbSokPWcEl2yS",
+    "name": "Rádio Máquina do Tempo",
+    "stream_urls": [
+      "https://servidor27.brlogic.com:8124/live"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "9mdFpBgFgMswnw",
+    "name": "Rádio Máquina do Tempo Internacional",
+    "stream_urls": [
+      "https://servidor28.brlogic.com:8212/live"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "SSiuA5TOzQrlkf",
+    "name": "Rádio Máquina Instrumental",
+    "stream_urls": [
+      "https://servidor29-2.brlogic.com:8578/live"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "9tChSwItk8IPVf",
+    "name": "Rádio Máquina no Rock",
+    "stream_urls": [
+      "https://servidor20-4.brlogic.com:8582/live"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "owiup0gXTvNrm1",
+    "name": "Rádio Marajá 660 AM",
+    "stream_urls": [
+      "https://servidor28-1.brlogic.com:8028/live"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
     "nanoid": "XquE9NDa53CqcL",
     "name": "Rádio Maranata 103.9 FM",
     "stream_urls": [
@@ -5797,6 +5642,17 @@
     "name": "Rádio Marinha 99.9 FM",
     "stream_urls": [
       "https://stm0.inovativa.net/listen/radiomarinha/radio.mp3"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "XuPTGoOgbd2Acr",
+    "name": "Rádio Máxima FM",
+    "stream_urls": [
+      "https://stream03.dghost.com.br/radio/8210/stream"
     ],
     "country": "br",
     "languages": [
@@ -5937,10 +5793,32 @@
     ]
   },
   {
+    "nanoid": "aEZEfKDWxPIZYU",
+    "name": "Radio MixHits",
+    "stream_urls": [
+      "https://hts02.brascast.com:11000/live"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
     "nanoid": "fWNtu1C88iPk5n",
     "name": "Rádio Montense FM 102.9",
     "stream_urls": [
       "https://str02.kfmidia.com.br:6704/stream"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "oXW5cDswB94hL5",
+    "name": "Radio MPB Máquina do Tempo",
+    "stream_urls": [
+      "https://servidor28.brlogic.com:8032/live"
     ],
     "country": "br",
     "languages": [
@@ -5970,54 +5848,10 @@
     ]
   },
   {
-    "nanoid": "0IbSokPWcEl2yS",
-    "name": "Rádio Máquina do Tempo",
+    "nanoid": "RdG7WMBEGdZO00",
+    "name": "Rádio Nação Vitoriosa",
     "stream_urls": [
-      "https://servidor27.brlogic.com:8124/live"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "9mdFpBgFgMswnw",
-    "name": "Rádio Máquina do Tempo Internacional",
-    "stream_urls": [
-      "https://servidor28.brlogic.com:8212/live"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "SSiuA5TOzQrlkf",
-    "name": "Rádio Máquina Instrumental",
-    "stream_urls": [
-      "https://servidor29-2.brlogic.com:8578/live"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "9tChSwItk8IPVf",
-    "name": "Rádio Máquina no Rock",
-    "stream_urls": [
-      "https://servidor20-4.brlogic.com:8582/live"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "XuPTGoOgbd2Acr",
-    "name": "Rádio Máxima FM",
-    "stream_urls": [
-      "https://stream03.dghost.com.br/radio/8210/stream"
+      "https://stream.zeno.fm/2rsloyfvsy9tv"
     ],
     "country": "br",
     "languages": [
@@ -6032,8 +5866,8 @@
     ],
     "country": "br",
     "languages": [
-      "por",
       "eng",
+      "por",
       "spa"
     ]
   },
@@ -6104,10 +5938,10 @@
     ]
   },
   {
-    "nanoid": "RdG7WMBEGdZO00",
-    "name": "Rádio Nação Vitoriosa",
+    "nanoid": "2h0ceI3RZLL5UH",
+    "name": "Rádio Nevasca FM",
     "stream_urls": [
-      "https://stream.zeno.fm/2rsloyfvsy9tv"
+      "https://stm01.virtualcast.com.br:8314/nevascasaojoaquim"
     ],
     "country": "br",
     "languages": [
@@ -6115,10 +5949,10 @@
     ]
   },
   {
-    "nanoid": "2h0ceI3RZLL5UH",
-    "name": "Rádio Nevasca FM",
+    "nanoid": "wolPm7e2eWM8ma",
+    "name": "Radio New Black SP",
     "stream_urls": [
-      "https://stm01.virtualcast.com.br:8314/nevascasaojoaquim"
+      "https://servidor39-3.brlogic.com:8238/live"
     ],
     "country": "br",
     "languages": [
@@ -6133,8 +5967,8 @@
     ],
     "country": "br",
     "languages": [
-      "por",
-      "jpn"
+      "jpn",
+      "por"
     ]
   },
   {
@@ -6142,6 +5976,28 @@
     "name": "Rádio Nordeste FM",
     "stream_urls": [
       "https://centova3.transmissaodigital.com:20018/stream"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "bwA54CU1sqzzjg",
+    "name": "Radio Norte 100.3 FM",
+    "stream_urls": [
+      "https://servidor17.brlogic.com:9394/live"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "LYxSXDUvDJ7lPp",
+    "name": "Rádio Notícias FM 98.3",
+    "stream_urls": [
+      "https://ice.fabricahost.com.br/radionoticias"
     ],
     "country": "br",
     "languages": [
@@ -6164,6 +6020,17 @@
     "name": "Rádio Nova Geração FM",
     "stream_urls": [
       "https://virtues.live:8138/stream"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "CLjHF8DSEMhHna",
+    "name": "Radio Nova Instrumental",
+    "stream_urls": [
+      "https://streaming.radioempresabrasil.com.br/proxy/novainstrumental/stream"
     ],
     "country": "br",
     "languages": [
@@ -6200,8 +6067,8 @@
     ],
     "country": "br",
     "languages": [
-      "spa",
-      "por"
+      "por",
+      "spa"
     ]
   },
   {
@@ -6260,10 +6127,32 @@
     ]
   },
   {
+    "nanoid": "dW68HlHFDwdkLk",
+    "name": "Radio Paiquerê 91.7 FM",
+    "stream_urls": [
+      "https://ice.fabricahost.com.br/paiquere917"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
     "nanoid": "Ucwvs9JgPfBzDI",
     "name": "Rádio Pampa",
     "stream_urls": [
       "https://cast4.audiostream.com.br:2653/mp3"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "4OctsDzxsib3Oc",
+    "name": "Rádio Pão Diário",
+    "stream_urls": [
+      "https://servidor24.brlogic.com:8808/live"
     ],
     "country": "br",
     "languages": [
@@ -6282,10 +6171,32 @@
     ]
   },
   {
+    "nanoid": "EwRFf9DmvJVCUe",
+    "name": "Rádio Pátria Gaúcha",
+    "stream_urls": [
+      "https://servidor16-3.brlogic.com:7614/live"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
     "nanoid": "90J7pNj9fl5RFe",
     "name": "Rádio Pira FM",
     "stream_urls": [
       "https://stream.zeno.fm/zyvh88ftvxhvv"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "glrvmWH8Ppuz3B",
+    "name": "Radio Piratininga 1070 AM",
+    "stream_urls": [
+      "https://s35.maxcast.com.br:8002/live"
     ],
     "country": "br",
     "languages": [
@@ -6307,7 +6218,7 @@
     "nanoid": "uTGgOHVfE5X074",
     "name": "Rádio Pop FM 90.9",
     "stream_urls": [
-      "https://pop.jmvstream.com/stream/1/"
+      "https://pop.jmvstream.com/stream/1"
     ],
     "country": "br",
     "languages": [
@@ -6359,6 +6270,17 @@
     ]
   },
   {
+    "nanoid": "ztCNHFEuaow0Ai",
+    "name": "Rádio Príncipe",
+    "stream_urls": [
+      "https://servidor35-1.brlogic.com:8036/live"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
     "nanoid": "j7AcJtDZ22xArO",
     "name": "Rádio Profecia Expresso",
     "stream_urls": [
@@ -6381,43 +6303,10 @@
     ]
   },
   {
-    "nanoid": "ztCNHFEuaow0Ai",
-    "name": "Rádio Príncipe",
-    "stream_urls": [
-      "https://servidor35-1.brlogic.com:8036/live"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
     "nanoid": "ejg64rsGblGPEV",
     "name": "Rádio PT",
     "stream_urls": [
       "https://s39.maxcast.com.br:8072/live"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "EwRFf9DmvJVCUe",
-    "name": "Rádio Pátria Gaúcha",
-    "stream_urls": [
-      "https://servidor16-3.brlogic.com:7614/live"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "4OctsDzxsib3Oc",
-    "name": "Rádio Pão Diário",
-    "stream_urls": [
-      "https://servidor24.brlogic.com:8808/live"
     ],
     "country": "br",
     "languages": [
@@ -6440,6 +6329,17 @@
     "name": "Rádio Quintanares",
     "stream_urls": [
       "https://stm2.srvif.com:8328/stream"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "SzzzE7YakbUrj6",
+    "name": "Radio Rap A Voz do Gueto",
+    "stream_urls": [
+      "https://bissau.radio/listen/10047"
     ],
     "country": "br",
     "languages": [
@@ -6480,10 +6380,43 @@
     ]
   },
   {
+    "nanoid": "IeeHVjadZAeWDf",
+    "name": "Radio RCK+",
+    "stream_urls": [
+      "https://stm1.colossocastpro.com.br:7064/stream"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
     "nanoid": "23ECDzolqglrjd",
     "name": "Rádio Record 1000 AM",
     "stream_urls": [
       "https://stm10.voxhd.com.br:9702/stream"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "vNFTF9UcYGc6PP",
+    "name": "Radio Rede Vida FM 97.9",
+    "stream_urls": [
+      "https://r15.ciclano.io/proxy/diariofm/stream"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "pZhtRdYPUrHHFi",
+    "name": "Radio Reggae Brasil",
+    "stream_urls": [
+      "https://casthttps.suaradionanet.net/13805/stream"
     ],
     "country": "br",
     "languages": [
@@ -6571,7 +6504,7 @@
     "nanoid": "woHVnv5PGlrKir",
     "name": "Rádio Roquette-Pinto 94.1 FM",
     "stream_urls": [
-      "https://radio.saopaulo01.com.br/8300/stream/"
+      "https://radio.saopaulo01.com.br/8300/stream"
     ],
     "country": "br",
     "languages": [
@@ -6612,10 +6545,32 @@
     ]
   },
   {
+    "nanoid": "5p6Mlp1Rvud9oO",
+    "name": "Rádio São Bento FM 90.3",
+    "stream_urls": [
+      "https://cast2.youngtech.radio.br/listen/saobento903fm/radio"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "EFFv3Nw91YFtnM",
+    "name": "Rádio São Francisco 97.7 FM",
+    "stream_urls": [
+      "https://cast.hoost.com.br:20150/stream"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
     "nanoid": "PiYYL7LsW3o3i7",
     "name": "Rádio Scalla - Música Brasileira",
     "stream_urls": [
-      "https://s01.svrdedicado.org:6782/stream/2/"
+      "https://s01.svrdedicado.org:6782/stream/2"
     ],
     "country": "br",
     "languages": [
@@ -6657,6 +6612,17 @@
     ]
   },
   {
+    "nanoid": "x0dIpZ86NQdIpX",
+    "name": "Radio Sepiol",
+    "stream_urls": [
+      "https://paineldj.com.br:20087/stream"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
     "nanoid": "mmHMEliv4Ou7ZA",
     "name": "Rádio Serra do Sul (SDS)",
     "stream_urls": [
@@ -6690,10 +6656,54 @@
     ]
   },
   {
+    "nanoid": "gX1Mu8GrZckRlY",
+    "name": "Radio Sertaneja Mix",
+    "stream_urls": [
+      "https://stm1.hdmidia.srv.br:7008/stream"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "OAdwyrhqTlrQZT",
+    "name": "Radio Sertaneja Top",
+    "stream_urls": [
+      "https://radiosertanejatop.stream.laut.fm/radiosertanejatop"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
     "nanoid": "Y8Oi1hYVAERIqA",
     "name": "Rádio Shekinah Só Louvor",
     "stream_urls": [
       "https://player.voxpainel.com.br/proxy/7076"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "qM8w75YDszneP6",
+    "name": "Radio Só MPB",
+    "stream_urls": [
+      "https://s27.maxcast.com.br:8103/live"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "v723RTtH68yNvw",
+    "name": "Rádio Só MPB",
+    "stream_urls": [
+      "https://srv1.braudio.com.br:7008/stream"
     ],
     "country": "br",
     "languages": [
@@ -6756,6 +6766,51 @@
     ]
   },
   {
+    "nanoid": "zb8OYMbb0Vmw8h",
+    "name": "Radio Studio Bala",
+    "stream_urls": [
+      "https://stream.zeno.fm/87t0h7c51zquv.aac"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "iOg8VON5RAJ7vg",
+    "name": "Radio Studio Flashback",
+    "stream_urls": [
+      "https://stream.zeno.fm/6gv76f1xruquv",
+      "https://stream-163.zeno.fm/6gv76f1xruquv"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "OzV2h5yQFeaHuy",
+    "name": "Radio Studio Souto - Rap Nacional",
+    "stream_urls": [
+      "https://centova5.transmissaodigital.com:20031/stream"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "bGFyKDCYBxczcQ",
+    "name": "Radio Studio Souto - The Beatles",
+    "stream_urls": [
+      "https://centova5.transmissaodigital.com:20001/;"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
     "nanoid": "FzBZbLHg0WH3M9",
     "name": "Rádio Sucesso",
     "stream_urls": [
@@ -6781,63 +6836,8 @@
     "nanoid": "IlnQi49wLW4P0b",
     "name": "Rádio Super 100.5 FM",
     "stream_urls": [
-      "https://servidor32.brlogic.com:8200/live",
-      "https://servidor32-2.brlogic.com:8200/live"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "5p6Mlp1Rvud9oO",
-    "name": "Rádio São Bento FM 90.3",
-    "stream_urls": [
-      "https://cast2.youngtech.radio.br/listen/saobento903fm/radio"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "EFFv3Nw91YFtnM",
-    "name": "Rádio São Francisco 97.7 FM",
-    "stream_urls": [
-      "https://cast.hoost.com.br:20150/stream"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "v723RTtH68yNvw",
-    "name": "Rádio Só MPB",
-    "stream_urls": [
-      "https://srv1.braudio.com.br:7008/stream"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "ZLUd5aoAPIcD0P",
-    "name": "Rádio T 105.3 FM",
-    "stream_urls": [
-      "https://s1.mediacp.com.br:8984/stream"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "V3n2ZNfxDQyxtj",
-    "name": "Rádio Talian",
-    "stream_urls": [
-      "https://r6.ciclano.io:15080/stream"
+      "https://servidor32-2.brlogic.com:8200/live",
+      "https://servidor32.brlogic.com:8200/live"
     ],
     "country": "br",
     "languages": [
@@ -6911,6 +6911,17 @@
     ]
   },
   {
+    "nanoid": "T4xWXwlloudmJB",
+    "name": "Rádio Tok",
+    "stream_urls": [
+      "https://cast2.hoost.com.br:20088/stream"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
     "nanoid": "3HB1LEGJxqManb",
     "name": "Rádio Torre",
     "stream_urls": [
@@ -6955,10 +6966,32 @@
     ]
   },
   {
+    "nanoid": "d8z07aWX2poNZx",
+    "name": "Rádio Tropical 103.7 FM",
+    "stream_urls": [
+      "https://ice.fabricahost.com.br/radiotropicalvix"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
     "nanoid": "xtBb6BeUhQAAJu",
     "name": "Rádio Tupaciguara Web",
     "stream_urls": [
-      "https://stm12.srvvox.com.br:7214/stream/"
+      "https://stm12.srvvox.com.br:7214/stream"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "WiGUzC8uAFywAl",
+    "name": "Rádio Tupanci AM",
+    "stream_urls": [
+      "https://casthttps.suaradionanet.net/10024/stream"
     ],
     "country": "br",
     "languages": [
@@ -7032,10 +7065,10 @@
     ]
   },
   {
-    "nanoid": "6PppuvgbLyP6DD",
-    "name": "Rádio Universo Virtual",
+    "nanoid": "UfIKTfiJKYkBUk",
+    "name": "Rádio Uirapuru 102.5 FM",
     "stream_urls": [
-      "https://stm24.xcast.com.br:9142/stream"
+      "https://radio.saopaulo01.com.br:7002/stream"
     ],
     "country": "br",
     "languages": [
@@ -7054,6 +7087,17 @@
     ]
   },
   {
+    "nanoid": "6PppuvgbLyP6DD",
+    "name": "Rádio Universo Virtual",
+    "stream_urls": [
+      "https://stm24.xcast.com.br:9142/stream"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
     "nanoid": "fqgRjATQ4JNu6R",
     "name": "Rádio UPF",
     "stream_urls": [
@@ -7065,10 +7109,10 @@
     ]
   },
   {
-    "nanoid": "PWywf80G5x2EFs",
-    "name": "Rádio USP 107.9 FM",
+    "nanoid": "rJIxXLGLoqQLQP",
+    "name": "Rádio USP 93.7 FM",
     "stream_urls": [
-      "https://flow.emm.usp.br:8008/radiousp-rp-128.mp3"
+      "https://flow.emm.usp.br:8008/radiousp-128.mp3"
     ],
     "country": "br",
     "languages": [
@@ -7076,10 +7120,10 @@
     ]
   },
   {
-    "nanoid": "rJIxXLGLoqQLQP",
-    "name": "Rádio USP 93.7 FM",
+    "nanoid": "PWywf80G5x2EFs",
+    "name": "Rádio USP 107.9 FM",
     "stream_urls": [
-      "https://flow.emm.usp.br:8008/radiousp-128.mp3"
+      "https://flow.emm.usp.br:8008/radiousp-rp-128.mp3"
     ],
     "country": "br",
     "languages": [
@@ -7329,10 +7373,10 @@
     ]
   },
   {
-    "nanoid": "UwM8ho5czyRToy",
-    "name": "Rádio Ágape",
+    "nanoid": "Q9XXuOpKm0qrod",
+    "name": "Radio ZTOP",
     "stream_urls": [
-      "https://servidor40-5.brlogic.com:8086/live"
+      "https://stream.zeno.fm/bd0hmtmb2d0uv"
     ],
     "country": "br",
     "languages": [
@@ -7340,10 +7384,198 @@
     ]
   },
   {
-    "nanoid": "P1RDI54twMidID",
-    "name": "Rádios Fay",
+    "nanoid": "KFz1xe9lErilYS",
+    "name": "RadioNOS Lounge Channel",
     "stream_urls": [
-      "https://player.srvaudio.com.br/player-ssl/10172"
+      "https://nos.radio.br/stream/13/;"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "U17aOzk7dJmTRn",
+    "name": "RBN FM 94.3",
+    "stream_urls": [
+      "https://stm10.virtualcast.com.br:8464/rbnjaraguasul"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "IWvqpgeToxxaME",
+    "name": "RBR Rádio Brasileira 88.3 FM",
+    "stream_urls": [
+      "https://webradio.amsolution.com.br/radio/8060/radio.mp3"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "zBEsdQ21vCcU4E",
+    "name": "RC FM 98.1",
+    "stream_urls": [
+      "https://player.transmissaodigital.com/proxy/7434"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "uPI6GikHOrcpxY",
+    "name": "Rede 3.16",
+    "stream_urls": [
+      "https://servidor21.brlogic.com:7976/live"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "lxy1HctnSNYWoE",
+    "name": "Rede Aleluia 99.9 FM",
+    "stream_urls": [
+      "https://134398c.ha.azioncdn.net/primary/radiorecord.sdp/playlist.m3u8"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "9N4Z2buVKmpyOk",
+    "name": "Rede Aleluia Jundiaí",
+    "stream_urls": [
+      "https://14398c.ha.azioncdn.net/primary/sp_jundiai.sdp/chunklist_e598b1e4-b25c-4fb1-838c-9d247c2b677a.m3u8"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "cV2W28UUf0K2bq",
+    "name": "Rede Blast",
+    "stream_urls": [
+      "https://centova4.transmissaodigital.com:20143/principal;"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "xR8vpbrft2WpME",
+    "name": "Rede Blitz",
+    "stream_urls": [
+      "https://c32.radioboss.fm:8254/source"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "vp3xzFXYm5Ws7j",
+    "name": "Rede Conexão FM 98.1",
+    "stream_urls": [
+      "https://ssl1.transmissaodigital.com:20441/stream"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "ElUBVx7IoHZP2d",
+    "name": "Rede Tropical FM 94.7",
+    "stream_urls": [
+      "https://servidor37-5.brlogic.com:8044/live"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "yi3SMIkMv3z8uf",
+    "name": "Rio Sul Radio",
+    "stream_urls": [
+      "https://stream.riosulradio.com/"
+    ],
+    "country": "br",
+    "languages": [
+      "eng",
+      "por"
+    ]
+  },
+  {
+    "nanoid": "VlV6fK1mGeqZj4",
+    "name": "Rock na Teia",
+    "stream_urls": [
+      "https://s19.maxcast.com.br:8182/live"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "5cMW4HT97aLIDG",
+    "name": "Rock no Pinheiro",
+    "stream_urls": [
+      "https://hts02.brascast.com:11442/stream"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "vdKmumnzwGca5o",
+    "name": "Rocket 977",
+    "stream_urls": [
+      "https://8817.brasilstream.com.br/stream"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "cfH4McT16DXZv2",
+    "name": "RST Radio Rock",
+    "stream_urls": [
+      "https://servidor37-1.brlogic.com:8100/live"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "k6FGeNGYIEHVDk",
+    "name": "RTL FM 91.7",
+    "stream_urls": [
+      "https://live.virtualcast.com.br/rtl"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "18dY4NRsKe9hkb",
+    "name": "RTM Brasil",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOTRANSMUNDIALAAC_SC"
     ],
     "country": "br",
     "languages": [
@@ -7366,6 +7598,17 @@
     "name": "Santa Bárbara FM",
     "stream_urls": [
       "https://servidor36-4.brlogic.com:8474/live"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "2MYLVIAa8Qztjr",
+    "name": "Sara Brasil FM 107.5",
+    "stream_urls": [
+      "https://hts01.brascast.com:8012/live"
     ],
     "country": "br",
     "languages": [
@@ -7406,10 +7649,10 @@
     ]
   },
   {
-    "nanoid": "zHRAfWqS50o85J",
-    "name": "Serra Negra FM 102.7",
+    "nanoid": "prNJPXke7UsRZV",
+    "name": "Serra Verde FM 87.9",
     "stream_urls": [
-      "https://player.uaihost.audio/proxy/7014"
+      "https://ssl.xcast.com.br:10590//;"
     ],
     "country": "br",
     "languages": [
@@ -7527,10 +7770,44 @@
     ]
   },
   {
+    "nanoid": "pAZHLQ6nVGRLZX",
+    "name": "Só Brega",
+    "stream_urls": [
+      "https://stm18.xcast.com.br:8290/;"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "pnwZbuOxiOfkt0",
+    "name": "Só Track Boa",
+    "stream_urls": [
+      "https://stream.zeno.fm/dypkmcyizhktv"
+    ],
+    "country": "br",
+    "languages": [
+      "eng",
+      "por"
+    ]
+  },
+  {
     "nanoid": "nVQrZjbCOO3FOq",
     "name": "Sociedade Top FM 91.3",
     "stream_urls": [
       "https://sv11.hdradios.net:7246/stream"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "HmY7bOeMXC9xgG",
+    "name": "Sonora FM 87.5",
+    "stream_urls": [
+      "https://casthttps1.suaradionanet.net/10318/stream"
     ],
     "country": "br",
     "languages": [
@@ -7604,6 +7881,17 @@
     ]
   },
   {
+    "nanoid": "KZdOn05W8rdqEn",
+    "name": "Sucesso FM 88.3",
+    "stream_urls": [
+      "https://servidor36.brlogic.com:8300/live"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
     "nanoid": "3T6vWkX6H4JHAq",
     "name": "Sucesso FM 91.9",
     "stream_urls": [
@@ -7659,10 +7947,10 @@
     ]
   },
   {
-    "nanoid": "ixgg89MjsCuEgK",
-    "name": "Super Rede Boa Vontade 1230 AM",
+    "nanoid": "cFOPi1Qk4wjKru",
+    "name": "Super Rádio 1150 AM",
     "stream_urls": [
-      "https://9000.brasilstream.com.br/stream"
+      "https://streaming.fox.srv.br:8072/stream"
     ],
     "country": "br",
     "languages": [
@@ -7670,10 +7958,21 @@
     ]
   },
   {
-    "nanoid": "cFOPi1Qk4wjKru",
-    "name": "Super Rádio 1150 AM",
+    "nanoid": "CGl2gsRX5z9bov",
+    "name": "Super Rádio Tupi 96.5 FM",
     "stream_urls": [
-      "https://streaming.fox.srv.br:8072/stream"
+      "https://8923.brasilstream.com.br/stream"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "ixgg89MjsCuEgK",
+    "name": "Super Rede Boa Vontade 1230 AM",
+    "stream_urls": [
+      "https://9000.brasilstream.com.br/stream"
     ],
     "country": "br",
     "languages": [
@@ -7692,29 +7991,6 @@
     ]
   },
   {
-    "nanoid": "pAZHLQ6nVGRLZX",
-    "name": "Só Brega",
-    "stream_urls": [
-      "https://stm18.xcast.com.br:8290/;"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "pnwZbuOxiOfkt0",
-    "name": "Só Track Boa",
-    "stream_urls": [
-      "https://stream.zeno.fm/dypkmcyizhktv"
-    ],
-    "country": "br",
-    "languages": [
-      "por",
-      "eng"
-    ]
-  },
-  {
     "nanoid": "k3Q97I5RQDMlK6",
     "name": "Tempo FM 103.9",
     "stream_urls": [
@@ -7726,10 +8002,21 @@
     ]
   },
   {
-    "nanoid": "BnKZH1uFAyYvfO",
-    "name": "Terra FM 100.3",
+    "nanoid": "s5ZFipK54Ieutr",
+    "name": "Ternura FM 93.9",
     "stream_urls": [
-      "https://servidor30.brlogic.com:8622/live"
+      "https://ice.fabricahost.com.br/ternurafm"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "uwVjbecF3V1KVu",
+    "name": "Terra FM 94.7",
+    "stream_urls": [
+      "https://ice.fabricahost.com.br/terrafm94"
     ],
     "country": "br",
     "languages": [
@@ -7741,6 +8028,17 @@
     "name": "Terra FM 98.5",
     "stream_urls": [
       "https://server2.webradios.com.br:19196/9196"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "BnKZH1uFAyYvfO",
+    "name": "Terra FM 100.3",
+    "stream_urls": [
+      "https://servidor30.brlogic.com:8622/live"
     ],
     "country": "br",
     "languages": [
@@ -7782,6 +8080,17 @@
     ]
   },
   {
+    "nanoid": "Mdnmojk3MrfscQ",
+    "name": "Top FM 104.1",
+    "stream_urls": [
+      "https://ice.fabricahost.com.br/topfm1041sp"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
     "nanoid": "keBVnmzRH4AOcZ",
     "name": "Top Mais Web Rádio",
     "stream_urls": [
@@ -7815,17 +8124,6 @@
     ]
   },
   {
-    "nanoid": "vD86RyS4pTqkJg",
-    "name": "Transamérica FM 100.1",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/RT_SPAAC.aac"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
     "nanoid": "HQmJGFbUA8KnNr",
     "name": "Transamérica Hits 97.7 FM",
     "stream_urls": [
@@ -7841,6 +8139,17 @@
     "name": "Tri FM 105.5",
     "stream_urls": [
       "https://radios.poolwebwork.com.br/8026/stream"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "BwnCaEMk3txw83",
+    "name": "Tribuna Soft FM 90.1",
+    "stream_urls": [
+      "https://ice.fabricahost.com.br/tribunafm"
     ],
     "country": "br",
     "languages": [
@@ -7885,6 +8194,17 @@
     "name": "Tua Rádio Fátima",
     "stream_urls": [
       "https://painel.sintonizar.tv.br/stream/fatima"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "OOwIgIfy39q5b4",
+    "name": "Udesc FM 91.9",
+    "stream_urls": [
+      "https://icecast.loopert.com/81"
     ],
     "country": "br",
     "languages": [
@@ -7947,10 +8267,10 @@
     ]
   },
   {
-    "nanoid": "MMQVRZ6HPuwIn3",
-    "name": "Vagalume.FM - Pink Floyd",
+    "nanoid": "GhKs4Rpb6SJ6Ot",
+    "name": "Vale Verde FM 96.7",
     "stream_urls": [
-      "https://stream.vagalume.fm/hls/1498583990653093/aac.m3u8"
+      "https://ice.fabricahost.com.br/valeverdefm"
     ],
     "country": "br",
     "languages": [
@@ -8156,17 +8476,6 @@
     ]
   },
   {
-    "nanoid": "V4hWeyX8C32n3m",
-    "name": "Web Radio Ramá",
-    "stream_urls": [
-      "https://servidor32-5.brlogic.com:8464/live"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
     "nanoid": "9UcBTMRCPWyXeh",
     "name": "Web Rádio Arauto da Imaculada",
     "stream_urls": [
@@ -8266,6 +8575,17 @@
     ]
   },
   {
+    "nanoid": "V4hWeyX8C32n3m",
+    "name": "Web Radio Ramá",
+    "stream_urls": [
+      "https://servidor32-5.brlogic.com:8464/live"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
     "nanoid": "RIEtpiL5kjKKR7",
     "name": "Web Rádio Reis FM",
     "stream_urls": [
@@ -8325,17 +8645,6 @@
     "name": "ZTOP",
     "stream_urls": [
       "https://stream.zeno.fm/gzf0stmb2d0uv"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "Ff9H4zwxfz6Dax",
-    "name": "Ômega FM",
-    "stream_urls": [
-      "https://webradio.amsolution.com.br/radio/8000/omega"
     ],
     "country": "br",
     "languages": [

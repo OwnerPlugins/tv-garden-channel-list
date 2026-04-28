@@ -1,10 +1,21 @@
 [
   {
+    "nanoid": "0Zq03FEvto8tQM",
+    "name": "[ vinyl stacks ]",
+    "stream_urls": [
+      "https://vinylstacks.uncool.club/vinyl-stacks.mp3"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "hqQCWtb20XQEM3",
     "name": "8Radio",
     "stream_urls": [
-      "https://edge4.audioxi.com/8RADIO",
-      "https://stream.rcast.net/66127"
+      "https://stream.rcast.net/66127",
+      "https://edge4.audioxi.com/8RADIO"
     ],
     "country": "ie",
     "languages": [
@@ -16,17 +27,6 @@
     "name": "98FM Throwback",
     "stream_urls": [
       "https://live-bauerie.sharp-stream.com/98"
-    ],
-    "country": "ie",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "0Zq03FEvto8tQM",
-    "name": "[ vinyl stacks ]",
-    "stream_urls": [
-      "https://vinylstacks.uncool.club/vinyl-stacks.mp3"
     ],
     "country": "ie",
     "languages": [
@@ -104,8 +104,8 @@
     "nanoid": "BcpSzWbWE8Q4Y9",
     "name": "Christmas FM Classical & Carols",
     "stream_urls": [
-      "https://christmasfm.cdnstream1.com/2549_128.mp3",
-      "https://christmasfm.cdnstream1.com/2549_64.aac"
+      "https://christmasfm.cdnstream1.com/2549_64.aac",
+      "https://christmasfm.cdnstream1.com/2549_128.mp3"
     ],
     "country": "ie",
     "languages": [
@@ -328,8 +328,8 @@
     "nanoid": "ehoscFCaksi6N6",
     "name": "Gem Radio New Wave",
     "stream_urls": [
-      "https://gemradionw.radioca.st/;stream.nsv",
-      "https://gemradio.radioca.st/stream/1/"
+      "https://gemradio.radioca.st/stream/1",
+      "https://gemradionw.radioca.st/;stream.nsv"
     ],
     "country": "ie",
     "languages": [
@@ -485,8 +485,8 @@
     "nanoid": "VD1zxsXrNwOAQO",
     "name": "Midwest Radio",
     "stream_urls": [
+      "https://direct.sharp-stream.com/midwestfmie.mp3",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/MIDWEST_RADIOAAC.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/MIDWEST_RADIO.mp3",
       "https://edge-audio-01-gos2.sharp-stream.com/midwestfmie2.aac"
     ],
     "country": "ie",
@@ -510,17 +510,6 @@
     "name": "MPB Radio 1",
     "stream_urls": [
       "https://sc.mpbnl.nl/radio1.mp3"
-    ],
-    "country": "ie",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "I87BHCj2Gjy2yc",
-    "name": "MPB Radio 1 MixMingle",
-    "stream_urls": [
-      "https://radiozender.mpbnetwerken.nl/radio1mixmingle.mp3"
     ],
     "country": "ie",
     "languages": [
@@ -599,8 +588,8 @@
     "nanoid": "pyaKMvXOAgT2ti",
     "name": "Newstalk",
     "stream_urls": [
-      "https://edge.audioxi.com/NT",
-      "https://live-bauerie.sharp-stream.com/NTAAC"
+      "https://live-bauerie.sharp-stream.com/NTAAC",
+      "https://edge.audioxi.com/NT"
     ],
     "country": "ie",
     "languages": [
@@ -754,8 +743,8 @@
     "nanoid": "PIJGLyayq5qtWj",
     "name": "Planet Radio Ireland",
     "stream_urls": [
-      "https://media.planetradio.ie/radio/8000/ACC",
-      "https://media.planetradio.ie/radio/8000/OnAir"
+      "https://media.planetradio.ie/radio/8000/OnAir",
+      "https://media.planetradio.ie/radio/8000/ACC"
     ],
     "country": "ie",
     "languages": [
@@ -846,8 +835,8 @@
     "nanoid": "9J67KkobCQXYss",
     "name": "Raidió Rí-Rá",
     "stream_urls": [
-      "https://uksoutha.streaming.broadcast.radio/ri-ra",
-      "https://icy-zurich.mpbnl.nl/rrr"
+      "https://icy-zurich.mpbnl.nl/rrr",
+      "https://uksoutha.streaming.broadcast.radio/ri-ra"
     ],
     "country": "ie",
     "languages": [
@@ -882,7 +871,7 @@
     "stream_urls": [
       "https://icecast.rte.ie/2fm",
       "https://icecast2.rte.ie/ie2fm",
-      "https://www.rte.ie/manifests/2fm.m3u8"
+      "https://liveaudio.rte.ie/hls-radio/2fm/chunklist.m3u8"
     ],
     "country": "ie",
     "languages": [
@@ -894,8 +883,8 @@
     "name": "RTÉ Gold",
     "stream_urls": [
       "https://icecast1.rte.ie/gold",
-      "https://www.rte.ie/manifests/gold.m3u8",
-      "https://liveaudio.rte.ie/hls-radio/gold/chunklist.m3u8"
+      "https://liveaudio.rte.ie/hls-radio/gold/chunklist.m3u8",
+      "https://www.rte.ie/manifests/gold.m3u8"
     ],
     "country": "ie",
     "languages": [
@@ -907,8 +896,8 @@
     "name": "RTÉ lyric fm",
     "stream_urls": [
       "https://icecast.rte.ie/lyric",
-      "https://www.rte.ie/manifests/lyric.m3u8",
-      "https://liveaudio.rte.ie/hls-radio/lyric/chunklist.m3u8"
+      "https://liveaudio.rte.ie/hls-radio/lyric/chunklist.m3u8",
+      "https://www.rte.ie/manifests/lyric.m3u8"
     ],
     "country": "ie",
     "languages": [
@@ -919,9 +908,9 @@
     "nanoid": "3QrHj4eie1hoFp",
     "name": "RTÉ Radio 1",
     "stream_urls": [
-      "https://icecast1.rte.ie/radio1",
+      "https://icecast.rte.ie/ieradio1",
       "https://icecast.rte.ie/radio1",
-      "https://icecast.rte.ie/ieradio1"
+      "https://icecast1.rte.ie/radio1"
     ],
     "country": "ie",
     "languages": [
@@ -968,8 +957,8 @@
     "nanoid": "cm4HYwkAc0o747",
     "name": "Solid Gold Radio Ireland",
     "stream_urls": [
-      "https://a1.asurahosting.com:10000/radio.mp3",
-      "https://az11.yesstreaming.net:8020/radio.mp3"
+      "https://az11.yesstreaming.net:8020/radio.mp3",
+      "https://a1.asurahosting.com:10000/radio.mp3"
     ],
     "country": "ie",
     "languages": [
@@ -1082,9 +1071,9 @@
     "nanoid": "R0hzPW9rfDKvmm",
     "name": "Today FM",
     "stream_urls": [
-      "https://stream.audioxi.com/TD",
+      "https://edge.audioxi.com/TDAAC",
       "https://pri.gocaster.net/td",
-      "https://edge.audioxi.com/TDAAC"
+      "https://live-bauerie.sharp-stream.com/TDAAC"
     ],
     "country": "ie",
     "languages": [
@@ -1095,8 +1084,9 @@
     "nanoid": "DdeohAYR3iLj8X",
     "name": "Today FM 80s",
     "stream_urls": [
+      "https://live-bauerie.sharp-stream.com/T80",
       "https://edge3.audioxi.com/T80",
-      "https://live-bauerie.sharp-stream.com/T80"
+      "https://stream.audioxi.com/T80"
     ],
     "country": "ie",
     "languages": [

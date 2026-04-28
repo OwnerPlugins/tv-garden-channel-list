@@ -25,8 +25,8 @@
     "nanoid": "epJ5CiAF4biBMM",
     "name": "95bFM",
     "stream_urls": [
-      "https://streams.95bfm.com/stream95",
       "https://streams.95bfm.com/stream128",
+      "https://streams.95bfm.com/stream95",
       "https://streams.95bfm.com/stream112"
     ],
     "country": "nz",
@@ -71,8 +71,8 @@
     "nanoid": "Gsn5Db69UgFLZF",
     "name": "Arrow FM 92.7",
     "stream_urls": [
-      "https://live.accessmedia.nz/ArrowFM.stream/playlist.m3u8",
-      "https://live.accessmedia.nz/ArrowFM.stream_aac/playlist.m3u8"
+      "https://live.accessmedia.nz/ArrowFM.stream_aac/playlist.m3u8",
+      "https://live.accessmedia.nz/ArrowFM.stream/playlist.m3u8"
     ],
     "country": "nz",
     "languages": [
@@ -87,8 +87,8 @@
     ],
     "country": "nz",
     "languages": [
-      "mri",
-      "eng"
+      "eng",
+      "mri"
     ]
   },
   {
@@ -132,7 +132,18 @@
     ],
     "country": "nz",
     "languages": [
-      "hin",
+      "eng",
+      "hin"
+    ]
+  },
+  {
+    "nanoid": "ADTVWU6gzHEMG6",
+    "name": "Brian FM 91.2",
+    "stream_urls": [
+      "https://ais-sa1.streamon.fm/7100_128k.aac"
+    ],
+    "country": "nz",
+    "languages": [
       "eng"
     ]
   },
@@ -141,17 +152,6 @@
     "name": "Brian FM 105.6",
     "stream_urls": [
       "https://ais-sa1.streamon.fm/7358_128k.aac/playlist.m3u8"
-    ],
-    "country": "nz",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "ADTVWU6gzHEMG6",
-    "name": "Brian FM 91.2",
-    "stream_urls": [
-      "https://ais-sa1.streamon.fm/7100_128k.aac"
     ],
     "country": "nz",
     "languages": [
@@ -552,8 +552,8 @@
     "nanoid": "SFor0fpXuXgdk5",
     "name": "Niu FM",
     "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/NIUFMAAC_SC",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/NIUFM_SC"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/NIUFM_SC",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/NIUFMAAC_SC"
     ],
     "country": "nz",
     "languages": [
@@ -594,22 +594,11 @@
     ]
   },
   {
-    "nanoid": "8RrE24eHV9zSVb",
-    "name": "Paekākāriki FM 88.2",
-    "stream_urls": [
-      "https://icecast.groundtruth.co.nz/paekakfm.aac"
-    ],
-    "country": "nz",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "B0sIa73PQDclBQ",
     "name": "Plains FM 96.9",
     "stream_urls": [
-      "https://live.accessmedia.nz/plains.stream_aac/playlist.m3u8",
-      "https://live.accessmedia.nz/plains.stream/playlist.m3u8"
+      "https://live.accessmedia.nz/plains.stream/playlist.m3u8",
+      "https://live.accessmedia.nz/plains.stream_aac/playlist.m3u8"
     ],
     "country": "nz",
     "languages": [
@@ -643,9 +632,9 @@
     "nanoid": "D0hEvY0Fm7xRcO",
     "name": "Radio 531pi",
     "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/531PIAAC_SC",
+      "https://14923.live.streamtheworld.com/531PI_SC",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/531PI_SC",
-      "https://14923.live.streamtheworld.com/531PI_SC"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/531PIAAC_SC"
     ],
     "country": "nz",
     "languages": [
@@ -686,8 +675,8 @@
     ],
     "country": "nz",
     "languages": [
-      "zho",
-      "eng"
+      "eng",
+      "zho"
     ]
   },
   {
@@ -827,6 +816,19 @@
     ]
   },
   {
+    "nanoid": "T39F2PCWeuPaiM",
+    "name": "Radio Spice 88.0",
+    "stream_urls": [
+      "https://stream9.broadcast.co.nz:8000/radiospicewebsiteaudio.mp3"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng",
+      "hin",
+      "pan"
+    ]
+  },
+  {
     "nanoid": "v0DdlJiplylZbk",
     "name": "Radio Te Aroha 88 FM",
     "stream_urls": [
@@ -863,8 +865,9 @@
     "nanoid": "ToYcnFobxyYJa5",
     "name": "Radiowave NZ",
     "stream_urls": [
-      "https://stream.radiowavenz.com/stream",
-      "https://stream.radiowavenz.com/stream-aac"
+      "https://stream.radiowavenz.com/stream-aac",
+      "https://stream.radiowavenz.com/stream-aac-low",
+      "https://stream.radiowavenz.com/stream"
     ],
     "country": "nz",
     "languages": [
@@ -1066,7 +1069,7 @@
     "name": "The Generator FM",
     "stream_urls": [
       "https://s1.myradiostream.com/:14268/;",
-      "https://s1.myradiostream.com/14268/stream/1/"
+      "https://s1.myradiostream.com/14268/stream/1"
     ],
     "country": "nz",
     "languages": [
