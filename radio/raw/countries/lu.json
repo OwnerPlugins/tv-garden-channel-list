@@ -8,7 +8,8 @@
     "country": "lu",
     "languages": [
       "deu"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "SZgoNLYKcXo5Ya",
@@ -19,7 +20,8 @@
     "country": "lu",
     "languages": [
       "lub"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "dTLMrnl4Oflg65",
@@ -30,7 +32,8 @@
     "country": "lu",
     "languages": [
       "lub"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "2rkIiEvIkNG9nB",
@@ -43,7 +46,8 @@
     "languages": [
       "ltz",
       "lub"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "FRghqIUdcac235",
@@ -57,7 +61,8 @@
     "languages": [
       "ltz",
       "lub"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "Yavk9EA2e0A3fo",
@@ -68,7 +73,8 @@
     "country": "lu",
     "languages": [
       "lub"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "RDBwEMlrnXglqn",
@@ -79,7 +85,8 @@
     "country": "lu",
     "languages": [
       "fra"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "wkeFF48saoGDWb",
@@ -93,7 +100,8 @@
       "eng",
       "ltz",
       "lub"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "lAk6FoZOR0XPIo",
@@ -107,7 +115,21 @@
       "eng",
       "fra",
       "lub"
-    ]
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3alsjb8weIfHxD",
+    "name": "L'essentiel Radio",
+    "stream_urls": [
+      "https://lessentielradio.ice.infomaniak.ch/lessentielradio-128.mp3"
+    ],
+    "country": "lu",
+    "languages": [
+      "fra",
+      "lub"
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "tTgontwEamSflU",
@@ -123,7 +145,8 @@
       "fra",
       "ltz",
       "lub"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "3jSf1TQY6kUiMJ",
@@ -135,7 +158,8 @@
     "languages": [
       "ltz",
       "lub"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "wEzGRt5VApKiLd",
@@ -147,7 +171,8 @@
     "languages": [
       "ltz",
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "Nly9jpOHuGK1QV",
@@ -159,46 +184,63 @@
     "languages": [
       "ltz",
       "srp"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "Kj8QBqVs1saK9k",
     "name": "RTL Gold",
     "stream_urls": [
-      "https://shoutcast.rtl.lu/rtlgold",
-      "https://live-edge.rtl.lu/radio/rtlgold/playlist.m3u8"
+      "https://live-edge.rtl.lu/radio/rtlgold/playlist.m3u8",
+      "https://shoutcast.rtl.lu/rtlgold"
     ],
     "country": "lu",
     "languages": [
       "ltz",
       "lub"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "AgREmnfsVMxwtb",
     "name": "RTL Radio",
     "stream_urls": [
+      "https://rtlberlin.streamabc.net/rtlb-rtldenational-mp3-192-3082173",
       "https://stream.rtlradio.de/rtl-de-national/mp3-192",
-      "https://rtlberlin.streamabc.net/rtlb-rtldeukw-mp3-128-2318218",
-      "https://rtlberlin.streamabc.net/rtlb-rtldenational-mp3-192-3082173"
+      "https://rtlberlin.streamabc.net/rtlb-rtldeukw-mp3-128-2318218"
     ],
     "country": "lu",
     "languages": [
       "deu",
       "lub"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "5KPGoW1QFE9Zap",
     "name": "RTL Radio - Die besten Hits",
     "stream_urls": [
-      "https://stream.rtlradio.de/rtl-de-beste-hits/aac-64",
-      "https://stream.rtlradio.de/rtl-de-beste-hits/mp3-192"
+      "https://stream.rtlradio.de/rtl-de-beste-hits/mp3-192",
+      "https://stream.rtlradio.de/rtl-de-beste-hits/aac-64"
     ],
     "country": "lu",
     "languages": [
       "deu"
-    ]
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "y3qWme1KZiKAiU",
+    "name": "RTL Radio Lëtzebuerg",
+    "stream_urls": [
+      "https://live-edge.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8",
+      "https://rtlradio-streaming.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8"
+    ],
+    "country": "lu",
+    "languages": [
+      "ltz"
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "KXl0CPP90yBNcj",
@@ -209,6 +251,7 @@
     "country": "lu",
     "languages": [
       "deu"
-    ]
+    ],
+    "isGeoBlocked": false
   }
 ]

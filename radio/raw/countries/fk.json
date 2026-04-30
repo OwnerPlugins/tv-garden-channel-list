@@ -8,7 +8,8 @@
     "country": "fk",
     "languages": [
       "eng"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "WyyIceDLfzzEZs",
@@ -19,18 +20,20 @@
     "country": "fk",
     "languages": [
       "eng"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "MYKaDCM9Msl0Yc",
     "name": "Falklands Radio",
     "stream_urls": [
-      "https://streaming.broadcastradio.com:8332/flklnd",
-      "https://streaming.broadcastradio.com:8330/flklnd"
+      "https://streaming.broadcastradio.com:8330/flklnd",
+      "https://streaming.broadcastradio.com:8332/flklnd"
     ],
     "country": "fk",
     "languages": [
       "eng"
-    ]
+    ],
+    "isGeoBlocked": false
   }
 ]

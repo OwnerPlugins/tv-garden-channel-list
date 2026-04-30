@@ -1,5 +1,17 @@
 [
   {
+    "nanoid": "jvzGsgMa7KyKJu",
+    "name": "AXR Hong Kong",
+    "stream_urls": [
+      "https://hongkongstream.axr.online/"
+    ],
+    "country": "hk",
+    "languages": [
+      "eng"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "V1f41VrHUTYx65",
     "name": "Bluesfan Radio",
     "stream_urls": [
@@ -8,18 +20,8 @@
     "country": "hk",
     "languages": [
       "eng"
-    ]
-  },
-  {
-    "nanoid": "YLzfVAGyZhVZPP",
-    "name": "CNR-14 Voice of Hong Kong",
-    "stream_urls": [
-      "https://ngcdn002.cnr.cn/live/xgzs/index.m3u8"
     ],
-    "country": "hk",
-    "languages": [
-      "zho"
-    ]
+    "isGeoBlocked": false
   },
   {
     "nanoid": "KlwOyjcD008054",
@@ -30,7 +32,8 @@
     "country": "hk",
     "languages": [
       "eng"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "rmnKbG2jeaxqLm",
@@ -41,7 +44,8 @@
     "country": "hk",
     "languages": [
       "eng"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "HGkZxrRDWALnQp",
@@ -52,18 +56,8 @@
     "country": "hk",
     "languages": [
       "zho"
-    ]
-  },
-  {
-    "nanoid": "aKP7xhBAo0HYa6",
-    "name": "Hwadzan - Online Nembutsu",
-    "stream_urls": [
-      "https://js1.hwadzan.info/liveedge/_definst_/smil:amtb.smil/playlist.m3u8"
     ],
-    "country": "hk",
-    "languages": [
-      "zho"
-    ]
+    "isGeoBlocked": false
   },
   {
     "nanoid": "OId2rCKPp25gxA",
@@ -74,7 +68,8 @@
     "country": "hk",
     "languages": [
       "zho"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "9qqfvUCx4QLP46",
@@ -85,18 +80,8 @@
     "country": "hk",
     "languages": [
       "zho"
-    ]
-  },
-  {
-    "nanoid": "FXvOeUV9V65EnK",
-    "name": "Hwadzan Diversified Culture",
-    "stream_urls": [
-      "https://v.hwadzan.info/liveedge/_definst_/education/playlist.m3u8"
     ],
-    "country": "hk",
-    "languages": [
-      "zho"
-    ]
+    "isGeoBlocked": false
   },
   {
     "nanoid": "TJVkOUQ4JCc5Lk",
@@ -107,7 +92,8 @@
     "country": "hk",
     "languages": [
       "zho"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "fVUcEBkFE9XRjc",
@@ -118,7 +104,8 @@
     "country": "hk",
     "languages": [
       "fra"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "ROj6IH2z9oHBNC",
@@ -130,7 +117,8 @@
     "country": "hk",
     "languages": [
       "zho"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "UgFTNpjV82T4Y6",
@@ -141,7 +129,8 @@
     "country": "hk",
     "languages": [
       "zho"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "NMGfnERHmvM7TM",
@@ -152,7 +141,8 @@
     "country": "hk",
     "languages": [
       "zho"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "rACSAGMRg7D48D",
@@ -163,7 +153,8 @@
     "country": "hk",
     "languages": [
       "zho"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "7HdiYrvtAzFQyJ",
@@ -174,7 +165,8 @@
     "country": "hk",
     "languages": [
       "spa"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "Y4eFnOnwsysdiT",
@@ -185,31 +177,36 @@
     "country": "hk",
     "languages": [
       "zho"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "989J0Jte40SorI",
     "name": "RTHK Putonghua Channel",
     "stream_urls": [
-      "https://rthkradiopth-live.akamaized.net/hls/live/2040082/radiopth/master.m3u8"
+      "https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/index_56_a-p.m3u8",
+      "https://rthkradiopth-live.akamaized.net/hls/live/2040082/radiopth/master.m3u8",
+      "https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/master.m3u8"
     ],
     "country": "hk",
     "languages": [
       "zho"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "J9KmsC1julwY27",
     "name": "RTHK Radio 1",
     "stream_urls": [
       "https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/master.m3u8",
-      "https://stm1.rthk.hk/radio1",
-      "https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/index_64_a.m3u8"
+      "https://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/index_56_a-p.m3u8",
+      "https://stm1.rthk.hk/radio1"
     ],
     "country": "hk",
     "languages": [
       "zho"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "mkmARmtVoCZlll",
@@ -220,19 +217,22 @@
     "country": "hk",
     "languages": [
       "zho"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "IulvSJAKeOZbdj",
     "name": "RTHK Radio 2",
     "stream_urls": [
-      "https://stm2.rthk.hk/radio2",
-      "https://rthkradio2-live.akamaized.net/hls/live/2040078/radio2/index_64_a.m3u8"
+      "https://rthkaudio2-lh.akamaihd.net/i/radio2_1@355865/index_56_a-p.m3u8",
+      "https://rthkradio2-live.akamaized.net/hls/live/2040078/radio2/index_64_a.m3u8",
+      "https://stm2.rthk.hk/radio2"
     ],
     "country": "hk",
     "languages": [
       "zho"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "E1gWA3h6bJeWuU",
@@ -243,18 +243,22 @@
     "country": "hk",
     "languages": [
       "zho"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "VvlHnvnwhRcz3y",
     "name": "RTHK Radio 3",
     "stream_urls": [
-      "https://rthkradio3-live.akamaized.net/hls/live/2040079/radio3/master.m3u8"
+      "https://rthkradio3-live.akamaized.net/hls/live/2040079/radio3/master.m3u8",
+      "https://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/index_56_a-p.m3u8",
+      "https://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/master.m3u8"
     ],
     "country": "hk",
     "languages": [
       "eng"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "2zoMW5QQisRHxN",
@@ -265,12 +269,14 @@
     "country": "hk",
     "languages": [
       "eng"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "s09rJMDjoAFsLZ",
     "name": "RTHK Radio 4",
     "stream_urls": [
+      "https://rthkaudio4-lh.akamaihd.net/i/radio4_1@355867/master.m3u8",
       "https://rthkradio4-live.akamaized.net/hls/live/2040080/radio4/master.m3u8",
       "https://rthkradio4-live.akamaized.net/hls/live/2040080/radio4/index_64_a.m3u8"
     ],
@@ -278,7 +284,8 @@
     "languages": [
       "eng",
       "zho"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "bnP4p1yXHaCak9",
@@ -290,19 +297,22 @@
     "languages": [
       "eng",
       "zho"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "6pT2DRVSgKabuQ",
     "name": "RTHK Radio 5",
     "stream_urls": [
       "https://rthkradio5-live.akamaized.net/hls/live/2040081/radio5/master.m3u8",
+      "https://rthkaudio5-lh.akamaihd.net/i/radio5_1@355868/index_56_a-p.m3u8",
       "https://rthkradio5-live.akamaized.net/hls/live/2040081/radio5/index_64_a.m3u8"
     ],
     "country": "hk",
     "languages": [
       "zho"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "xpMXDMZ2pll2qC",
@@ -313,7 +323,8 @@
     "country": "hk",
     "languages": [
       "zho"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "mIt6vjCoiUn93l",
@@ -324,7 +335,8 @@
     "country": "hk",
     "languages": [
       "zho"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "DSeLZ0FOnHfurN",
@@ -335,29 +347,8 @@
     "country": "hk",
     "languages": [
       "zho"
-    ]
-  },
-  {
-    "nanoid": "Yv1oJyIQeyfWMX",
-    "name": "Shenzhen Life Radio",
-    "stream_urls": [
-      "https://ls.qingting.fm/live/1273.m3u8"
     ],
-    "country": "hk",
-    "languages": [
-      "zho"
-    ]
-  },
-  {
-    "nanoid": "e6ewFuqxSk3Lj7",
-    "name": "Shenzhen Music Radio",
-    "stream_urls": [
-      "https://ls.qingting.fm/live/1271.m3u8"
-    ],
-    "country": "hk",
-    "languages": [
-      "zho"
-    ]
+    "isGeoBlocked": false
   },
   {
     "nanoid": "lTxzPbZIv26t4Q",
@@ -368,7 +359,8 @@
     "country": "hk",
     "languages": [
       "zho"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "EvDrJGRQQgXiMN",
@@ -379,7 +371,8 @@
     "country": "hk",
     "languages": [
       "zho"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "MxxGo2AwLVEXmK",
@@ -390,7 +383,8 @@
     "country": "hk",
     "languages": [
       "zho"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "xycKL1PQULinJd",
@@ -401,6 +395,7 @@
     "country": "hk",
     "languages": [
       "zho"
-    ]
+    ],
+    "isGeoBlocked": false
   }
 ]
