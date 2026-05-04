@@ -42,8 +42,8 @@
     "nanoid": "cIkg0H43fAL4zk",
     "name": "Carac 2",
     "stream_urls": [
-      "https://onefmhd.vedge.infomaniak.com/livecast/ik:onefmhd/manifest.m3u8",
-      "https://onefmmd.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8"
+      "https://onefmmd.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8",
+      "https://onefmhd.vedge.infomaniak.com/livecast/ik:onefmhd/manifest.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -56,8 +56,8 @@
     "nanoid": "uPhFpY546jefo6",
     "name": "Carac 3",
     "stream_urls": [
-      "https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8",
-      "https://lfmmd.vedge.infomaniak.com/livecast/smil:lfmmd.smil/manifest.m3u8"
+      "https://lfmmd.vedge.infomaniak.com/livecast/smil:lfmmd.smil/manifest.m3u8",
+      "https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -74,6 +74,20 @@
     ],
     "youtube_urls": [],
     "languages": [
+      "fra"
+    ],
+    "country": "ch",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2iFt0H3obXxR8a",
+    "name": "Clubbing TV France",
+    "stream_urls": [
+      "https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng",
       "fra"
     ],
     "country": "ch",
@@ -106,6 +120,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "v3jEvjJoQwE3I4",
+    "name": "GO-TV Canale 163",
+    "stream_urls": [
+      "https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ita"
+    ],
+    "country": "ch",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "y9fcNWUvgSqvX9",
     "name": "Immaculata TV",
     "stream_urls": [
@@ -127,6 +154,33 @@
     "youtube_urls": [],
     "languages": [
       "fra"
+    ],
+    "country": "ch",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xYgLb0tc6pAHED",
+    "name": "More Than Sports TV",
+    "stream_urls": [
+      "https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "deu"
+    ],
+    "country": "ch",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZUrwxBDVVmyicG",
+    "name": "NDR Fernsehen International",
+    "stream_urls": [
+      "https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8",
+      "https://dash3.antik.sk/live/test_ndr_tizen/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "deu"
     ],
     "country": "ch",
     "isGeoBlocked": false
@@ -210,10 +264,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "OeC5ZVzNRndtBe",
-    "name": "TeleTicino",
+    "nanoid": "GkcwPCezd4sFP5",
+    "name": "Telenova",
     "stream_urls": [
-      "https://vstream-cdn.ch/hls/teleticino.m3u8"
+      "https://64b16f23efbee.streamlock.net/telenova/telenova/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -223,14 +277,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "SA3bEAPUBdNvht",
-    "name": "WaterBear",
+    "nanoid": "OeC5ZVzNRndtBe",
+    "name": "TeleTicino",
     "stream_urls": [
-      "https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/playlist/amg01415-waterbearnetwor-waterbear-samsunguk/playlist.m3u8"
+      "https://vstream-cdn.ch/hls/teleticino.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
-      "eng"
+      "ita"
     ],
     "country": "ch",
     "isGeoBlocked": false

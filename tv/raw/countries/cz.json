@@ -13,20 +13,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "0CtFck8EDsu0ca",
-    "name": "Current Time TV",
-    "stream_urls": [
-      "https://dash3.antik.sk/live/test_current_time_atktv/playlist.m3u8",
-      "https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "cz",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "sGGYcG95nzGgeJ",
     "name": "Elektrika TV",
     "stream_urls": [
@@ -82,8 +68,8 @@
     "nanoid": "RMA5KISMMWs8DS",
     "name": "Ocko",
     "stream_urls": [
-      "https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8",
-      "https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8"
+      "https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8",
+      "https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -119,19 +105,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "4C6iazzYfwNNzj",
-    "name": "OIK TV",
-    "stream_urls": [
-      "https://streamer05.low-latency.cz/oiktv/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ces"
-    ],
-    "country": "cz",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "IT22OI7L0wA3hQ",
     "name": "Plzen TV",
     "stream_urls": [
@@ -148,8 +121,8 @@
     "nanoid": "TJaXKOg9obT2nw",
     "name": "Polar TV",
     "stream_urls": [
-      "https://dash4.antik.sk/live/test_polar_tv_atktv/playlist.m3u8",
-      "https://stream.polar.cz/polar/polarlive-1/playlist.m3u8"
+      "https://stream.polar.cz/polar/polarlive-1/playlist.m3u8",
+      "https://dash4.antik.sk/live/test_polar_tv_atktv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

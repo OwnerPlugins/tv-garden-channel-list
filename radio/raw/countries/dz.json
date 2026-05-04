@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "pHk3ddWMR8RZko",
-    "name": "109.0 FM Christmas Kids",
-    "stream_urls": [
-      "https://stream.dar.fm/97821"
-    ],
-    "country": "dz",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "S5YgESzcui66bm",
     "name": "Algérie Chaîne 3",
     "stream_urls": [
@@ -19,7 +8,8 @@
     "country": "dz",
     "languages": [
       "fra"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "Q6Z507DzG4bvxy",
@@ -29,9 +19,10 @@
     ],
     "country": "dz",
     "languages": [
-      "fra",
-      "ara"
-    ]
+      "ara",
+      "fra"
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "kSN5sQwp0KcoJJ",
@@ -41,9 +32,22 @@
     ],
     "country": "dz",
     "languages": [
-      "fra",
+      "ara",
+      "fra"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "OPSYrq2CtTu077",
+    "name": "Maher Al Muaiqly Radio",
+    "stream_urls": [
+      "https://backup.qurango.net/radio/maher"
+    ],
+    "country": "dz",
+    "languages": [
       "ara"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "TWv4w86jvtIwGn",
@@ -54,7 +58,20 @@
     "country": "dz",
     "languages": [
       "ara"
-    ]
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "c6MMTyLmzcwpih",
+    "name": "Radio Shaykh Tchalabi",
+    "stream_urls": [
+      "https://listen.radioking.com/radio/291025/stream/337294"
+    ],
+    "country": "dz",
+    "languages": [
+      "ara"
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "ZoEuwJ7GGWm6ro",
@@ -66,7 +83,8 @@
     "languages": [
       "ara",
       "fra"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "CeydrbpHh1VZ9c",
@@ -77,7 +95,8 @@
     "country": "dz",
     "languages": [
       "ara"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "5sTmBlUb2gBmyq",
@@ -88,7 +107,8 @@
     "country": "dz",
     "languages": [
       "ara"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "oXnP5NNdDSxlsm",
@@ -99,7 +119,8 @@
     "country": "dz",
     "languages": [
       "ara"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "2J1S3CnB3lT3ot",
@@ -110,6 +131,7 @@
     "country": "dz",
     "languages": [
       "ara"
-    ]
+    ],
+    "isGeoBlocked": false
   }
 ]

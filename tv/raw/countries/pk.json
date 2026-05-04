@@ -26,19 +26,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rU6vHTb2mU89s2",
-    "name": "Aaj Entertainment",
-    "stream_urls": [
-      "https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "urd"
-    ],
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "q9MeF0SCQHRY97",
     "name": "Aaj TV",
     "stream_urls": [],
@@ -66,10 +53,10 @@
   },
   {
     "nanoid": "fZMrOzjLW2s1eB",
-    "name": "ARY News",
+    "name": "ARY News Pakistan",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/5QfmfJySn44"
+      "https://www.youtube-nocookie.com/embed/K77zGtR_X58"
     ],
     "languages": [
       "urd"
@@ -82,23 +69,10 @@
     "name": "Awaz Tv News",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/FtA5HtC3jlE"
+      "https://www.youtube-nocookie.com/embed/8pLkmgwtfm0"
     ],
     "languages": [
       "sd"
-    ],
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "AdIl1CSIOqCaJ6",
-    "name": "Bol Entertainment",
-    "stream_urls": [
-      "https://ml-pull-dvc-myco.io:2096/BOL_ENTERTAINMENT/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "urd"
     ],
     "country": "pk",
     "isGeoBlocked": false
@@ -157,19 +131,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CEnaxtLD6L2hGG",
-    "name": "Dawn News",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/3Mo88hzFewk"
-    ],
-    "languages": [
-      "urd"
-    ],
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "U0CRP1XJWZMip7",
     "name": "Discover Pakistan",
     "stream_urls": [
@@ -192,19 +153,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/e2XVSUYh4S0"
     ],
-    "languages": [
-      "urd"
-    ],
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "4xxsG81BRkH6LA",
-    "name": "Express Entertainment",
-    "stream_urls": [
-      "https://ml-pull-dvc-myco.io:2096/EXPRESS_ENTERTAINMENT/index.m3u8"
-    ],
-    "youtube_urls": [],
     "languages": [
       "urd"
     ],
@@ -277,27 +225,106 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nWhRA7BRbeT6Pd",
-    "name": "God Stands TV",
+    "nanoid": "TmKO7eJbzWWIRg",
+    "name": "God Stands TV Arabic",
     "stream_urls": [
-      "https://online.godstands.tv:5443/WebRTCApp/streams/Arabic.m3u8",
-      "https://online.godstands.tv:5443/WebRTCApp/streams/chineselive.m3u8",
-      "https://online.godstands.tv:5443/WebRTCApp/streams/EnglishStreaming.m3u8",
-      "https://online.godstands.tv:5443/WebRTCApp/streams/HindiStreaming.m3u8",
-      "https://online.godstands.tv:5443/WebRTCApp/streams/mainlive.m3u8",
-      "https://online.godstands.tv:5443/WebRTCApp/streams/PunjabiStreaming.m3u8",
-      "https://online.godstands.tv:5443/WebRTCApp/streams/Tagalog.m3u8",
+      "https://online.godstands.tv:5443/WebRTCApp/streams/Arabic.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ara"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "NcmIJl0QEk2Pmg",
+    "name": "God Stands TV Chinese",
+    "stream_urls": [
+      "https://online.godstands.tv:5443/WebRTCApp/streams/chineselive.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "zho"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GzFin24wHyjwSS",
+    "name": "God Stands TV English",
+    "stream_urls": [
+      "https://online.godstands.tv:5443/WebRTCApp/streams/EnglishStreaming.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "v05zRUt0wtjOm3",
+    "name": "God Stands TV Hindi",
+    "stream_urls": [
+      "https://online.godstands.tv:5443/WebRTCApp/streams/HindiStreaming.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "hin"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "gmAnyp0vi78tWo",
+    "name": "God Stands TV Main",
+    "stream_urls": [
+      "https://online.godstands.tv:5443/WebRTCApp/streams/mainlive.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng",
+      "urd"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "udYM5OktKE92Dh",
+    "name": "God Stands TV Punjabi",
+    "stream_urls": [
+      "https://online.godstands.tv:5443/WebRTCApp/streams/PunjabiStreaming.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "pan"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5jBZcISN5C325C",
+    "name": "God Stands TV Tagalog",
+    "stream_urls": [
+      "https://online.godstands.tv:5443/WebRTCApp/streams/Tagalog.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "tgl"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MJZCJdg9pFYsCd",
+    "name": "God Stands TV Urdu",
+    "stream_urls": [
       "https://online.godstands.tv:5443/WebRTCApp/streams/UrduStreaming.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
-      "ara",
-      "eng",
-      "hin",
-      "pan",
-      "tgl",
-      "urd",
-      "zho"
+      "urd"
     ],
     "country": "pk",
     "isGeoBlocked": false
@@ -323,6 +350,19 @@
       "https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8"
     ],
     "youtube_urls": [],
+    "languages": [
+      "urd"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bcWZubwXCDYGNf",
+    "name": "Hum News",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/cleNtpjod6Q"
+    ],
     "languages": [
       "urd"
     ],
@@ -370,6 +410,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "yQPdPKGvAyjQ79",
+    "name": "Kids Land: Urdu",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/6r738gZKpq4"
+    ],
+    "languages": [
+      "urd"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "0DyoG3XduwwwLj",
     "name": "King TV",
     "stream_urls": [
@@ -400,7 +453,7 @@
     "name": "KTN NEWS TV",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/LwA3kXlAJGI"
+      "https://www.youtube-nocookie.com/embed/HSPQ9LztGUM"
     ],
     "languages": [
       "sd"
@@ -454,7 +507,7 @@
       "https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Ga7K0BnbG7o"
+      "https://www.youtube-nocookie.com/embed/jJqs9-NJ_0U"
     ],
     "languages": [
       "urd"
@@ -555,19 +608,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "DzzedUhln9Zwfs",
-    "name": "SAB TV",
-    "stream_urls": [
-      "https://ml-pull-dvc-myco.io:2096/SAB_ENTERTAINMENT/tracks-v1a1/mono.ts.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "urd"
-    ],
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "HxH54ypKcC1Xvq",
     "name": "Samaa TV",
     "stream_urls": [
@@ -600,7 +640,7 @@
     "name": "Sindh TV News",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/i4T6y0lXd98"
+      "https://www.youtube-nocookie.com/embed/MzuC74b0F5Y"
     ],
     "languages": [
       "eng"

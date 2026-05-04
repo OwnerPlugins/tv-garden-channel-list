@@ -477,8 +477,8 @@
     "nanoid": "yuAKJus9326voW",
     "name": "DCC",
     "stream_urls": [
-      "https://video.oct.dc.gov/out/u/15_12.m3u8",
-      "https://video.oct.dc.gov/out/u/DCC.m3u8"
+      "https://video.oct.dc.gov/out/u/DCC.m3u8",
+      "https://video.oct.dc.gov/out/u/15_12.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -524,6 +524,19 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xupLUhlUhMmQst",
+    "name": "Duma TV",
+    "stream_urls": [
+      "https://dumatv.iptv2022.com/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -582,6 +595,7 @@
     "nanoid": "zfdgzXgQZmoAvu",
     "name": "Hellenic Parliament TV",
     "stream_urls": [
+      "https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8",
       "https://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8"
     ],
     "youtube_urls": [],
@@ -682,19 +696,6 @@
       "vie"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lvIrwQpUaM4Bib",
-    "name": "KTV",
-    "stream_urls": [
-      "https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "kor"
-    ],
-    "country": "kr",
     "isGeoBlocked": false
   },
   {
@@ -814,19 +815,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "c9GCwVR0qdOyVK",
-    "name": "MBG TV",
-    "stream_urls": [
-      "https://stream.convergen.co/mbg_stream/smil:mbStream.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
     "isGeoBlocked": false
   },
   {
@@ -987,19 +975,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "UOaikakVsJCVG5",
-    "name": "Parliament of Malta",
-    "stream_urls": [
-      "https://stream.smashmalta.com:25463/live/webplayer/livestream/23.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "mlt"
-    ],
-    "country": "mt",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "pGZdS7NMq1FAlR",
     "name": "Parliament TV",
     "stream_urls": [
@@ -1010,19 +985,6 @@
       "eng"
     ],
     "country": "nz",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "be0rVB6CUa2XW4",
-    "name": "Pasco TV",
-    "stream_urls": [
-      "https://cpcdn.azureedge.net/PASCOCOFLLIVE1/PASCOCOFLLIVE1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1083,7 +1045,7 @@
     "name": "Rio TV Câmara",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/7dnxmboIfzg"
+      "https://www.youtube-nocookie.com/embed/AZ5lkBon2ls"
     ],
     "languages": [
       "por"
@@ -1109,7 +1071,6 @@
     "nanoid": "7uZQEY7iiyput2",
     "name": "Sansad TV 2",
     "stream_urls": [
-      "https://cdn-2.pishow.tv/live/39/master.m3u8",
       "https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8",
       "https://hls.media.nic.in/hls/live/rstv/rstv.m3u8",
       "https://playhls.media.nic.in/hls/live/rstv/rstv.m3u8"
@@ -1259,7 +1220,7 @@
     "name": "TV Assembleia Minas Gerais",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/qnEA19X58QY"
+      "https://www.youtube-nocookie.com/embed/PBUePtyqcRI"
     ],
     "languages": [
       "por"
@@ -1285,7 +1246,7 @@
     "name": "TV Câmara Porto Alegre",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/HCO2mVudipo"
+      "https://www.youtube-nocookie.com/embed/WkurFznr94o"
     ],
     "languages": [
       "por"

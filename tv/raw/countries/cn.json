@@ -13,6 +13,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "FLJTgXx5Ik6ljh",
+    "name": "Angel TV Chinese",
+    "stream_urls": [
+      "https://janya-digimix.akamaized.net/vglive-sk-999451/chinese/ngrp:angelchinese_all/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "zho"
+    ],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "gcM2WWZ06H1U7r",
     "name": "Baicheng TV",
     "stream_urls": [
@@ -57,7 +70,7 @@
     "name": "CCTV-4中文国际",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/TsccmbyNk6g"
+      "https://www.youtube-nocookie.com/embed/9indRxhYOeI"
     ],
     "languages": [
       "zho"
@@ -76,7 +89,7 @@
       "zho"
     ],
     "country": "cn",
-    "isGeoBlocked": true
+    "isGeoBlocked": false
   },
   {
     "nanoid": "Re5Rs60C2x03XD",
@@ -92,7 +105,7 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "tgIYKz7u6kLFjB",
+    "nanoid": "yIwXMwM4XLZjQD",
     "name": "CCTV+ 2",
     "stream_urls": [
       "https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8"
@@ -109,8 +122,8 @@
     "name": "CGTN",
     "stream_urls": [
       "https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8",
-      "https://dash4.antik.sk/live/test_cgtn/playlist.m3u8",
-      "https://english-livebkali.cgtn.com/live/encgtn.m3u8"
+      "https://english-livebkali.cgtn.com/live/encgtn.m3u8",
+      "https://dash4.antik.sk/live/test_cgtn/playlist.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/BOy2xDU1LC8"
@@ -141,8 +154,8 @@
     "name": "CGTN Documentary",
     "stream_urls": [
       "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8",
-      "https://dash3.antik.sk/live/test_cgtn_doc/playlist.m3u8",
-      "https://english-livebkali.cgtn.com/live/doccgtn.m3u8"
+      "https://english-livebkali.cgtn.com/live/doccgtn.m3u8",
+      "https://dash3.antik.sk/live/test_cgtn_doc/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -215,7 +228,9 @@
       "https://dash4.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8",
       "https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8"
     ],
-    "youtube_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/8EYDWr32Gqk"
+    ],
     "languages": [
       "spa"
     ],
@@ -265,6 +280,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "l2c248PtwB0qu4",
+    "name": "Guangzhou TV",
+    "stream_urls": [
+      "https://tencentplaybusiness.gztv.com/live/zonghes.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "zho"
+    ],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "f1nxbKF3lgdEIT",
     "name": "Harbin Comprehensive News Channel",
     "stream_urls": [
@@ -273,6 +301,32 @@
     "youtube_urls": [],
     "languages": [
       "zho"
+    ],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "7Hsc69UuEllEuA",
+    "name": "Harbin Movie Channel",
+    "stream_urls": [
+      "https://stream.hrbtv.net/yspd/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "zho"
+    ],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "sW1htecY1J2QHG",
+    "name": "HomePlus",
+    "stream_urls": [
+      "https://homeplushls.wns.live/hls/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fas"
     ],
     "country": "cn",
     "isGeoBlocked": false
@@ -516,11 +570,22 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/-tiqsaQK0U8"
+      "https://www.youtube-nocookie.com/embed/jKp58GJSwPg"
     ],
     "languages": [
       "zho"
     ],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9wRBNHe95BnBON",
+    "name": "嵊州综合",
+    "stream_urls": [
+      "https://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
     "country": "cn",
     "isGeoBlocked": false
   },
@@ -534,6 +599,17 @@
     "languages": [],
     "country": "cn",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "LWZapZpACANZ13",
+    "name": "新昌休闲影视",
+    "stream_urls": [
+      "https://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "cn",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "4rBoFSFcNpIZxe",
@@ -694,6 +770,17 @@
     "name": "福州电视台少儿频道 (FZTV-少儿)",
     "stream_urls": [
       "https://live.zohi.tv/video/s10001-fztv-4/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "HGBni7wKrtguXm",
+    "name": "萧山新闻综合",
+    "stream_urls": [
+      "https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8"
     ],
     "youtube_urls": [],
     "languages": [],

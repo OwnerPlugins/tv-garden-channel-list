@@ -13,6 +13,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xNO3EJp4mhTrDD",
+    "name": "AS3 Sport TV",
+    "stream_urls": [
+      "https://streamtv.as3sport.online:3394/hybrid/play.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "YWNPX9f8P0Trxq",
     "name": "BTA TV",
     "stream_urls": [
@@ -26,10 +39,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fUuKAKoxR67afP",
-    "name": "Canal Once",
+    "nanoid": "ShvwvF1bv7BYEt",
+    "name": "Canal 21 Tachira",
     "stream_urls": [
-      "https://tv.streamcasthd.com:3676/live/canal11delzulialive.m3u8"
+      "https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -56,6 +69,19 @@
     "name": "Fortuna TV",
     "stream_urls": [
       "https://streamtv.intervenhosting.net:3355/live/fortunatvlive.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "gKZyGzv7VMGeI2",
+    "name": "Grande TV",
+    "stream_urls": [
+      "https://live20.bozztv.com/akamaissh101/ssh101/grandetv2240/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -225,8 +251,20 @@
     "nanoid": "qRZZMGSFXehDnV",
     "name": "TAM TV",
     "stream_urls": [
-      "https://tv.webtuya.com:3726/hybrid/play.m3u8",
-      "https://tv.webtuya.com:3726/live/tammeridalive.m3u8"
+      "https://tv.webtuya.com:3726/hybrid/play.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "LkfWLnGLDxyqrs",
+    "name": "Telebocono",
+    "stream_urls": [
+      "https://live20.bozztv.com/akamaissh101/ssh101/tcbstreaming/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -249,18 +287,29 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fs7LDp8LH9En3R",
+    "nanoid": "ERqsOEd0yp02p0",
     "name": "Telesur",
     "stream_urls": [
-      "https://mblenmain01.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8",
-      "https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8",
-      "https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8",
-      "https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8"
+      "https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8",
+      "https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
-      "eng",
       "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZmbVMIEhvhggWw",
+    "name": "Telesur English",
+    "stream_urls": [
+      "https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8",
+      "https://mblenmain01.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
     ],
     "country": "ve",
     "isGeoBlocked": false
@@ -337,9 +386,7 @@
       "https://59d39900ebfb8.streamlock.net/untv-720/untv-720/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
+    "languages": [],
     "country": "ve",
     "isGeoBlocked": false
   },

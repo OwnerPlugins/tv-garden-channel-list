@@ -8,9 +8,10 @@
     ],
     "country": "pt",
     "languages": [
-      "por",
-      "eng"
-    ]
+      "eng",
+      "por"
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "icUN3EuOLZr3U0",
@@ -21,43 +22,35 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "7IMkkaSHesdBDz",
     "name": "Antena 1",
     "stream_urls": [
-      "https://radiocast.rtp.pt/antena180a.mp3",
       "https://streaming-live-app.rtp.pt/liveradio/antena180a/playlist.m3u8",
-      "https://streaming-live.rtp.pt/liveradio/antena180a/chunklist.m3u8"
+      "https://radiocast.rtp.pt/antena180a.mp3",
+      "https://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8"
     ],
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "JnaHEPp4CEnIMO",
     "name": "Antena 1 Açores",
     "stream_urls": [
-      "https://radiocast.rtp.pt/antena1acores80a.mp3",
-      "https://streaming-live.rtp.pt/liveradio/antena1acores80a/playlist.m3u8"
+      "https://streaming-live.rtp.pt/liveradio/antena1acores80a/playlist.m3u8",
+      "https://radiocast.rtp.pt/antena1acores80a.mp3"
     ],
     "country": "pt",
     "languages": [
       "por"
-    ]
-  },
-  {
-    "nanoid": "wuydkn8dVNijHt",
-    "name": "Antena 1 Fado",
-    "stream_urls": [
-      "https://radiocast.rtp.pt/antena1fado80a.mp3"
     ],
-    "country": "pt",
-    "languages": [
-      "por"
-    ]
+    "isGeoBlocked": false
   },
   {
     "nanoid": "FJwhcrdwirg4oa",
@@ -68,80 +61,89 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "aea3v36taaW7RF",
     "name": "Antena 1 Madeira",
     "stream_urls": [
+      "https://streaming-live.rtp.pt/liveradio/antena1madeira80a/playlist.m3u8",
       "https://radiocast.rtp.pt/antena1madeira80a.mp3"
     ],
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "pVeiCYxbXzsYN7",
     "name": "Antena 2",
     "stream_urls": [
-      "https://radiocast.rtp.pt/antena280a.mp3",
       "https://streaming-live.rtp.pt/liveradio/antena280a/playlist.m3u8",
+      "https://radiocast.rtp.pt/antena280a.mp3",
       "https://streaming-live-app.rtp.pt/liveradio/antena280a/playlist.m3u8"
     ],
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "hg5DuNQ6YQ8rog",
     "name": "Antena 2 Jazzin",
     "stream_urls": [
-      "https://radiocast.rtp.pt/antena2jazzin80a.mp3",
-      "https://streaming-live.rtp.pt/liveradio/antena2jazzin80a/playlist.m3u8"
+      "https://streaming-live.rtp.pt/liveradio/antena2jazzin80a/playlist.m3u8",
+      "https://radiocast.rtp.pt/antena2jazzin80a.mp3"
     ],
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "C6zcqPlORTPZQN",
     "name": "Antena 2 Ópera",
     "stream_urls": [
-      "https://radiocast.rtp.pt/antena2opera80a.mp3",
       "https://streaming-live.rtp.pt/liveradio/antena2opera80a/playlist.m3u8",
-      "https://streaming-live.rtp.pt/liveradio/antena2opera80a/chunklist_DVR.m3u8"
+      "https://streaming-live.rtp.pt/liveradio/antena2opera80a/chunklist_DVR.m3u8",
+      "https://radiocast.rtp.pt/antena2opera80a.mp3"
     ],
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "pxjEfE1dugyap9",
     "name": "Antena 3",
     "stream_urls": [
+      "https://streaming-live.rtp.pt/liveradio/antena380a/playlist.m3u8",
       "https://radiocast.rtp.pt/antena380a.mp3",
       "https://streaming-live-app.rtp.pt/liveradio/antena380a/playlist.m3u8"
     ],
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "iKIhmAFFz824vi",
     "name": "Antena 3 Madeira",
     "stream_urls": [
-      "https://radiocast.rtp.pt/antena3madeira80a.mp3",
-      "https://streaming-live.rtp.pt/liveradio/antena3madeira80a/playlist.m3u8"
+      "https://streaming-live.rtp.pt/liveradio/antena3madeira80a/playlist.m3u8",
+      "https://radiocast.rtp.pt/antena3madeira80a.mp3"
     ],
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "8elyTqykHXKLF5",
@@ -152,7 +154,8 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "il1AJhrpVeJZWM",
@@ -163,7 +166,8 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "MxQJkGHsoK3t56",
@@ -175,7 +179,8 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "Bm5LbUt48DnHFs",
@@ -186,7 +191,8 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "PCO5ZHfrS5DQvo",
@@ -197,7 +203,8 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "QPn2tVpKblcYKR",
@@ -209,7 +216,8 @@
     "languages": [
       "eng",
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "jkSnVUuqIiivag",
@@ -220,7 +228,8 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "xe0QKj5lJjJDeJ",
@@ -231,7 +240,8 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "9wAIOswhYJfGaI",
@@ -242,7 +252,8 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "NQQUWTTV7TkxKB",
@@ -252,9 +263,10 @@
     ],
     "country": "pt",
     "languages": [
-      "por",
-      "eng"
-    ]
+      "eng",
+      "por"
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "GHkAziDKCMY6Cu",
@@ -266,7 +278,8 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "ivXct5c1ibX9SR",
@@ -277,7 +290,8 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "UY9sSAhNNTzMpt",
@@ -289,7 +303,8 @@
     "languages": [
       "fra",
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "jyLLpHYfXzQ7cg",
@@ -301,7 +316,8 @@
     "languages": [
       "eng",
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "hLVATr5wv6xEDf",
@@ -312,7 +328,8 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "3H7giXQRsbzWOE",
@@ -323,7 +340,8 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "q6n0jYZ6uX2mkh",
@@ -334,7 +352,8 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "CVGB4JQ2nEJMTl",
@@ -345,7 +364,8 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "l1VF6XA7reZ06S",
@@ -356,7 +376,8 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "837xRKZO8OzizH",
@@ -367,7 +388,8 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "dduCZu025BRKGL",
@@ -378,7 +400,8 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "GWelh2hVE7JgZR",
@@ -389,7 +412,8 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "mZPWLpklBxxFGE",
@@ -400,7 +424,8 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "PFSc1Z5q9bihsY",
@@ -412,7 +437,8 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "5dn6sQBIFGixtP",
@@ -423,7 +449,8 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "KsNvStptvxnrX4",
@@ -434,7 +461,8 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "TVqCHiJQjGWA8g",
@@ -445,7 +473,8 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "STUVJupnDRMDFw",
@@ -456,7 +485,8 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "wFYVTd3qFAjNUC",
@@ -467,18 +497,20 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "uJfh52c0a5ti7Z",
     "name": "NiTfm",
     "stream_urls": [
-      "https://sp0.redeaudio.com/8028/stream/"
+      "https://sp0.redeaudio.com/8028/stream"
     ],
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "4gLXaCNSvhGdwP",
@@ -489,7 +521,8 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "xbqbMxyW5Ytwb1",
@@ -500,7 +533,8 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "4A7RKAWxAdkZSF",
@@ -510,9 +544,10 @@
     ],
     "country": "pt",
     "languages": [
-      "por",
-      "eng"
-    ]
+      "eng",
+      "por"
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "IQGYDD6i2HaegC",
@@ -523,346 +558,8 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
-  },
-  {
-    "nanoid": "mBFaCAG0BusNzG",
-    "name": "Radio CapSao",
-    "stream_urls": [
-      "https://str0.creacast.com/capsao_a"
     ],
-    "country": "pt",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "xGr7c7cifd63nC",
-    "name": "Radio Metal On: 80s HNH",
-    "stream_urls": [
-      "https://radiometalon.com/listen/radio_metal_on_80s_hnh/radio.mp3"
-    ],
-    "country": "pt",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "1SnkrJYCREhPdf",
-    "name": "Radio Metal On: The Brutal",
-    "stream_urls": [
-      "https://radiometalon.com/listen/radio_metal_on_the_brutal/radio.mp3"
-    ],
-    "country": "pt",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "H7i2CQZB7Ofqne",
-    "name": "Radio Metal On: The Heavy",
-    "stream_urls": [
-      "https://radiometalon.com/radio/8000/radio.mp3",
-      "https://radiometalon.com/listen/radio_metal_on_the_heavy/radio.mp3"
-    ],
-    "country": "pt",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "cUcEqkl0tdnY0Y",
-    "name": "Radio Metal On: The Thrasher",
-    "stream_urls": [
-      "https://radiometalon.com/listen/radio_metal_on_the_thrasher/radio.mp3"
-    ],
-    "country": "pt",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "K2t8hgBzffkuXy",
-    "name": "Radio Metal On: Toxic",
-    "stream_urls": [
-      "https://radiometalon.com/listen/radio_metal_on_toxic/radio.mp3"
-    ],
-    "country": "pt",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "4ebotqOgVx61lQ",
-    "name": "Radio Nigga Alt",
-    "stream_urls": [
-      "https://nigga.pt/alt.ogg"
-    ],
-    "country": "pt",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "LcjNpvbVqOxc7g",
-    "name": "Radio Nigga Chill",
-    "stream_urls": [
-      "https://nigga.pt/chill.ogg"
-    ],
-    "country": "pt",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "8ePTl0D8zrWlax",
-    "name": "Radio Nigga Hood",
-    "stream_urls": [
-      "https://nigga.pt/hood.ogg"
-    ],
-    "country": "pt",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "TEeHSsx7kmUywn",
-    "name": "Radio Nigga Party",
-    "stream_urls": [
-      "https://nigga.pt/party.ogg"
-    ],
-    "country": "pt",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "hmlHtQxMssmgH5",
-    "name": "Radio Orbital",
-    "stream_urls": [
-      "https://ec2.yesstreaming.net:3025/stream"
-    ],
-    "country": "pt",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "lignrGZRftGjYP",
-    "name": "RCP-VAR",
-    "stream_urls": [
-      "https://sonic.servsonic.com:7003/;",
-      "https://sonic.servsonic.com/8028/stream"
-    ],
-    "country": "pt",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "Ra8Mbdd72x73ul",
-    "name": "RDP Internacional",
-    "stream_urls": [
-      "https://radiocast.rtp.pt/rdpint80a.mp3",
-      "https://streaming-live.rtp.pt/liveradio/rdpint80a/playlist.m3u8"
-    ],
-    "country": "pt",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "JEgpaVKwVyUdzm",
-    "name": "RDP África",
-    "stream_urls": [
-      "https://radiocast.rtp.pt/rdpafrica80a.mp3",
-      "https://streaming-live.rtp.pt/liveradio/rdpafrica80a/playlist.m3u8"
-    ],
-    "country": "pt",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "lsi7EZLNkf86IF",
-    "name": "Record FM Porto",
-    "stream_urls": [
-      "https://nl.digitalrm.pt:8028/stream"
-    ],
-    "country": "pt",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "S5qNdZ76Ml2xmW",
-    "name": "Replay News",
-    "stream_urls": [
-      "https://replaynewspt.ice.infomaniak.ch/replaynewspt-128.mp3"
-    ],
-    "country": "pt",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "KAQ8a0tkWWjig2",
-    "name": "RES FM 107.9",
-    "stream_urls": [
-      "https://stream2.soundflux.eu:8440/stream"
-    ],
-    "country": "pt",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "ZIa9mAJ7qSmZKX",
-    "name": "Rewind 2000's",
-    "stream_urls": [
-      "https://2000.streeemer.com/listen/2000s/radio.aac"
-    ],
-    "country": "pt",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "TqW2YbOKjZsQkK",
-    "name": "RFM",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/RFMAAC.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/RFMAAC_SC",
-      "https://22593.live.streamtheworld.com/RFMAAC.aac"
-    ],
-    "country": "pt",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "jNI5XjE2D6cpgn",
-    "name": "RFM 00's",
-    "stream_urls": [
-      "https://25343.live.streamtheworld.com/LIVESTREAMAAC.aac",
-      "https://27793.live.streamtheworld.com/LIVESTREAMAAC.aac"
-    ],
-    "country": "pt",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "uG7ANOC85CcV7i",
-    "name": "RFM 80's",
-    "stream_urls": [
-      "https://25343.live.streamtheworld.com/GR80SRFMAAC.aac"
-    ],
-    "country": "pt",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "F2TXQXtSIVkwPF",
-    "name": "RFM 90's",
-    "stream_urls": [
-      "https://25343.live.streamtheworld.com/RFM_90SAAC.aac"
-    ],
-    "country": "pt",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "JgX0aHkJsqWihW",
-    "name": "RFM Dance It",
-    "stream_urls": [
-      "https://25453.live.streamtheworld.com/DANCEONTHEFLOORAAC.aac"
-    ],
-    "country": "pt",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "ghbtHv8S0JvyzE",
-    "name": "RFM Jazzy",
-    "stream_urls": [
-      "https://27753.live.streamtheworld.com/RFM_JAZZYAAC.aac"
-    ],
-    "country": "pt",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "3o7fSQKSqBeFoV",
-    "name": "RFM Latinas",
-    "stream_urls": [
-      "https://25693.live.streamtheworld.com/RFM_LATINASAAC.aac"
-    ],
-    "country": "pt",
-    "languages": [
-      "por",
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "B9eJRjA8Qjhn56",
-    "name": "RFM Novas",
-    "stream_urls": [
-      "https://22733.live.streamtheworld.com/RFM_FRESCASAAC.aac"
-    ],
-    "country": "pt",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "udeRld8MAPWNMq",
-    "name": "RFM Oceano Pacífico",
-    "stream_urls": [
-      "https://27943.live.streamtheworld.com/RFMAAC.aac",
-      "https://23543.live.streamtheworld.com/OCEANPACIFICAAC.aac"
-    ],
-    "country": "pt",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "lNoZuQBBY2KLJe",
-    "name": "RFM Rocks",
-    "stream_urls": [
-      "https://25343.live.streamtheworld.com/RFMONTHEROCKAAC.aac"
-    ],
-    "country": "pt",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "MZ1hZtE6QjUOSU",
-    "name": "RFM Toca Portugal",
-    "stream_urls": [
-      "https://27793.live.streamtheworld.com/RFM_PORTUGALAAC.aac"
-    ],
-    "country": "pt",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "Qw5vxQk8Ex1dex",
-    "name": "RUC - Rádio Universidade de Coimbra",
-    "stream_urls": [
-      "https://stream.ruc.pt/high"
-    ],
-    "country": "pt",
-    "languages": [
-      "por"
-    ]
+    "isGeoBlocked": false
   },
   {
     "nanoid": "oJnSTQGt0MorXd",
@@ -873,7 +570,8 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "3ewhT1P8x5xMJH",
@@ -884,18 +582,8 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
-  },
-  {
-    "nanoid": "Pk1YRIjeHjHHBQ",
-    "name": "Rádio Botaréu",
-    "stream_urls": [
-      "https://nl.digitalrm.pt:8238/stream"
     ],
-    "country": "pt",
-    "languages": [
-      "por"
-    ]
+    "isGeoBlocked": false
   },
   {
     "nanoid": "yBKaIBy99GqKNX",
@@ -906,7 +594,20 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Pk1YRIjeHjHHBQ",
+    "name": "Rádio Botaréu",
+    "stream_urls": [
+      "https://nl.digitalrm.pt:8238/stream"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "rOiPp2gJiw6741",
@@ -917,7 +618,8 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "91r1bKe09plEXo",
@@ -928,7 +630,8 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "JgxKM0ZpxOulDl",
@@ -939,7 +642,20 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mBFaCAG0BusNzG",
+    "name": "Radio CapSao",
+    "stream_urls": [
+      "https://str0.creacast.com/capsao_a"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "zABIKC6f9fmQSR",
@@ -950,7 +666,8 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "zZooQZSiGOm9Hq",
@@ -961,7 +678,8 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "urxuhEfRlsN8o5",
@@ -972,7 +690,8 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "3XuqN1iCdANYSY",
@@ -983,7 +702,8 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "Y7DdthGXDTtc0U",
@@ -994,7 +714,8 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "boWOt26TC6q0pa",
@@ -1006,7 +727,8 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "PBVcvPuOm4TjHG",
@@ -1017,7 +739,8 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "svMQmbhzlpFhF9",
@@ -1028,7 +751,8 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "4AtluSW6REZxma",
@@ -1039,7 +763,8 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "wu4nW8FRzjzLQD",
@@ -1050,7 +775,8 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "dlsoxAe4b3f6SG",
@@ -1061,7 +787,8 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "mr2Wbc8GjvRX5V",
@@ -1072,7 +799,8 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "GgO3SgEtp1eAO8",
@@ -1083,7 +811,8 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "eacoYkmD7Fw410",
@@ -1094,7 +823,8 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "hSM9n3wAI8Adxf",
@@ -1105,7 +835,8 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "sOneH1Q7BX443M",
@@ -1116,7 +847,8 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "dKhWhXECydJbaI",
@@ -1127,7 +859,8 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "rZo82nFwNJm6hE",
@@ -1138,7 +871,8 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "80IqJ78pCklUgA",
@@ -1148,9 +882,71 @@
     ],
     "country": "pt",
     "languages": [
-      "por",
-      "eng"
-    ]
+      "eng",
+      "por"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xGr7c7cifd63nC",
+    "name": "Radio Metal On: 80s HNH",
+    "stream_urls": [
+      "https://radiometalon.com/listen/radio_metal_on_80s_hnh/radio.mp3"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1SnkrJYCREhPdf",
+    "name": "Radio Metal On: The Brutal",
+    "stream_urls": [
+      "https://radiometalon.com/listen/radio_metal_on_the_brutal/radio.mp3"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "H7i2CQZB7Ofqne",
+    "name": "Radio Metal On: The Heavy",
+    "stream_urls": [
+      "https://radiometalon.com/listen/radio_metal_on_the_heavy/radio.mp3",
+      "https://radiometalon.com/radio/8000/radio.mp3"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "cUcEqkl0tdnY0Y",
+    "name": "Radio Metal On: The Thrasher",
+    "stream_urls": [
+      "https://radiometalon.com/listen/radio_metal_on_the_thrasher/radio.mp3"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "K2t8hgBzffkuXy",
+    "name": "Radio Metal On: Toxic",
+    "stream_urls": [
+      "https://radiometalon.com/listen/radio_metal_on_toxic/radio.mp3"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "0E40wrQDMGVd32",
@@ -1161,7 +957,8 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "PYSWXWVTGFFGka",
@@ -1172,7 +969,56 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4ebotqOgVx61lQ",
+    "name": "Radio Nigga Alt",
+    "stream_urls": [
+      "https://nigga.pt/alt.ogg"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "LcjNpvbVqOxc7g",
+    "name": "Radio Nigga Chill",
+    "stream_urls": [
+      "https://nigga.pt/chill.ogg"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8ePTl0D8zrWlax",
+    "name": "Radio Nigga Hood",
+    "stream_urls": [
+      "https://nigga.pt/hood.ogg"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "TEeHSsx7kmUywn",
+    "name": "Radio Nigga Party",
+    "stream_urls": [
+      "https://nigga.pt/party.ogg"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "rD4cUmJjhpCgSp",
@@ -1183,7 +1029,8 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "b5HAHEwbuM3UrV",
@@ -1194,7 +1041,8 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "vCuAv5zurcpTvK",
@@ -1206,7 +1054,20 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hmlHtQxMssmgH5",
+    "name": "Radio Orbital",
+    "stream_urls": [
+      "https://ec2.yesstreaming.net:3025/stream"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "0WvMSj175Xmooc",
@@ -1217,18 +1078,8 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
-  },
-  {
-    "nanoid": "S61CVxYvlZsBY6",
-    "name": "Rádio Paralelo",
-    "stream_urls": [
-      "https://radioparalelo.indymedia.pt:8443/main.ogg"
     ],
-    "country": "pt",
-    "languages": [
-      "por"
-    ]
+    "isGeoBlocked": false
   },
   {
     "nanoid": "sggDQz1qzw6pxF",
@@ -1239,7 +1090,8 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "ac7eAKamZxwKzc",
@@ -1250,7 +1102,8 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "ywTfKMs13LyIwZ",
@@ -1261,7 +1114,8 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "PrmXwsl8NF1DAK",
@@ -1274,7 +1128,8 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "GC17JXOExicfnL",
@@ -1285,7 +1140,8 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "PRroHNj93Oqxri",
@@ -1296,7 +1152,8 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "WvhyQbFw7FfriA",
@@ -1307,7 +1164,8 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "vD2Ove5S2RRI5a",
@@ -1318,7 +1176,8 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "0xoCnUsPb7grE0",
@@ -1329,19 +1188,244 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "buM7090MIAYYEd",
     "name": "Rádio Zig Zag",
     "stream_urls": [
-      "https://radiocast.rtp.pt/zigzag80a.mp3",
-      "https://streaming-live.rtp.pt/liveradio/zigzag80a/playlist.m3u8"
+      "https://streaming-live.rtp.pt/liveradio/zigzag80a/playlist.m3u8",
+      "https://radiocast.rtp.pt/zigzag80a.mp3"
     ],
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lignrGZRftGjYP",
+    "name": "RCP-VAR",
+    "stream_urls": [
+      "https://sonic.servsonic.com:7003/;",
+      "https://sonic.servsonic.com/8028/stream"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Ra8Mbdd72x73ul",
+    "name": "RDP Internacional",
+    "stream_urls": [
+      "https://streaming-live.rtp.pt/liveradio/rdpint80a/playlist.m3u8",
+      "https://radiocast.rtp.pt/rdpint80a.mp3"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lsi7EZLNkf86IF",
+    "name": "Record FM Porto",
+    "stream_urls": [
+      "https://nl.digitalrm.pt:8028/stream"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "S5qNdZ76Ml2xmW",
+    "name": "Replay News",
+    "stream_urls": [
+      "https://replaynewspt.ice.infomaniak.ch/replaynewspt-128.mp3"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "KAQ8a0tkWWjig2",
+    "name": "RES FM 107.9",
+    "stream_urls": [
+      "https://stream2.soundflux.eu:8440/stream"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZIa9mAJ7qSmZKX",
+    "name": "Rewind 2000's",
+    "stream_urls": [
+      "https://2000.streeemer.com/listen/2000s/radio.aac"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "TqW2YbOKjZsQkK",
+    "name": "RFM",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/RFMAAC.aac",
+      "https://22593.live.streamtheworld.com/RFMAAC.aac",
+      "https://23603.live.streamtheworld.com/RFMAAC.aac"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jNI5XjE2D6cpgn",
+    "name": "RFM 00's",
+    "stream_urls": [
+      "https://27793.live.streamtheworld.com/LIVESTREAMAAC.aac",
+      "https://25343.live.streamtheworld.com/LIVESTREAMAAC.aac"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uG7ANOC85CcV7i",
+    "name": "RFM 80's",
+    "stream_urls": [
+      "https://25343.live.streamtheworld.com/GR80SRFMAAC.aac"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "F2TXQXtSIVkwPF",
+    "name": "RFM 90's",
+    "stream_urls": [
+      "https://25343.live.streamtheworld.com/RFM_90SAAC.aac"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JgX0aHkJsqWihW",
+    "name": "RFM Dance It",
+    "stream_urls": [
+      "https://25453.live.streamtheworld.com/DANCEONTHEFLOORAAC.aac"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ghbtHv8S0JvyzE",
+    "name": "RFM Jazzy",
+    "stream_urls": [
+      "https://27753.live.streamtheworld.com/RFM_JAZZYAAC.aac"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3o7fSQKSqBeFoV",
+    "name": "RFM Latinas",
+    "stream_urls": [
+      "https://25693.live.streamtheworld.com/RFM_LATINASAAC.aac"
+    ],
+    "country": "pt",
+    "languages": [
+      "por",
+      "spa"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "B9eJRjA8Qjhn56",
+    "name": "RFM Novas",
+    "stream_urls": [
+      "https://22733.live.streamtheworld.com/RFM_FRESCASAAC.aac"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "udeRld8MAPWNMq",
+    "name": "RFM Oceano Pacífico",
+    "stream_urls": [
+      "https://27943.live.streamtheworld.com/RFMAAC.aac",
+      "https://23543.live.streamtheworld.com/OCEANPACIFICAAC.aac"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lNoZuQBBY2KLJe",
+    "name": "RFM Rocks",
+    "stream_urls": [
+      "https://25343.live.streamtheworld.com/RFMONTHEROCKAAC.aac"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MZ1hZtE6QjUOSU",
+    "name": "RFM Toca Portugal",
+    "stream_urls": [
+      "https://27793.live.streamtheworld.com/RFM_PORTUGALAAC.aac"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Qw5vxQk8Ex1dex",
+    "name": "RUC - Rádio Universidade de Coimbra",
+    "stream_urls": [
+      "https://stream.ruc.pt/high"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "ynA0dC1s1OfvqG",
@@ -1352,7 +1436,8 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "KUypKpQpcqq1Zd",
@@ -1363,7 +1448,8 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "ylKX7y2TLoAX0r",
@@ -1374,7 +1460,8 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "LVbB6eTQu50Vqi",
@@ -1386,7 +1473,8 @@
     "languages": [
       "eng",
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "LYMdOHamVbRAjB",
@@ -1397,7 +1485,8 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "OQKBlDvLma7s4p",
@@ -1408,7 +1497,8 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "c65PBagMst1c0R",
@@ -1419,7 +1509,8 @@
     "country": "pt",
     "languages": [
       "eng"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "F3iPdyU8eXi5cM",
@@ -1431,6 +1522,7 @@
     "languages": [
       "eng",
       "spa"
-    ]
+    ],
+    "isGeoBlocked": false
   }
 ]

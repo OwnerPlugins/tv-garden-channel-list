@@ -8,7 +8,8 @@
     "country": "py",
     "languages": [
       "spa"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "nl5uXgcnO5cZW8",
@@ -19,7 +20,8 @@
     "country": "py",
     "languages": [
       "spa"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "kBkcl4VHIocvBR",
@@ -30,19 +32,21 @@
     "country": "py",
     "languages": [
       "spa"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "oWsPBMkOV6q2rb",
     "name": "Emisoras Paraguay 106.1 FM",
     "stream_urls": [
-      "https://rds3.desdeparaguay.net/movemisoras/movemisoras.stream/chunklist_w1882715633.m3u8",
-      "https://rds3.desdeparaguay.net/movemisoras/movemisoras.stream/playlist.m3u8"
+      "https://rds3.desdeparaguay.net/movemisoras/movemisoras.stream/playlist.m3u8",
+      "https://rds3.desdeparaguay.net/movemisoras/movemisoras.stream/chunklist_w1882715633.m3u8"
     ],
     "country": "py",
     "languages": [
       "spa"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "WLNT33PeUfam54",
@@ -54,7 +58,8 @@
     "country": "py",
     "languages": [
       "spa"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "ic6TZ8JSEzpoYh",
@@ -64,9 +69,10 @@
     ],
     "country": "py",
     "languages": [
-      "spa",
-      "grn"
-    ]
+      "grn",
+      "spa"
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "qB5vpISsmY1a8F",
@@ -76,9 +82,10 @@
     ],
     "country": "py",
     "languages": [
-      "spa",
-      "grn"
-    ]
+      "grn",
+      "spa"
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "x3eagf0RwiNumt",
@@ -89,7 +96,8 @@
     "country": "py",
     "languages": [
       "spa"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "Uzvhi2mHEX4GyU",
@@ -100,7 +108,8 @@
     "country": "py",
     "languages": [
       "spa"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "Rsyz53ib9xa3dM",
@@ -111,19 +120,21 @@
     "country": "py",
     "languages": [
       "spa"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "YEl99OpnWuw123",
     "name": "Palma FM",
     "stream_urls": [
-      "https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/62d81d48f5ef320830c8becf",
-      "https://rds3.desdeparaguay.net/transpalma/transpalma/playlist.m3u8"
+      "https://rds3.desdeparaguay.net/transpalma/transpalma/playlist.m3u8",
+      "https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/62d81d48f5ef320830c8becf"
     ],
     "country": "py",
     "languages": [
       "spa"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "YzMcPBZzCXnJFk",
@@ -134,18 +145,8 @@
     "country": "py",
     "languages": [
       "spa"
-    ]
-  },
-  {
-    "nanoid": "vM84hdWb8IBkDr",
-    "name": "Radio Amor 95.9 FM",
-    "stream_urls": [
-      "https://copaco.desdeparaguay.net/movamor/movamor.stream/playlist.m3u8"
     ],
-    "country": "py",
-    "languages": [
-      "spa"
-    ]
+    "isGeoBlocked": false
   },
   {
     "nanoid": "aIAegWEtKlqbmO",
@@ -156,32 +157,47 @@
     "country": "py",
     "languages": [
       "spa"
-    ]
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vM84hdWb8IBkDr",
+    "name": "Radio Amor 95.9 FM",
+    "stream_urls": [
+      "https://copaco.desdeparaguay.net/movamor/movamor.stream/playlist.m3u8"
+    ],
+    "country": "py",
+    "languages": [
+      "spa"
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "BJRsGuXBvxeXUn",
     "name": "Radio Aranduka 87.9 FM",
     "stream_urls": [
-      "https://tigocloud.desdeparaguay.net/movaranduka/movaranduka.stream/playlist.m3u8",
-      "https://rds3.desdeparaguay.net/movaranduka/movaranduka.stream/playlist.m3u8"
+      "https://rds3.desdeparaguay.net/movaranduka/movaranduka.stream/playlist.m3u8",
+      "https://tigocloud.desdeparaguay.net/movaranduka/movaranduka.stream/playlist.m3u8"
     ],
     "country": "py",
     "languages": [
       "spa"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "gI5zcm2dLzpzhM",
     "name": "Radio Aspen 102.7 FM",
     "stream_urls": [
-      "https://copaco.desdeparaguay.net/movaspen/movaspen.stream/playlist.m3u8",
       "https://rds3.desdeparaguay.net/movaspen/movaspen.stream/playlist.m3u8",
+      "https://copaco.desdeparaguay.net/movaspen/movaspen.stream/playlist.m3u8",
       "https://tigocloud.desdeparaguay.net/movaspen/movaspen.stream/playlist.m3u8"
     ],
     "country": "py",
     "languages": [
       "spa"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "5lMUxmWkIRwrMy",
@@ -192,7 +208,8 @@
     "country": "py",
     "languages": [
       "spa"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "QcZqjHQIfRgrCQ",
@@ -203,7 +220,8 @@
     "country": "py",
     "languages": [
       "spa"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "hWOB86FyRO1Wm8",
@@ -214,7 +232,8 @@
     "country": "py",
     "languages": [
       "spa"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "j6ow6qAeKD6BXx",
@@ -225,19 +244,33 @@
     "country": "py",
     "languages": [
       "spa"
-    ]
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ybdgotK1ZHZFAB",
+    "name": "Radio Éxitos de Ayer",
+    "stream_urls": [
+      "https://stream.zeno.fm/hvnh6d5uebruv"
+    ],
+    "country": "py",
+    "languages": [
+      "spa"
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "vDsXy8hCCki9eH",
     "name": "Radio Monumental 1080 AM",
     "stream_urls": [
-      "https://mdstrm.com/audio/62d81ca6a459e4082203c95b/icecast.audio",
-      "https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/62d81ca6a459e4082203c95b"
+      "https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/62d81ca6a459e4082203c95b",
+      "https://mdstrm.com/audio/62d81ca6a459e4082203c95b/icecast.audio"
     ],
     "country": "py",
     "languages": [
       "spa"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "f0gzgwyPcyF1ev",
@@ -248,7 +281,8 @@
     "country": "py",
     "languages": [
       "spa"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "J3WhGO82DCbCuF",
@@ -259,19 +293,21 @@
     "country": "py",
     "languages": [
       "spa"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "tV2XdxdR2VnDSm",
     "name": "Radio Urbana 106.9 FM",
     "stream_urls": [
-      "https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/62d81cdabff0bc082f8f1a24",
-      "https://rds3.desdeparaguay.net/transurbana/transurbana/playlist.m3u8"
+      "https://rds3.desdeparaguay.net/transurbana/transurbana/playlist.m3u8",
+      "https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/62d81cdabff0bc082f8f1a24"
     ],
     "country": "py",
     "languages": [
       "spa"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "2siRkXvA7YfizL",
@@ -282,7 +318,8 @@
     "country": "py",
     "languages": [
       "spa"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "EZ8TWLFdGNrszq",
@@ -294,18 +331,8 @@
     "country": "py",
     "languages": [
       "spa"
-    ]
-  },
-  {
-    "nanoid": "ybdgotK1ZHZFAB",
-    "name": "Radio Éxitos de Ayer",
-    "stream_urls": [
-      "https://stream.zeno.fm/hvnh6d5uebruv"
     ],
-    "country": "py",
-    "languages": [
-      "spa"
-    ]
+    "isGeoBlocked": false
   },
   {
     "nanoid": "3mBL9FrHTM2x3h",
@@ -316,19 +343,8 @@
     "country": "py",
     "languages": [
       "spa"
-    ]
-  },
-  {
-    "nanoid": "TddEqCUBUpHsDu",
-    "name": "RQP 94.3 FM",
-    "stream_urls": [
-      "https://dx85eyfuo1x2i.cloudfront.net/index.m3u8",
-      "https://rds3.desdeparaguay.net/transrqp/transrqp/playlist.m3u"
     ],
-    "country": "py",
-    "languages": [
-      "spa"
-    ]
+    "isGeoBlocked": false
   },
   {
     "nanoid": "sXAJmzAp1U9GeD",
@@ -339,7 +355,8 @@
     "country": "py",
     "languages": [
       "spa"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "6jUclK2WDabVVI",
@@ -350,7 +367,8 @@
     "country": "py",
     "languages": [
       "spa"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "RcH2QMtrsrZrxp",
@@ -361,6 +379,7 @@
     "country": "py",
     "languages": [
       "spa"
-    ]
+    ],
+    "isGeoBlocked": false
   }
 ]

@@ -3,15 +3,16 @@
     "nanoid": "5ncJ841Sx88aBd",
     "name": "BFBS Gurkha Radio",
     "stream_urls": [
-      "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs3.aac",
       "https://edge-audio-04-thn.sharp-stream.com/ssvcbfbs3.aac",
-      "https://edge-audio-05-gos2.sharp-stream.com/ssvcbfbs3.mp3"
+      "https://edge-audio-05-gos2.sharp-stream.com/ssvcbfbs3.mp3",
+      "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs3.aac"
     ],
     "country": "np",
     "languages": [
-      "nep",
-      "eng"
-    ]
+      "eng",
+      "nep"
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "bIntZduc6CN2Kd",
@@ -22,7 +23,8 @@
     "country": "np",
     "languages": [
       "nep"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "PKchb4ExVntR0W",
@@ -33,7 +35,8 @@
     "country": "np",
     "languages": [
       "nep"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "j60VcLFgVKFI8M",
@@ -43,9 +46,10 @@
     ],
     "country": "np",
     "languages": [
-      "nep",
-      "eng"
-    ]
+      "eng",
+      "nep"
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "Eei6qZ3YZDM5y5",
@@ -57,7 +61,8 @@
     "languages": [
       "hin",
       "nep"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "KBC5MEL240O1hI",
@@ -68,18 +73,33 @@
     "country": "np",
     "languages": [
       "nep"
-    ]
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kfZpK6BId0Qf5T",
+    "name": "Radio Kantipur",
+    "stream_urls": [
+      "https://radio-broadcast.ekantipur.com/stream"
+    ],
+    "country": "np",
+    "languages": [
+      "eng",
+      "nep"
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "Zy1eoJZdr9W0fF",
     "name": "Radio Nepal",
     "stream_urls": [
-      "https://stream1.radionepal.gov.np/live/"
+      "https://stream1.radionepal.gov.np/live"
     ],
     "country": "np",
     "languages": [
       "nep"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "1ysyLazGXnpRDk",
@@ -90,7 +110,8 @@
     "country": "np",
     "languages": [
       "nep"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "UmwBCcLCWNNMcS",
@@ -101,7 +122,8 @@
     "country": "np",
     "languages": [
       "nep"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "Wc2mP0gYMEaYZa",
@@ -112,7 +134,8 @@
     "country": "np",
     "languages": [
       "nep"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "VWEITR8MIgM4ou",
@@ -123,20 +146,22 @@
     "country": "np",
     "languages": [
       "nep"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "kOGP6oFTXXIXcP",
     "name": "Ujyaalo 90 Network",
     "stream_urls": [
-      "https://stream.zenolive.com/wtuvp08xq1duv",
-      "https://stream.zeno.fm/h527zwd11uquv"
+      "https://stream.zeno.fm/h527zwd11uquv",
+      "https://stream.zenolive.com/wtuvp08xq1duv"
     ],
     "country": "np",
     "languages": [
       "eng",
       "nep"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "ZBN9TSqyMsKWCp",
@@ -147,6 +172,7 @@
     "country": "np",
     "languages": [
       "nep"
-    ]
+    ],
+    "isGeoBlocked": false
   }
 ]

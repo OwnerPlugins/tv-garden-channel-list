@@ -8,31 +8,22 @@
     "country": "jp",
     "languages": [
       "eng"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "mvDQPbI0k5qgTZ",
     "name": "AFN Tokyo",
     "stream_urls": [
-      "https://17803.live.streamtheworld.com:443/AFNP_TKO_SC",
-      "https://13743.live.streamtheworld.com:443/AFNP_TKO_SC",
-      "https://22963.live.streamtheworld.com:443/AFNP_TKO_SC"
+      "https://13743.live.streamtheworld.com/AFNP_TKO_SC",
+      "https://22963.live.streamtheworld.com/AFNP_TKO_SC",
+      "https://17803.live.streamtheworld.com/AFNP_TKO_SC"
     ],
     "country": "jp",
     "languages": [
       "eng"
-    ]
-  },
-  {
-    "nanoid": "3Lp1KJYrrDm3Lh",
-    "name": "Air Station Hibiki",
-    "stream_urls": [
-      "https://mtist.as.smartstream.ne.jp/30052/livestream/playlist.m3u8"
     ],
-    "country": "jp",
-    "languages": [
-      "jpn"
-    ]
+    "isGeoBlocked": false
   },
   {
     "nanoid": "WKQh1IBLKb6VHn",
@@ -44,7 +35,8 @@
     "languages": [
       "jpn",
       "spa"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "u91Fr4qgobRy3I",
@@ -55,7 +47,8 @@
     "country": "jp",
     "languages": [
       "jpn"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "QylK41BmjkSJhN",
@@ -66,18 +59,8 @@
     "country": "jp",
     "languages": [
       "jpn"
-    ]
-  },
-  {
-    "nanoid": "NTA7QqRu3pDsRX",
-    "name": "BeFM",
-    "stream_urls": [
-      "https://mtist.as.smartstream.ne.jp/30079/livestream/playlist.m3u8"
     ],
-    "country": "jp",
-    "languages": [
-      "jpn"
-    ]
+    "isGeoBlocked": false
   },
   {
     "nanoid": "tvciwj8VN4PZYW",
@@ -87,20 +70,10 @@
     ],
     "country": "jp",
     "languages": [
-      "jpn",
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "N3rRZMBnR8Wzct",
-    "name": "Chokuraji!",
-    "stream_urls": [
-      "https://mtist.as.smartstream.ne.jp/30085/livestream/playlist.m3u8"
-    ],
-    "country": "jp",
-    "languages": [
+      "eng",
       "jpn"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "Gk45cmg2UqUDt0",
@@ -111,173 +84,20 @@
     "country": "jp",
     "languages": [
       "zho"
-    ]
-  },
-  {
-    "nanoid": "ua7PHIq2RY51uJ",
-    "name": "DARAZ FM",
-    "stream_urls": [
-      "https://mtist.as.smartstream.ne.jp/30053/livestream/playlist.m3u8"
     ],
-    "country": "jp",
-    "languages": [
-      "jpn"
-    ]
-  },
-  {
-    "nanoid": "WS2KkmXPm3fM8u",
-    "name": "Flower Radio",
-    "stream_urls": [
-      "https://mtist.as.smartstream.ne.jp/30002/livestream/playlist.m3u8"
-    ],
-    "country": "jp",
-    "languages": [
-      "jpn"
-    ]
-  },
-  {
-    "nanoid": "SIQA9J37BMjSFZ",
-    "name": "FM Apple",
-    "stream_urls": [
-      "https://mtist.as.smartstream.ne.jp/30090/livestream/playlist.m3u8"
-    ],
-    "country": "jp",
-    "languages": [
-      "jpn"
-    ]
-  },
-  {
-    "nanoid": "kWH3uRL2eOuqYh",
-    "name": "FM EGAO",
-    "stream_urls": [
-      "https://mtist.as.smartstream.ne.jp/30040/livestream/playlist.m3u8"
-    ],
-    "country": "jp",
-    "languages": [
-      "jpn"
-    ]
-  },
-  {
-    "nanoid": "2JsVKgPXSdlW34",
-    "name": "FM Kaon",
-    "stream_urls": [
-      "https://mtist.as.smartstream.ne.jp/30057/livestream/playlist.m3u8"
-    ],
-    "country": "jp",
-    "languages": [
-      "jpn"
-    ]
-  },
-  {
-    "nanoid": "OEQvzoD5ubw47S",
-    "name": "FM Maple",
-    "stream_urls": [
-      "https://mtist.as.smartstream.ne.jp/30015/livestream/playlist.m3u8"
-    ],
-    "country": "jp",
-    "languages": [
-      "jpn"
-    ]
-  },
-  {
-    "nanoid": "mHYRmpB4i1BdmB",
-    "name": "FM N1",
-    "stream_urls": [
-      "https://mtist.as.smartstream.ne.jp/30001/livestream/playlist.m3u8"
-    ],
-    "country": "jp",
-    "languages": [
-      "jpn"
-    ]
-  },
-  {
-    "nanoid": "gDhLFR63yJcwHG",
-    "name": "FM Nobeoka",
-    "stream_urls": [
-      "https://mtist.as.smartstream.ne.jp/30088/livestream/playlist.m3u8"
-    ],
-    "country": "jp",
-    "languages": [
-      "jpn"
-    ]
-  },
-  {
-    "nanoid": "HU1rc2Ahz9ay4F",
-    "name": "FM Palulun",
-    "stream_urls": [
-      "https://mtist.as.smartstream.ne.jp/30022/livestream/playlist.m3u8"
-    ],
-    "country": "jp",
-    "languages": [
-      "jpn"
-    ]
+    "isGeoBlocked": false
   },
   {
     "nanoid": "vnLU85mEvfL0En",
     "name": "FM Setagaya",
     "stream_urls": [
-      "https://fmsetagaya834.out.airtime.pro/fmsetagaya834_a",
-      "https://mtist.as.smartstream.ne.jp/30027/livestream/playlist.m3u8"
+      "https://fmsetagaya834.out.airtime.pro/fmsetagaya834_a"
     ],
     "country": "jp",
     "languages": [
       "jpn"
-    ]
-  },
-  {
-    "nanoid": "Nqe1CdGCHnDVjl",
-    "name": "FM Tango",
-    "stream_urls": [
-      "https://mtist.as.smartstream.ne.jp/30073/livestream/playlist.m3u8"
     ],
-    "country": "jp",
-    "languages": [
-      "jpn"
-    ]
-  },
-  {
-    "nanoid": "M51yPJZlu43fS3",
-    "name": "FM Tatsugo",
-    "stream_urls": [
-      "https://mtist.as.smartstream.ne.jp/30072/livestream/playlist.m3u8"
-    ],
-    "country": "jp",
-    "languages": [
-      "jpn"
-    ]
-  },
-  {
-    "nanoid": "mD1zehRfa8W9hC",
-    "name": "FM Toyomi",
-    "stream_urls": [
-      "https://mtist.as.smartstream.ne.jp/30083/livestream/playlist.m3u8"
-    ],
-    "country": "jp",
-    "languages": [
-      "jpn"
-    ]
-  },
-  {
-    "nanoid": "PFCcbqkeaCnetN",
-    "name": "FM Ushiku",
-    "stream_urls": [
-      "https://mtist.as.smartstream.ne.jp/30021/livestream/playlist.m3u8"
-    ],
-    "country": "jp",
-    "languages": [
-      "jpn"
-    ]
-  },
-  {
-    "nanoid": "Wzox6QlkYGKszx",
-    "name": "FM Yutopia",
-    "stream_urls": [
-      "https://mtist.as.smartstream.ne.jp/30030/livestream/playlist.m3u8"
-    ],
-    "country": "jp",
-    "languages": [
-      "jpn"
-    ]
+    "isGeoBlocked": false
   },
   {
     "nanoid": "zAEvUe5Ax9nyfh",
@@ -288,7 +108,8 @@
     "country": "jp",
     "languages": [
       "jpn"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "zpqAPKwxHaAjAp",
@@ -299,13 +120,13 @@
     "country": "jp",
     "languages": [
       "jpn"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "QcdNMaoKaY56oV",
     "name": "Gensokyo Radio",
     "stream_urls": [
-      "https://stream.gensokyoradio.net/3/",
       "https://stream.gensokyoradio.net/3",
       "https://stream.gensokyoradio.net/2"
     ],
@@ -313,7 +134,8 @@
     "languages": [
       "eng",
       "jpn"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "KQjtzJrNHracQa",
@@ -324,7 +146,8 @@
     "country": "jp",
     "languages": [
       "jpn"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "xUQIWxoc69t5hM",
@@ -336,7 +159,8 @@
     "country": "jp",
     "languages": [
       "jpn"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "oWppIKvjVIyNhz",
@@ -347,7 +171,8 @@
     "country": "jp",
     "languages": [
       "jpn"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "6P9XMkme9vVA1P",
@@ -358,7 +183,8 @@
     "country": "jp",
     "languages": [
       "jpn"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "tkvwYbuR8lDxtr",
@@ -369,7 +195,8 @@
     "country": "jp",
     "languages": [
       "jpn"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "ghvvkcTsn10ftC",
@@ -380,19 +207,21 @@
     "country": "jp",
     "languages": [
       "jpn"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "94MyhVoCOXfKwc",
     "name": "J-Rock Powerplay",
     "stream_urls": [
-      "https://kathy.torontocast.com:3340/stream",
-      "https://kathy.torontocast.com:3340/;"
+      "https://kathy.torontocast.com:3340/;",
+      "https://kathy.torontocast.com:3340/stream"
     ],
     "country": "jp",
     "languages": [
       "jpn"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "aV41RbWN0bgwyw",
@@ -403,7 +232,8 @@
     "country": "jp",
     "languages": [
       "jpn"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "8d6j5xDXumU3d7",
@@ -414,19 +244,21 @@
     "country": "jp",
     "languages": [
       "eng"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "MXmq6DBSJCVOW8",
     "name": "Jazz Sakura",
     "stream_urls": [
       "https://kathy.torontocast.com:3330/;",
-      "https://kathy.torontocast.com:3330/stream/1/"
+      "https://kathy.torontocast.com:3330/stream/1"
     ],
     "country": "jp",
     "languages": [
       "jpn"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "btObttcsMriUTe",
@@ -437,115 +269,88 @@
     "country": "jp",
     "languages": [
       "jpn"
-    ]
-  },
-  {
-    "nanoid": "MaVbRu7rsoqtKr",
-    "name": "Kazuno Kiritanpo FM",
-    "stream_urls": [
-      "https://mtist.as.smartstream.ne.jp/30089/livestream/playlist.m3u8"
     ],
-    "country": "jp",
-    "languages": [
-      "jpn"
-    ]
+    "isGeoBlocked": false
   },
   {
     "nanoid": "YvdaJ6C3HQyWZ2",
     "name": "LISTEN.moe",
     "stream_urls": [
+      "https://listen.moe/fallback",
       "https://listen.moe/stream",
-      "https://listen.moe/opus",
-      "https://listen.moe/fallback"
+      "https://listen.moe/opus"
     ],
     "country": "jp",
     "languages": [
       "jpn"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "xxapVqcAdr1q8d",
     "name": "LISTEN.moe K-Pop",
     "stream_urls": [
       "https://listen.moe/kpop/stream",
-      "https://listen.moe/kpop/opus",
-      "https://listen.moe/kpop/fallback"
+      "https://listen.moe/kpop/fallback",
+      "https://listen.moe/kpop/opus"
     ],
     "country": "jp",
     "languages": [
       "kor"
-    ]
-  },
-  {
-    "nanoid": "C2BfPgLP7t9sUY",
-    "name": "Maebashi City FM",
-    "stream_urls": [
-      "https://mtist.as.smartstream.ne.jp/30043/livestream/playlist.m3u8"
     ],
-    "country": "jp",
-    "languages": [
-      "jpn"
-    ]
+    "isGeoBlocked": false
   },
   {
     "nanoid": "zCf3zSRxF7Uhqx",
     "name": "Miku Radio",
     "stream_urls": [
-      "https://miku.fm/listen/miku/mp3-320",
+      "https://miku.fm/listen/miku/aac-128",
       "https://miku.fm/listen/miku/mp3-128",
       "https://miku.fm/listen/miku/aac-320"
     ],
     "country": "jp",
     "languages": [
       "jpn"
-    ]
-  },
-  {
-    "nanoid": "eChbG4MXfWzWba",
-    "name": "Miyako Harbor Radio",
-    "stream_urls": [
-      "https://mtist.as.smartstream.ne.jp/30097/livestream/playlist.m3u8"
     ],
-    "country": "jp",
-    "languages": [
-      "jpn"
-    ]
+    "isGeoBlocked": false
   },
   {
     "nanoid": "08xOGhndlTkFJY",
     "name": "NFRS Radio",
     "stream_urls": [
-      "https://securestreams.autopo.st:2592/stream",
-      "https://stream2.rcast.net/70945"
+      "https://stream2.rcast.net/70945",
+      "https://securestreams.autopo.st:2592/stream"
     ],
     "country": "jp",
     "languages": [
       "jpn"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "usKRpN4ADShRlB",
     "name": "NHK World Radio Japan",
     "stream_urls": [
-      "https://b-nhkworld-radio.nhkworld.jp/hls/live/nhkworld-radio-rs1/index_rs1.m3u8",
-      "https://nhkworld-radio.akamaized.net/hls/live/2115823/nhkworld-radio-rs1/index_rs1.m3u8"
+      "https://b-nhkworld-radio.nhkworld.jp/hls/live/nhkworld-radio-rs1/index_rs1.m3u8"
     ],
     "country": "jp",
     "languages": [
       "eng"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "Plvw9Qb3OBzO6w",
     "name": "Nightwave Plaza",
     "stream_urls": [
-      "https://radio.plaza.one/ogg_low",
-      "https://radio.plaza.one/opus"
+      "https://radio.plaza.one/opus",
+      "https://radio.plaza.one/ogg_low"
     ],
     "country": "jp",
     "languages": [
       "jpn"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "TptjrhHsf98RTF",
@@ -556,7 +361,8 @@
     "country": "jp",
     "languages": [
       "jpn"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "oy2nOYg9Yke0ON",
@@ -567,7 +373,8 @@
     "country": "jp",
     "languages": [
       "jpn"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "GIbt9MdLkqXnrn",
@@ -578,7 +385,8 @@
     "country": "jp",
     "languages": [
       "jpn"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "edGPlOMgn3lpaK",
@@ -589,7 +397,8 @@
     "country": "jp",
     "languages": [
       "jpn"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "fG2Z12YYm6BzZj",
@@ -600,7 +409,8 @@
     "country": "jp",
     "languages": [
       "jpn"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "2j0MSaEtTKcE8k",
@@ -610,9 +420,10 @@
     ],
     "country": "jp",
     "languages": [
-      "jpn",
-      "eng"
-    ]
+      "eng",
+      "jpn"
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "qgxE8EFLgZLv3y",
@@ -624,29 +435,8 @@
     "languages": [
       "eng",
       "jpn"
-    ]
-  },
-  {
-    "nanoid": "KkgUKP4neEFhZ4",
-    "name": "Radio Kesennuma",
-    "stream_urls": [
-      "https://mtist.as.smartstream.ne.jp/30094/livestream/playlist.m3u8"
     ],
-    "country": "jp",
-    "languages": [
-      "jpn"
-    ]
-  },
-  {
-    "nanoid": "WgTgcLoEQxAIcD",
-    "name": "Radio3",
-    "stream_urls": [
-      "https://mtist.as.smartstream.ne.jp/30007/livestream/playlist.m3u8"
-    ],
-    "country": "jp",
-    "languages": [
-      "jpn"
-    ]
+    "isGeoBlocked": false
   },
   {
     "nanoid": "lTIYUe2Gg7Rs83",
@@ -655,18 +445,8 @@
       "https://relay.rainwave.cc/all.mp3"
     ],
     "country": "jp",
-    "languages": []
-  },
-  {
-    "nanoid": "xe8qOeYHqSTYve",
-    "name": "Reds Wave",
-    "stream_urls": [
-      "https://mtist.as.smartstream.ne.jp/30008/livestream/playlist.m3u8"
-    ],
-    "country": "jp",
-    "languages": [
-      "jpn"
-    ]
+    "languages": [],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "9h2tQJO5TrD091",
@@ -677,7 +457,8 @@
     "country": "jp",
     "languages": [
       "jpn"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "yBrRbgcObTNMkr",
@@ -687,9 +468,10 @@
     ],
     "country": "jp",
     "languages": [
-      "jpn",
-      "eng"
-    ]
+      "eng",
+      "jpn"
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "AC5emH4TVdWSvt",
@@ -700,7 +482,8 @@
     "country": "jp",
     "languages": [
       "spa"
-    ]
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "ibifWfW7H1EznT",
@@ -711,18 +494,8 @@
     "country": "jp",
     "languages": [
       "eng"
-    ]
-  },
-  {
-    "nanoid": "mzhJgaCYO1NAbj",
-    "name": "wi-radio",
-    "stream_urls": [
-      "https://mtist.as.smartstream.ne.jp/30087/livestream/playlist.m3u8"
     ],
-    "country": "jp",
-    "languages": [
-      "jpn"
-    ]
+    "isGeoBlocked": false
   },
   {
     "nanoid": "cYPTMlk1FSFbbb",
@@ -733,17 +506,7 @@
     "country": "jp",
     "languages": [
       "jpn"
-    ]
-  },
-  {
-    "nanoid": "r0z5mHZLvoqQ3P",
-    "name": "Yokote Kamakura FM",
-    "stream_urls": [
-      "https://mtist.as.smartstream.ne.jp/30076/livestream/playlist.m3u8"
     ],
-    "country": "jp",
-    "languages": [
-      "jpn"
-    ]
+    "isGeoBlocked": false
   }
 ]
