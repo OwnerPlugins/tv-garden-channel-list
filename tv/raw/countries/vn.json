@@ -3,8 +3,7 @@
     "nanoid": "79lqDZYF5l4OvA",
     "name": "An Ninh TV",
     "stream_urls": [
-      "https://liveh12.vtvprime.vn/hls/ANNINHTV/index.m3u8",
-      "https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8"
+      "https://liveh12.vtvprime.vn/hls/ANNINHTV/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -94,6 +93,7 @@
     "nanoid": "QnYbafq8SSO9v0",
     "name": "HanoiTV1",
     "stream_urls": [
+      "https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/chunklist.m3u8",
       "https://liveh34.vtvprime.vn/hls/HANOI1TV/index.m3u8"
     ],
     "youtube_urls": [],
@@ -107,7 +107,6 @@
     "nanoid": "MO8deGVLY2zQ9f",
     "name": "HanoiTV2",
     "stream_urls": [
-      "https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/playlist.m3u8",
       "https://liveh34.vtvprime.vn/hls/HANOI2TV/index.m3u8"
     ],
     "youtube_urls": [],
@@ -131,19 +130,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "YXhIUBVYB9tHBa",
-    "name": "HTV Sports",
-    "stream_urls": [
-      "https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "vie"
-    ],
-    "country": "vn",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "6DolkI5thPr6tu",
     "name": "HTV7",
     "stream_urls": [
@@ -153,17 +139,6 @@
     "languages": [],
     "country": "vn",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "tZZYFUzbbvaZ5U",
-    "name": "HTV9",
-    "stream_urls": [
-      "https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
-    "country": "vn",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "PYD65sKTsyBg8u",
@@ -243,6 +218,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "bO53QaWUMkNQTa",
+    "name": "SCTV2",
+    "stream_urls": [
+      "https://liveh12.vtvprime.vn/hls/SCTV2/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "wkFlSgnzUPYh8q",
     "name": "SCTV4",
     "stream_urls": [
@@ -260,19 +248,6 @@
     "name": "SCTV16",
     "stream_urls": [
       "https://liveh34.vtvprime.vn/hls/SCTV16/03.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "vie"
-    ],
-    "country": "vn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "78sapvlwKrQ0tt",
-    "name": "Tay Ninh TV",
-    "stream_urls": [
-      "https://live-hq.evgcdn.net/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

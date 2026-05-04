@@ -42,8 +42,7 @@
     "nanoid": "XwatyYfDCBPOZF",
     "name": "51 Radio TV",
     "stream_urls": [
-      "https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8",
-      "https://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8"
+      "https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -220,6 +219,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "enn4H4qkUlzoNX",
+    "name": "CafeTV24",
+    "stream_urls": [
+      "https://srvx1.selftv.video/cafe/live/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UTKM2yB8tUj85p",
+    "name": "Camera dei Deputati",
+    "stream_urls": [
+      "https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "JiP5cLnzC72htv",
     "name": "Canale 2 Altamura",
     "stream_urls": [
@@ -236,8 +261,7 @@
     "nanoid": "6vkQlwc2e5p2Bl",
     "name": "Canale 7",
     "stream_urls": [
-      "https://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8",
-      "https://wms.shared.streamshow.it/canale7/mp4:canale7/playlist.m3u8"
+      "https://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -250,7 +274,6 @@
     "nanoid": "TFKl67cgddE1qo",
     "name": "Canale 8",
     "stream_urls": [
-      "https://wms.shared.streamshow.it/canale8/canale8/playlist.m3u8",
       "https://wms.shared.streamshow.it/canale8/mp4:canale8/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -514,19 +537,6 @@
     "name": "Gold TV",
     "stream_urls": [
       "https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kTsDjvuR5SnaAA",
-    "name": "Gold TV Sat",
-    "stream_urls": [
-      "https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -980,6 +990,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "o9AwmvAAtGm4TV",
+    "name": "Quarto Canale Flegreo",
+    "stream_urls": [
+      "https://live.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "OriOEDLt7tp0cn",
     "name": "QVC",
     "stream_urls": [
@@ -1012,6 +1035,19 @@
     "name": "Radio Birikina TV",
     "stream_urls": [
       "https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0AeHu53Cy2m0HP",
+    "name": "Radio Capital TiVu",
+    "stream_urls": [
+      "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1191,36 +1227,10 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "4XypCIgUkqx4tL",
-    "name": "Rakuten TV Action Movies Italy",
-    "stream_urls": [
-      "https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "mwaE9Of5KjZvBf",
     "name": "ReggioTV",
     "stream_urls": [
       "https://cdn10.streamshow.it/cloud-reggiotv/reggiotv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "E5GXmKOVJA9sSR",
-    "name": "Rete 8",
-    "stream_urls": [
-      "https://64b16f23efbee.streamlock.net/rete8/rete8/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1312,19 +1322,6 @@
     "name": "RTL 102.5 Bro&Sis",
     "stream_urls": [
       "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/playlist_video.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "6wI8f9Izb7iu6Q",
-    "name": "RTL 102.5 Caliente",
-    "stream_urls": [
-      "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_video.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1521,8 +1518,7 @@
     "nanoid": "3WLQIvLWgJCx9b",
     "name": "Super TV",
     "stream_urls": [
-      "https://59d7d6f47d7fc.streamlock.net/supertv/supertv/playlist.m3u8",
-      "https://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8"
+      "https://59d7d6f47d7fc.streamlock.net/supertv/supertv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1587,8 +1583,7 @@
     "nanoid": "F0gNZYAr0ECEZ9",
     "name": "Tele Quattro",
     "stream_urls": [
-      "https://59d7d6f47d7fc.streamlock.net/telequattro/telequattro/playlist.m3u8",
-      "https://wms.shared.streamshow.it/telequattro/telequattro/playlist.m3u8"
+      "https://59d7d6f47d7fc.streamlock.net/telequattro/telequattro/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1888,10 +1883,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "PoFjoPeTQSvrgP",
-    "name": "TR Sport",
+    "nanoid": "s5u1P4o8oZzOs2",
+    "name": "TLT Molise",
     "stream_urls": [
-      "https://livetr.teleromagna.it/mia/live/playlist.m3u8"
+      "https://5f22d76e220e1.streamlock.net/tltmolise/tltmolise/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1901,10 +1896,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4lRmmKh0IB2m5u",
-    "name": "TV Campane 1",
+    "nanoid": "PoFjoPeTQSvrgP",
+    "name": "TR Sport",
     "stream_urls": [
-      "https://eu1.servers10.com:8081/8032/index.m3u8"
+      "https://livetr.teleromagna.it/mia/live/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

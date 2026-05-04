@@ -130,19 +130,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1Gs106kwXgodNe",
-    "name": "Atacama TV",
-    "stream_urls": [
-      "https://v2.tustreaming.cl/atacamatv/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "9jkb1tHOSl1q2X",
     "name": "Aysen TV",
     "stream_urls": [
@@ -239,8 +226,21 @@
     "name": "ChileVision",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/oemQhLaTtws"
+      "https://www.youtube-nocookie.com/embed/1eGzHkoCkOk"
     ],
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "eDESw3Ox4wXwbn",
+    "name": "Chiloe Red 25",
+    "stream_urls": [
+      "https://v2.tustreaming.cl/chiloered/index.m3u8"
+    ],
+    "youtube_urls": [],
     "languages": [
       "spa"
     ],
@@ -252,7 +252,7 @@
     "name": "CHV Noticias",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/i0hZ43dYACc"
+      "https://www.youtube-nocookie.com/embed/xtPX52-76fo"
     ],
     "languages": [
       "spa"
@@ -391,20 +391,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "6uP6CNEGYjRRQY",
-    "name": "Kanade",
-    "stream_urls": [
-      "https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "jpn",
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "LtuGw8CUEvQRPo",
     "name": "La Popular TV",
     "stream_urls": [
@@ -414,17 +400,6 @@
     "languages": [
       "spa"
     ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "iZxXMNes989ufi",
-    "name": "Meganoticias",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/3VIbfsiit4M"
-    ],
-    "languages": [],
     "country": "cl",
     "isGeoBlocked": false
   },
@@ -523,19 +498,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "iH1Ht1rUhcBhVb",
-    "name": "Radio Ritmo FM",
-    "stream_urls": [
-      "https://panel.tvstream.cl:1936/8046/8046/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "EWWfUf457LGzph",
     "name": "Retro Plus 2",
     "stream_urls": [
@@ -565,8 +527,7 @@
     "nanoid": "RtV9rPOW8b3zIG",
     "name": "Solo Bailalo",
     "stream_urls": [
-      "https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8",
-      "https://5ff3d9babae13.streamlock.net/8016/8016/playlist.m3u8"
+      "https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -606,7 +567,7 @@
     "name": "T13",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/d-a3rfpIk_c"
+      "https://www.youtube-nocookie.com/embed/1unu-8wkaB4"
     ],
     "languages": [
       "spa"
@@ -803,6 +764,19 @@
     "name": "UCV TV",
     "stream_urls": [
       "https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rZh1GpFWO9ft0O",
+    "name": "UTV",
+    "stream_urls": [
+      "https://v2.tustreaming.cl/utv/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

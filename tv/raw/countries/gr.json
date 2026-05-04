@@ -92,6 +92,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "alnxPYvmVkicEU",
+    "name": "Baraza TV",
+    "stream_urls": [
+      "https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ell"
+    ],
+    "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "SwsWDthUMBPn2q",
     "name": "Baraza TV Deep House",
     "stream_urls": [
@@ -135,19 +148,6 @@
     "name": "Blue Sky TV",
     "stream_urls": [
       "https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ell"
-    ],
-    "country": "gr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0iu8NXGmAws9mO",
-    "name": "Corfu Channel",
-    "stream_urls": [
-      "https://itv.streams.ovh:1936/corfuchannel/corfuchannel/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -484,19 +484,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HUFnf2hzpL68qM",
-    "name": "RedMusic",
-    "stream_urls": [
-      "https://fr.crystalweb.net:1936/redmusic/redmusic/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ell"
-    ],
-    "country": "gr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "tIsI0Q7tcEru0t",
     "name": "Skai TV",
     "stream_urls": [
@@ -637,6 +624,17 @@
     "languages": [
       "ell"
     ],
+    "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "at2mNido4XOnuc",
+    "name": "Zougla TV",
+    "stream_urls": [
+      "https://zouglacam-mdc-secure.akamaized.net/zouglalive/backup/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
     "country": "gr",
     "isGeoBlocked": false
   }
