@@ -39,13 +39,15 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3R0EfOPIBQ61UY",
-    "name": "Africanews",
+    "nanoid": "QzSkQCeFOqXwg8",
+    "name": "Africa 24 English",
     "stream_urls": [
-      "https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiOTU0NDAyODQtOTU0My00Yzc2LThmZjQtNDRhY2YwYmQxYTYwIiwibWt0IjoicGwiLCJjaCI6NjYwNiwicHRmIjo1fQ==/26036/africanews-en.m3u8"
+      "https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [],
+    "languages": [
+      "eng"
+    ],
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -69,19 +71,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/b6R9-7KZ8YM"
     ],
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "JYn1ySxy92KPFz",
-    "name": "Africanews French",
-    "stream_urls": [
-      "https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8"
-    ],
-    "youtube_urls": [],
     "languages": [
       "fra"
     ],
@@ -436,19 +425,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "YhR4TNuGJkq8Se",
-    "name": "Cine Western",
-    "stream_urls": [
-      "https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "WxYEpzQmBTG6Du",
     "name": "Drive TV",
     "stream_urls": [
@@ -473,17 +449,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hlG7Qk94i6rOfx",
-    "name": "Enquetes de Choc",
-    "stream_urls": [
-      "https://fastmedia-enquetesdechoc-rakuten.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "DmuSIeE8brywZA",
     "name": "Euronews en Español",
     "stream_urls": [],
@@ -492,6 +457,23 @@
     ],
     "languages": [
       "spa"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vyAlDaoF9WU1Q1",
+    "name": "Euronews English",
+    "stream_urls": [
+      "https://aegis-cloudfront-1.tubi.video/b1c4d439-03a5-4c40-ae9d-90a183e010c9/euronews-en.m3u8",
+      "https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8",
+      "https://dash4.antik.sk/live/test_euronews/playlist.m3u8"
+    ],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/pykpO5kQJ98"
+    ],
+    "languages": [
+      "eng"
     ],
     "country": "fr",
     "isGeoBlocked": false
@@ -779,6 +761,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "NXr5JJCUZWuMub",
+    "name": "Generations TV",
+    "stream_urls": [
+      "https://event.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "BHktLaXb4NGD72",
     "name": "Gong",
     "stream_urls": [
@@ -922,19 +917,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fZyKRU2kHKETIx",
-    "name": "Lou!",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/bmXXStUNTFw"
-    ],
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "tZGs9rIPSzUbKH",
     "name": "Maurienne TV",
     "stream_urls": [],
@@ -994,17 +976,6 @@
     "languages": [
       "fra"
     ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "frxoUV6KIlJwd1",
-    "name": "MyTime Movie Network France",
-    "stream_urls": [
-      "https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -1132,32 +1103,10 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "4OHJUKjDj7pE2U",
-    "name": "Rakuten TV Films Drames",
-    "stream_urls": [
-      "https://f396f4db84a54f7bb496b2541477b626.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6095/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "phice2bsfFKDLs",
     "name": "Rakuten TV Séries Crime",
     "stream_urls": [
       "https://1ffd245e4d30495e9b006502a155479e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6214/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "dK7Tr0arpe0iTb",
-    "name": "Rakuten TV Top Films France",
-    "stream_urls": [
-      "https://93ed06eba1ef4cf783b66dc6ea7c4f28.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5986/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [],
@@ -1521,6 +1470,20 @@
     ],
     "youtube_urls": [],
     "languages": [],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "glNPCf2RbwoWmt",
+    "name": "zenith",
+    "stream_urls": [
+      "https://srv.zenith-tv.fr:8888/zenithwchl/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng",
+      "fra"
+    ],
     "country": "fr",
     "isGeoBlocked": false
   },

@@ -104,6 +104,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "yeGOxGUEcp1bap",
+    "name": "Canal 25 Jundiai",
+    "stream_urls": [
+      "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "rC9liFbpQiV2AH",
     "name": "Canal 38",
     "stream_urls": [
@@ -174,8 +187,7 @@
     "nanoid": "zPf2V7QxJLXO2P",
     "name": "CINDIE TV",
     "stream_urls": [
-      "https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8",
-      "https://d20xuwbyc4yoag.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-CINDIE/387.m3u8?ads.vf=grWTpG3NQNi"
+      "https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -193,19 +205,6 @@
       "https://stmv1.srvif.com/classique/classique/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "DqexB6yaP4LscU",
-    "name": "CNN Brasil",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/1bcCHFOIi_Q"
-    ],
     "languages": [
       "por"
     ],
@@ -504,7 +503,6 @@
     "nanoid": "Vq8mDnKI72KTqe",
     "name": "NickOnline Spongebob",
     "stream_urls": [
-      "https://spongebobnew.x1co.com.br/hls/stream.m3u8",
       "https://lowa8026-cmyk.github.io/Brazil/NickOnlineSpongebob.m3u8"
     ],
     "youtube_urls": [],
@@ -521,19 +519,6 @@
       "https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2SkwDt1DzEdQq9",
-    "name": "Peppa Pig Brasil",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/2YLhfsH19OE"
-    ],
     "languages": [
       "por"
     ],
@@ -611,9 +596,7 @@
     "stream_urls": [
       "https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8"
     ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/fVGZD_9JUOc"
-    ],
+    "youtube_urls": [],
     "languages": [
       "por"
     ],
@@ -625,6 +608,19 @@
     "name": "Red Bull TV BR",
     "stream_urls": [
       "https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0z65klel8HhhQe",
+    "name": "Rede Globo",
+    "stream_urls": [
+      "https://cors-proxy.cooks.fyi/http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -686,12 +682,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "TGxMGkMiPXHlY0",
-    "name": "Rio TV Câmara",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Gh6j_xTvWiM"
+    "nanoid": "IyieYUb9Gof8hU",
+    "name": "RIT TV",
+    "stream_urls": [
+      "https://acesso.ecast.site:3648/live/ritlive.m3u8"
     ],
+    "youtube_urls": [],
     "languages": [
       "por"
     ],
@@ -699,10 +695,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "IyieYUb9Gof8hU",
-    "name": "RIT TV",
+    "nanoid": "sI8hLOEw48l5jP",
+    "name": "Santa Cecilia TV",
     "stream_urls": [
-      "https://acesso.ecast.site:3648/live/ritlive.m3u8"
+      "https://video10.logicahost.com.br/unisanta/unisanta/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -742,19 +738,6 @@
     "name": "SBT Interior",
     "stream_urls": [
       "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "p5ifYd48O61UtB",
-    "name": "SBT Nova Mutum",
-    "stream_urls": [
-      "https://video09.logicahost.com.br/sbtmutum/sbtmutum/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -846,6 +829,19 @@
     "name": "TikTok Radio Brasil",
     "stream_urls": [
       "https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992529"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nYK5boMixVyZNl",
+    "name": "TV A Critica",
+    "stream_urls": [
+      "https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1171,19 +1167,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "J4DnDUqRUIuryu",
-    "name": "TV Marajoara",
-    "stream_urls": [
-      "https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "pi2MZbrMdUBAEF",
     "name": "TV Metropole",
     "stream_urls": [
@@ -1305,19 +1288,6 @@
     "name": "TV Series",
     "stream_urls": [
       "https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "AOrzbD7QEj8vaf",
-    "name": "TV Sim Cachoeiro",
-    "stream_urls": [
-      "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

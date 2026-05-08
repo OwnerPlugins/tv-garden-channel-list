@@ -264,6 +264,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "TmKO7eJbzWWIRg",
+    "name": "God Stands TV Arabic",
+    "stream_urls": [
+      "https://online.godstands.tv:5443/WebRTCApp/streams/Arabic.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ara"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "NcmIJl0QEk2Pmg",
+    "name": "God Stands TV Chinese",
+    "stream_urls": [
+      "https://online.godstands.tv:5443/WebRTCApp/streams/chineselive.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "zho"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "GzFin24wHyjwSS",
     "name": "God Stands TV English",
     "stream_urls": [
@@ -277,28 +303,40 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "gmAnyp0vi78tWo",
-    "name": "God Stands TV Main",
+    "nanoid": "v05zRUt0wtjOm3",
+    "name": "God Stands TV Hindi",
     "stream_urls": [
-      "https://online.godstands.tv:5443/WebRTCApp/streams/mainlive.m3u8"
+      "https://online.godstands.tv:5443/WebRTCApp/streams/HindiStreaming.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
-      "eng",
-      "urd"
+      "hin"
     ],
     "country": "pk",
     "isGeoBlocked": false
   },
   {
-    "nanoid": "MJZCJdg9pFYsCd",
-    "name": "God Stands TV Urdu",
+    "nanoid": "udYM5OktKE92Dh",
+    "name": "God Stands TV Punjabi",
     "stream_urls": [
-      "https://online.godstands.tv:5443/WebRTCApp/streams/UrduStreaming.m3u8"
+      "https://online.godstands.tv:5443/WebRTCApp/streams/PunjabiStreaming.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
-      "urd"
+      "pan"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5jBZcISN5C325C",
+    "name": "God Stands TV Tagalog",
+    "stream_urls": [
+      "https://online.godstands.tv:5443/WebRTCApp/streams/Tagalog.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "tgl"
     ],
     "country": "pk",
     "isGeoBlocked": false
@@ -623,19 +661,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3iCM6TWrro0iqg",
-    "name": "Sindh TV News",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/sBlYRGSgp68"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "oy323hi3qdqwPY",
     "name": "Such TV",
     "stream_urls": [
@@ -655,19 +680,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/F6P-BFV6gWM"
     ],
-    "languages": [
-      "urd"
-    ],
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "LBVPGHScrFCXER",
-    "name": "Zindagi TV",
-    "stream_urls": [
-      "https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8"
-    ],
-    "youtube_urls": [],
     "languages": [
       "urd"
     ],

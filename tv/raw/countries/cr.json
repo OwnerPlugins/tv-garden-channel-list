@@ -26,6 +26,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "LA4o1ry7L0C9al",
+    "name": "360 RFTV",
+    "stream_urls": [
+      "https://acceso.mediosdecostarica.com:3638/live/360rftvcrlive.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "H8TtlIKgrW2bwo",
     "name": "Antena Seis TV",
     "stream_urls": [
@@ -42,7 +55,8 @@
     "nanoid": "1LD9fRGKwL67SK",
     "name": "BestClasicosTV",
     "stream_urls": [
-      "https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8"
+      "https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8",
+      "https://acceso.mediosdecostarica.com:3873/live/bestclasicostvlive.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -81,7 +95,8 @@
     "nanoid": "lhFBUBQYMx1tnO",
     "name": "Canal 10",
     "stream_urls": [
-      "https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8"
+      "https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8",
+      "https://acceso.mediosdecostarica.com:3606/live/canal10costaricalive.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -105,7 +120,8 @@
     "nanoid": "O4M3Z3Jo7F6qrX",
     "name": "Cartago Medios TV",
     "stream_urls": [
-      "https://acceso.mediosdecostarica.com:3511/live/cartagomediostvlive.m3u8"
+      "https://acceso.mediosdecostarica.com:3511/live/cartagomediostvlive.m3u8",
+      "https://acceso.mediosdecostarica.com:3511/stream/play.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -298,6 +314,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Oxstp5zvFaS9ZH",
+    "name": "Retrox TV",
+    "stream_urls": [
+      "https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "HYkbd92n6SC6wf",
     "name": "San Jose TV",
     "stream_urls": [
@@ -315,19 +344,6 @@
     "name": "Sarapiqui TV",
     "stream_urls": [
       "https://lstv.duckdns.org:449/hls/stv.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2ogrHzPUOLVEgc",
-    "name": "SOY Plancha TV",
-    "stream_urls": [
-      "https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -471,32 +487,6 @@
     "name": "Video Tour Channel",
     "stream_urls": [
       "https://k4.usastreams.com/videotour/videotour/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "tTy2o9iN37Hvi8",
-    "name": "Vintage Music",
-    "stream_urls": [
-      "https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KTfqjR2nJysy7l",
-    "name": "VM Latino",
-    "stream_urls": [
-      "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

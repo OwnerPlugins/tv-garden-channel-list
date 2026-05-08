@@ -349,20 +349,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "RGisQUNDzBMFhg",
-    "name": "Canaf54 TV",
-    "stream_urls": [
-      "https://5caf24a595d94.streamlock.net:1937/pvyugfkzkc/pvyugfkzkc/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng",
-      "fra"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "fSTT3APiu5GT6P",
     "name": "Cartoonito: Baby Looney Tunes",
     "stream_urls": [],
@@ -1014,6 +1000,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "KgPGrtRlf7Ua6o",
+    "name": "IBC Tamil",
+    "stream_urls": [
+      "https://ibc.massstream.net/IBC/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "tam"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "zArqxM7ctlhm8i",
     "name": "Ideal World",
     "stream_urls": [],
@@ -1030,6 +1029,7 @@
     "nanoid": "9IlfLSM7VoPFbk",
     "name": "Inside Crime UK",
     "stream_urls": [
+      "https://aenetworks-insidecrime-rakuten.amagi.tv/playlist.m3u8",
       "https://amg00841-aenetworksukane-insidecrime-samsunguk-o968i.amagi.tv/playlist/amg00841-aenetworksukane-insidecrime-samsunguk/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1259,6 +1259,7 @@
     "nanoid": "FeQiCZUhzv3lT3",
     "name": "Moonbug Kids",
     "stream_urls": [
+      "https://moonbug-rokuus.amagi.tv/playlist.m3u8",
       "https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8"
     ],
     "youtube_urls": [],
@@ -1473,6 +1474,7 @@
     "nanoid": "MDjiS0YoXPCIql",
     "name": "Mystery TV UK",
     "stream_urls": [
+      "https://aenetworks-mysterytv-rakuten.amagi.tv/playlist.m3u8",
       "https://amg00841-aenetworksukane-mysterytv-samsunguk-mggb7.amagi.tv/playlist/amg00841-aenetworksukane-mysterytv-samsunguk/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1580,8 +1582,7 @@
     "name": "Now 70s",
     "stream_urls": [
       "https://amg01076-amg01076c1-samsung-gb-6682.playouts.now.amagi.tv/playlist.m3u8",
-      "https://lightning-now70s-rakuten.amagi.tv/playlist.m3u8",
-      "https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8"
+      "https://lightning-now70s-rakuten.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1643,8 +1644,7 @@
     "name": "NOW Rock",
     "stream_urls": [
       "https://lightning-now90s-rakuten.amagi.tv/playlist.m3u8",
-      "https://lightning-now90s-samsungse.amagi.tv/playlist.m3u8",
-      "https://lightningnow90-samsungau.amagi.tv/playlist.m3u8"
+      "https://lightning-now90s-samsungse.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1810,6 +1810,30 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "bM1ajyE0MLR0WL",
+    "name": "Rakuten TV Family Movies UK",
+    "stream_urls": [
+      "https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jz4YnIQOr3KiI6",
+    "name": "Rakuten TV Thrillers UK",
+    "stream_urls": [
+      "https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6482/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "uHYtTL2fEDHMX0",
     "name": "Rally.TV FAST+",
     "stream_urls": [
@@ -1819,17 +1843,6 @@
     "languages": [],
     "country": "uk",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "RekrBPbX5KKpZp",
-    "name": "Real Crime",
-    "stream_urls": [
-      "https://lds-realcrime-samsunguk.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
-    "country": "uk",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "jNN9ef0ljzGJ7E",
@@ -2559,6 +2572,7 @@
     "nanoid": "B0N3YLVGTZmUxD",
     "name": "World War TV",
     "stream_urls": [
+      "https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8",
       "https://amg00841-aenetworksukane-worldwartv-samsunguk-fiod1.amagi.tv/playlist/amg00841-aenetworksukane-worldwartv-samsunguk/playlist.m3u8"
     ],
     "youtube_urls": [],

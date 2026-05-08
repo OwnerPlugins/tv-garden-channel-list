@@ -241,19 +241,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "goNrMuzefDwskd",
-    "name": "Maldives TV",
-    "stream_urls": [
-      "https://lana.psm.mv/live/mtv.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "mv",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "IG7KP9uOfXV0Z7",
     "name": "OEPM TV",
     "stream_urls": [
@@ -343,6 +330,33 @@
       "eng"
     ],
     "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4IxBqGTmogAaSR",
+    "name": "Teletur",
+    "stream_urls": [
+      "https://fox.hostlagarto.com:8081/teleturtv/tracks-v1a1/mono.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "do",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "XD5nIrU1EFVtcL",
+    "name": "Travel+Adventure",
+    "stream_urls": [
+      "https://tmptv.sunduk.tv/CH273/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng",
+      "rus"
+    ],
+    "country": "ru",
     "isGeoBlocked": false
   },
   {

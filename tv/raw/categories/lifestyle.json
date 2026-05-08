@@ -57,7 +57,7 @@
     "nanoid": "BdWu9IrQ3fzNGW",
     "name": "Ayush TV",
     "stream_urls": [
-      "https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8"
+      "https://cdn-6.pishow.tv/live/221/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -96,14 +96,27 @@
     "nanoid": "JLfNH2O2h1Ue2z",
     "name": "Biz TV",
     "stream_urls": [
-      "https://thegateway.app/BizAndYou/BizTV/playlist.m3u8",
-      "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8"
+      "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8",
+      "https://thegateway.app/BizAndYou/BizTV/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "qAN5sBGpkuc0D2",
+    "name": "CEACOM TV",
+    "stream_urls": [
+      "https://eu1.servers10.com:8081/ceacom/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
     "isGeoBlocked": false
   },
   {
@@ -120,16 +133,16 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rPl77qAXLXht7K",
-    "name": "City Eden MedZdrav",
+    "nanoid": "WNVyhRAYooRBZY",
+    "name": "CVR Health",
     "stream_urls": [
-      "https://cityeden.catcast.tv/content/47519/index.m3u8"
+      "https://cdn-6.pishow.tv/live/395/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
-      "rus"
+      "tel"
     ],
-    "country": "ru",
+    "country": "in",
     "isGeoBlocked": false
   },
   {
@@ -328,6 +341,19 @@
     ],
     "country": "us",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "dKTtrFcAzjZPS1",
+    "name": "Kappa TV",
+    "stream_urls": [
+      "https://cdn-3.pishow.tv/live/1123/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "mal"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "zVgfO28kmeuXlu",
@@ -561,7 +587,6 @@
     "name": "The Jamie Oliver Channel",
     "stream_urls": [
       "https://pb-gxzycliwq14lw.akamaized.net/Jamie_Oliver.m3u8",
-      "https://jamieoliver-xumo.amagi.tv/playlist.m3u8",
       "https://d3i68hpvh19xjd.cloudfront.net/JamieOliver_GB.m3u8"
     ],
     "youtube_urls": [],

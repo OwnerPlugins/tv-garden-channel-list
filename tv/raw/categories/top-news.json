@@ -21,7 +21,7 @@
     "stream_urls": [
       "https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8",
       "https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8",
-      "https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8"
+      "https://cdn-7.pishow.tv/live/429/master.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/gCNeDWCI0vo"
@@ -96,8 +96,8 @@
     "name": "DW English",
     "stream_urls": [
       "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8",
-      "https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8",
-      "https://liveh12.vtvprime.vn/hls/DW/03.m3u8"
+      "https://liveh12.vtvprime.vn/hls/DW/03.m3u8",
+      "https://stream8.cinerama.uz/1418/tracks-v1a1/mono.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/LuKwFajn37U"
@@ -107,6 +107,23 @@
     ],
     "country": "de",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "vyAlDaoF9WU1Q1",
+    "name": "Euronews English",
+    "stream_urls": [
+      "https://aegis-cloudfront-1.tubi.video/b1c4d439-03a5-4c40-ae9d-90a183e010c9/euronews-en.m3u8",
+      "https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8",
+      "https://dash4.antik.sk/live/test_euronews/playlist.m3u8"
+    ],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/pykpO5kQJ98"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "oTQxI54nBGEd6Z",
@@ -130,7 +147,6 @@
     "name": "LiveNOW from FOX",
     "stream_urls": [
       "https://pb-k5p02dtnr2162.akamaized.net/LiveNOW_from_FOX.m3u8",
-      "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
       "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-livenowbyfox-lgus/playlist.m3u8"
     ],
     "youtube_urls": [
@@ -222,8 +238,8 @@
     "name": "WION",
     "stream_urls": [
       "https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_in/streams/in/WION.in.m3u8",
-      "https://wion-klowdtv.amagi.tv/playlist.m3u8",
-      "https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8"
+      "https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8",
+      "https://d7x8z4yuq42qn.cloudfront.net/index_2.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/vfszY1JYbMc"

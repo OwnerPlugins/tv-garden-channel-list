@@ -310,8 +310,8 @@
     "name": "DW English",
     "stream_urls": [
       "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8",
-      "https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8",
-      "https://liveh12.vtvprime.vn/hls/DW/03.m3u8"
+      "https://liveh12.vtvprime.vn/hls/DW/03.m3u8",
+      "https://stream8.cinerama.uz/1418/tracks-v1a1/mono.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/LuKwFajn37U"
@@ -406,17 +406,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "0deWs8tTLyJPRE",
-    "name": "FilmGold Germany",
-    "stream_urls": [
-      "https://mainstreamfilmgold-rakuten.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "CiGC7hiaz7dMhM",
     "name": "Filstalwelle",
     "stream_urls": [
@@ -440,17 +429,6 @@
       "deu",
       "tur"
     ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "6ftPsR4C1PTDrI",
-    "name": "Fluss Monster",
-    "stream_urls": [
-      "https://rivermonstergermany-rakuten.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
     "country": "de",
     "isGeoBlocked": false
   },
@@ -1164,10 +1142,21 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nYCXjvra9MA0zd",
-    "name": "Rakuten TV Drama Movies Germany",
+    "nanoid": "gaIbE0ft11ifJV",
+    "name": "Rakuten TV Romance Movies Germany",
     "stream_urls": [
-      "https://968754c2483045c1a9a7f677caec35b6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6096/master.m3u8"
+      "https://romance-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6475/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "i6jMhimWGlGgKg",
+    "name": "Rakuten TV Top Movies Germany",
+    "stream_urls": [
+      "https://cbb622b29f5d43b598991f3fa19de291.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5985/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1520,6 +1509,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "nUHCgjRUR5TBtm",
+    "name": "Studio 47",
+    "stream_urls": [
+      "https://h057.video-stream-hosting.de/studio47-live/_definst_/mp4:livestream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "fPZSt9vCYtA22m",
     "name": "SWR 3 Visual Radio",
     "stream_urls": [
@@ -1555,17 +1557,6 @@
     "languages": [
       "deu"
     ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Dh2uUg08yXJN7u",
-    "name": "Tennis Channel Germany",
-    "stream_urls": [
-      "https://tennischanneldeu-rakuten.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
     "country": "de",
     "isGeoBlocked": false
   },

@@ -406,26 +406,12 @@
     "nanoid": "vJVb5mO9wEX9a8",
     "name": "Fox Deportes",
     "stream_urls": [
-      "https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8",
-      "https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8"
+      "https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
       "eng",
       "spa"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "uVswq4jnyeoNam",
-    "name": "Fox Sports 1",
-    "stream_urls": [
-      "https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
     ],
     "country": "us",
     "isGeoBlocked": false
@@ -603,19 +589,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "5y6EYwtqdTyabX",
-    "name": "Jordan Sport",
-    "stream_urls": [
-      "https://93.184.10.248/JordanSport/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ara"
-    ],
-    "country": "jo",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "dytkqAKCNlVMHD",
     "name": "KCMN-LD 42.6",
     "stream_urls": [
@@ -775,20 +748,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "g2M151IR177r4N",
-    "name": "Nudge Sports Channel",
-    "stream_urls": [
-      "https://streams.comclark.com/live_input/nudge_sports/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng",
-      "tgl"
-    ],
-    "country": "ph",
     "isGeoBlocked": false
   },
   {
@@ -1145,19 +1104,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "TnYj2ZiJkibGxp",
-    "name": "Suspilne. Sport",
-    "stream_urls": [
-      "https://cdnua05.hls.tv/934/hls/8743361621b245838bee193c9ec28322/4856/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ukr"
-    ],
-    "country": "ua",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "idRoywP0TToz6k",
     "name": "Swerve Sports",
     "stream_urls": [
@@ -1239,6 +1185,19 @@
       "tur"
     ],
     "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MF8dCK1EmeF821",
+    "name": "Tour Spot TV",
+    "stream_urls": [
+      "https://fox.hostlagarto.com:8081/toursporttv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "do",
     "isGeoBlocked": false
   },
   {

@@ -13,14 +13,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "D4yTc59L8E3C7q",
-    "name": "24 Канал онлайн",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/3cNUNNC10D8"
+    "nanoid": "H0fTRstAnfWOk3",
+    "name": "Avers",
+    "stream_urls": [
+      "https://avers.pp.ua/hls/efir.m3u8"
     ],
+    "youtube_urls": [],
     "languages": [
-      "rus"
+      "ukr"
     ],
     "country": "ua",
     "isGeoBlocked": false
@@ -208,36 +208,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "TnYj2ZiJkibGxp",
-    "name": "Suspilne. Sport",
-    "stream_urls": [
-      "https://cdnua05.hls.tv/934/hls/8743361621b245838bee193c9ec28322/4856/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ukr"
-    ],
-    "country": "ua",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "Pqrkg7U9owFXx2",
     "name": "Telekanal RAI",
     "stream_urls": [
       "https://stream.rai.ua/rai/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ukr"
-    ],
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KNtnaXZuhjC6uj",
-    "name": "TIS TV",
-    "stream_urls": [
-      "https://cdn10.live-tv.cloud/riood/tisod-abr/riood/tisod720/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -263,9 +237,9 @@
     "nanoid": "TSbUr1OhqLkxuT",
     "name": "TVA",
     "stream_urls": [
+      "https://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8",
       "https://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8",
-      "https://rtsp.cdn.ua/tva.ua_live/livestream/playlist.m3u8",
-      "https://hls.cdn.ua/tva.ua_live/livestream/chunklist_w396178779.m3u8"
+      "https://rtsp.cdn.ua/tva.ua_live/livestream/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

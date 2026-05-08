@@ -64,12 +64,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "VCFZo6dbs3n20W",
-    "name": "DGV",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/_yew_CBhdyM"
+    "nanoid": "YbJKFpPbkRwCoQ",
+    "name": "Dien Bien TV",
+    "stream_urls": [
+      "https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&deviceId=&deviceType=&gcId=1532&location=NA&pkg=pkg11.hni&q=high&requestTime=1586309420781&time=1586395820&token=LX-ibJYRUq9pflRtYAxfYQ&type=tv&userId="
     ],
+    "youtube_urls": [],
     "languages": [
       "vie"
     ],
@@ -120,6 +120,7 @@
     "nanoid": "MO8deGVLY2zQ9f",
     "name": "HanoiTV2",
     "stream_urls": [
+      "https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/playlist.m3u8",
       "https://liveh34.vtvprime.vn/hls/HANOI2TV/index.m3u8"
     ],
     "youtube_urls": [],
@@ -218,6 +219,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xlcGIv3VShAd0r",
+    "name": "SCTV Phim Tong Hop",
+    "stream_urls": [
+      "https://liveh12.vtvprime.vn/hls/SCTVPHIM/03.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "jkQYdQSyLonKfX",
     "name": "SCTV1",
     "stream_urls": [
@@ -244,10 +258,75 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "9Bc1NWY7WKYsr6",
+    "name": "SCTV3",
+    "stream_urls": [
+      "https://liveh34.vtvprime.vn/hls/SCTV3/03.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "wkFlSgnzUPYh8q",
     "name": "SCTV4",
     "stream_urls": [
       "https://liveh12.vtvprime.vn/hls/SCTV4/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8kdpWxJQ1i1LcH",
+    "name": "SCTV6",
+    "stream_urls": [
+      "https://liveh34.vtvprime.vn/hls/SCTV6/03.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "WDpo6d5ejxs4be",
+    "name": "SCTV7",
+    "stream_urls": [
+      "https://liveh34.vtvprime.vn/hls/SCTV7/03.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dgQ8390eb6c6qU",
+    "name": "SCTV8",
+    "stream_urls": [
+      "https://liveh34.vtvprime.vn/hls/SCTV8/03.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6q44PzDBw9qbXM",
+    "name": "SCTV10",
+    "stream_urls": [
+      "https://liveh34.vtvprime.vn/hls/SCTV10/03.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
