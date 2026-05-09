@@ -175,30 +175,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "y7rKVGZvfCH0di",
-    "name": "Jeddah Radio 96.2 FM",
-    "stream_urls": [
-      "https://live.kwikmotion.com/sbrksajeddahradiolive/ksajeddahradio/chunks.m3u8"
-    ],
-    "country": "sa",
-    "languages": [
-      "ara"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "tTG58hk1OTBxmu",
-    "name": "Khuzama Radio",
-    "stream_urls": [
-      "https://live.kwikmotion.com/sbrksakhuzamaradiolive/khuzama/chunks.m3u8"
-    ],
-    "country": "sa",
-    "languages": [
-      "ara"
-    ],
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hpGJqvlTUw1RIB",
     "name": "Maura Radio",
     "stream_urls": [
@@ -301,7 +277,8 @@
     "nanoid": "b2OGVTbnU4KWuq",
     "name": "Radio Asharq with Bloomberg",
     "stream_urls": [
-      "https://l3.itworkscdn.net/asharqradioalive/asharqradioa/icecast.audio"
+      "https://l3.itworkscdn.net/asharqradioalive/asharqradioa/icecast.audio",
+      "https://svs.itworkscdn.net/asharqradioalive/asharqradioa/playlist.m3u8"
     ],
     "country": "sa",
     "languages": [
@@ -338,8 +315,7 @@
     "nanoid": "5SNsKy7ge0VILo",
     "name": "Riyadh Radio 91.5 FM",
     "stream_urls": [
-      "https://stream-154.zeno.fm/pdeizhgrtrstv",
-      "https://live.kwikmotion.com/sbrksariyadhradiolive/ksariyadhradio/chunks.m3u8"
+      "https://stream-154.zeno.fm/pdeizhgrtrstv"
     ],
     "country": "sa",
     "languages": [
@@ -356,19 +332,6 @@
     "country": "sa",
     "languages": [
       "ara"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xpMyBdzqavvpnp",
-    "name": "Saudia Radio 87.7 FM",
-    "stream_urls": [
-      "https://live.kwikmotion.com/sbrksasaudiaradiolive/ksasaudiaradio/chunks.m3u8"
-    ],
-    "country": "sa",
-    "languages": [
-      "ara",
-      "eng"
     ],
     "isGeoBlocked": false
   },

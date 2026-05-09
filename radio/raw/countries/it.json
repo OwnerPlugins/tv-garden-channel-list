@@ -125,9 +125,9 @@
     "nanoid": "48v8ouyKYT4Kd4",
     "name": "AFN Aviano",
     "stream_urls": [
-      "https://27913.live.streamtheworld.com/AFNE_AVN_SC",
-      "https://22183.live.streamtheworld.com/AFNE_AVN_SC",
-      "https://25553.live.streamtheworld.com/AFNE_AVN_SC"
+      "https://25453.live.streamtheworld.com/AFNE_AVN_SC",
+      "https://25553.live.streamtheworld.com/AFNE_AVN_SC",
+      "https://27863.live.streamtheworld.com/AFNE_AVN_SC"
     ],
     "country": "it",
     "languages": [
@@ -139,9 +139,9 @@
     "nanoid": "sSwR7miVpjaU8m",
     "name": "AFN Naples",
     "stream_urls": [
-      "https://29103.live.streamtheworld.com/AFNE_NAP_SC",
       "https://25443.live.streamtheworld.com/AFNE_NAP_SC",
-      "https://28503.live.streamtheworld.com/AFNE_NAP_SC"
+      "https://29103.live.streamtheworld.com/AFNE_NAP_SC",
+      "https://25503.live.streamtheworld.com/AFNE_NAP_SC"
     ],
     "country": "it",
     "languages": [
@@ -153,9 +153,9 @@
     "nanoid": "Tn6W0unzL8at2a",
     "name": "AFN Sigonella",
     "stream_urls": [
+      "https://25633.live.streamtheworld.com/AFNE_SIG_SC",
       "https://28513.live.streamtheworld.com/AFNE_SIG_SC",
-      "https://23543.live.streamtheworld.com/AFNE_SIG_SC",
-      "https://25633.live.streamtheworld.com/AFNE_SIG_SC"
+      "https://23543.live.streamtheworld.com/AFNE_SIG_SC"
     ],
     "country": "it",
     "languages": [
@@ -167,9 +167,9 @@
     "nanoid": "yPUksssXjTNqFj",
     "name": "AFN Vicenza",
     "stream_urls": [
-      "https://23543.live.streamtheworld.com/AFNE_VIC_SC",
-      "https://27783.live.streamtheworld.com/AFNE_VIC_SC",
-      "https://29053.live.streamtheworld.com/AFNE_VIC_SC"
+      "https://22653.live.streamtheworld.com/AFNE_VIC_SC",
+      "https://28513.live.streamtheworld.com/AFNE_VIC_SC",
+      "https://23543.live.streamtheworld.com/AFNE_VIC_SC"
     ],
     "country": "it",
     "languages": [
@@ -767,9 +767,9 @@
     "nanoid": "hNuJUdNwWZxvWV",
     "name": "Funky Radio",
     "stream_urls": [
-      "https://my.streamingmedia.it/listen/discofunk/play",
+      "https://my.streamingmedia.it:8020/play",
       "https://discofunk.streamingmedia.it/play",
-      "https://my.streamingmedia.it:8020/play"
+      "https://my.streamingmedia.it/listen/discofunk/play"
     ],
     "country": "it",
     "languages": [
@@ -1289,18 +1289,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "EgzM7C3G2mXdpM",
-    "name": "Milano XR",
-    "stream_urls": [
-      "https://milanoxr.gatesweb.info:8443/live"
-    ],
-    "country": "it",
-    "languages": [
-      "ita"
-    ],
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "vprMRqgq5sywH3",
     "name": "Mindpositivo Radio",
     "stream_urls": [
@@ -1511,8 +1499,8 @@
     "nanoid": "IfbpVBYCnIBJOK",
     "name": "OneShot Radio",
     "stream_urls": [
-      "https://buraglio.it:8000/oneshot",
-      "https://stream.buraglio.it/oneshot"
+      "https://stream.buraglio.it/oneshot",
+      "https://buraglio.it:8000/oneshot"
     ],
     "country": "it",
     "languages": [
@@ -1619,12 +1607,24 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Q4kz68CjXJVG5n",
+    "name": "Q8 Radio",
+    "stream_urls": [
+      "https://nr15.newradio.it:9132/stream"
+    ],
+    "country": "it",
+    "languages": [
+      "ita"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "GA1IUWDDJgnBNO",
     "name": "R101",
     "stream_urls": [
+      "https://icy.unitedradio.it/R101_558.aac",
       "https://icecast.unitedradio.it/r101",
-      "https://icecast.unitedradio.it/r101_mp3",
-      "https://icy.unitedradio.it/R101_558.aac"
+      "https://icecast.unitedradio.it/r101_mp3"
     ],
     "country": "it",
     "languages": [
@@ -1780,8 +1780,8 @@
     "nanoid": "b2qL2xqDCehBDB",
     "name": "Radio 19",
     "stream_urls": [
-      "https://rn1.fluidstream.eu/radio19.mp3?FLID=6",
       "https://rn1.fluidstream.eu/radio19.aac?FLID=6",
+      "https://rn1.fluidstream.eu/radio19.mp3?FLID=6",
       "https://rn1.fluidstream.eu/radio19.mp3"
     ],
     "country": "it",
@@ -2464,8 +2464,8 @@
     "name": "Radio Balla Balla",
     "stream_urls": [
       "https://ice15.fluidstream.net/ballaballa.aac?FLID=6",
-      "https://ice09.fluidstream.net/ballaballa.mp3?FLID=6",
-      "https://ice09.fluidstream.net/ballaballa.mp3"
+      "https://ice09.fluidstream.net/ballaballa.mp3",
+      "https://ice09.fluidstream.net/ballaballa.mp3?FLID=6"
     ],
     "country": "it",
     "languages": [
@@ -2870,8 +2870,8 @@
     "nanoid": "5W8pItKtavucgQ",
     "name": "Radio Cavolo",
     "stream_urls": [
-      "https://s2.radio.co/s0f4ac5cbf/listen",
-      "https://radiocavolo.org/stream"
+      "https://radiocavolo.org/stream",
+      "https://s2.radio.co/s0f4ac5cbf/listen"
     ],
     "country": "it",
     "languages": [
@@ -3361,8 +3361,8 @@
     "name": "Radio Easy Network",
     "stream_urls": [
       "https://sphera.fluidstream.eu/easy.aac",
-      "https://sphera.fluidstream.eu/easy.aac?FLID=6",
-      "https://sphera.fluidstream.eu/easy.mp3?FLID=6"
+      "https://sphera.fluidstream.eu/easy.mp3?FLID=6",
+      "https://sphera.fluidstream.eu/easy.aac?FLID=6"
     ],
     "country": "it",
     "languages": [
@@ -3387,6 +3387,18 @@
     "name": "Radio Easy Network Jazz & Soul",
     "stream_urls": [
       "https://sphera.fluidstream.eu/easy_jazz.mp3"
+    ],
+    "country": "it",
+    "languages": [
+      "ita"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fTxi0sRMjEqWL0",
+    "name": "Radio Easy Rock",
+    "stream_urls": [
+      "https://sphera.fluidstream.eu/easyrock.aac"
     ],
     "country": "it",
     "languages": [
@@ -3631,8 +3643,8 @@
     "nanoid": "A4RksZQUIhQuMY",
     "name": "Radio Gamma 5",
     "stream_urls": [
-      "https://ice05.fluidstream.net:80/fluid0510.mp3?FLID=6",
       "https://ice05.fluidstream.net/fluid0510.mp3",
+      "https://ice05.fluidstream.net:80/fluid0510.mp3?FLID=6",
       "https://ice09.fluidstream.net:80/fluid0902.aac?FLID=6"
     ],
     "country": "it",
@@ -3705,8 +3717,8 @@
     "nanoid": "03kHDN4URk4zel",
     "name": "Radio Giulia",
     "stream_urls": [
-      "https://rh.fluidstream.eu/giulia.aac?FLID=6",
       "https://rh.fluidstream.eu/giulia.aac",
+      "https://rh.fluidstream.eu/giulia.aac?FLID=6",
       "https://rh.fluidstream.eu/giulia.mp3?FLID=6"
     ],
     "country": "it",
@@ -3719,8 +3731,8 @@
     "nanoid": "fbJvOouP1DV18O",
     "name": "Radio Globo",
     "stream_urls": [
-      "https://globo.newradio.it/globorm128",
-      "https://globo.newradio.it/globorm64"
+      "https://globo.newradio.it/globorm64",
+      "https://globo.newradio.it/globorm128"
     ],
     "country": "it",
     "languages": [
@@ -3828,8 +3840,8 @@
     "nanoid": "2Hr4Tr2gjlRvcA",
     "name": "Radio Iride",
     "stream_urls": [
-      "https://sphera.fluidstream.eu/rpd.aac?FLID=6",
-      "https://sphera.fluidstream.eu/rpd.mp3?FLID=6"
+      "https://sphera.fluidstream.eu/rpd.mp3?FLID=6",
+      "https://sphera.fluidstream.eu/rpd.aac?FLID=6"
     ],
     "country": "it",
     "languages": [
@@ -3853,8 +3865,8 @@
     "nanoid": "zzhSh0sUDNdEKs",
     "name": "Radio Italia Anni 60",
     "stream_urls": [
-      "https://icy.unitedradio.it/um014.mp3",
-      "https://str01.fluidstream.net/anni60.mp3"
+      "https://str01.fluidstream.net/anni60.mp3",
+      "https://icy.unitedradio.it/um014.mp3"
     ],
     "country": "it",
     "languages": [
@@ -3866,8 +3878,8 @@
     "nanoid": "eRs7bnRqjlRuIp",
     "name": "Radio Italia Anni 60 (Emilia-Romagna e Marche)",
     "stream_urls": [
-      "https://ice12.fluidstream.net/ria60_bo.aac",
-      "https://ice04.fluidstream.net/ria60_bo.mp3"
+      "https://ice04.fluidstream.net/ria60_bo.mp3",
+      "https://ice12.fluidstream.net/ria60_bo.aac"
     ],
     "country": "it",
     "languages": [
@@ -4402,8 +4414,8 @@
     "nanoid": "lFyFuliMgtKhTv",
     "name": "Radio LineAttiva",
     "stream_urls": [
-      "https://ice17.fluidstream.net/conselve.mp3?FLID=H",
       "https://ice17.fluidstream.net/conselve.mp3?FLID=M",
+      "https://ice17.fluidstream.net/conselve.mp3?FLID=H",
       "https://ice02.fluidstream.net/playstudio.mp3"
     ],
     "country": "it",
@@ -4746,8 +4758,8 @@
     "nanoid": "tQhaV97t9EgQea",
     "name": "Radio Monte Carlo",
     "stream_urls": [
-      "https://icecast.unitedradio.it/RMC.mp3",
-      "https://icy.unitedradio.it/RMC.aac"
+      "https://icy.unitedradio.it/RMC.aac",
+      "https://icecast.unitedradio.it/RMC.mp3"
     ],
     "country": "it",
     "languages": [
@@ -4927,6 +4939,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "WMR1YUSZXmzyMT",
+    "name": "Radio Nettuno Bologna Uno",
+    "stream_urls": [
+      "https://audio6.nemostream.tv/proxy/nettunobologna1ice1/stream"
+    ],
+    "country": "it",
+    "languages": [
+      "ita"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "JAWxdOZoOMptqv",
     "name": "Radio News 24",
     "stream_urls": [
@@ -5079,8 +5103,8 @@
     "nanoid": "K8hN6ha719ngdS",
     "name": "Radio One Dance",
     "stream_urls": [
-      "https://ice10.fluidstream.net/rn1_2.mp3",
-      "https://ice04.fluidstream.net/rn1_2.aac"
+      "https://ice04.fluidstream.net/rn1_2.aac",
+      "https://ice10.fluidstream.net/rn1_2.mp3"
     ],
     "country": "it",
     "languages": [
@@ -5165,6 +5189,18 @@
     "name": "Radio Parma",
     "stream_urls": [
       "https://ice05.fluidstream.net/radioparma.aac"
+    ],
+    "country": "it",
+    "languages": [
+      "ita"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0sWNtsmepAnpFj",
+    "name": "Radio Parole di Vita",
+    "stream_urls": [
+      "https://video2.azotosolutions.com:2020/stream/radioparoledivita2"
     ],
     "country": "it",
     "languages": [
@@ -5319,6 +5355,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Y75QOiJMAmA3CR",
+    "name": "Radio Pulcinella",
+    "stream_urls": [
+      "https://stream.zeno.fm/9dve9gmfakhvv"
+    ],
+    "country": "it",
+    "languages": [
+      "ita"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hHQtyFcku7G6B2",
     "name": "Radio Punto",
     "stream_urls": [
@@ -5372,18 +5420,6 @@
     "name": "Radio Radicale",
     "stream_urls": [
       "https://live.radioradicale.it/live.mp3"
-    ],
-    "country": "it",
-    "languages": [
-      "ita"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "yi3JdlWDeqPI8P",
-    "name": "Radio Radio",
-    "stream_urls": [
-      "https://sr6.inmystream.it:18102/stream"
     ],
     "country": "it",
     "languages": [
@@ -5883,8 +5919,8 @@
     "nanoid": "FhGOSHuonV5F7C",
     "name": "Radio Studio Emme",
     "stream_urls": [
-      "https://ice05.fluidstream.net:80/fluid0505.mp3?FLID=6",
       "https://ice09.fluidstream.net/fluid0901.aac",
+      "https://ice05.fluidstream.net:80/fluid0505.mp3?FLID=6",
       "https://ice09.fluidstream.net:80/fluid0901.aac?FLID=6"
     ],
     "country": "it",
@@ -6009,6 +6045,21 @@
     ],
     "country": "it",
     "languages": [
+      "ita"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "OuTVOqP0JZ78Ss",
+    "name": "Radio Swiss Jazz",
+    "stream_urls": [
+      "https://stream.srg-ssr.ch/srgssr/rsj/aac/96"
+    ],
+    "country": "it",
+    "languages": [
+      "deu",
+      "eng",
+      "fra",
       "ita"
     ],
     "isGeoBlocked": false
@@ -6288,8 +6339,8 @@
     "name": "Radio WoW",
     "stream_urls": [
       "https://ice10.fluidstream.net/fluid_wow.aac",
-      "https://sphera.fluidstream.eu/fluid_wow.mp3?FLID=6",
-      "https://sphera.fluidstream.eu/fluid_wow.aac"
+      "https://sphera.fluidstream.eu/fluid_wow.aac",
+      "https://sphera.fluidstream.eu/fluid_wow.mp3?FLID=6"
     ],
     "country": "it",
     "languages": [
@@ -6314,18 +6365,6 @@
     "name": "Radio WoW Latin",
     "stream_urls": [
       "https://sphera.fluidstream.eu/rwow_latin.mp3"
-    ],
-    "country": "it",
-    "languages": [
-      "ita"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Ot5wgf7GDfNkYI",
-    "name": "Radio YES",
-    "stream_urls": [
-      "https://stream1.aswifi.it/radioyes/live/index.m3u8"
     ],
     "country": "it",
     "languages": [
@@ -6445,18 +6484,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zfws1BddN66Kuq",
-    "name": "Rai Alto Adige",
-    "stream_urls": [
-      "https://radiobzlive.rai.it/RAI_AltoAdige"
-    ],
-    "country": "it",
-    "languages": [
-      "ita"
-    ],
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Vd9cf4H56DJhHQ",
     "name": "Rai Gr Parlamento",
     "stream_urls": [
@@ -6475,6 +6502,18 @@
     "stream_urls": [
       "https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S3822289/9T4F68Q3TT4m/icecast",
       "https://isoradioest-live.akamaized.net/hls/live/2032602/isoradioest/isoradioest/playlist.m3u8"
+    ],
+    "country": "it",
+    "languages": [
+      "ita"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pmJWLXOf0usf8N",
+    "name": "Rai News 24",
+    "stream_urls": [
+      "https://tgrcampania-live.akamaized.net/hls/live/2025562/tgrcampania/tgrcampania/playlist.m3u8"
     ],
     "country": "it",
     "languages": [
@@ -6611,6 +6650,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "sgWLYx07bN2Kr3",
+    "name": "Rai Südtirol",
+    "stream_urls": [
+      "https://radiobzlive.rai.it/RAIBZ_Livestream"
+    ],
+    "country": "it",
+    "languages": [
+      "deu",
+      "ita"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Mkz5vMonwVrW1Z",
     "name": "RAM Power",
     "stream_urls": [
@@ -6703,8 +6755,8 @@
     "name": "RDS",
     "stream_urls": [
       "https://icstream.rds.radio/rds64k",
-      "https://stream.rds.radio/audio/rds.stream_aac64/chunklist.m3u8",
-      "https://stream.rds.radio/audio/rds.stream_aac/chunklist.m3u8"
+      "https://stream.rds.radio/audio/rds.stream_aac/chunklist.m3u8",
+      "https://stream.rds.radio/audio/rds.stream_aac64/chunklist.m3u8"
     ],
     "country": "it",
     "languages": [
@@ -6791,6 +6843,18 @@
     "name": "Rete Radio Azzurra",
     "stream_urls": [
       "https://reteradioazzurra.radioca.st/stream"
+    ],
+    "country": "it",
+    "languages": [
+      "ita"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dIg9FyDaYdQIwr",
+    "name": "Rete Sport",
+    "stream_urls": [
+      "https://icecast.ithost.it/retesport.ogg"
     ],
     "country": "it",
     "languages": [
@@ -6973,8 +7037,8 @@
     "nanoid": "zu15ztBSHH0WXt",
     "name": "Rocket Radio",
     "stream_urls": [
-      "https://stream.radiojar.com/nvvyes7gud5tv",
-      "https://n05.radiojar.com/nvvyes7gud5tv"
+      "https://n05.radiojar.com/nvvyes7gud5tv",
+      "https://stream.radiojar.com/nvvyes7gud5tv"
     ],
     "country": "it",
     "languages": [
@@ -6988,6 +7052,18 @@
     "name": "Romantica Radio",
     "stream_urls": [
       "https://vetrina.multi-radio.com/romanticaradio"
+    ],
+    "country": "it",
+    "languages": [
+      "ita"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6dQVoCxRBwXSqG",
+    "name": "RomaRadio",
+    "stream_urls": [
+      "https://nr9.newradio.it:9021/stream"
     ],
     "country": "it",
     "languages": [
@@ -7011,8 +7087,8 @@
     "nanoid": "tZ11MAWm79wlYt",
     "name": "RTL 102.5",
     "stream_urls": [
-      "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_audio.m3u8",
-      "https://streamingv2.shoutcast.com/rtl-1025"
+      "https://streamingv2.shoutcast.com/rtl-1025",
+      "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_audio.m3u8"
     ],
     "country": "it",
     "languages": [
@@ -7233,6 +7309,18 @@
     "name": "Station Italy",
     "stream_urls": [
       "https://stationitaly.stream.laut.fm/stationitaly"
+    ],
+    "country": "it",
+    "languages": [
+      "ita"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GDK8nlVVSN4raJ",
+    "name": "Stazione Playlist",
+    "stream_urls": [
+      "https://stream.zeno.fm/5fnppy0ag0hvv"
     ],
     "country": "it",
     "languages": [
@@ -7593,10 +7681,35 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xPGw7CtXSJOsrO",
+    "name": "Urban Radio",
+    "stream_urls": [
+      "https://nr3.newradio.it:18100/stream"
+    ],
+    "country": "it",
+    "languages": [
+      "ita"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "kmk8vTdaq8j2hs",
     "name": "V2BEAT Radio & TV",
     "stream_urls": [
       "https://de1se01.v2beat.live/icecast.audio"
+    ],
+    "country": "it",
+    "languages": [
+      "eng",
+      "ita"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "AaPR3FhEKsl6Ty",
+    "name": "Venice Classic Radio",
+    "stream_urls": [
+      "https://uk2.streamingpulse.com/ssl/vcr2"
     ],
     "country": "it",
     "languages": [
@@ -7622,8 +7735,8 @@
     "nanoid": "yC0nl6sZvSkYEV",
     "name": "Veronica My Radio",
     "stream_urls": [
-      "https://sphera.fluidstream.eu/rpd_country.mp3?FLID=7",
-      "https://sphera.fluidstream.eu/rpd.mp3?FLID=8"
+      "https://sphera.fluidstream.eu/rpd.mp3?FLID=8",
+      "https://sphera.fluidstream.eu/rpd_country.mp3?FLID=7"
     ],
     "country": "it",
     "languages": [

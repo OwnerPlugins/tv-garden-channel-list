@@ -228,8 +228,8 @@
     "name": "Antenne Bayern - Schlagersahne",
     "stream_urls": [
       "https://s10-webradio.antenne.de/das-schlager-karussell.aac",
-      "https://s3-webradio.antenne.de/das-schlager-karussell",
-      "https://s3-webradio.antenne.de/das-schlager-karussell/stream/aacp"
+      "https://s3-webradio.antenne.de/das-schlager-karussell/stream/aacp",
+      "https://s3-webradio.antenne.de/das-schlager-karussell"
     ],
     "country": "de",
     "languages": [
@@ -253,6 +253,7 @@
     "nanoid": "TxzSeLYZ6cS25I",
     "name": "antenne SACHSEN",
     "stream_urls": [
+      "https://edge13.radio.antennesachsen.de/antsa-dresden",
       "https://edge69.radio.antennesachsen.de/antsa-dresden",
       "https://hermes.bcs-systems.de/antenne-sachsen_192k_mp3"
     ],
@@ -304,8 +305,8 @@
     "nanoid": "7VPNMlI2PyIJub",
     "name": "Ballermann Radio",
     "stream_urls": [
-      "https://stream.bmr-radio.de/ballermann-radio.mp3",
-      "https://stream.bmr-radio.de/"
+      "https://stream.bmr-radio.de/",
+      "https://stream.bmr-radio.de/ballermann-radio.mp3"
     ],
     "country": "de",
     "languages": [
@@ -329,7 +330,8 @@
     "nanoid": "qWRAH2QtX5fAi0",
     "name": "BG Estrada",
     "stream_urls": [
-      "https://play.global.audio/bgestrada"
+      "https://play.global.audio/bgestrada",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/BG_ESTRADAAAC_L.aac"
     ],
     "country": "bg",
     "languages": [
@@ -426,6 +428,7 @@
     "name": "FFH Schlagerkult",
     "stream_urls": [
       "https://mp3.ffh.de/ffhchannels/hqschlager.mp3?aw_0_req.gdpr=true",
+      "https://mp3.ffh.de/ffhchannels/hqschlager.aac",
       "https://mp3.ffh.de/ffhchannels/schlager.aac?aw_0_req.gdpr=true"
     ],
     "country": "de",
@@ -499,7 +502,7 @@
     "nanoid": "dwKxaxiVjMeKl0",
     "name": "HITRADIO RTL - Schlager",
     "stream_urls": [
-      "https://edge66.radio.hitradio-rtl.de/hrrtl-schlager/stream/mp3?aggregator=smk-m3u-mp3"
+      "https://edge69.radio.hitradio-rtl.de/hrrtl-schlager/stream/mp3?aggregator=smk-m3u-mp3"
     ],
     "country": "de",
     "languages": [
@@ -622,18 +625,6 @@
     "stream_urls": [
       "https://karneval-radio.stream.laut.fm/karneval-radio",
       "https://karneval.stream.laut.fm/karneval"
-    ],
-    "country": "de",
-    "languages": [
-      "deu"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Hys6ijmiCOIllF",
-    "name": "Karnevalsmusik",
-    "stream_urls": [
-      "https://karnevalsmusik.stream.laut.fm/karnevalsmusik"
     ],
     "country": "de",
     "languages": [
@@ -790,8 +781,8 @@
     "nanoid": "kWfg13d2YPp2Ad",
     "name": "MDR SCHLAGERWELT",
     "stream_urls": [
-      "https://mdr-990801-0.sslcast.mdr.de/mdr/990801/0/mp3/high/stream.mp3",
-      "https://mdr-radio-hls.akamaized.net/hls/live/2112911/mdr-990701-0-hls/index.m3u8"
+      "https://mdr-radio-hls.akamaized.net/hls/live/2112911/mdr-990701-0-hls/index.m3u8",
+      "https://mdr-990801-0.sslcast.mdr.de/mdr/990801/0/mp3/high/stream.mp3"
     ],
     "country": "de",
     "languages": [
@@ -816,8 +807,8 @@
     "nanoid": "hl27zGiRxyIbXb",
     "name": "MDR SCHLAGERWELT (Sachsen)",
     "stream_urls": [
-      "https://mdr-990801-0.sslcast.mdr.de/mdr/990801/0/mp3/high/stream.mp3",
-      "https://radio-hls.mdr.de/hls/live/2112912/mdr-990801-0-hls/index.m3u8"
+      "https://radio-hls.mdr.de/hls/live/2112912/mdr-990801-0-hls/index.m3u8",
+      "https://mdr-990801-0.sslcast.mdr.de/mdr/990801/0/mp3/high/stream.mp3"
     ],
     "country": "de",
     "languages": [
@@ -829,8 +820,8 @@
     "nanoid": "ban6VEwerZ5euS",
     "name": "MDR SCHLAGERWELT (Thüringen)",
     "stream_urls": [
-      "https://mdr-990601-0.sslcast.mdr.de/mdr/990601/0/mp3/high/stream.mp3",
-      "https://radio-hls.mdr.de/hls/live/2112910/mdr-990601-0-hls/index.m3u8"
+      "https://radio-hls.mdr.de/hls/live/2112910/mdr-990601-0-hls/index.m3u8",
+      "https://mdr-990601-0.sslcast.mdr.de/mdr/990601/0/mp3/high/stream.mp3"
     ],
     "country": "de",
     "languages": [
@@ -1062,7 +1053,7 @@
     "nanoid": "ifryPUPpilqQqv",
     "name": "R.SA - Schlager",
     "stream_urls": [
-      "https://rsa.streamabc.net/regc-rsasachsenschlager9140327-mp3-192-4293083?sABC=69sq8106%230%23nnp26506rp49pqn990964o9n4q25s823%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1778221318"
+      "https://rsa.streamabc.net/regc-rsasachsenschlager9140327-mp3-192-4293083?sABC=69ss0r86%230%23nnp26506rp49pqn990964o9n4q25s823%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1778323078"
     ],
     "country": "de",
     "languages": [
@@ -1098,8 +1089,8 @@
     "nanoid": "Af7XptlNf68KCs",
     "name": "Radio Arabella Austropop",
     "stream_urls": [
-      "https://edge61.streams.arabella.at/arabella-austropop",
-      "https://frontend.streams.arabella.at/arabella-austropop/stream/mp3?aggregator=arabella-playlistfile"
+      "https://frontend.streams.arabella.at/arabella-austropop/stream/mp3?aggregator=arabella-playlistfile",
+      "https://edge61.streams.arabella.at/arabella-austropop"
     ],
     "country": "at",
     "languages": [
@@ -1111,7 +1102,8 @@
     "nanoid": "VNDnDb3KgzHQlT",
     "name": "Radio Arabella Oberösterreich",
     "stream_urls": [
-      "https://edge22.streams.arabella.at/arabella-oberoesterreich"
+      "https://edge22.streams.arabella.at/arabella-oberoesterreich",
+      "https://frontend.streams.arabella.at/arabella-oberoesterreich"
     ],
     "country": "at",
     "languages": [
@@ -1174,7 +1166,7 @@
     "name": "RADIO BOLLERWAGEN",
     "stream_urls": [
       "https://stream.ffn.de/radiobollerwagen/mp3-192",
-      "https://ffn-stream19.radiohost.de/radiobollerwagen_mp3-192",
+      "https://ffn-de-hz-fal-stream06-cluster01.radiohost.de/radiobollerwagen_mp3-192",
       "https://stream.ffn.de/radiobollerwagen/mp3-192/stream.mp3"
     ],
     "country": "de",
@@ -1206,19 +1198,6 @@
     "country": "at",
     "languages": [
       "deu"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "bTYRm8Ih51xBMD",
-    "name": "Radio Calypso",
-    "stream_urls": [
-      "https://mcp-1.streampanel.nl:8024/mobiel"
-    ],
-    "country": "nl",
-    "languages": [
-      "deu",
-      "nld"
     ],
     "isGeoBlocked": false
   },
@@ -1301,6 +1280,18 @@
       "https://s10.streamingcloud.online/stream/13210"
     ],
     "country": "de",
+    "languages": [
+      "deu"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZnWqRhhJUSlBlk",
+    "name": "Radio Grün Weiß",
+    "stream_urls": [
+      "https://live.gruen-weiss.at/rgw.aac"
+    ],
+    "country": "at",
     "languages": [
       "deu"
     ],
@@ -1521,8 +1512,8 @@
     "nanoid": "ULWrEg2fHYQ3oy",
     "name": "Radio Paloma - Partyschlager",
     "stream_urls": [
-      "https://streams.schlagerplanetradio.com/kult/mp3-192",
-      "https://pool.radiopaloma.de/RP-Partyschlager.mp3"
+      "https://pool.radiopaloma.de/RP-Partyschlager.mp3",
+      "https://streams.schlagerplanetradio.com/kult/mp3-192"
     ],
     "country": "de",
     "languages": [
@@ -1645,8 +1636,8 @@
     "nanoid": "yWKwr7wJ3RXRWM",
     "name": "Radio Schlagerparadies",
     "stream_urls": [
-      "https://webstream.schlagerparadies.de/schlagerparadies128k.mp3",
-      "https://webstream.schlagerparadies.de/schlagerparadies128.mp3"
+      "https://webstream.schlagerparadies.de/schlagerparadies128.mp3",
+      "https://webstream.schlagerparadies.de/schlagerparadies128k.mp3"
     ],
     "country": "de",
     "languages": [
@@ -1684,8 +1675,8 @@
     "nanoid": "q00aOc6YHN5661",
     "name": "Radio Schwany - Herzklang",
     "stream_urls": [
-      "https://herzklang.hoamatwelle.de/",
-      "https://twix.streampanel.cloud/8-herzklang"
+      "https://twix.streampanel.cloud/8-herzklang",
+      "https://herzklang.hoamatwelle.de/"
     ],
     "country": "de",
     "languages": [
@@ -1760,8 +1751,8 @@
     "name": "Radio Schwany - Souvenir 2",
     "stream_urls": [
       "https://souvenir2.spcast.eu/stream",
-      "https://souvenir2.hoamatwelle.de/",
-      "https://twix.streampanel.cloud/13-souvenir2"
+      "https://twix.streampanel.cloud/13-souvenir2",
+      "https://souvenir2.hoamatwelle.de/"
     ],
     "country": "de",
     "languages": [
@@ -1774,8 +1765,8 @@
     "name": "Radio Schwany - Weihnacht",
     "stream_urls": [
       "https://schwany.streampanel.cloud/14-weihnacht",
-      "https://charly.streampanel.cloud/14-weihnacht",
-      "https://twix.streampanel.cloud/14-weihnacht"
+      "https://twix.streampanel.cloud/14-weihnacht",
+      "https://charly.streampanel.cloud/14-weihnacht"
     ],
     "country": "de",
     "languages": [
@@ -1826,8 +1817,8 @@
     "name": "Radio Schwany 3 - Echte Volksmusik",
     "stream_urls": [
       "https://volksmusik.sp.radio.fm/stream",
-      "https://bone.streampanel.cloud/3-dieechte",
-      "https://charly.streampanel.net/3-dieechte"
+      "https://charly.streampanel.net/3-dieechte",
+      "https://schwany3volksmusik.hoamatwelle.de/"
     ],
     "country": "de",
     "languages": [
@@ -1839,9 +1830,9 @@
     "nanoid": "UUSaBeyxlSXRab",
     "name": "Radio Schwany 4 - Blasmusik",
     "stream_urls": [
-      "https://bone.streampanel.cloud/4-blasmusik",
+      "https://twix.streampanel.cloud/4-blasmusik",
       "https://blasmusik.sp.radio.fm/stream",
-      "https://twix.streampanel.cloud/4-blasmusik"
+      "https://bone.streampanel.cloud/4-blasmusik"
     ],
     "country": "de",
     "languages": [
@@ -1853,8 +1844,8 @@
     "nanoid": "zd8NzGhTAemOan",
     "name": "Radio Schwany 5 - Oberkrainer",
     "stream_urls": [
-      "https://oberkrain.sp.radio.fm/stream",
       "https://charly.streampanel.net/5-oberkrain",
+      "https://oberkrain.sp.radio.fm/stream",
       "https://schwany.streampanel.cloud/5-oberkrain"
     ],
     "country": "de",
@@ -1919,9 +1910,9 @@
     "nanoid": "pscBKH5b2VMG5w",
     "name": "Radio U1 Tirol",
     "stream_urls": [
-      "https://live.u1-radio.at/u1-tirol-live/mp3-192",
+      "https://live.u1-radio.at/",
       "https://u1-tirol-stream07.radiohost.de/u1-tirol-live_mp3-192",
-      "https://live.u1-radio.at/"
+      "https://live.u1-radio.at/u1-tirol-live/mp3-192"
     ],
     "country": "at",
     "languages": [
@@ -2032,8 +2023,8 @@
     "nanoid": "HVyQgyyqkk6OXr",
     "name": "RadioMonster.FM - Schlager",
     "stream_urls": [
-      "https://ic5.radiomonster.fm/schlager-320",
-      "https://schlager.radiomonster.fm/320.mp3"
+      "https://schlager.radiomonster.fm/320.mp3",
+      "https://ic5.radiomonster.fm/schlager-320"
     ],
     "country": "de",
     "languages": [
@@ -2133,8 +2124,8 @@
     "nanoid": "ypLSpEULUqyaeK",
     "name": "RPR1. Après Ski & Ballermann",
     "stream_urls": [
-      "https://stream.rpr1.de/apresski/mp3-128/radiobrowser",
-      "https://streams.rpr1.de/rpr-apresski-128-mp3"
+      "https://streams.rpr1.de/rpr-apresski-128-mp3",
+      "https://stream.rpr1.de/apresski/mp3-128/radiobrowser"
     ],
     "country": "de",
     "languages": [
@@ -2326,6 +2317,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "B5UEpFzLz44oJA",
+    "name": "Schlagerwelle",
+    "stream_urls": [
+      "https://schlagerwelle.stream.laut.fm/schlagerwelle"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "YJHl9tyD8m6WaU",
     "name": "SchlagerWelle 24",
     "stream_urls": [
@@ -2365,8 +2368,8 @@
     "nanoid": "ZGityfB7pwHNJ3",
     "name": "SR 3 Saarlandwelle",
     "stream_urls": [
-      "https://sr.audiostream.io/sr/1011/mp3/56/sr3",
-      "https://liveradio.sr.de/sr/sr3/mp3/256/stream.mp3"
+      "https://liveradio.sr.de/sr/sr3/mp3/256/stream.mp3",
+      "https://sr.audiostream.io/sr/1011/mp3/56/sr3"
     ],
     "country": "de",
     "languages": [
@@ -2464,8 +2467,8 @@
     "nanoid": "RrfyENLy1U79FC",
     "name": "SWR4 Koblenz",
     "stream_urls": [
-      "https://liveradio.swr.de/sw282p3/swr4rp",
-      "https://liveradio.swr.de/sw282p3/swr4ko"
+      "https://liveradio.swr.de/sw282p3/swr4ko",
+      "https://liveradio.swr.de/sw282p3/swr4rp"
     ],
     "country": "de",
     "languages": [

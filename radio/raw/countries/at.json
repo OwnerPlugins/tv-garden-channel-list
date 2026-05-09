@@ -64,9 +64,9 @@
     "nanoid": "ytGuCfmxN1MQPK",
     "name": "88.6 OnAir",
     "stream_urls": [
-      "https://edge82.streamonkey.net/radio886-onair/stream/mp3",
+      "https://edge07.streamonkey.net/radio886-onair/stream/mp3",
       "https://radio886.at/streams/radio_88.6/mp3",
-      "https://edge07.streamonkey.net/radio886-onair/stream/mp3"
+      "https://edge82.streamonkey.net/radio886-onair/stream/mp3"
     ],
     "country": "at",
     "languages": [
@@ -1171,8 +1171,8 @@
     "nanoid": "8KwSusbAYtSHV7",
     "name": "Ö1",
     "stream_urls": [
-      "https://orf-live.ors-shoutcast.at/oe1-q1a",
-      "https://orf-live.ors-shoutcast.at/oe1-q2a"
+      "https://orf-live.ors-shoutcast.at/oe1-q2a",
+      "https://orf-live.ors-shoutcast.at/oe1-q1a"
     ],
     "country": "at",
     "languages": [
@@ -1502,8 +1502,8 @@
     "nanoid": "Af7XptlNf68KCs",
     "name": "Radio Arabella Austropop",
     "stream_urls": [
-      "https://edge61.streams.arabella.at/arabella-austropop",
-      "https://frontend.streams.arabella.at/arabella-austropop/stream/mp3?aggregator=arabella-playlistfile"
+      "https://frontend.streams.arabella.at/arabella-austropop/stream/mp3?aggregator=arabella-playlistfile",
+      "https://edge61.streams.arabella.at/arabella-austropop"
     ],
     "country": "at",
     "languages": [
@@ -1540,8 +1540,8 @@
     "nanoid": "AQnH2STYshCpHg",
     "name": "Radio Arabella Golden Oldies",
     "stream_urls": [
-      "https://frontend.streams.arabella.at/arabella-goldenoldies/stream/mp3?aggregator=arabella-playlistfile",
-      "https://edge68.streams.arabella.at/arabella-goldenoldies"
+      "https://edge68.streams.arabella.at/arabella-goldenoldies",
+      "https://frontend.streams.arabella.at/arabella-goldenoldies/stream/mp3?aggregator=arabella-playlistfile"
     ],
     "country": "at",
     "languages": [
@@ -1592,8 +1592,8 @@
     "nanoid": "rWzVHNeAlvfaVD",
     "name": "Radio Arabella Niederösterreich",
     "stream_urls": [
-      "https://edge68.streams.arabella.at/arabella-niederoesterreich",
-      "https://frontend.streams.arabella.at/arabella-niederoesterreich/stream/mp3"
+      "https://frontend.streams.arabella.at/arabella-niederoesterreich/stream/mp3",
+      "https://edge68.streams.arabella.at/arabella-niederoesterreich"
     ],
     "country": "at",
     "languages": [
@@ -1605,7 +1605,8 @@
     "nanoid": "VNDnDb3KgzHQlT",
     "name": "Radio Arabella Oberösterreich",
     "stream_urls": [
-      "https://edge22.streams.arabella.at/arabella-oberoesterreich"
+      "https://edge22.streams.arabella.at/arabella-oberoesterreich",
+      "https://frontend.streams.arabella.at/arabella-oberoesterreich"
     ],
     "country": "at",
     "languages": [
@@ -1842,6 +1843,18 @@
     "name": "Radio GÖD",
     "stream_urls": [
       "https://radiogoed.securestream.kapper.net/stream"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZnWqRhhJUSlBlk",
+    "name": "Radio Grün Weiß",
+    "stream_urls": [
+      "https://live.gruen-weiss.at/rgw.aac"
     ],
     "country": "at",
     "languages": [
@@ -2165,9 +2178,9 @@
     "nanoid": "pscBKH5b2VMG5w",
     "name": "Radio U1 Tirol",
     "stream_urls": [
-      "https://live.u1-radio.at/u1-tirol-live/mp3-192",
+      "https://live.u1-radio.at/",
       "https://u1-tirol-stream07.radiohost.de/u1-tirol-live_mp3-192",
-      "https://live.u1-radio.at/"
+      "https://live.u1-radio.at/u1-tirol-live/mp3-192"
     ],
     "country": "at",
     "languages": [
@@ -2389,6 +2402,7 @@
     "nanoid": "JOD8TU4T9XJeVK",
     "name": "SoundStorm Radio",
     "stream_urls": [
+      "https://stream.soundstorm-radio.com/listen/soundstorm/aac",
       "https://stream.soundstorm-radio.com/listen/soundstorm/radio.mp3"
     ],
     "country": "at",

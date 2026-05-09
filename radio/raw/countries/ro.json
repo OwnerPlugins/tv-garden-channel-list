@@ -612,6 +612,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "hQjZV0sKz7DSkp",
+    "name": "Gold FM",
+    "stream_urls": [
+      "https://live.radiogoldfm.ro:8443/WP.mp3"
+    ],
+    "country": "ro",
+    "languages": [
+      "ron"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "wyfsFP9PPi1fq3",
     "name": "goREBEL",
     "stream_urls": [
@@ -759,8 +771,8 @@
     "nanoid": "pnilU2Ql4GEONx",
     "name": "Magic FM Gold",
     "stream_urls": [
-      "https://live.kissfm.ro/magic.gold.hits",
-      "https://live.magicfm.ro/magic.gold.hits"
+      "https://live.magicfm.ro/magic.gold.hits",
+      "https://live.kissfm.ro/magic.gold.hits"
     ],
     "country": "ro",
     "languages": [
@@ -808,8 +820,8 @@
     "nanoid": "d3RH2kNQTY0JKO",
     "name": "Magic FM Party Mix",
     "stream_urls": [
-      "https://live.kissfm.ro/magic.party.mix",
-      "https://live.magicfm.ro/magic.party.mix"
+      "https://live.magicfm.ro/magic.party.mix",
+      "https://live.kissfm.ro/magic.party.mix"
     ],
     "country": "ro",
     "languages": [
@@ -930,8 +942,8 @@
     "nanoid": "qgNPmLGC5m3guf",
     "name": "One FM",
     "stream_urls": [
-      "https://live.onefm.ro/onefm.aacp",
-      "https://live.kissfm.ro/onefm.aacp"
+      "https://live.kissfm.ro/onefm.aacp",
+      "https://live.onefm.ro/onefm.aacp"
     ],
     "country": "ro",
     "languages": [
@@ -1005,8 +1017,8 @@
     "nanoid": "E3ATprdZjU6nLa",
     "name": "Play Radio",
     "stream_urls": [
-      "https://live.playradio.org:8443/FMHD",
       "https://live.playradio.org:8443/90HD",
+      "https://live.playradio.org:8443/FMHD",
       "https://live.playradio.org:9090/FMHD"
     ],
     "country": "ro",
@@ -1019,8 +1031,8 @@
     "nanoid": "BNRnBymijlBvuL",
     "name": "Play Urban",
     "stream_urls": [
-      "https://live.playradio.org:8443/UrbanHD",
-      "https://live.playradio.org:9090/UrbanHD"
+      "https://live.playradio.org:9090/UrbanHD",
+      "https://live.playradio.org:8443/UrbanHD"
     ],
     "country": "ro",
     "languages": [
@@ -2154,18 +2166,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "K41FUUPoQWGNT3",
-    "name": "Radio Nostalgia",
-    "stream_urls": [
-      "https://live.radionostalgia.ro:8443/nostalgia.aac"
-    ],
-    "country": "ro",
-    "languages": [
-      "ron"
-    ],
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "YHu9F10QL8CnN8",
     "name": "Radio Nova22",
     "stream_urls": [
@@ -2219,6 +2219,18 @@
     "name": "Radio Pro-B",
     "stream_urls": [
       "https://live.radioprob.ro:8888/stream"
+    ],
+    "country": "ro",
+    "languages": [
+      "ron"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "h3tD6GZUH4soKr",
+    "name": "Radio Reîntregirea",
+    "stream_urls": [
+      "https://live.reintregirea.ro/"
     ],
     "country": "ro",
     "languages": [
@@ -2374,6 +2386,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "2AmMtbh08yMMnS",
+    "name": "Radio Romantic",
+    "stream_urls": [
+      "https://radio-romantic.ro/stream",
+      "https://stream.zeno.fm/72k4a597rs8uv"
+    ],
+    "country": "ro",
+    "languages": [
+      "ron"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "POg1ieeKDJJuwx",
     "name": "Radio ROT Romania",
     "stream_urls": [
@@ -2473,8 +2498,8 @@
     "nanoid": "9jNAV7sI1cEq20",
     "name": "Radio Stil Mix Manele",
     "stream_urls": [
-      "https://stream.zeno.fm/87sktrysmuqtv",
-      "https://stream.zeno.fm/zt84vax7ptzuv"
+      "https://stream.zeno.fm/zt84vax7ptzuv",
+      "https://stream.zeno.fm/87sktrysmuqtv"
     ],
     "country": "ro",
     "languages": [
@@ -2955,11 +2980,23 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "C02cE4h3U5Vo2A",
+    "name": "Radio Victory Art",
+    "stream_urls": [
+      "https://sonic.xservere.net/8150/stream"
+    ],
+    "country": "ro",
+    "languages": [
+      "ron"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "To9I1YwL1BrJWf",
     "name": "Radio VIP",
     "stream_urls": [
-      "https://live1.radiovip.ro:8969/;",
-      "https://live1.radiovip.ro:8969/stream"
+      "https://live1.radiovip.ro:8969/stream",
+      "https://live1.radiovip.ro:8969/;"
     ],
     "country": "ro",
     "languages": [
@@ -3021,6 +3058,18 @@
     "stream_urls": [
       "https://live.rvs.ro/playhq",
       "https://live.rvs.ro/play"
+    ],
+    "country": "ro",
+    "languages": [
+      "ron"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "qHCXFweabrKccc",
+    "name": "Radio Xtream",
+    "stream_urls": [
+      "https://ssl.radios.show:7008/;"
     ],
     "country": "ro",
     "languages": [
@@ -3241,18 +3290,6 @@
     "country": "ro",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "1MW4O1mCyLKYyb",
-    "name": "Sighet FM",
-    "stream_urls": [
-      "https://radio.zifer.ro/SighetFM"
-    ],
-    "country": "ro",
-    "languages": [
-      "ron"
     ],
     "isGeoBlocked": false
   },
@@ -3626,6 +3663,18 @@
     "name": "UrbanUP TV",
     "stream_urls": [
       "https://s7.everestcast.com:6805/stream"
+    ],
+    "country": "ro",
+    "languages": [
+      "ron"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "m7C0z5NaJZqMoi",
+    "name": "Vibe FM",
+    "stream_urls": [
+      "https://astreaming.vibefm.ro:8443/vibe_ro64"
     ],
     "country": "ro",
     "languages": [

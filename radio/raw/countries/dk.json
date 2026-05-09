@@ -136,8 +136,8 @@
     "nanoid": "RWXkBX2Ma2DiRh",
     "name": "DR Nyheder",
     "stream_urls": [
-      "https://live-icy.gss.dr.dk/A/A02H.mp3",
-      "https://live-icy.gslb01.dr.dk/A/A02L.mp3"
+      "https://live-icy.gslb01.dr.dk/A/A02L.mp3",
+      "https://live-icy.gss.dr.dk/A/A02H.mp3"
     ],
     "country": "dk",
     "languages": [
@@ -192,8 +192,8 @@
     "name": "DR P4 Bornholm",
     "stream_urls": [
       "https://drliveradio1.akamaized.net/hls/live/2097651/p4bornholm/masterab.m3u8",
-      "https://live-icy.gslb01.dr.dk/A/A06H.mp3",
-      "https://live-icy.gss.dr.dk/A/A06H.mp3"
+      "https://live-icy.dr.dk/A/A30H.mp3",
+      "https://live-icy.gslb01.dr.dk/A/A06H.mp3"
     ],
     "country": "dk",
     "languages": [
@@ -247,8 +247,8 @@
     "name": "DR P4 Midt & Vest",
     "stream_urls": [
       "https://drliveradio1.akamaized.net/hls/live/2097651/p4midtvest/masterab.m3u8",
-      "https://live-icy.gslb01.dr.dk/A/A09H.mp3",
-      "https://live-icy.gss.dr.dk/A/A09H.mp3"
+      "https://live-icy.gss.dr.dk/A/A09H.mp3",
+      "https://live-icy.gslb01.dr.dk/A/A09H.mp3"
     ],
     "country": "dk",
     "languages": [
@@ -583,6 +583,19 @@
     "country": "dk",
     "languages": [
       "dan"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0LH1iPBpmMHJiN",
+    "name": "Nordic Lodge Copenhagen",
+    "stream_urls": [
+      "https://radio.streemlion.com:1160/stream"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan",
+      "eng"
     ],
     "isGeoBlocked": false
   },
@@ -955,8 +968,8 @@
     "nanoid": "1bVRQADhfuCH1o",
     "name": "Radio Soft",
     "stream_urls": [
-      "https://live-bauerdk.sharp-stream.com/radiosoft_dk_tunein_mp3",
-      "https://edge-bauerdk-03-gos2.sharp-stream.com/radiosoft_dk_mp3"
+      "https://edge-bauerdk-03-gos2.sharp-stream.com/radiosoft_dk_mp3",
+      "https://live-bauerdk.sharp-stream.com/radiosoft_dk_tunein_mp3"
     ],
     "country": "dk",
     "languages": [
@@ -1130,8 +1143,8 @@
     "nanoid": "7GubNJ2ZY21xnP",
     "name": "The Voice",
     "stream_urls": [
-      "https://live-bauerdk.sharp-stream.com/voice128.mp3",
-      "https://live-bauerdk.sharp-stream.com/thevoice_dk_mp3"
+      "https://live-bauerdk.sharp-stream.com/thevoice_dk_mp3",
+      "https://live-bauerdk.sharp-stream.com/voice128.mp3"
     ],
     "country": "dk",
     "languages": [
@@ -1167,6 +1180,7 @@
     "nanoid": "aflZnU1NjaxacI",
     "name": "Vinyl Hits",
     "stream_urls": [
+      "https://stream.vinylhits.dk/vinylaac",
       "https://stream.vinylhits.dk/vinylmp3"
     ],
     "country": "dk",

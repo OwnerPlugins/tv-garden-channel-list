@@ -72,9 +72,9 @@
     "nanoid": "Iyz5WYJguHIheg",
     "name": "BDPST ROCK",
     "stream_urls": [
-      "https://bdpstrock.hu/live.mp3",
       "https://bdpstrock.hu/live_320.mp3",
-      "https://bdpstrock.hu/live_128.mp3"
+      "https://bdpstrock.hu/live.mp3",
+      "https://s2.audiostream.hu/bdpstrock_FLAC"
     ],
     "country": "hu",
     "languages": [
@@ -197,8 +197,8 @@
     "nanoid": "IGIv0mGf5c2KJV",
     "name": "Campus Rádió FM90",
     "stream_urls": [
-      "https://stream.fm90.hu:8000/;",
-      "https://stream.fm90.hu:8000/stream/1"
+      "https://stream.fm90.hu:8000/stream/1",
+      "https://stream.fm90.hu:8000/;"
     ],
     "country": "hu",
     "languages": [
@@ -632,19 +632,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "jBVhYYsPLXvlZ7",
-    "name": "DANCEable Radio",
-    "stream_urls": [
-      "https://s9.myradiostream.com:35944/;"
-    ],
-    "country": "hu",
-    "languages": [
-      "eng",
-      "hun"
-    ],
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ogdRFFSE7MxpgL",
     "name": "Dankó Rádió",
     "stream_urls": [
@@ -686,8 +673,8 @@
     "nanoid": "jQ8uQiyHysetkz",
     "name": "Disco Diamond Radio",
     "stream_urls": [
-      "https://ddr2020.radioca.st/stream",
-      "https://discodiamond.radioca.st/stream"
+      "https://discodiamond.radioca.st/stream",
+      "https://ddr2020.radioca.st/stream"
     ],
     "country": "hu",
     "languages": [
@@ -905,8 +892,8 @@
     "nanoid": "TLIMLByP68iyt8",
     "name": "Lahmacun Radio",
     "stream_urls": [
-      "https://streaming.lahmacun.hu/listen/lahmacun_radio/radio.mp3",
-      "https://streaming.lahmacun.hu/radio/8000/radio.mp3"
+      "https://streaming.lahmacun.hu/radio/8000/radio.mp3",
+      "https://streaming.lahmacun.hu/listen/lahmacun_radio/radio.mp3"
     ],
     "country": "hu",
     "languages": [
@@ -1137,6 +1124,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "kQTKyIRGdzdsga",
+    "name": "Oxygen Indie",
+    "stream_urls": [
+      "https://oxygenmusic.hu:8443/oxygenindie"
+    ],
+    "country": "hu",
+    "languages": [
+      "hun"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "CvSuREjl9LEsm8",
     "name": "Oxygen Italo Hits",
     "stream_urls": [
@@ -1200,8 +1199,8 @@
     "nanoid": "lFL7WaRHV28xk8",
     "name": "Oxygen Music",
     "stream_urls": [
-      "https://oxygenmusic.hu:8443/oxygenmusic_192",
-      "https://oxygenmusic.hu:8443/oxygenmusic"
+      "https://oxygenmusic.hu:8443/oxygenmusic",
+      "https://oxygenmusic.hu:8443/oxygenmusic_192"
     ],
     "country": "hu",
     "languages": [
@@ -1250,6 +1249,18 @@
     "name": "Oxygen The 90s Hits",
     "stream_urls": [
       "https://oxygenmusic.hu:8443/oxygenthe90shits"
+    ],
+    "country": "hu",
+    "languages": [
+      "hun"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Z1pvIPtPO6AQHn",
+    "name": "Oxygen Xmas",
+    "stream_urls": [
+      "https://oxygenmusic.hu:8000/xmas_320"
     ],
     "country": "hu",
     "languages": [
@@ -1346,8 +1357,8 @@
     "nanoid": "Itm5cMl3OJ2F60",
     "name": "Rádió 1",
     "stream_urls": [
-      "https://icast.connectmedia.hu/5202/live.mp3",
-      "https://icast.connectmedia.hu/5201/live.mp3"
+      "https://icast.connectmedia.hu/5201/live.mp3",
+      "https://icast.connectmedia.hu/5202/live.mp3"
     ],
     "country": "hu",
     "languages": [
@@ -1542,8 +1553,8 @@
     "nanoid": "LACkj3xCJlVEFR",
     "name": "radiOzora",
     "stream_urls": [
-      "https://trance.out.airtime.pro/trance_a",
-      "https://trance.out.airtime.pro:8000/trance_a"
+      "https://trance.out.airtime.pro:8000/trance_a",
+      "https://trance.out.airtime.pro/trance_a"
     ],
     "country": "hu",
     "languages": [
@@ -1580,9 +1591,9 @@
     "nanoid": "kKnMfOlRUDVOZk",
     "name": "Retro Rádió",
     "stream_urls": [
+      "https://icast.connectmedia.hu/5001/live.mp3",
       "https://icast.connectmedia.hu/5001/live.mp3/retroradio_aac_128.m4a",
-      "https://icast.connectmedia.hu/5002/live.mp3",
-      "https://icast.connectmedia.hu/5001/live.mp3"
+      "https://icast.connectmedia.hu/5002/live.mp3"
     ],
     "country": "hu",
     "languages": [

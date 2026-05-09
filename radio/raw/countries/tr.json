@@ -65,8 +65,8 @@
     "nanoid": "e6CKir7XvKvdBj",
     "name": "AFN Incirlik 107.1 FM",
     "stream_urls": [
-      "https://29103.live.streamtheworld.com/AFNE_ICK_SC",
       "https://25503.live.streamtheworld.com/AFNE_ICK_SC",
+      "https://28503.live.streamtheworld.com/AFNE_ICK_SC",
       "https://25443.live.streamtheworld.com/AFNE_ICK_SC"
     ],
     "country": "tr",
@@ -141,6 +141,18 @@
     "name": "Arabesk FM",
     "stream_urls": [
       "https://yayin.arabeskfm.biz:8042/stream"
+    ],
+    "country": "tr",
+    "languages": [
+      "tur"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xKpXWu91YEu3NO",
+    "name": "Arabeskin Merkezi FM 102.1",
+    "stream_urls": [
+      "https://canli.arabeskinmerkezi.com:9180/stream"
     ],
     "country": "tr",
     "languages": [
@@ -284,10 +296,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "vbb7y1mGYxlGQu",
+    "name": "Can TV",
+    "stream_urls": [
+      "https://livetv.canbroadcast.com:7443/canlican/tv.m3u8"
+    ],
+    "country": "tr",
+    "languages": [
+      "tur"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Zoi8oaxsiplZwf",
     "name": "Classicland",
     "stream_urls": [
       "https://moondigitaledge.radyotvonline.net/classicland/playlist.m3u8"
+    ],
+    "country": "tr",
+    "languages": [
+      "tur"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "w1DBoNMJsxgGxZ",
+    "name": "CNN Türk Radyo",
+    "stream_urls": [
+      "https://moondigitaledge2.radyotvonline.net/cnnturk/playlist.m3u8"
     ],
     "country": "tr",
     "languages": [
@@ -1196,8 +1232,8 @@
     "nanoid": "Xh9pmZhUKsnNUl",
     "name": "Meteorolojinin Sesi Radyosu",
     "stream_urls": [
-      "https://radyo.yayin.com.tr:6227/stream",
-      "https://radyomgm.canliyayinda.com/;stream.mp3"
+      "https://radyomgm.canliyayinda.com/;stream.mp3",
+      "https://radyo.yayin.com.tr:6227/stream"
     ],
     "country": "tr",
     "languages": [
@@ -1428,9 +1464,9 @@
     "nanoid": "j3rWWG9yCYDE1y",
     "name": "Power Love",
     "stream_urls": [
+      "https://listen.powerapp.com.tr/powerlove/abr/playlist.m3u8",
       "https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8",
-      "https://listen.powerapp.com.tr/powerlove/abr/powerlove/128/playlist.m3u8",
-      "https://listen.powerapp.com.tr/powerlove/abr/playlist.m3u8"
+      "https://listen.powerapp.com.tr/powerlove/abr/powerlove/128/playlist.m3u8"
     ],
     "country": "tr",
     "languages": [
@@ -1637,6 +1673,18 @@
     "name": "Radio Tarkan",
     "stream_urls": [
       "https://stream.pcradio.ru/tarkan-hi"
+    ],
+    "country": "tr",
+    "languages": [
+      "tur"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dSuKNrwkZFfeXw",
+    "name": "Radyo 7",
+    "stream_urls": [
+      "https://moondigitaledge.radyotvonline.net/radyo7/playlist.m3u8"
     ],
     "country": "tr",
     "languages": [
@@ -1929,8 +1977,8 @@
     "nanoid": "JsNH4T9Sdw9XkN",
     "name": "Radyo Fenomen Karışık",
     "stream_urls": [
-      "https://live.radyofenomen.com/fenomenkarisik/abr/fenomenkarisik/128/chunks.m3u8",
-      "https://live.radyofenomen.com/fenomenkarisik/256/chunks.m3u8"
+      "https://live.radyofenomen.com/fenomenkarisik/256/chunks.m3u8",
+      "https://live.radyofenomen.com/fenomenkarisik/abr/fenomenkarisik/128/chunks.m3u8"
     ],
     "country": "tr",
     "languages": [
@@ -1955,8 +2003,8 @@
     "nanoid": "G9fhTC0kTWGmye",
     "name": "Radyo Fenomen Türk",
     "stream_urls": [
-      "https://live.radyofenomen.com/fenomenturk/256/chunks.m3u8",
-      "https://live.radyofenomen.com/fenomenturk/abr/fenomenturk/256/chunks.m3u8"
+      "https://live.radyofenomen.com/fenomenturk/abr/fenomenturk/256/chunks.m3u8",
+      "https://live.radyofenomen.com/fenomenturk/256/chunks.m3u8"
     ],
     "country": "tr",
     "languages": [
@@ -2186,18 +2234,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "NG7GNGkAo8qYLy",
-    "name": "Radyo Nida",
-    "stream_urls": [
-      "https://anadolu.liderhost.com.tr/8106/stream"
-    ],
-    "country": "tr",
-    "languages": [
-      "tur"
-    ],
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "QCcAHdIv8z96GH",
     "name": "Radyo Nostaljinin Sesi",
     "stream_urls": [
@@ -2299,18 +2335,6 @@
     "name": "Radyo S 95.6",
     "stream_urls": [
       "https://icecast.netmedya.net/radyos"
-    ],
-    "country": "tr",
-    "languages": [
-      "tur"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "n7fEJa4aBjtHWX",
-    "name": "Radyo Sada El Furat",
-    "stream_urls": [
-      "https://wowza1.radyotvonline.com/idilpr/sadaelfurat.stream/playlist.m3u8"
     ],
     "country": "tr",
     "languages": [
@@ -2427,6 +2451,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "lK62v620FZRX9H",
+    "name": "Radyo Voyage",
+    "stream_urls": [
+      "https://dygedge.radyotvonline.net/radyovoyage/playlist.m3u8"
+    ],
+    "country": "tr",
+    "languages": [
+      "tur"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "iPyBXB0Cxc5I5N",
     "name": "Radyo Voyage 107.4",
     "stream_urls": [
@@ -2504,6 +2540,18 @@
     "name": "Retro Türk",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/RETROTURK_SC"
+    ],
+    "country": "tr",
+    "languages": [
+      "tur"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9t0XElnp7AMu7T",
+    "name": "Rock FM",
+    "stream_urls": [
+      "https://rockfm.rockfm.com.tr:9450/stream"
     ],
     "country": "tr",
     "languages": [
@@ -2622,18 +2670,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "N2vtkdvZYYV8yP",
-    "name": "Tarsus FM 95.5",
-    "stream_urls": [
-      "https://tarsusfm.80.yayin.com.tr//stream"
-    ],
-    "country": "tr",
-    "languages": [
-      "tur"
-    ],
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ogXcftVJrGGU2q",
     "name": "TGRT FM 93.2",
     "stream_urls": [
@@ -2723,8 +2759,8 @@
     "nanoid": "ZwWss9KN6NHFVa",
     "name": "TRT GAP Diyarbakır",
     "stream_urls": [
-      "https://radio-trtgap.medya.trt.com.tr/master_128.m3u8",
-      "https://radio-trtgap.medya.trt.com.tr/master.m3u8"
+      "https://radio-trtgap.medya.trt.com.tr/master.m3u8",
+      "https://radio-trtgap.medya.trt.com.tr/master_128.m3u8"
     ],
     "country": "tr",
     "languages": [

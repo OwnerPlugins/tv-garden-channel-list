@@ -123,6 +123,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xDXcMi9n5RKCuA",
+    "name": "Christmas FM Classics & Crooners",
+    "stream_urls": [
+      "https://christmasfm.cdnstream1.com/2550_128.mp3"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "LVJGLeNIGixxtj",
     "name": "Classic Hits 80s",
     "stream_urls": [
@@ -517,8 +529,8 @@
     "name": "Midwest Radio",
     "stream_urls": [
       "https://direct.sharp-stream.com/midwestfmie.mp3",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/MIDWEST_RADIO.mp3",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/MIDWEST_RADIOAAC.m3u8"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/MIDWEST_RADIOAAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/MIDWEST_RADIO.mp3"
     ],
     "country": "ie",
     "languages": [
@@ -579,6 +591,18 @@
     "name": "MPB Radio 2 90s & 00s",
     "stream_urls": [
       "https://sc.mpbnl.nl/radio2-90s00s.mp3"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1pJoOJKbArEWg2",
+    "name": "MPB Radio 2 Christmas",
+    "stream_urls": [
+      "https://radiozender.mpbnetwerken.nl/radio2xmas.mp3"
     ],
     "country": "ie",
     "languages": [
@@ -758,6 +782,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "fbI7y88Xo8Qc03",
+    "name": "Onic Rock",
+    "stream_urls": [
+      "https://live.onic.ie/stream-rock"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "689gidKqVdid7f",
     "name": "Pacific FM",
     "stream_urls": [
@@ -891,6 +927,19 @@
     "country": "ie",
     "languages": [
       "gle"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "LfRed8QCIl1biC",
+    "name": "Red FM",
+    "stream_urls": [
+      "https://edge.audioxi.com/RED",
+      "https://live-bauerie.sharp-stream.com/REDAAC"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
     ],
     "isGeoBlocked": false
   },
@@ -1035,8 +1084,8 @@
     "nanoid": "L6DQBwoo4JeeDQ",
     "name": "SPIN 1038",
     "stream_urls": [
-      "https://edge.audioxi.com/SP",
-      "https://live-bauerie.sharp-stream.com/SP"
+      "https://live-bauerie.sharp-stream.com/SP",
+      "https://edge.audioxi.com/SP"
     ],
     "country": "ie",
     "languages": [
@@ -1175,18 +1224,6 @@
     "name": "Total Country",
     "stream_urls": [
       "https://totalcountry.radioca.st/stream"
-    ],
-    "country": "ie",
-    "languages": [
-      "eng"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "enAdKIQj7LOK1p",
-    "name": "TrancePulse Dublin",
-    "stream_urls": [
-      "https://stream.trance.ie:8443/stream"
     ],
     "country": "ie",
     "languages": [

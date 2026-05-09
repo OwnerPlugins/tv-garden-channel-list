@@ -13,18 +13,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "6WHuy2TPSkuioi",
-    "name": "Classic Radio",
-    "stream_urls": [
-      "https://radio-streams.kaztrk.kz/classic/classic/icecast.audio"
-    ],
-    "country": "kz",
-    "languages": [
-      "kaz"
-    ],
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "doV6JXS9jULLnn",
     "name": "Europa Plus",
     "stream_urls": [
@@ -32,6 +20,19 @@
     ],
     "country": "kz",
     "languages": [
+      "rus"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mKg6mMYpE3AukX",
+    "name": "NS-Rock",
+    "stream_urls": [
+      "https://icecast.ns.kz/radions"
+    ],
+    "country": "kz",
+    "languages": [
+      "kaz",
       "rus"
     ],
     "isGeoBlocked": false
