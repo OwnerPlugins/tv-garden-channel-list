@@ -164,7 +164,7 @@
     "name": "DR P2",
     "stream_urls": [
       "https://drliveradio1.akamaized.net/hls/live/2097651/p2/masterab.m3u8",
-      "https://live-icy.dr.dk/A/A04L.mp3",
+      "https://live-icy.gss.dr.dk/A/A04H.mp3",
       "https://live-icy.gslb01.dr.dk/A/A04H.mp3"
     ],
     "country": "dk",
@@ -206,8 +206,8 @@
     "name": "DR P4 Esbjerg",
     "stream_urls": [
       "https://drliveradio1.akamaized.net/hls/live/2097651/p4esbjerg/masterab.m3u8",
-      "https://live-icy.gslb01.dr.dk/A/A15H.mp3",
-      "https://live-icy.gss.dr.dk/A/A15H.mp3"
+      "https://live-icy.gss.dr.dk/A/A15H.mp3",
+      "https://live-icy.gslb01.dr.dk/A/A15H.mp3"
     ],
     "country": "dk",
     "languages": [
@@ -247,8 +247,8 @@
     "name": "DR P4 Midt & Vest",
     "stream_urls": [
       "https://drliveradio1.akamaized.net/hls/live/2097651/p4midtvest/masterab.m3u8",
-      "https://live-icy.gslb01.dr.dk/A/A09H.mp3",
-      "https://live-icy.gss.dr.dk/A/A09H.mp3"
+      "https://live-icy.gss.dr.dk/A/A09H.mp3",
+      "https://live-icy.gslb01.dr.dk/A/A09H.mp3"
     ],
     "country": "dk",
     "languages": [
@@ -300,8 +300,8 @@
     "name": "DR P4 Syd",
     "stream_urls": [
       "https://drliveradio1.akamaized.net/hls/live/2097651/p4syd/masterab.m3u8",
-      "https://live-icy.gslb01.dr.dk/A/A12H.mp3",
-      "https://live-icy.gss.dr.dk/A/A12H.mp3"
+      "https://live-icy.gss.dr.dk/A/A12H.mp3",
+      "https://live-icy.gslb01.dr.dk/A/A12H.mp3"
     ],
     "country": "dk",
     "languages": [
@@ -465,7 +465,7 @@
     "name": "DR P6 Beat",
     "stream_urls": [
       "https://drliveradio1.akamaized.net/hls/live/2097651/p6beat/masterab.m3u8",
-      "https://live-icy.dr.dk/A/A29H.mp3",
+      "https://live-icy.gss.dr.dk/A/A29H.mp3",
       "https://live-icy.gslb01.dr.dk/A/A29H.mp3"
     ],
     "country": "dk",
@@ -479,8 +479,8 @@
     "name": "DR P8 Jazz",
     "stream_urls": [
       "https://drliveradio1.akamaized.net/hls/live/2097651/p8jazz/masterab.m3u8",
-      "https://live-icy.gss.dr.dk/A/A22H.mp3",
-      "https://live-icy.gslb01.dr.dk/A/A22H.mp3"
+      "https://live-icy.gslb01.dr.dk/A/A22H.mp3",
+      "https://live-icy.gss.dr.dk/A/A22H.mp3"
     ],
     "country": "dk",
     "languages": [
@@ -577,8 +577,8 @@
     "nanoid": "i5xcD8zsQKk4Uf",
     "name": "myROCK",
     "stream_urls": [
-      "https://live-bauerdk.sharp-stream.com/myrock.mp3",
-      "https://live-bauerdk.sharp-stream.com/myrock_dk_mp3"
+      "https://live-bauerdk.sharp-stream.com/myrock_dk_mp3",
+      "https://live-bauerdk.sharp-stream.com/myrock.mp3"
     ],
     "country": "dk",
     "languages": [
@@ -587,11 +587,24 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "0LH1iPBpmMHJiN",
+    "name": "Nordic Lodge Copenhagen",
+    "stream_urls": [
+      "https://radio.streemlion.com:1160/stream"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan",
+      "eng"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "tt1qwaCFwGO03J",
     "name": "NOVA",
     "stream_urls": [
-      "https://live-bauerdk.sharp-stream.com/nova_dk_mp3",
-      "https://live-bauerdk.sharp-stream.com/nova128.mp3"
+      "https://live-bauerdk.sharp-stream.com/nova128.mp3",
+      "https://live-bauerdk.sharp-stream.com/nova_dk_mp3"
     ],
     "country": "dk",
     "languages": [
@@ -1042,8 +1055,8 @@
     "nanoid": "TuRV1aAlO7datK",
     "name": "Retro Radio",
     "stream_urls": [
-      "https://streammp3.retro-radio.dk/retro-mp3",
-      "https://stream128.retro-radio.dk/retro"
+      "https://stream128.retro-radio.dk/retro",
+      "https://streammp3.retro-radio.dk/retro-mp3"
     ],
     "country": "dk",
     "languages": [
@@ -1091,8 +1104,8 @@
     "nanoid": "Eh9S3J9WCIpLsu",
     "name": "Skala FM",
     "stream_urls": [
-      "https://webradio.skala.fm/kolding",
-      "https://netradio.skala.fm/ska8d"
+      "https://netradio.skala.fm/ska8d",
+      "https://webradio.skala.fm/kolding"
     ],
     "country": "dk",
     "languages": [
@@ -1167,8 +1180,8 @@
     "nanoid": "aflZnU1NjaxacI",
     "name": "Vinyl Hits",
     "stream_urls": [
-      "https://stream.vinylhits.dk/vinylaac",
-      "https://stream.vinylhits.dk/vinylmp3"
+      "https://stream.vinylhits.dk/vinylmp3",
+      "https://stream.vinylhits.dk/vinylaac"
     ],
     "country": "dk",
     "languages": [

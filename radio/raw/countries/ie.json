@@ -113,8 +113,20 @@
     "nanoid": "BcpSzWbWE8Q4Y9",
     "name": "Christmas FM Classical & Carols",
     "stream_urls": [
-      "https://christmasfm.cdnstream1.com/2549_128.mp3",
-      "https://christmasfm.cdnstream1.com/2549_64.aac"
+      "https://christmasfm.cdnstream1.com/2549_64.aac",
+      "https://christmasfm.cdnstream1.com/2549_128.mp3"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xDXcMi9n5RKCuA",
+    "name": "Christmas FM Classics & Crooners",
+    "stream_urls": [
+      "https://christmasfm.cdnstream1.com/2550_128.mp3"
     ],
     "country": "ie",
     "languages": [
@@ -345,8 +357,8 @@
     "nanoid": "ehoscFCaksi6N6",
     "name": "Gem Radio New Wave",
     "stream_urls": [
-      "https://gemradionw.radioca.st/;stream.nsv",
-      "https://gemradio.radioca.st/stream/1"
+      "https://gemradio.radioca.st/stream/1",
+      "https://gemradionw.radioca.st/;stream.nsv"
     ],
     "country": "ie",
     "languages": [
@@ -382,8 +394,8 @@
     "nanoid": "rtXCpesXdB52eB",
     "name": "Highland Radio",
     "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/HIGHLAND_RADIO.mp3",
-      "https://edge.audioxi.com/HIGHLAND"
+      "https://edge.audioxi.com/HIGHLAND",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/HIGHLAND_RADIO.mp3"
     ],
     "country": "ie",
     "languages": [
@@ -517,8 +529,8 @@
     "name": "Midwest Radio",
     "stream_urls": [
       "https://direct.sharp-stream.com/midwestfmie.mp3",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/MIDWEST_RADIO.mp3",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/MIDWEST_RADIOAAC.aac"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/MIDWEST_RADIOAAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/MIDWEST_RADIO.mp3"
     ],
     "country": "ie",
     "languages": [
@@ -543,6 +555,18 @@
     "name": "MPB Radio 1",
     "stream_urls": [
       "https://sc.mpbnl.nl/radio1.mp3"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "I87BHCj2Gjy2yc",
+    "name": "MPB Radio 1 MixMingle",
+    "stream_urls": [
+      "https://radiozender.mpbnetwerken.nl/radio1mixmingle.mp3"
     ],
     "country": "ie",
     "languages": [
@@ -591,6 +615,18 @@
     "name": "MPB Radio 2 Easy",
     "stream_urls": [
       "https://sc.mpbnl.nl/radio2easy.mp3"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lyvDPWoa3XrMBP",
+    "name": "MPB Radio 2 Ulster",
+    "stream_urls": [
+      "https://radiozender.mpbnetwerken.nl/radioulster.mp3"
     ],
     "country": "ie",
     "languages": [
@@ -846,8 +882,8 @@
     "nanoid": "mfS4owe17ioU6d",
     "name": "Radio Nova",
     "stream_urls": [
-      "https://stream.audioxi.com/NOVA",
-      "https://edge2.audioxi.com/NOVA"
+      "https://edge2.audioxi.com/NOVA",
+      "https://stream.audioxi.com/NOVA"
     ],
     "country": "ie",
     "languages": [
@@ -891,6 +927,19 @@
     "country": "ie",
     "languages": [
       "gle"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "LfRed8QCIl1biC",
+    "name": "Red FM",
+    "stream_urls": [
+      "https://edge.audioxi.com/RED",
+      "https://live-bauerie.sharp-stream.com/REDAAC"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
     ],
     "isGeoBlocked": false
   },
@@ -959,8 +1008,8 @@
     "nanoid": "3QrHj4eie1hoFp",
     "name": "RTÉ Radio 1",
     "stream_urls": [
-      "https://icecast.rte.ie/radio1",
       "https://icecast.rte.ie/ieradio1",
+      "https://icecast.rte.ie/radio1",
       "https://icecast1.rte.ie/radio1"
     ],
     "country": "ie",
@@ -1049,8 +1098,8 @@
     "name": "SPIN South West",
     "stream_urls": [
       "https://edge.audioxi.com/SW",
-      "https://live-bauerie.sharp-stream.com/SW",
-      "https://stream.audioxi.com/SW"
+      "https://stream.audioxi.com/SW",
+      "https://live-bauerie.sharp-stream.com/SW"
     ],
     "country": "ie",
     "languages": [
@@ -1175,18 +1224,6 @@
     "name": "Total Country",
     "stream_urls": [
       "https://totalcountry.radioca.st/stream"
-    ],
-    "country": "ie",
-    "languages": [
-      "eng"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "enAdKIQj7LOK1p",
-    "name": "TrancePulse Dublin",
-    "stream_urls": [
-      "https://stream.trance.ie:8443/stream"
     ],
     "country": "ie",
     "languages": [

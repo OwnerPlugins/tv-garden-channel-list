@@ -99,6 +99,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "wy0n7nMu8vmDBB",
+    "name": "Leproradio",
+    "stream_urls": [
+      "https://live.leproradio.com/bender.ogg"
+    ],
+    "country": "lt",
+    "languages": [
+      "lit"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8bSGuqcYrW4jK0",
     "name": "Lietus",
     "stream_urls": [
@@ -151,8 +163,8 @@
     "nanoid": "dq53UWXxz4tLU4",
     "name": "M-1",
     "stream_urls": [
-      "https://stream.m-1.fm/M-1aacp",
-      "https://radio.m-1.fm/m1/mp3"
+      "https://radio.m-1.fm/m1/mp3",
+      "https://stream.m-1.fm/M-1aacp"
     ],
     "country": "lt",
     "languages": [
@@ -202,21 +214,9 @@
     "nanoid": "zfR8RHAFT9b0qI",
     "name": "Pasaulio muzikos radijas (PMR)",
     "stream_urls": [
-      "https://pmr.lt/streams/pmr-3",
       "https://pmr.lt/streams/pmr-1",
+      "https://pmr.lt/streams/pmr-2",
       "https://pmr.lt/streams/pmr-4"
-    ],
-    "country": "lt",
-    "languages": [
-      "lit"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "bzLH14yRYfaTLI",
-    "name": "Patejago Radijas",
-    "stream_urls": [
-      "https://stream-46.zeno.fm/f6m1zbud5p8uv"
     ],
     "country": "lt",
     "languages": [
@@ -241,8 +241,8 @@
     "name": "Power Hit Radio",
     "stream_urls": [
       "https://ice2.powerhitradio.lt/PHR_AAC",
-      "https://n02a-eu.rcs.revma.com/f31w7e0fveuvv",
-      "https://ice.leviracloud.eu/phr192-mp3"
+      "https://ice.leviracloud.eu/phr192-mp3",
+      "https://n02a-eu.rcs.revma.com/f31w7e0fveuvv"
     ],
     "country": "lt",
     "languages": [
@@ -269,18 +269,6 @@
     "name": "Pulsas",
     "stream_urls": [
       "https://pulsas.lt/stream"
-    ],
-    "country": "lt",
-    "languages": [
-      "lit"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "uQPWTmycvESPoc",
-    "name": "RA-8",
-    "stream_urls": [
-      "https://stream.zeno.fm/aae76827qtzuv"
     ],
     "country": "lt",
     "languages": [
@@ -317,8 +305,8 @@
     "nanoid": "KMN4K1XaYHy8yJ",
     "name": "Radiocentras",
     "stream_urls": [
-      "https://stream2.rockfm.lt/crf128.mp3",
-      "https://stream2.rc.lt/rc128.mp3"
+      "https://stream2.rc.lt/rc128.mp3",
+      "https://stream2.rockfm.lt/crf128.mp3"
     ],
     "country": "lt",
     "languages": [
@@ -355,6 +343,18 @@
     "name": "Relax FM Sentimentai",
     "stream_urls": [
       "https://klausyk.radijas.lt/listen/sentimentai/live"
+    ],
+    "country": "lt",
+    "languages": [
+      "lit"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5rR0GuRPj57MAn",
+    "name": "Remix RA",
+    "stream_urls": [
+      "https://stream.zeno.fm/46tdskm12tzuv"
     ],
     "country": "lt",
     "languages": [
@@ -438,8 +438,8 @@
     "nanoid": "HhBwVLKvWEhTqB",
     "name": "ZIP FM",
     "stream_urls": [
-      "https://stream2.zipfm.lt/zipfm128.mp3",
-      "https://stream1.zipfm.lt/zipfm128.mp3"
+      "https://stream1.zipfm.lt/zipfm128.mp3",
+      "https://stream2.zipfm.lt/zipfm128.mp3"
     ],
     "country": "lt",
     "languages": [

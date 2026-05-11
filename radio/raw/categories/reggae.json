@@ -207,8 +207,8 @@
     "nanoid": "bRUgdJ29YOPMGk",
     "name": "Bob's Ska Radio",
     "stream_urls": [
-      "https://usa19.fastcast4u.com:2030/;",
-      "https://eu8.fastcast4u.com/proxy/chrtre00?mp=/1"
+      "https://eu8.fastcast4u.com/proxy/chrtre00?mp=/1",
+      "https://usa19.fastcast4u.com:2030/;"
     ],
     "country": "us",
     "languages": [
@@ -223,18 +223,6 @@
       "https://streams.calmradio.com:18928/stream"
     ],
     "country": "ca",
-    "languages": [
-      "eng"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "FMXf2cweT5cBN2",
-    "name": "Caribbean Power Jam Radio",
-    "stream_urls": [
-      "https://auds1.intacs.com/caribbeanpowerjamradio"
-    ],
-    "country": "us",
     "languages": [
       "eng"
     ],
@@ -696,7 +684,9 @@
     "nanoid": "9M3QuD4XUrUfyG",
     "name": "Ghetto Radio",
     "stream_urls": [
-      "https://stream-47.zeno.fm/gf58b0pt5x8uv"
+      "https://stream-27.zeno.fm/kvudezx1h2zuv",
+      "https://stream-47.zeno.fm/gf58b0pt5x8uv",
+      "https://stream.zeno.fm/cs4q33arb2zuv"
     ],
     "country": "ke",
     "languages": [
@@ -1074,8 +1064,8 @@
     "nanoid": "0xDiwYQMjmElro",
     "name": "Music Galaxy Radio",
     "stream_urls": [
-      "https://eu10.fastcast4u.com/themusi2",
-      "https://eu10.fastcast4u.com:1390/;"
+      "https://eu10.fastcast4u.com:1390/;",
+      "https://eu10.fastcast4u.com/themusi2"
     ],
     "country": "uk",
     "languages": [
@@ -1197,9 +1187,9 @@
     "nanoid": "muz4lab3k6r82L",
     "name": "Open Broadcast Radio",
     "stream_urls": [
+      "https://www.digris.ch/stream/092210ed-4eb4-483b-814f-21df6ecb1352",
       "https://stream.openbroadcast.ch/16bit.flac",
-      "https://stream.openbroadcast.ch/320.mp3",
-      "https://www.digris.ch/stream/092210ed-4eb4-483b-814f-21df6ecb1352"
+      "https://stream.openbroadcast.ch/320.mp3"
     ],
     "country": "ch",
     "languages": [
@@ -1548,6 +1538,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "maJScxfHsaeq4w",
+    "name": "Rastapuls Reggae Music",
+    "stream_urls": [
+      "https://radio.rastapuls.com/rastapuls"
+    ],
+    "country": "fr",
+    "languages": [
+      "eng",
+      "fra"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "cBra1ox3Z1UYS4",
     "name": "Rastyle Radio",
     "stream_urls": [
@@ -1768,8 +1771,8 @@
     "nanoid": "UnvSqhi9qJZcmw",
     "name": "Roots Legacy Radio",
     "stream_urls": [
-      "https://l.rootslegacy.fr/;",
-      "https://l.rootslegacy.fr/mp3test"
+      "https://l.rootslegacy.fr/mp3test",
+      "https://l.rootslegacy.fr/;"
     ],
     "country": "fr",
     "languages": [
@@ -1868,9 +1871,9 @@
     "nanoid": "D08F94ubKXBWYa",
     "name": "SomaFM: Dub Step Beyond",
     "stream_urls": [
-      "https://ice2.somafm.com/dubstep-256-mp3",
-      "https://ice3.somafm.com/dubstep-256-mp3",
-      "https://ice6.somafm.com/dubstep-256-mp3"
+      "https://ice4.somafm.com/dubstep-256-mp3",
+      "https://ice6.somafm.com/dubstep-256-mp3",
+      "https://ice2.somafm.com/dubstep-256-mp3"
     ],
     "country": "us",
     "languages": [
@@ -1882,9 +1885,9 @@
     "nanoid": "48GdmQFPvuIcur",
     "name": "SomaFM: Heavyweight Reggae",
     "stream_urls": [
+      "https://ice3.somafm.com/reggae-256-mp3",
       "https://ice2.somafm.com/reggae-256-mp3",
-      "https://ice5.somafm.com/reggae-256-mp3",
-      "https://ice3.somafm.com/reggae-256-mp3"
+      "https://ice4.somafm.com/reggae-256-mp3"
     ],
     "country": "us",
     "languages": [
@@ -2078,6 +2081,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "SXXD7LkybSJoJB",
+    "name": "The Reggae Spin: Soca Zone",
+    "stream_urls": [
+      "https://reggaespin.media/radio/8020/radio.mp3"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "TdSIMry8olGyuM",
     "name": "The Wave 94.5 & 93.7",
     "stream_urls": [
@@ -2158,18 +2173,6 @@
     "country": "jm",
     "languages": [
       "eng"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xPGw7CtXSJOsrO",
-    "name": "Urban Radio",
-    "stream_urls": [
-      "https://nr3.newradio.it:18100/stream"
-    ],
-    "country": "it",
-    "languages": [
-      "ita"
     ],
     "isGeoBlocked": false
   },

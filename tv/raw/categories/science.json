@@ -1,5 +1,18 @@
 [
   {
+    "nanoid": "8RfZ4RajNstT0l",
+    "name": ".sci-fi",
+    "stream_urls": [
+      "https://tmptv.sunduk.tv/CH175/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "oMWoXuzyayZcUr",
     "name": "BFM Tech & Co",
     "stream_urls": [
@@ -41,32 +54,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "uPBnVmprz4lcyz",
-    "name": "NASA: ISS",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/sWasdbDVNvc"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9Lv6gyQaWTeTvh",
-    "name": "NASA: ISS HD",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/zPH5KtjJFaQ"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "PsC2Ff8IrDt4Uv",
     "name": "Su_Root: Earthquake Monitoring",
     "stream_urls": [],
@@ -96,15 +83,28 @@
     "nanoid": "M9HwvmHmrMZElD",
     "name": "Wonder",
     "stream_urls": [
-      "https://lds-wonder-rakuten.amagi.tv/playlist.m3u8",
       "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-samsungnz/playlist.m3u8",
-      "https://lds-wonder-samsungau.amagi.tv/playlist.m3u8"
+      "https://lds-wonder-samsungau.amagi.tv/playlist.m3u8",
+      "https://wonder-samsung-uk.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
       "eng"
     ],
     "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Hjcr2JWy3WGd2Y",
+    "name": "YTN Science",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/6FbEE0gmnrE"
+    ],
+    "languages": [
+      "kor"
+    ],
+    "country": "kr",
     "isGeoBlocked": false
   }
 ]

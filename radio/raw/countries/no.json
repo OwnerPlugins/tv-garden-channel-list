@@ -142,6 +142,7 @@
     "nanoid": "UjSEv5656d3O7z",
     "name": "NRK Folkemusikk",
     "stream_urls": [
+      "https://lyd.nrk.no/nrk_radio_folkemusikk_aac_h",
       "https://lyd.nrk.no/nrk_radio_folkemusikk_mp3_l"
     ],
     "country": "no",
@@ -222,8 +223,8 @@
     "nanoid": "bJ4UqZXlLG8aI8",
     "name": "NRK P1 Buskerud",
     "stream_urls": [
-      "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk13_aac_h",
-      "https://lyd.nrk.no/nrk_radio_p1_buskerud_mp3_h"
+      "https://lyd.nrk.no/nrk_radio_p1_buskerud_mp3_h",
+      "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk13_aac_h"
     ],
     "country": "no",
     "languages": [
@@ -311,8 +312,8 @@
     "nanoid": "aDUklOGsPHZduo",
     "name": "NRK P1 Østfold",
     "stream_urls": [
-      "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk15_mp3_h",
       "https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/p1_dk15",
+      "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk15_mp3_h",
       "https://lyd.nrk.no/nrk_radio_p1_ostfold_mp3_h"
     ],
     "country": "no",
@@ -338,6 +339,7 @@
     "nanoid": "51sv7jFDTZfGWp",
     "name": "NRK P1 Sogn og Fjordane",
     "stream_urls": [
+      "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk7",
       "https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/p1_dk7",
       "https://lyd.nrk.no/nrk_radio_p1_sogn_og_fjordane_mp3_h"
     ],
@@ -441,8 +443,8 @@
     "name": "NRK P2",
     "stream_urls": [
       "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p2_aac_h",
-      "https://lyd.nrk.no/nrk_radio_p2_mp3_l",
-      "https://lyd.nrk.no/nrk_radio_p2_aac_h"
+      "https://lyd.nrk.no/nrk_radio_p2_aac_h",
+      "https://lyd.nrk.no/nrk_radio_p2_mp3_l"
     ],
     "country": "no",
     "languages": [
@@ -561,8 +563,8 @@
     "nanoid": "9L1EA7q5NniPA3",
     "name": "P5 Hits",
     "stream_urls": [
-      "https://p4.p4groupaudio.com/P05_MM",
-      "https://p5.p4groupaudio.com/P05_MM"
+      "https://p5.p4groupaudio.com/P05_MM",
+      "https://p4.p4groupaudio.com/P05_MM"
     ],
     "country": "no",
     "languages": [
@@ -741,6 +743,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "JQRJx9QiOo8uu4",
+    "name": "Radio Ålesund",
+    "stream_urls": [
+      "https://audio.radioaalesund.no/aalesund_mq"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "WIB2DEkcbiT9IG",
     "name": "Radio Bardufoss",
     "stream_urls": [
@@ -842,8 +856,8 @@
     "nanoid": "n14XbzRl5N2abC",
     "name": "Radio Rock",
     "stream_urls": [
-      "https://live-bauerno.sharp-stream.com/radiorock_no_mp3",
-      "https://live-bauerno.sharp-stream.com/radiorock_no_aac"
+      "https://live-bauerno.sharp-stream.com/radiorock_no_aac",
+      "https://live-bauerno.sharp-stream.com/radiorock_no_mp3"
     ],
     "country": "no",
     "languages": [
@@ -879,8 +893,8 @@
     "nanoid": "WEznzblazOhjJn",
     "name": "Radio Topp 40",
     "stream_urls": [
-      "https://live-bauerno.sharp-stream.com/top40_no_mp3",
-      "https://live-bauerno.sharp-stream.com/top40_no_aac"
+      "https://live-bauerno.sharp-stream.com/top40_no_aac",
+      "https://live-bauerno.sharp-stream.com/top40_no_mp3"
     ],
     "country": "no",
     "languages": [

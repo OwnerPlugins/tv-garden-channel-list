@@ -417,6 +417,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "DD1AlhgY5QGbYy",
+    "name": "Retreat Radio",
+    "stream_urls": [
+      "https://retreatradio.out.airtime.pro:8000/retreatradio_b"
+    ],
+    "country": "se",
+    "languages": [
+      "swe"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "IvIHeSxpok36zk",
     "name": "Retro FM Skåne",
     "stream_urls": [
@@ -518,7 +530,6 @@
     "nanoid": "qwnLcAMNQwkNmn",
     "name": "Sveriges Radio P2",
     "stream_urls": [
-      "https://live1.sr.se/p2-aac-320",
       "https://edge1.sr.se/p2-flac",
       "https://live1.sr.se/p2-flac"
     ],
@@ -693,6 +704,18 @@
     "stream_urls": [
       "https://edge1.sr.se/p4sth-aac-320",
       "https://live1.sr.se/p4sth-aac-32"
+    ],
+    "country": "se",
+    "languages": [
+      "swe"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "l1QXZwM2h2aBAw",
+    "name": "Sveriges Radio P4 Värmland",
+    "stream_urls": [
+      "https://live1.sr.se/p4vrml-aac-320"
     ],
     "country": "se",
     "languages": [

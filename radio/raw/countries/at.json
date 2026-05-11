@@ -65,8 +65,8 @@
     "name": "88.6 OnAir",
     "stream_urls": [
       "https://edge82.streamonkey.net/radio886-onair/stream/mp3",
-      "https://radio886.at/streams/radio_88.6/mp3",
-      "https://edge07.streamonkey.net/radio886-onair/stream/mp3"
+      "https://frontend.streamonkey.net/radio886-onair/stream/mp3",
+      "https://radio886.at/streams/radio_88.6/mp3"
     ],
     "country": "at",
     "languages": [
@@ -743,6 +743,18 @@
     "country": "at",
     "languages": [
       "deu"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "cr7t1pMxnVNcj0",
+    "name": "Her.st Propaganda Broadcast",
+    "stream_urls": [
+      "https://radio.her.st/listen/listen/128.mp3"
+    ],
+    "country": "at",
+    "languages": [
+      "eng"
     ],
     "isGeoBlocked": false
   },
@@ -1567,8 +1579,8 @@
     "nanoid": "ShELAjXE8nlp9d",
     "name": "Radio Arabella Lovesongs",
     "stream_urls": [
-      "https://frontend.streams.arabella.at/arabella-lovesongs/stream/mp3?aggregator=arabella-playlistfile",
-      "https://edge69.streams.arabella.at/arabella-lovesongs"
+      "https://edge69.streams.arabella.at/arabella-lovesongs",
+      "https://frontend.streams.arabella.at/arabella-lovesongs/stream/mp3?aggregator=arabella-playlistfile"
     ],
     "country": "at",
     "languages": [
@@ -1580,8 +1592,8 @@
     "nanoid": "rWzVHNeAlvfaVD",
     "name": "Radio Arabella Niederösterreich",
     "stream_urls": [
-      "https://edge68.streams.arabella.at/arabella-niederoesterreich",
-      "https://frontend.streams.arabella.at/arabella-niederoesterreich/stream/mp3"
+      "https://frontend.streams.arabella.at/arabella-niederoesterreich/stream/mp3",
+      "https://edge68.streams.arabella.at/arabella-niederoesterreich"
     ],
     "country": "at",
     "languages": [
@@ -1616,11 +1628,24 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "srK4PDgDHoXa2b",
+    "name": "Radio Arabella Rock",
+    "stream_urls": [
+      "https://frontend.streams.arabella.at/arabella-rock/stream/mp3?aggregator=arabella-playlistfile",
+      "https://edge83.streams.arabella.at/arabella-rock"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "lB6ammxhNSaLaZ",
     "name": "Radio Arabella Schlager",
     "stream_urls": [
-      "https://edge64.streams.arabella.at/arabella-schlager",
-      "https://frontend.streams.arabella.at/arabella-schlager/stream/mp3?aggregator=arabella-playlistfile"
+      "https://frontend.streams.arabella.at/arabella-schlager/stream/mp3?aggregator=arabella-playlistfile",
+      "https://edge64.streams.arabella.at/arabella-schlager"
     ],
     "country": "at",
     "languages": [
@@ -2153,9 +2178,9 @@
     "nanoid": "pscBKH5b2VMG5w",
     "name": "Radio U1 Tirol",
     "stream_urls": [
-      "https://live.u1-radio.at/u1-tirol-live/mp3-192",
+      "https://live.u1-radio.at/",
       "https://u1-tirol-stream07.radiohost.de/u1-tirol-live_mp3-192",
-      "https://live.u1-radio.at/"
+      "https://live.u1-radio.at/u1-tirol-live/mp3-192"
     ],
     "country": "at",
     "languages": [
@@ -2229,8 +2254,8 @@
     "name": "Radio Wien",
     "stream_urls": [
       "https://orf-live-wie.mdn.ors.at/out/u/wie/q4a/manifest.m3u8",
-      "https://orf-live.ors-shoutcast.at/wie-q2a",
-      "https://ors-sn05.ors-shoutcast.at/wie-q2a"
+      "https://ors-sn05.ors-shoutcast.at/wie-q2a",
+      "https://orf-live.ors-shoutcast.at/wie-q2a"
     ],
     "country": "at",
     "languages": [
@@ -2303,9 +2328,9 @@
     "nanoid": "kEmAi8L6NNR6Zu",
     "name": "ROCK ANTENNE Österreich",
     "stream_urls": [
-      "https://s2-webradio.webradio.de/rockantenne-oesterreich",
+      "https://s6-webradio.webradio.de/rockantenne-oesterreich",
       "https://stream.rockantenne.at/rockantenne-oesterreich/stream/mp3",
-      "https://s6-webradio.webradio.de/rockantenne-oesterreich"
+      "https://s2-webradio.webradio.de/rockantenne-oesterreich"
     ],
     "country": "at",
     "languages": [

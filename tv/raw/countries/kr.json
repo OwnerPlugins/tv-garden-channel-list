@@ -84,6 +84,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "dCaOunns8imgD4",
+    "name": "BBS TV",
+    "stream_urls": [
+      "https://bbstv.clouducs.com/bbstv-live/livestream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "kor"
+    ],
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3DWH3Zf0EtNUaG",
     "name": "BTN TV",
     "stream_urls": [
@@ -98,8 +111,10 @@
   },
   {
     "nanoid": "GACglLCSkdixy6",
-    "name": "CBSJOY",
-    "stream_urls": [],
+    "name": "CBS TV",
+    "stream_urls": [
+      "https://cbs-live.cbs.co.kr/cbs-live/_definst_/cbs-live.stream/playlist.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/cxtw2RuOYac"
     ],
@@ -308,19 +323,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "cqIhg7ovb7n2hP",
-    "name": "Gugak TV",
-    "stream_urls": [
-      "https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "kor"
-    ],
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hJP0GSnYM15Xax",
     "name": "HLAJ-DTV",
     "stream_urls": [
@@ -464,19 +466,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Z5dt0NMdPPY3fJ",
-    "name": "KBS News",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/1SpG98_jNkc"
-    ],
-    "languages": [
-      "kor"
-    ],
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "y96VZMuCp67Sxq",
     "name": "KBS World",
     "stream_urls": [
@@ -595,12 +584,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "n4MkAIlXwdSE8X",
-    "name": "OUN",
-    "stream_urls": [
-      "https://live.knou.ac.kr/knou1/live1/playlist.m3u8"
+    "nanoid": "LaJUiyDd3qErb2",
+    "name": "Pororo 뽀로로",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/uRXW-1RzGjA"
     ],
-    "youtube_urls": [],
     "languages": [
       "kor"
     ],
@@ -614,19 +603,6 @@
       "https://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [
-      "kor"
-    ],
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "wLvMxnvxZbDm1t",
-    "name": "SBS",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/C-kZ5caK3JM"
-    ],
     "languages": [
       "kor"
     ],
@@ -699,6 +675,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "qfMepn6hwcvIUS",
+    "name": "TVCHOSUN JOY",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/302Fw_-JmeM"
+    ],
+    "languages": [
+      "kor"
+    ],
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vhNaz7xD7cy5Pv",
+    "name": "TVCHOSUN MUSIC",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/zUtz4UIhc6c"
+    ],
+    "languages": [
+      "kor"
+    ],
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ALMRp6hUXQ2Vmy",
     "name": "tvN D ENT",
     "stream_urls": [],
@@ -743,6 +745,45 @@
     "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/aZyD6EPl6KU"
+    ],
+    "languages": [
+      "kor"
+    ],
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "PxCqZWJpGlcBFS",
+    "name": "YTN 2",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/g4z6U1yFGKk"
+    ],
+    "languages": [
+      "kor"
+    ],
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rBshwldpql43AG",
+    "name": "YTN dmb",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/2C2WCLhDsR4"
+    ],
+    "languages": [
+      "kor"
+    ],
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Hjcr2JWy3WGd2Y",
+    "name": "YTN Science",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/6FbEE0gmnrE"
     ],
     "languages": [
       "kor"

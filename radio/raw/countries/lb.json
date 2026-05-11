@@ -60,18 +60,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "jiBElfeGiDk8tc",
-    "name": "Jabal Lebnan Radio",
-    "stream_urls": [
-      "https://streaming.nrjaudio.fm/ousra9m4z85f"
-    ],
-    "country": "lb",
-    "languages": [
-      "ara"
-    ],
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ib4sGLbG47jdET",
     "name": "LBI Radio",
     "stream_urls": [
@@ -80,6 +68,19 @@
     "country": "lb",
     "languages": [
       "ara",
+      "eng",
+      "fra"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "yyLGbMPUADY3pO",
+    "name": "Light FM 90.5",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/LIGHTFMAAC_SC"
+    ],
+    "country": "lb",
+    "languages": [
       "eng",
       "fra"
     ],
@@ -102,6 +103,18 @@
     "name": "One FM",
     "stream_urls": [
       "https://hms.pfs.gdn/v1/broadcast/onefmaudio/playlist.m3u8"
+    ],
+    "country": "lb",
+    "languages": [
+      "ara"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QwgBH6GgOnzYSL",
+    "name": "Radio Albachaer",
+    "stream_urls": [
+      "https://stream-169.zeno.fm/q3wqw4ahtuhvv"
     ],
     "country": "lb",
     "languages": [
@@ -251,19 +264,6 @@
     "country": "lb",
     "languages": [
       "ara"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jykaeZy07Y8qBR",
-    "name": "Virgin Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/dwxw3p9vea0uv"
-    ],
-    "country": "lb",
-    "languages": [
-      "ara",
-      "eng"
     ],
     "isGeoBlocked": false
   },

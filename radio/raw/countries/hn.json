@@ -123,18 +123,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "OoKzvVFekDlCM5",
-    "name": "La Top 102.9 FM",
-    "stream_urls": [
-      "https://us9.maindigitalstream.com/ssl/latop102"
-    ],
-    "country": "hn",
-    "languages": [
-      "spa"
-    ],
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "3WqX2v427LZ6Uc",
     "name": "LHT Radio 104.1 FM",
     "stream_urls": [
@@ -208,11 +196,23 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "qrzWBiaI3haOqb",
+    "name": "Radio Moderna",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/MODERNAAAC_SC"
+    ],
+    "country": "hn",
+    "languages": [
+      "spa"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "uAC6td7J3bqtTP",
     "name": "Radio Musiquera 93.3 FM",
     "stream_urls": [
-      "https://stream-142.zeno.fm/83h238tqsceuv",
-      "https://stream.zeno.fm/83h238tqsceuv"
+      "https://stream.zeno.fm/83h238tqsceuv",
+      "https://stream-142.zeno.fm/83h238tqsceuv"
     ],
     "country": "hn",
     "languages": [
@@ -248,8 +248,8 @@
     "nanoid": "9VTgztvrvlEi0A",
     "name": "Radioactiva 99.7 FM",
     "stream_urls": [
-      "https://stream.zeno.fm/fh8qfg75puquv",
-      "https://stream.zeno.fm/6n7fp9t2pceuv"
+      "https://stream.zeno.fm/6n7fp9t2pceuv",
+      "https://stream.zeno.fm/fh8qfg75puquv"
     ],
     "country": "hn",
     "languages": [
@@ -262,6 +262,18 @@
     "name": "Rock N' Pop 92.1 FM",
     "stream_urls": [
       "https://ice42.securenetsystems.net/ROCKNPOP"
+    ],
+    "country": "hn",
+    "languages": [
+      "spa"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xMqfo9cVNEdLf7",
+    "name": "Stereo Ceiba 99.9 FM",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_CEIBAAAC_SC"
     ],
     "country": "hn",
     "languages": [

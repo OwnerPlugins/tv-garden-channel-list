@@ -1,18 +1,5 @@
 [
   {
-    "nanoid": "aYAhxfge3884Ci",
-    "name": "Agro TV",
-    "stream_urls": [
-      "https://restr2.bgtv.bg/agro/hls/agro.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "bul"
-    ],
-    "country": "bg",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "g5kkuBi9J5OPSY",
     "name": "Agro TV",
     "stream_urls": [
@@ -66,24 +53,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "sPitwPVtngUuVb",
-    "name": "ARDB TV",
-    "stream_urls": [
-      "https://ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "khm"
-    ],
-    "country": "kh",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "jDP6MUrSN5cKSo",
     "name": "DD Kisan",
     "stream_urls": [
-      "https://cdn-6.pishow.tv/live/9/master.m3u8",
       "https://mumt04.tangotv.in/DDKISAN/index.m3u8",
+      "https://cdn-6.pishow.tv/live/9/master.m3u8",
       "https://d2lk5u59tns74c.cloudfront.net/out/v1/4f053f2c12a24641bf701fb7f2376750/index.m3u8"
     ],
     "youtube_urls": [],
@@ -196,6 +170,19 @@
     ],
     "country": "ca",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "8oGSgOh8Xrsu3u",
+    "name": "Moya Planeta",
+    "stream_urls": [
+      "https://tmptv.sunduk.tv/CH225/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "skmeLVfBwTzGbY",

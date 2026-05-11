@@ -16,6 +16,7 @@
     "nanoid": "gnXbQSLxnNAtTV",
     "name": "4 Fun TV",
     "stream_urls": [
+      "https://srv1.adriatelekom.com/4FunTV/index.m3u8",
       "https://stream.4fun.tv:8888/hls/4f.m3u8",
       "https://stream.4fun.tv:8888/hls/4f_high/index.m3u8"
     ],
@@ -153,19 +154,6 @@
       "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883095"
     ],
     "youtube_urls": [],
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "P2Z68epVFispXu",
-    "name": "Cartoon Network Polska",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/G9hx5Al3vxM"
-    ],
     "languages": [
       "pol"
     ],
@@ -317,6 +305,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "kYGxysMkYYrvDt",
+    "name": "Polsat",
+    "stream_urls": [
+      "https://srv7.flussonic111.com/PL_POLSAT_HD/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "HCuXiJRBY0QrpX",
+    "name": "Puls 2",
+    "stream_urls": [
+      "https://vs2126.vcdn.biz/cacd1c6a99ee154b5c7d78a52d17e27b_megogo/live/hls/b/700_2490_4000/u_sid/0/o/157766541/rsid/2d20baa0-758f-43c1-ac66-0df23e9ae3a2/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/37.109.162.54*asn/u_srvc/81255/u_did/web_XkXatVzQiYuxwYoGXyXJfjfePaDX3Jzq/type.live/chunklist-sid775857816421306678-b4000000.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "PgSQJkjlJAZPaq",
     "name": "RACER International FAST",
     "stream_urls": [
@@ -395,19 +409,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "dVSJghoHx22bJN",
-    "name": "Stars TV",
-    "stream_urls": [
-      "https://vs2120.vcdn.biz/cb9c5a2e0814e884ec2bb7b2908399db_megogo/live/hls/b/700_2490_4000/u_sid/0/o/157933561/rsid/74533743-6d06-4171-87f2-0644f854604d/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/37.109.163.151*asn/u_srvc/81255/u_did/web_Q7VE67mYqQtAaknvbeN2NwJ1P2rWIdnv/type.live/chunklist-sid8102720585553602615-b4000000.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "sXIYhdVUv4mPZv",
     "name": "Strongman Champions League",
     "stream_urls": [
@@ -415,19 +416,6 @@
     ],
     "youtube_urls": [],
     "languages": [],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "7E4pi94NmbOia5",
-    "name": "Super Express TV FAST",
-    "stream_urls": [
-      "https://s-pl-01.mediatool.tv/playout/sepl-abr/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "pol"
-    ],
     "country": "pl",
     "isGeoBlocked": false
   },
@@ -562,19 +550,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9s6DDTJkNu9V38",
-    "name": "Telewizja Zabrze",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/kmoodNWPlwA"
-    ],
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "zfdmNYbszO1KPF",
     "name": "Telewizja Żary",
     "stream_urls": [],
@@ -659,7 +634,7 @@
     "name": "TV Relax",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/CCaVL50IWoE"
+      "https://www.youtube-nocookie.com/embed/V0Vv94UqCQg"
     ],
     "languages": [
       "pol"
@@ -749,14 +724,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UJrA93oKFNB1K1",
-    "name": "Twoja.TV",
-    "stream_urls": [
-      "https://stream.twoja.tv/ttv_hls/live.m3u8"
+    "nanoid": "moehtnlcI4ChMQ",
+    "name": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/ZvEQPA1Wmb8"
     ],
-    "youtube_urls": [],
     "languages": [
-      "eng",
       "pol"
     ],
     "country": "pl",

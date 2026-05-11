@@ -65,8 +65,8 @@
     "nanoid": "ij1fDiz2nf59NO",
     "name": "88.5 WXPN",
     "stream_urls": [
-      "https://wxpn.xpn.org/xpnmp3hi",
-      "https://wxpnhi.xpn.org/xpnhi"
+      "https://wxpnhi.xpn.org/xpnhi",
+      "https://wxpn.xpn.org/xpnmp3hi"
     ],
     "country": "us",
     "languages": [
@@ -332,8 +332,8 @@
     "nanoid": "eDgdoWgffIK9C1",
     "name": "Blues Radio",
     "stream_urls": [
-      "https://i4.streams.ovh/sc/bluesrad/stream",
-      "https://i4.streams.ovh:8352/stream"
+      "https://i4.streams.ovh:8352/stream",
+      "https://i4.streams.ovh/sc/bluesrad/stream"
     ],
     "country": "gr",
     "languages": [
@@ -398,8 +398,8 @@
     "nanoid": "VokPfmsBqj5byQ",
     "name": "Bottle o' Groove",
     "stream_urls": [
-      "https://n0a.radiojar.com/n8buhxbsk9duv",
-      "https://n06.radiojar.com/n8buhxbsk9duv"
+      "https://n06.radiojar.com/n8buhxbsk9duv",
+      "https://n0a.radiojar.com/n8buhxbsk9duv"
     ],
     "country": "gr",
     "languages": [
@@ -447,9 +447,9 @@
     "nanoid": "ZrCstzXFkTYM6N",
     "name": "CBC Music Atlantic",
     "stream_urls": [
-      "https://26283.live.streamtheworld.com/CBH_CBC_SC",
+      "https://17813.live.streamtheworld.com/CBH_CBC_SC",
       "https://cbcradiolive.akamaized.net/hls/live/2041055/ES_R2AHF/master.m3u8",
-      "https://26733.live.streamtheworld.com/CBH_CBC_SC"
+      "https://26283.live.streamtheworld.com/CBH_CBC_SC"
     ],
     "country": "ca",
     "languages": [
@@ -474,7 +474,7 @@
     "nanoid": "PHaQxHW0IxE1Dq",
     "name": "CBC Radio One Calgary",
     "stream_urls": [
-      "https://27033.live.streamtheworld.com/CBR1FM_CBC_SC",
+      "https://22983.live.streamtheworld.com/CBR1FM_CBC_SC",
       "https://cbcradiolive.akamaized.net/hls/live/2041039/ES_R1MCG/master.m3u8",
       "https://26373.live.streamtheworld.com/CBR1FM_CBC_SC"
     ],
@@ -623,8 +623,8 @@
     "nanoid": "VNtUJrFgFvouMg",
     "name": "Exclusively Bonnie Raitt",
     "stream_urls": [
-      "https://streaming.exclusive.radio/er/bonnieraitt/icecast.audio",
-      "https://2.mystreaming.net/er/bonnieraitt/icecast.audio"
+      "https://2.mystreaming.net/er/bonnieraitt/icecast.audio",
+      "https://streaming.exclusive.radio/er/bonnieraitt/icecast.audio"
     ],
     "country": "ae",
     "languages": [
@@ -673,8 +673,8 @@
     "nanoid": "5yW468FwOEROuW",
     "name": "Exclusively Tom Waits",
     "stream_urls": [
-      "https://streaming.exclusive.radio/er/tomwaits/icecast.audio",
-      "https://nl4.mystreaming.net/er/tomwaits/icecast.audio"
+      "https://nl4.mystreaming.net/er/tomwaits/icecast.audio",
+      "https://streaming.exclusive.radio/er/tomwaits/icecast.audio"
     ],
     "country": "ae",
     "languages": [
@@ -724,8 +724,8 @@
     "nanoid": "1lAMppI0VxQR0v",
     "name": "Gritty Rock Radio",
     "stream_urls": [
-      "https://listen.radioking.com/radio/10713/stream/21674",
       "https://listen.radioking.com/radio/10713/stream/224413",
+      "https://listen.radioking.com/radio/10713/stream/21674",
       "https://www.radioking.com/play/gritty-rock"
     ],
     "country": "ca",
@@ -944,8 +944,8 @@
     "nanoid": "BBvW542f5zOUyE",
     "name": "Joint Radio Blues",
     "stream_urls": [
-      "https://star.jointil.net/proxy/jrn_blues",
-      "https://jointil.com/stream-blues"
+      "https://jointil.com/stream-blues",
+      "https://star.jointil.net/proxy/jrn_blues"
     ],
     "country": "il",
     "languages": [
@@ -1210,6 +1210,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "DLF4dBJIIYaQoR",
+    "name": "Music City Roadhouse",
+    "stream_urls": [
+      "https://ais-edge09-live365-dal02.cdnstream.com/a73754",
+      "https://ais-edge37-live365-dal02.cdnstream.com/a73754",
+      "https://streaming.live365.com/a73754"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "2BnQJiENSDHEap",
     "name": "Music Corner",
     "stream_urls": [
@@ -1274,18 +1288,6 @@
     "name": "Nude Radio",
     "stream_urls": [
       "https://streaming.live365.com/a07325"
-    ],
-    "country": "us",
-    "languages": [
-      "eng"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lUITXMxY9ESYqy",
-    "name": "Oak Grove Radio 98.5 FM",
-    "stream_urls": [
-      "https://nv8q.dyndns.org:8000/listen.mp3"
     ],
     "country": "us",
     "languages": [
@@ -1433,7 +1435,7 @@
     "stream_urls": [
       "https://regiocast.streamabc.net/regc-radiobobblues6003375-mp3-192-4052902",
       "https://streams.radiobob.de/blues/mp3-192/mediaplayer",
-      "https://streams.radiobob.de/blues/mp3-192/homepage"
+      "https://streams.radiobob.de/blues/mp3-192/streams.radiobob.de"
     ],
     "country": "de",
     "languages": [
@@ -1446,7 +1448,7 @@
     "name": "RADIO BOB! Classic Rock",
     "stream_urls": [
       "https://regiocast.streamabc.net/regc-boblivenational-mp3-192-4076554",
-      "https://streams.radiobob.de/bob-classicrock/mp3-192/homepage",
+      "https://streams.radiobob.de/bob-classicrock/mp3-192/streams.radiobob.de",
       "https://streams.radiobob.de/bob-classicrock/mp3-192/mediaplayer"
     ],
     "country": "de",
@@ -1778,7 +1780,7 @@
     "stream_urls": [
       "https://s8-webradio.rockantenne.de/hair-metal/stream/mp3",
       "https://s9-webradio.rockantenne.de/blues-rock/stream/mp3",
-      "https://stream.rockantenne.de/blues-rock/stream/mp3"
+      "https://stream.rockantenne.de/hair-metal/stream/mp3"
     ],
     "country": "de",
     "languages": [
@@ -1862,7 +1864,8 @@
     "nanoid": "9s55Nu3sZ1jJiV",
     "name": "Supersonic Radio",
     "stream_urls": [
-      "https://s5.radio.co/s08e5c5875/listen"
+      "https://s5.radio.co/s08e5c5875/listen",
+      "https://radiotrucker.com/en/play/supersonic-radio"
     ],
     "country": "ro",
     "languages": [
@@ -2063,8 +2066,8 @@
     "nanoid": "2jxAZN3VtjUqoQ",
     "name": "WWOZ 90.7 FM",
     "stream_urls": [
-      "https://wwoz-sc.streamguys1.com/wwoz-lo.mp3",
       "https://wwoz-sc.streamguys1.com/wwoz-hi.mp3",
+      "https://wwoz-sc.streamguys1.com/wwoz-lo.mp3",
       "https://www.wwoz.org/listen/hi"
     ],
     "country": "us",
