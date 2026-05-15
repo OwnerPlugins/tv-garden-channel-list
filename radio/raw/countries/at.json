@@ -65,8 +65,8 @@
     "name": "88.6 OnAir",
     "stream_urls": [
       "https://edge82.streamonkey.net/radio886-onair/stream/mp3",
-      "https://frontend.streamonkey.net/radio886-onair/stream/mp3",
-      "https://radio886.at/streams/radio_88.6/mp3"
+      "https://radio886.at/streams/radio_88.6/mp3",
+      "https://edge07.streamonkey.net/radio886-onair/stream/mp3"
     ],
     "country": "at",
     "languages": [
@@ -1000,8 +1000,8 @@
     "nanoid": "qjOuLbGn41Wt91",
     "name": "Life Radio Tirol",
     "stream_urls": [
-      "https://stream.liferadio.tirol/live/mp3-192/link",
-      "https://stream.liferadio.tirol/live/aac-256/SHQ"
+      "https://stream.liferadio.tirol/live/aac-256/SHQ",
+      "https://stream.liferadio.tirol/live/mp3-192/link"
     ],
     "country": "at",
     "languages": [
@@ -1061,8 +1061,8 @@
     "nanoid": "q1tDi40EdfQpKh",
     "name": "LoungeFM",
     "stream_urls": [
-      "https://s35.derstream.net/100austria.mp3",
-      "https://s35.derstream.net/digital.mp3"
+      "https://s35.derstream.net/digital.mp3",
+      "https://s35.derstream.net/100austria.mp3"
     ],
     "country": "at",
     "languages": [
@@ -1553,8 +1553,8 @@
     "nanoid": "LbJdgFB6WEfZHb",
     "name": "Radio Arabella Holiday",
     "stream_urls": [
-      "https://edge71.streams.arabella.at/arabella-holiday",
-      "https://frontend.streams.arabella.at/arabella-holiday/stream/mp3?aggregator=arabella-playlistfile"
+      "https://frontend.streams.arabella.at/arabella-holiday/stream/mp3?aggregator=arabella-playlistfile",
+      "https://edge71.streams.arabella.at/arabella-holiday"
     ],
     "country": "at",
     "languages": [
@@ -1579,8 +1579,8 @@
     "nanoid": "ShELAjXE8nlp9d",
     "name": "Radio Arabella Lovesongs",
     "stream_urls": [
-      "https://edge69.streams.arabella.at/arabella-lovesongs",
-      "https://frontend.streams.arabella.at/arabella-lovesongs/stream/mp3?aggregator=arabella-playlistfile"
+      "https://frontend.streams.arabella.at/arabella-lovesongs/stream/mp3?aggregator=arabella-playlistfile",
+      "https://edge69.streams.arabella.at/arabella-lovesongs"
     ],
     "country": "at",
     "languages": [
@@ -1644,8 +1644,8 @@
     "nanoid": "lB6ammxhNSaLaZ",
     "name": "Radio Arabella Schlager",
     "stream_urls": [
-      "https://frontend.streams.arabella.at/arabella-schlager/stream/mp3?aggregator=arabella-playlistfile",
-      "https://edge64.streams.arabella.at/arabella-schlager"
+      "https://edge64.streams.arabella.at/arabella-schlager",
+      "https://frontend.streams.arabella.at/arabella-schlager/stream/mp3?aggregator=arabella-playlistfile"
     ],
     "country": "at",
     "languages": [
@@ -1657,8 +1657,8 @@
     "nanoid": "4Z9Vp1vum3QCWf",
     "name": "Radio Arabella Ti Amo",
     "stream_urls": [
-      "https://edge06.streams.arabella.at/arabella-tiamo",
-      "https://frontend.streams.arabella.at/arabella-tiamo/stream/mp3?aggregator=arabella-playlistfile"
+      "https://frontend.streams.arabella.at/arabella-tiamo/stream/mp3?aggregator=arabella-playlistfile",
+      "https://edge06.streams.arabella.at/arabella-tiamo"
     ],
     "country": "at",
     "languages": [
@@ -2178,9 +2178,9 @@
     "nanoid": "pscBKH5b2VMG5w",
     "name": "Radio U1 Tirol",
     "stream_urls": [
-      "https://live.u1-radio.at/",
+      "https://live.u1-radio.at/u1-tirol-live/mp3-192",
       "https://u1-tirol-stream07.radiohost.de/u1-tirol-live_mp3-192",
-      "https://live.u1-radio.at/u1-tirol-live/mp3-192"
+      "https://live.u1-radio.at/"
     ],
     "country": "at",
     "languages": [
@@ -2611,18 +2611,6 @@
     "name": "Yeshua.at Radio",
     "stream_urls": [
       "https://yeshua.at:8443/stream"
-    ],
-    "country": "at",
-    "languages": [
-      "deu"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Ql5iuC2ckeoxzL",
-    "name": "YU Radio",
-    "stream_urls": [
-      "https://stream.radiotechnikum.at:80/YURADIO"
     ],
     "country": "at",
     "languages": [

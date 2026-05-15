@@ -110,19 +110,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "BcpSzWbWE8Q4Y9",
-    "name": "Christmas FM Classical & Carols",
-    "stream_urls": [
-      "https://christmasfm.cdnstream1.com/2549_64.aac",
-      "https://christmasfm.cdnstream1.com/2549_128.mp3"
-    ],
-    "country": "ie",
-    "languages": [
-      "eng"
-    ],
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "xDXcMi9n5RKCuA",
     "name": "Christmas FM Classics & Crooners",
     "stream_urls": [
@@ -305,6 +292,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ISQoHh139wZ69F",
+    "name": "Dunnes Radio",
+    "stream_urls": [
+      "https://stream.dunnesroblox.com/dunnesradio.mp3",
+      "https://icy-zurich.mpbnl.nl/dunnesradio.mp3"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "YaOXMvRieeAmy7",
     "name": "East Coast FM",
     "stream_urls": [
@@ -357,8 +357,8 @@
     "nanoid": "ehoscFCaksi6N6",
     "name": "Gem Radio New Wave",
     "stream_urls": [
-      "https://gemradio.radioca.st/stream/1",
-      "https://gemradionw.radioca.st/;stream.nsv"
+      "https://gemradionw.radioca.st/;stream.nsv",
+      "https://gemradio.radioca.st/stream/1"
     ],
     "country": "ie",
     "languages": [
@@ -529,8 +529,8 @@
     "name": "Midwest Radio",
     "stream_urls": [
       "https://direct.sharp-stream.com/midwestfmie.mp3",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/MIDWEST_RADIOAAC.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/MIDWEST_RADIO.mp3"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/MIDWEST_RADIO.mp3",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/MIDWEST_RADIOAAC.aac"
     ],
     "country": "ie",
     "languages": [
@@ -882,8 +882,8 @@
     "nanoid": "mfS4owe17ioU6d",
     "name": "Radio Nova",
     "stream_urls": [
-      "https://edge2.audioxi.com/NOVA",
-      "https://stream.audioxi.com/NOVA"
+      "https://stream.audioxi.com/NOVA",
+      "https://edge2.audioxi.com/NOVA"
     ],
     "country": "ie",
     "languages": [
@@ -1084,8 +1084,8 @@
     "nanoid": "L6DQBwoo4JeeDQ",
     "name": "SPIN 1038",
     "stream_urls": [
-      "https://live-bauerie.sharp-stream.com/SP",
-      "https://edge.audioxi.com/SP"
+      "https://edge.audioxi.com/SP",
+      "https://live-bauerie.sharp-stream.com/SP"
     ],
     "country": "ie",
     "languages": [
@@ -1097,9 +1097,9 @@
     "nanoid": "yIE7HPksTvGqA4",
     "name": "SPIN South West",
     "stream_urls": [
+      "https://live-bauerie.sharp-stream.com/SW",
       "https://edge.audioxi.com/SW",
-      "https://stream.audioxi.com/SW",
-      "https://live-bauerie.sharp-stream.com/SW"
+      "https://stream.audioxi.com/SW"
     ],
     "country": "ie",
     "languages": [
@@ -1183,8 +1183,8 @@
     "nanoid": "R0hzPW9rfDKvmm",
     "name": "Today FM",
     "stream_urls": [
-      "https://edge.audioxi.com/TDAAC",
       "https://pri.gocaster.net/td",
+      "https://edge.audioxi.com/TDAAC",
       "https://live-bauerie.sharp-stream.com/TDAAC"
     ],
     "country": "ie",
@@ -1224,6 +1224,18 @@
     "name": "Total Country",
     "stream_urls": [
       "https://totalcountry.radioca.st/stream"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "enAdKIQj7LOK1p",
+    "name": "TrancePulse Dublin",
+    "stream_urls": [
+      "https://stream.trance.ie:8443/stream"
     ],
     "country": "ie",
     "languages": [

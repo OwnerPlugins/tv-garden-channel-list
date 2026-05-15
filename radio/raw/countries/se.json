@@ -530,8 +530,8 @@
     "nanoid": "qwnLcAMNQwkNmn",
     "name": "Sveriges Radio P2",
     "stream_urls": [
-      "https://edge1.sr.se/p2-flac",
-      "https://live1.sr.se/p2-flac"
+      "https://live1.sr.se/p2-aac-320",
+      "https://edge1.sr.se/p2-flac"
     ],
     "country": "se",
     "languages": [
@@ -566,18 +566,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "8gkZdSPH7O1mns",
-    "name": "Sveriges Radio P3 Din gata",
-    "stream_urls": [
-      "https://live1.sr.se/dingata-aac-320"
-    ],
-    "country": "se",
-    "languages": [
-      "swe"
-    ],
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "QYg6LscIVUT7UF",
     "name": "Sveriges Radio P4 Blekinge",
     "stream_urls": [
@@ -594,18 +582,6 @@
     "name": "Sveriges Radio P4 Dalarna",
     "stream_urls": [
       "https://live1.sr.se/p4dala-aac-320"
-    ],
-    "country": "se",
-    "languages": [
-      "swe"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "untEJaKRAoLUwa",
-    "name": "Sveriges Radio P4 Göteborg",
-    "stream_urls": [
-      "https://live1.sr.se/p4gbg-aac-320"
     ],
     "country": "se",
     "languages": [
@@ -687,18 +663,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "kyyMSUTFMVD1B8",
-    "name": "Sveriges Radio P4 Plus",
-    "stream_urls": [
-      "https://live1.sr.se/p4plus-aac-320"
-    ],
-    "country": "se",
-    "languages": [
-      "swe"
-    ],
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "P8cXW8aNxeF94Y",
     "name": "Sveriges Radio P4 Stockholm",
     "stream_urls": [
@@ -753,18 +717,6 @@
     "stream_urls": [
       "https://live1.sr.se/p4vnrl-aac-320",
       "https://live1.sr.se/p4vnrl-mp3-96"
-    ],
-    "country": "se",
-    "languages": [
-      "swe"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hAnifF4ry3o2iN",
-    "name": "Sveriges Radio P4 Västmanland",
-    "stream_urls": [
-      "https://live1.sr.se/p4vstm-mp3-96"
     ],
     "country": "se",
     "languages": [

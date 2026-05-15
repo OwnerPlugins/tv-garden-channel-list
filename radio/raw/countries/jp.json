@@ -290,8 +290,8 @@
     "nanoid": "xxapVqcAdr1q8d",
     "name": "LISTEN.moe K-Pop",
     "stream_urls": [
-      "https://listen.moe/kpop/stream",
       "https://listen.moe/kpop/fallback",
+      "https://listen.moe/kpop/stream",
       "https://listen.moe/kpop/opus"
     ],
     "country": "jp",
@@ -304,8 +304,8 @@
     "nanoid": "zCf3zSRxF7Uhqx",
     "name": "Miku Radio",
     "stream_urls": [
-      "https://miku.fm/listen/miku/mp3-128",
       "https://miku.fm/listen/miku/aac-128",
+      "https://miku.fm/listen/miku/mp3-128",
       "https://miku.fm/listen/miku/aac-320"
     ],
     "country": "jp",
@@ -393,18 +393,6 @@
     "name": "Ottava",
     "stream_urls": [
       "https://ottava2.out.airtime.pro:8000/ottava2_a"
-    ],
-    "country": "jp",
-    "languages": [
-      "jpn"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fG2Z12YYm6BzZj",
-    "name": "Patchwork Archive",
-    "stream_urls": [
-      "https://a4.asurahosting.com:6930/radio.mp3"
     ],
     "country": "jp",
     "languages": [

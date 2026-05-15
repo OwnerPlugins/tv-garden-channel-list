@@ -51,9 +51,9 @@
     "nanoid": "b13AV4CxtWu079",
     "name": "AFN 360 Benelux",
     "stream_urls": [
-      "https://22183.live.streamtheworld.com/AFNE_BLX_SC",
       "https://25453.live.streamtheworld.com/AFNE_BLX_SC",
-      "https://27913.live.streamtheworld.com/AFNE_BLX_SC"
+      "https://25603.live.streamtheworld.com/AFNE_BLX_SC",
+      "https://28993.live.streamtheworld.com/AFNE_BLX_SC"
     ],
     "country": "be",
     "languages": [
@@ -296,9 +296,7 @@
     "nanoid": "biq88izSInhx2N",
     "name": "Classic 21",
     "stream_urls": [
-      "https://radio.rtbf.be/c21/aac-128/fl",
-      "https://radios.rtbf.be/classic21-128.mp3",
-      "https://radios.rtbf.be/classic21-64.aac"
+      "https://radios.rtbf.be/classic21-128.mp3"
     ],
     "country": "be",
     "languages": [
@@ -407,8 +405,8 @@
     "nanoid": "kvtu9VGWkkYwOO",
     "name": "Classic 21 Metal",
     "stream_urls": [
-      "https://radios.rtbf.be/wr-c21-metal-128.mp3",
-      "https://radio.rtbf.be/c21-metal/aac-128/fl"
+      "https://radio.rtbf.be/c21-metal/aac-128/fl",
+      "https://radios.rtbf.be/wr-c21-metal-128.mp3"
     ],
     "country": "be",
     "languages": [
@@ -635,19 +633,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "x8sJXaK5Cs9uX1",
-    "name": "GothVille Radio",
-    "stream_urls": [
-      "https://gothville.radio/listen/gothville/radio.mp3",
-      "https://streams.radio.co/s62583474c/listen"
-    ],
-    "country": "be",
-    "languages": [
-      "eng"
-    ],
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "x5C5sUwnmyGvwI",
     "name": "Grand Prix Radio",
     "stream_urls": [
@@ -714,8 +699,8 @@
     "name": "Instrumentals Forever",
     "stream_urls": [
       "https://quincy.torontocast.com:1910/stream",
-      "https://quincy.torontocast.com:1920/stream",
-      "https://quincy.torontocast.com:1925/stream"
+      "https://quincy.torontocast.com:1925/stream",
+      "https://quincy.torontocast.com:1920/stream"
     ],
     "country": "be",
     "languages": [
@@ -728,8 +713,8 @@
     "name": "Joe",
     "stream_urls": [
       "https://icecast-qmusicbe-cdp.triple-it.nl/joe.mp3",
-      "https://streams.radio.dpgmedia.cloud/redirect/joe_fm/aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/JOE.mp3"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/JOE.mp3",
+      "https://streams.radio.dpgmedia.cloud/redirect/joe_fm/aac"
     ],
     "country": "be",
     "languages": [
@@ -853,8 +838,8 @@
     "nanoid": "ZnVEnEnJvj6mxm",
     "name": "Klara Continuo",
     "stream_urls": [
-      "https://icecast.vrtcdn.be/klaracontinuo-high.mp3",
-      "https://icecast.vrtcdn.be/klaracontinuo.aac"
+      "https://icecast.vrtcdn.be/klaracontinuo.aac",
+      "https://icecast.vrtcdn.be/klaracontinuo-high.mp3"
     ],
     "country": "be",
     "languages": [
@@ -878,8 +863,8 @@
     "nanoid": "KZbi1zzmDc8JUA",
     "name": "La Première",
     "stream_urls": [
-      "https://redbeemedia.streamabc.net/redbm-lapremiere-aac-128-7561067",
-      "https://radios.rtbf.be/laprem1ere-128.mp3"
+      "https://radios.rtbf.be/laprem1ere-128.mp3",
+      "https://redbeemedia.streamabc.net/redbm-lapremiere-aac-128-7561067"
     ],
     "country": "be",
     "languages": [
@@ -1060,9 +1045,9 @@
     "nanoid": "0GEEikXN0PGzei",
     "name": "Nostalgie",
     "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWHATAFEELING.mp3",
       "https://22193.live.streamtheworld.com/NOSTALGIEWHATAFEELING.mp3",
-      "https://stream.rcs.revma.com/5gd04cwptg0uv"
+      "https://stream.rcs.revma.com/5gd04cwptg0uv",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWHATAFEELING.mp3"
     ],
     "country": "be",
     "languages": [
@@ -1172,6 +1157,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "aNNVHQ4b4FTUkl",
+    "name": "Omroep Voeren",
+    "stream_urls": [
+      "https://stream.omroepvoeren.be/radio/8000/radio.mp3"
+    ],
+    "country": "be",
+    "languages": [
+      "nld"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "QseVUGbMuVRkiU",
     "name": "One World Radio",
     "stream_urls": [
@@ -1259,8 +1256,8 @@
     "nanoid": "4Co2iktBbhqXB4",
     "name": "Q-Allstars",
     "stream_urls": [
-      "https://streams.radio.dpgmedia.cloud/redirect/qbe_allstars/mp3",
-      "https://icecast-qmusicbe-cdp.triple-it.nl/q-allstars.aac"
+      "https://icecast-qmusicbe-cdp.triple-it.nl/q-allstars.aac",
+      "https://streams.radio.dpgmedia.cloud/redirect/qbe_allstars/mp3"
     ],
     "country": "be",
     "languages": [
@@ -1852,18 +1849,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "t75DGbo3FGvGXL",
-    "name": "Radio Zoe Gold",
-    "stream_urls": [
-      "https://streams.movemedia.eu/zoegold128"
-    ],
-    "country": "be",
-    "languages": [
-      "nld"
-    ],
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "zu4ubqbwHRVod9",
     "name": "Radyo Gar",
     "stream_urls": [
@@ -2000,8 +1985,8 @@
     "nanoid": "So5vJwDDTByqTR",
     "name": "RTBF Musiq3",
     "stream_urls": [
-      "https://radios.rtbf.be/wr-m3-baroque-128.mp3",
-      "https://radios.rtbf.be/musiq3-128.aac"
+      "https://radios.rtbf.be/musiq3-128.aac",
+      "https://radios.rtbf.be/wr-m3-baroque-128.mp3"
     ],
     "country": "be",
     "languages": [
@@ -2133,9 +2118,9 @@
     "nanoid": "ZEHJ02ZCm3eQUt",
     "name": "Slow Radio",
     "stream_urls": [
-      "https://stream4.slowradio.com/",
       "https://stream5.slowradio.com/",
-      "https://stream3.slowradio.com/"
+      "https://stream1.slowradio.com/",
+      "https://stream2.slowradio.com/"
     ],
     "country": "be",
     "languages": [
@@ -2185,8 +2170,8 @@
     "nanoid": "EBNPpd2DQ8uAvg",
     "name": "Studio Brussel UNTZ",
     "stream_urls": [
-      "https://icecast.vrtcdn.be/stubru_untz.aac",
-      "https://icecast.vrtcdn.be/stubru_untz-high.mp3"
+      "https://icecast.vrtcdn.be/stubru_untz-high.mp3",
+      "https://icecast.vrtcdn.be/stubru_untz.aac"
     ],
     "country": "be",
     "languages": [
@@ -2406,7 +2391,7 @@
     "stream_urls": [
       "https://icecast.vrtcdn.be/radio1-mid.mp3",
       "https://f8e0a3fc90d142e68cd424a56b220f0d.mediatailor.us-east-1.amazonaws.com/v1/manifest/7c1b669ef36eb1e845184b6345b06cd264fc4eb7/5bzs1cW9_vrt-audio-only-v1/d65e4279-e3bc-4151-af02-02ffe699135d/0.m3u8",
-      "https://radio.vrtcdn.be/vrt/radio1/live.m3u8"
+      "https://icecast.vrtcdn.be/radio1.aac"
     ],
     "country": "be",
     "languages": [
@@ -2528,8 +2513,8 @@
     "name": "Willy Class X",
     "stream_urls": [
       "https://icecast-qmusicbe-cdp.triple-it.nl/willy-class-x.aac",
-      "https://streams.radio.dpgmedia.cloud/redirect/willy_be/aac",
-      "https://streams.radio.dpgmedia.cloud/redirect/willy_be_class_x/aac"
+      "https://streams.radio.dpgmedia.cloud/redirect/willy_be_class_x/aac",
+      "https://streams.radio.dpgmedia.cloud/redirect/willy_be_class_x/mp3"
     ],
     "country": "be",
     "languages": [
@@ -2591,6 +2576,18 @@
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/TOPZEN.mp3",
       "https://str.topradio.be/zenfm.mp3"
+    ],
+    "country": "be",
+    "languages": [
+      "nld"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FfF2KBovRT2ATz",
+    "name": "Zoe FM",
+    "stream_urls": [
+      "https://icecast.movemedia.be/zoe128"
     ],
     "country": "be",
     "languages": [

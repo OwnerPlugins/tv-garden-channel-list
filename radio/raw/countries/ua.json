@@ -487,8 +487,8 @@
     "nanoid": "PTBLMZ8ChCVOwx",
     "name": "Radio ROKS",
     "stream_urls": [
-      "https://online.radioroks.ua/RadioROKS",
-      "https://online.radioroks.ua/RadioROKS_HD"
+      "https://online.radioroks.ua/RadioROKS_HD",
+      "https://online.radioroks.ua/RadioROKS"
     ],
     "country": "ua",
     "languages": [
@@ -589,20 +589,8 @@
     "nanoid": "Js0NAIIXCxNKNd",
     "name": "Radio Syaivo",
     "stream_urls": [
-      "https://stream.ntktv.ua/syaivo.aac",
-      "https://stream.ntktv.ua/syaivo.mp3"
-    ],
-    "country": "ua",
-    "languages": [
-      "ukr"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "HpwiXboNDNPRGN",
-    "name": "Radio X.ON",
-    "stream_urls": [
-      "https://audio.x-on.com.ua:8443/x-on-aacp-64.aac"
+      "https://stream.ntktv.ua/syaivo.mp3",
+      "https://stream.ntktv.ua/syaivo.aac"
     ],
     "country": "ua",
     "languages": [
@@ -755,6 +743,7 @@
     "nanoid": "z3NIwvfvBc9y9x",
     "name": "True Black Metal Radio",
     "stream_urls": [
+      "https://trueblackmetalradio.com:666/radio",
       "https://trueblackmetalradio.com:8000/radio"
     ],
     "country": "ua",
@@ -808,19 +797,6 @@
     ],
     "country": "ua",
     "languages": [
-      "ukr"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "q4gM5Tjuc3oK5T",
-    "name": "Ах Радіо (Ax Radio)",
-    "stream_urls": [
-      "https://m.axradio.net/stream.mp3"
-    ],
-    "country": "ua",
-    "languages": [
-      "eng",
       "ukr"
     ],
     "isGeoBlocked": false
@@ -987,8 +963,8 @@
     "name": "Люкс FM (Lux FM)",
     "stream_urls": [
       "https://icecast.luxnet.ua/luxlviv",
-      "https://icecastdc.luxnet.ua/lux_mp3_128",
-      "https://icecast.luxnet.ua/lux"
+      "https://icecast.luxnet.ua/lux",
+      "https://icecastdc.luxnet.ua/lux_mp3_128"
     ],
     "country": "ua",
     "languages": [
@@ -1253,18 +1229,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "gzser0rVj3IPnT",
-    "name": "Радіо Київстар Chill & Lounge",
-    "stream_urls": [
-      "https://radio.kyivstar.ua/stream/chill/master.m3u8"
-    ],
-    "country": "ua",
-    "languages": [
-      "ukr"
-    ],
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "mK2VqpwkgSsof7",
     "name": "Радіо Київстар Electro",
     "stream_urls": [
@@ -1421,6 +1385,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "eqxpliZ0cFM7xV",
+    "name": "Радіо Навала",
+    "stream_urls": [
+      "https://myradio24.org/9857"
+    ],
+    "country": "ua",
+    "languages": [
+      "ukr"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "wfDjZuBLf5Q2mK",
     "name": "Радіо Накипіло",
     "stream_urls": [
@@ -1482,18 +1458,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Fyj0RdAPiE7fkQ",
-    "name": "Радіо Перше",
-    "stream_urls": [
-      "https://live.radio1.com.ua/liveradio64"
-    ],
-    "country": "ua",
-    "languages": [
-      "ukr"
-    ],
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "WfufwHn8228wZR",
     "name": "Радіо ПТРК",
     "stream_urls": [
@@ -1510,6 +1474,18 @@
     "name": "Радіо РАІ",
     "stream_urls": [
       "https://radio.rai.ua:9000/rai"
+    ],
+    "country": "ua",
+    "languages": [
+      "ukr"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "B9MjwWB8VBHUA3",
+    "name": "Радіо Рейд",
+    "stream_urls": [
+      "https://a9.asurahosting.com:7390/radio.mp3"
     ],
     "country": "ua",
     "languages": [
@@ -1753,8 +1729,7 @@
     "nanoid": "k4BrNwfdh7Tviz",
     "name": "Явір FM",
     "stream_urls": [
-      "https://complex.in.ua/Yavir320",
-      "https://complex.in.ua/Yavir"
+      "https://complex.in.ua/Yavir320"
     ],
     "country": "ua",
     "languages": [

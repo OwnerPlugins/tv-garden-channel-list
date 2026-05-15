@@ -580,18 +580,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "O4ny9vtzF4YgUT",
-    "name": "Nova S Radio",
-    "stream_urls": [
-      "https://radio.novas.tv/novas.mp3"
-    ],
-    "country": "rs",
-    "languages": [
-      "srp"
-    ],
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "4hIug2cW2nxU50",
     "name": "Ob-Neob Radio",
     "stream_urls": [
@@ -948,7 +936,7 @@
     "nanoid": "pLRNxcAQsYBm5Z",
     "name": "Radio D59B",
     "stream_urls": [
-      "https://n07.radiojar.com/gn6dqzhf9mzuv"
+      "https://n02.radiojar.com/gn6dqzhf9mzuv"
     ],
     "country": "rs",
     "languages": [
@@ -996,8 +984,8 @@
     "nanoid": "sg7HAsHx3x4Oar",
     "name": "Radio IN Niš",
     "stream_urls": [
-      "https://radioinnis-naxinacional.streaming.rs:8622/;stream.nsv",
-      "https://radioinnis-naxinacional.streaming.rs:8622/;"
+      "https://radioinnis-naxinacional.streaming.rs:8622/;",
+      "https://radioinnis-naxinacional.streaming.rs:8622/;stream.nsv"
     ],
     "country": "rs",
     "languages": [
@@ -1009,8 +997,8 @@
     "nanoid": "aUamrju8pOLqrE",
     "name": "Radio JAT",
     "stream_urls": [
-      "https://streaming.radiojat.rs/radiojat.mp3",
-      "https://streaming.tdiradio.com/radiojat.mp3"
+      "https://streaming.tdiradio.com/radiojat.mp3",
+      "https://streaming.radiojat.rs/radiojat.mp3"
     ],
     "country": "rs",
     "languages": [
@@ -1238,8 +1226,7 @@
     "nanoid": "MODEZwzb910YxQ",
     "name": "Radio S1",
     "stream_urls": [
-      "https://stream.radios.rs:9000/;",
-      "https://edge-rs-01.maksnet.tv/asmedia/radios/chunklist_w2049618642.m3u8"
+      "https://stream.radios.rs:9000/;"
     ],
     "country": "rs",
     "languages": [
