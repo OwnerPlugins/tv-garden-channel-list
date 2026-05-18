@@ -271,24 +271,12 @@
     "nanoid": "tIwl6kBmH1Ius9",
     "name": "Metro FM",
     "stream_urls": [
-      "https://go.webgateready.com/metrofm",
-      "https://go.webgateready.com/metrofm/radio.mp3"
+      "https://go.webgateready.com/metrofm/radio.mp3",
+      "https://go.webgateready.com/metrofm"
     ],
     "country": "ng",
     "languages": [
       "eng"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "JZhES3PacaZTLP",
-    "name": "Nagari Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/287z97ksdg8uv"
-    ],
-    "country": "ng",
-    "languages": [
-      "hau"
     ],
     "isGeoBlocked": false
   },
@@ -357,6 +345,18 @@
     "name": "Splash FM 106.7",
     "stream_urls": [
       "https://stream.zeno.fm/m9x6zr5trp8uv"
+    ],
+    "country": "ng",
+    "languages": [
+      "eng"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "VpbosmBJzf013S",
+    "name": "Sports Radio Brila FM",
+    "stream_urls": [
+      "https://atunwadigital.streamguys1.com/brilafm"
     ],
     "country": "ng",
     "languages": [

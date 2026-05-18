@@ -207,8 +207,8 @@
     "nanoid": "bRUgdJ29YOPMGk",
     "name": "Bob's Ska Radio",
     "stream_urls": [
-      "https://eu8.fastcast4u.com/proxy/chrtre00?mp=/1",
-      "https://usa19.fastcast4u.com:2030/;"
+      "https://usa19.fastcast4u.com:2030/;",
+      "https://eu8.fastcast4u.com/proxy/chrtre00?mp=/1"
     ],
     "country": "us",
     "languages": [
@@ -223,6 +223,18 @@
       "https://streams.calmradio.com:18928/stream"
     ],
     "country": "ca",
+    "languages": [
+      "eng"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FMXf2cweT5cBN2",
+    "name": "Caribbean Power Jam Radio",
+    "stream_urls": [
+      "https://auds1.intacs.com/caribbeanpowerjamradio"
+    ],
+    "country": "us",
     "languages": [
       "eng"
     ],
@@ -535,18 +547,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GbPj8gJd0rhtKw",
-    "name": "Five3Radio",
-    "stream_urls": [
-      "https://auds1.intacs.com/five3radio"
-    ],
-    "country": "us",
-    "languages": [
-      "eng"
-    ],
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "SN2eMFrdLiWZYM",
     "name": "FlavorJamz Radio",
     "stream_urls": [
@@ -611,8 +611,8 @@
     "nanoid": "qvcPVcosS5Q9rT",
     "name": "Fyah 105",
     "stream_urls": [
-      "https://play.radioking.io/fyah105-fm/514601",
-      "https://listen.radioking.com/radio/459389/stream/514595"
+      "https://listen.radioking.com/radio/459389/stream/514595",
+      "https://play.radioking.io/fyah105-fm/514601"
     ],
     "country": "jm",
     "languages": [
@@ -657,18 +657,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "gMZpr4HWM8Hgpa",
-    "name": "Getu FM",
-    "stream_urls": [
-      "https://stream-172.zeno.fm/f5zfuvbuvs8uv"
-    ],
-    "country": "ke",
-    "languages": [
-      "swa"
-    ],
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "18xENAGEsVd8Re",
     "name": "Ghana Music Radio",
     "stream_urls": [
@@ -684,22 +672,9 @@
     "nanoid": "9M3QuD4XUrUfyG",
     "name": "Ghetto Radio",
     "stream_urls": [
+      "https://stream.zeno.fm/kvudezx1h2zuv",
       "https://stream-27.zeno.fm/kvudezx1h2zuv",
-      "https://stream-47.zeno.fm/gf58b0pt5x8uv",
-      "https://stream.zeno.fm/cs4q33arb2zuv"
-    ],
-    "country": "ke",
-    "languages": [
-      "eng",
-      "swa"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "HmETdFABn9Uqv2",
-    "name": "Ghetto Radio 89.5",
-    "stream_urls": [
-      "https://stream.zeno.fm/kvudezx1h2zuv"
+      "https://stream-289.zeno.fm/eghcv7h647zuv"
     ],
     "country": "ke",
     "languages": [
@@ -994,6 +969,18 @@
       "https://streamer.radio.co/s1ed160262/listen"
     ],
     "country": "uk",
+    "languages": [
+      "eng"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4uKnAo3lRMPqH7",
+    "name": "Logical Asylum Radio",
+    "stream_urls": [
+      "https://a5.asurahosting.com:6760/radio.mp3"
+    ],
+    "country": "bz",
     "languages": [
       "eng"
     ],
@@ -1871,9 +1858,9 @@
     "nanoid": "D08F94ubKXBWYa",
     "name": "SomaFM: Dub Step Beyond",
     "stream_urls": [
-      "https://ice4.somafm.com/dubstep-256-mp3",
-      "https://ice6.somafm.com/dubstep-256-mp3",
-      "https://ice2.somafm.com/dubstep-256-mp3"
+      "https://ice2.somafm.com/dubstep-256-mp3",
+      "https://ice3.somafm.com/dubstep-256-mp3",
+      "https://ice4.somafm.com/dubstep-256-mp3"
     ],
     "country": "us",
     "languages": [
@@ -1885,8 +1872,8 @@
     "nanoid": "48GdmQFPvuIcur",
     "name": "SomaFM: Heavyweight Reggae",
     "stream_urls": [
-      "https://ice3.somafm.com/reggae-256-mp3",
       "https://ice2.somafm.com/reggae-256-mp3",
+      "https://ice3.somafm.com/reggae-256-mp3",
       "https://ice4.somafm.com/reggae-256-mp3"
     ],
     "country": "us",

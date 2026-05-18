@@ -77,19 +77,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "7HuABKfximrqcO",
-    "name": "93.5 City Radio",
-    "stream_urls": [
-      "https://cdnstream1.typicalmedia.net/yourradio"
-    ],
-    "country": "ph",
-    "languages": [
-      "eng",
-      "tgl"
-    ],
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "UVMIOdzmlmTn5C",
     "name": "96.1 Infinite Radio Panabo City",
     "stream_urls": [
@@ -262,6 +249,19 @@
     "name": "Anchor Radio Urdaneta",
     "stream_urls": [
       "https://icecast.theanchor.app/cbc"
+    ],
+    "country": "ph",
+    "languages": [
+      "eng",
+      "tgl"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "butUVw1s3fA0vR",
+    "name": "Ang Dios Gugma Radio",
+    "stream_urls": [
+      "https://us1.amfmph.com:8810/live"
     ],
     "country": "ph",
     "languages": [
@@ -534,19 +534,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "TOKhRaW2HkFXJR",
-    "name": "Bombo Radyo Tuguegarao",
-    "stream_urls": [
-      "https://stream.zenolive.com/w8pcsam29heuv"
-    ],
-    "country": "ph",
-    "languages": [
-      "eng",
-      "tgl"
-    ],
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "vO4ZtTjSinj2vG",
     "name": "Bombo Radyo Vigan",
     "stream_urls": [
@@ -650,19 +637,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ZXFiY845s5bvXZ",
-    "name": "DWHQ 98.1 FM",
-    "stream_urls": [
-      "https://stream.zeno.fm/bcxtfmdce19uv"
-    ],
-    "country": "ph",
-    "languages": [
-      "eng",
-      "tgl"
-    ],
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "YgotaESk5hcnuo",
     "name": "DWIZ 882 AM",
     "stream_urls": [
@@ -731,8 +705,8 @@
     "nanoid": "AMSniMgY5Lfuwo",
     "name": "Eagle FM 95.5",
     "stream_urls": [
+      "https://n06.radiojar.com/yus0r2bghd3vv",
       "https://n09.radiojar.com/yus0r2bghd3vv",
-      "https://n0d.radiojar.com/yus0r2bghd3vv",
       "https://stream.radiojar.com/yus0r2bghd3vv"
     ],
     "country": "ph",
@@ -863,19 +837,6 @@
     "name": "Filipino Music Central",
     "stream_urls": [
       "https://stream.zeno.fm/yqkru9yv3yzuv"
-    ],
-    "country": "ph",
-    "languages": [
-      "eng",
-      "tgl"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "UY7n2O4LfBhasO",
-    "name": "FMR Butuan",
-    "stream_urls": [
-      "https://stream.zeno.fm/rdnfm6z4ks7uv"
     ],
     "country": "ph",
     "languages": [
@@ -1019,19 +980,6 @@
     "name": "Jesus is Lord Radio",
     "stream_urls": [
       "https://stream.zeno.fm/ygy55015e4duv"
-    ],
-    "country": "ph",
-    "languages": [
-      "eng",
-      "tgl"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mthbOWfIwq22yY",
-    "name": "Jexie FM",
-    "stream_urls": [
-      "https://cd.radyoph.com:8030/jexiefm"
     ],
     "country": "ph",
     "languages": [
@@ -1420,6 +1368,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "CMVzIGo1P84WzI",
+    "name": "OPM Radio",
+    "stream_urls": [
+      "https://listen.streamaudio.co/proxy/kaibiganradio/opm"
+    ],
+    "country": "ph",
+    "languages": [
+      "eng",
+      "tgl"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "xmnjZIWGS2t0Xa",
     "name": "OPM Rise Up Radio",
     "stream_urls": [
@@ -1567,6 +1528,32 @@
     "name": "Radio Boracay 106.1 FM",
     "stream_urls": [
       "https://s135.radiolize.com/radio/8020/radio.mp3"
+    ],
+    "country": "ph",
+    "languages": [
+      "eng",
+      "tgl"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fMj69vwaSYf0VJ",
+    "name": "Radio Libertas",
+    "stream_urls": [
+      "https://stream.zeno.fm/9td2da86gg8uv"
+    ],
+    "country": "ph",
+    "languages": [
+      "eng",
+      "tgl"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "cEBcLMXwFPXmo1",
+    "name": "Radio Natin",
+    "stream_urls": [
+      "https://in-icecast.eradioportal.com:8443/radyo_natin"
     ],
     "country": "ph",
     "languages": [
@@ -1775,6 +1762,19 @@
     "name": "Radio Natin Dipolog City",
     "stream_urls": [
       "https://mbc.radyonatinfm.com:8010/dipolog"
+    ],
+    "country": "ph",
+    "languages": [
+      "eng",
+      "tgl"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "yNav0x5P1Waj1J",
+    "name": "Radio Natin Guiuan",
+    "stream_urls": [
+      "https://air.radyonatinfm.com:8030/guiuan"
     ],
     "country": "ph",
     "languages": [
@@ -2031,6 +2031,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "sfOOoUcWQ4vd6S",
+    "name": "Radio Natin Roxas",
+    "stream_urls": [
+      "https://hifi.radyonatinfm.com:8020/roxas"
+    ],
+    "country": "ph",
+    "languages": [
+      "eng",
+      "tgl"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "PxCNijicvuKb12",
     "name": "Radio Natin Sablayan",
     "stream_urls": [
@@ -2152,6 +2165,19 @@
     "name": "Radyo Bandera 107.1 Olongapo",
     "stream_urls": [
       "https://sound.amfm.link:8030/banderaolongapo"
+    ],
+    "country": "ph",
+    "languages": [
+      "eng",
+      "tgl"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lEh3Iggwwevkiv",
+    "name": "Radyo Bandera Malaybalay",
+    "stream_urls": [
+      "https://dj.radyoph.com:8000/bandera64"
     ],
     "country": "ph",
     "languages": [
@@ -2409,6 +2435,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Jp1uybcK1xXO8C",
+    "name": "Star FM Bacolod",
+    "stream_urls": [
+      "https://stream.zeno.fm/kg6tx8w4t9duv"
+    ],
+    "country": "ph",
+    "languages": [
+      "eng",
+      "tgl"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "sCL7qeU43XHbDI",
     "name": "Star FM Baguio",
     "stream_urls": [
@@ -2426,6 +2465,32 @@
     "name": "Star FM Cebu",
     "stream_urls": [
       "https://stream.zeno.fm/60cb36c29heuv"
+    ],
+    "country": "ph",
+    "languages": [
+      "eng",
+      "tgl"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wR8bTHgS3jb3Vd",
+    "name": "Star FM Cotabato",
+    "stream_urls": [
+      "https://stream.zeno.fm/hf1yubc29heuv"
+    ],
+    "country": "ph",
+    "languages": [
+      "eng",
+      "tgl"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tTTdB7immHAo9l",
+    "name": "Star FM Dagupan",
+    "stream_urls": [
+      "https://stream.zeno.fm/kw40qqc29heuv"
     ],
     "country": "ph",
     "languages": [
@@ -2474,6 +2539,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xBD8KVwln6VMUV",
+    "name": "Star FM Roxas",
+    "stream_urls": [
+      "https://stream.zeno.fm/6qehcpd29heuv"
+    ],
+    "country": "ph",
+    "languages": [
+      "eng",
+      "tgl"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "WxXWiJghPyCHlT",
     "name": "Star FM Zamboanga",
     "stream_urls": [
@@ -2504,6 +2582,19 @@
     "name": "Switch FM",
     "stream_urls": [
       "https://stream.zeno.fm/st932y9xs98uv"
+    ],
+    "country": "ph",
+    "languages": [
+      "eng",
+      "tgl"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ereaDVRxeSJLRC",
+    "name": "Tee Radio",
+    "stream_urls": [
+      "https://stream.zeno.fm/7neg6f1hbm0uv"
     ],
     "country": "ph",
     "languages": [
@@ -2634,9 +2725,9 @@
     "nanoid": "yYYda6W3KbtIBH",
     "name": "Win Radio 107.5",
     "stream_urls": [
-      "https://stream-42.zeno.fm/1noxhem5qpkuv",
+      "https://stream.zeno.fm/dx1k9na7nznvv",
       "https://stream.zeno.fm/sxk9ss4f4oeuv",
-      "https://stream.zeno.fm/dx1k9na7nznvv"
+      "https://stream-42.zeno.fm/1noxhem5qpkuv"
     ],
     "country": "ph",
     "languages": [
@@ -2728,6 +2819,19 @@
     "name": "XFM Sagay",
     "stream_urls": [
       "https://proud-glitter-ed5b.johnrserantes424.workers.dev/"
+    ],
+    "country": "ph",
+    "languages": [
+      "eng",
+      "tgl"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5WN2O99MhVKazB",
+    "name": "Y101 FM",
+    "stream_urls": [
+      "https://us1.amfmph.com:8849/live"
     ],
     "country": "ph",
     "languages": [

@@ -108,23 +108,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2wS17Y6G0QoBQm",
-    "name": "Conecta 2 Radio",
-    "stream_urls": [
-      "https://radio.conecta2service.com/8060/stream"
-    ],
-    "country": "ec",
-    "languages": [
-      "spa"
-    ],
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "vKW4IGzip6lKej",
     "name": "Contigo FM",
     "stream_urls": [
-      "https://panel.innovatestream.pe:10852/stream",
-      "https://panel.innovatestream.pe:10852/;"
+      "https://panel.innovatestream.pe:10852/;",
+      "https://panel.innovatestream.pe:10852/stream"
     ],
     "country": "ec",
     "languages": [
@@ -497,6 +485,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "9OGfxhi2v4Lk5p",
+    "name": "LOS40 Ecuador",
+    "stream_urls": [
+      "https://streamingecuador.com:7051/stream"
+    ],
+    "country": "ec",
+    "languages": [
+      "spa"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "S9ASJXAT5nVbnd",
     "name": "LV Radio Satelital",
     "stream_urls": [
@@ -621,8 +621,8 @@
     "nanoid": "A8YE7ppVf3So1B",
     "name": "Radio 11Q",
     "stream_urls": [
-      "https://streamingecuador.net:8012/radio11q",
-      "https://streamingecuador.net:8012/stream"
+      "https://streamingecuador.net:8012/stream",
+      "https://streamingecuador.net:8012/radio11q"
     ],
     "country": "ec",
     "languages": [
@@ -743,8 +743,8 @@
     "name": "Radio Canela",
     "stream_urls": [
       "https://canelaradio.makrodigital.com/stream/canelaradiomachala",
-      "https://canelaradio.makrodigital.com/stream/canelaradiochimborazo",
-      "https://canelaradio.makrodigital.com/stream/canelaradioibarra"
+      "https://canelaradio.makrodigital.com/stream/canelaradioquito",
+      "https://canelaradio.makrodigital.com/stream/canelaradiochimborazo"
     ],
     "country": "ec",
     "languages": [
@@ -949,8 +949,8 @@
     "nanoid": "7dY8vb3QcjhTii",
     "name": "Radio Naval",
     "stream_urls": [
-      "https://streamingecuador.net:8029/radionaval",
-      "https://streamingecuador.net:8029/Radio_Naval"
+      "https://streamingecuador.net:8029/Radio_Naval",
+      "https://streamingecuador.net:8029/radionaval"
     ],
     "country": "ec",
     "languages": [

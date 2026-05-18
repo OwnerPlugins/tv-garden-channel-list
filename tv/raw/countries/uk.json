@@ -22,17 +22,18 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "XZla6kQNjFMMv4",
-    "name": "Afrobeat TV Entertainment",
+    "nanoid": "SCCSu7TMHcxg2h",
+    "name": "Akaal Channel",
     "stream_urls": [
-      "https://stream.ecable.tv/afrobeats/index.m3u8"
+      "https://cdn-globecast.akamaized.net/live/eds/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
-      "eng"
+      "eng",
+      "pan"
     ],
     "country": "uk",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "2iEMu7y7Pfmad9",
@@ -122,6 +123,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "bs7PwUI4ZHSzU0",
+    "name": "Banijay Comedy",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/jHYqsMJNHto"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "IidKH5JbrfDleY",
+    "name": "Banijay Home and Garden: Location Location Location",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/VQm88CN3dgU"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "511xNHZg5Co5nc",
     "name": "BBC Arabic",
     "stream_urls": [
@@ -148,6 +175,19 @@
     ],
     "country": "uk",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "il2nOFg4MhHcyB",
+    "name": "BBC Four UK HD",
+    "stream_urls": [
+      "https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "A7FjWEoxfZfQRg",
@@ -214,13 +254,39 @@
       "https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/5qN1dRjatv8"
+      "https://www.youtube-nocookie.com/embed/6FnmhCICAFw"
     ],
     "languages": [
       "fas"
     ],
     "country": "uk",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BblW1Y0Gk79TU4",
+    "name": "BBC Three",
+    "stream_urls": [
+      "https://streamer.nexyl.uk/39290a19-b8dd-43ea-b8dc-081c37790f24.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "EohUZfaHu9Fw27",
+    "name": "BBC Two",
+    "stream_urls": [
+      "https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "0LllhlpEzMQvfO",
@@ -306,6 +372,20 @@
     ],
     "youtube_urls": [],
     "languages": [],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RGisQUNDzBMFhg",
+    "name": "Canaf54 TV",
+    "stream_urls": [
+      "https://5caf24a595d94.streamlock.net:1937/pvyugfkzkc/pvyugfkzkc/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng",
+      "fra"
+    ],
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -527,19 +607,6 @@
     "stream_urls": [
       "https://amg00276-amg00276c11-rakuten-uk-3446.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-dogthebountyhunterall-rakutenuk/playlist.m3u8",
       "https://amg00276-amg00276c11-samsung-gb-3484.playouts.now.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "BtGcx9v6eZu6vK",
-    "name": "Dog Whisperer UK",
-    "stream_urls": [
-      "https://pb-ffpxvjshv4rxx.akamaized.net/Dog_Whisperer_with_Cesar_Millan.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -913,11 +980,24 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "I5e1TQ7ZXE1hGu",
+    "name": "Hobbycraft",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/a5tcX9LGLP4"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "gfaamDst89W7kn",
     "name": "Horrid Henry",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/35GxLMyoiJE"
+      "https://www.youtube-nocookie.com/embed/W2bb7fFL4hI"
     ],
     "languages": [
       "eng"
@@ -1028,7 +1108,7 @@
     "stream_urls": [
       "https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8",
       "https://live.playstop.me/1816184091/index.m3u8",
-      "https://live.playstop.me/LS-63503-4/index.m3u8"
+      "https://live.livetvstream.co.uk/LS-63503-4/index.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/5JDxjsAVaGk"
@@ -1070,6 +1150,19 @@
     "youtube_urls": [],
     "languages": [
       "fas"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ShZM1jb9O7Uguf",
+    "name": "Kanshi TV",
+    "stream_urls": [
+      "https://live.kanshitv.co.uk/mobile/kanshitvkey.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "hin"
     ],
     "country": "uk",
     "isGeoBlocked": false
@@ -1451,7 +1544,6 @@
     "nanoid": "hNQTzHtY43GPXe",
     "name": "MyTime Movie Network",
     "stream_urls": [
-      "https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8",
       "https://appletree-mytimeuk-samsung.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1477,19 +1569,6 @@
     "name": "Nature Time",
     "stream_urls": [
       "https://amg01515-amg01515c43-samsung-gb-9038.playouts.now.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "OxruQWMouqWzNg",
-    "name": "Nickelodeon Global",
-    "stream_urls": [
-      "https://tmptv.sunduk.tv/CH37/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1569,8 +1648,8 @@
     "name": "Now 80s",
     "stream_urls": [
       "https://lightning-now80s-rakuten.amagi.tv/playlist.m3u8",
-      "https://lightning-now80s-samsungse.amagi.tv/playlist.m3u8",
-      "https://samsunguk-lightning-now80s-samsunguk-n908q.amagi.tv/playlist/samsunguk-lightning-now80s-samsunguk/playlist.m3u8"
+      "https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8",
+      "https://lightning-now80s-samsungse.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1606,7 +1685,8 @@
     "name": "NOW Rock",
     "stream_urls": [
       "https://lightning-now90s-rakuten.amagi.tv/playlist.m3u8",
-      "https://lightning-now90s-samsungse.amagi.tv/playlist.m3u8"
+      "https://lightning-now90s-samsungse.amagi.tv/playlist.m3u8",
+      "https://lightningnow90-samsungau.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1772,17 +1852,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mN7jjbfyCCrHDM",
-    "name": "Rakuten TV Romance Movies UK",
-    "stream_urls": [
-      "https://2c88ed8c4df9479aa0c7138dc42115e2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "uHYtTL2fEDHMX0",
     "name": "Rally.TV FAST+",
     "stream_urls": [
@@ -1792,6 +1861,17 @@
     "languages": [],
     "country": "uk",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RekrBPbX5KKpZp",
+    "name": "Real Crime",
+    "stream_urls": [
+      "https://lds-realcrime-samsunguk.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "uk",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "jNN9ef0ljzGJ7E",
@@ -1867,6 +1947,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Kfvf3u3DJLtcM5",
+    "name": "Shaun the Sheep Official",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/j6Mo4ZbQ5Yo"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "2UurVFYPvprdL8",
     "name": "Sky News",
     "stream_urls": [],
@@ -1919,7 +2012,7 @@
     "name": "Soviet Toons: Ну, погоди!",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/TfS3DD_ELc0"
+      "https://www.youtube-nocookie.com/embed/GosXuqZgphY"
     ],
     "languages": [
       "rus"
@@ -2451,11 +2544,24 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "S031zk98bWY7Ix",
+    "name": "WildBrain Kids",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/b_axLuTK0xU"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "at7QYcug7oV0tu",
     "name": "WildBrain Max: LEGO",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/bRecuyJdyn8"
+      "https://www.youtube-nocookie.com/embed/xGMWj6ORJok"
     ],
     "languages": [
       "eng"
@@ -2468,7 +2574,7 @@
     "name": "WildBrain: Teletubbies",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/uzexshQALWE"
+      "https://www.youtube-nocookie.com/embed/k5GI-2_5KUc"
     ],
     "languages": [
       "eng"
@@ -2508,6 +2614,7 @@
     "nanoid": "B0N3YLVGTZmUxD",
     "name": "World War TV",
     "stream_urls": [
+      "https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8",
       "https://amg00841-aenetworksukane-worldwartv-samsunguk-fiod1.amagi.tv/playlist/amg00841-aenetworksukane-worldwartv-samsunguk/playlist.m3u8"
     ],
     "youtube_urls": [],

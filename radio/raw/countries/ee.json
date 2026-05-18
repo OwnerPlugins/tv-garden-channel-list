@@ -98,6 +98,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "wKKIFs1nn8gof8",
+    "name": "Estonian Party Radio",
+    "stream_urls": [
+      "https://maggie.torontocast.com:8110/stream"
+    ],
+    "country": "ee",
+    "languages": [
+      "est"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "2egTo3FnGYe7DJ",
     "name": "Finest Radio",
     "stream_urls": [
@@ -286,18 +298,6 @@
     "name": "NRJ Tallinn",
     "stream_urls": [
       "https://edge03.cdn.bitflip.ee:8888/NRJ"
-    ],
-    "country": "ee",
-    "languages": [
-      "est"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "dQDSakdQqecGiH",
-    "name": "Power Hit Radio",
-    "stream_urls": [
-      "https://ice.leviracloud.eu/phr96-aac"
     ],
     "country": "ee",
     "languages": [
@@ -653,8 +653,8 @@
     "nanoid": "JopG1HRJdbAhuk",
     "name": "Sky Plus D'N'B",
     "stream_urls": [
-      "https://edge01.cdn.bitflip.ee:8888/NRJdnb",
-      "https://edge03.cdn.bitflip.ee:8888/NRJdnb"
+      "https://edge03.cdn.bitflip.ee:8888/NRJdnb",
+      "https://edge01.cdn.bitflip.ee:8888/NRJdnb"
     ],
     "country": "ee",
     "languages": [
@@ -709,6 +709,19 @@
     "country": "ee",
     "languages": [
       "est"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3akTV8hxHKyU32",
+    "name": "Võmba FM",
+    "stream_urls": [
+      "https://c4.radioboss.fm:18123/stream"
+    ],
+    "country": "ee",
+    "languages": [
+      "est",
+      "fin"
     ],
     "isGeoBlocked": false
   }

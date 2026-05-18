@@ -498,8 +498,8 @@
     "nanoid": "MrsY6UA2YcH1A6",
     "name": "Océano",
     "stream_urls": [
-      "https://oceano-2.nty.uy/netradio/listen.mp3",
-      "https://oceano-2.nty.uy/"
+      "https://oceano-2.nty.uy/",
+      "https://oceano-2.nty.uy/netradio/listen.mp3"
     ],
     "country": "uy",
     "languages": [
@@ -536,6 +536,18 @@
     "name": "Radio 098",
     "stream_urls": [
       "https://stream.zeno.fm/aam2ts855p8uv"
+    ],
+    "country": "uy",
+    "languages": [
+      "spa"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "s3UnYq03TFvF11",
+    "name": "Radio Activa Florida 101.1",
+    "stream_urls": [
+      "https://streaming1.hostingmontevideo.com:7014/;"
     ],
     "country": "uy",
     "languages": [
@@ -688,23 +700,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vTPIOWiBMl2xLq",
-    "name": "Radio Monte Carlo CX20-AM930",
-    "stream_urls": [
-      "https://streamingcasazorrilla.innovanexo.com:8000/montecarlo.mp3"
-    ],
-    "country": "uy",
-    "languages": [
-      "spa"
-    ],
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "BGaxC7gcIf8hLF",
     "name": "Radio Pipí Cucú",
     "stream_urls": [
-      "https://comodin.uy/radio/8000/320.mp3",
-      "https://comodin.uy/radio/8000/128.mp3"
+      "https://comodin.uy/radio/8000/128.mp3",
+      "https://comodin.uy/radio/8000/320.mp3"
     ],
     "country": "uy",
     "languages": [

@@ -52,8 +52,8 @@
     "nanoid": "WLNT33PeUfam54",
     "name": "Estación 40",
     "stream_urls": [
-      "https://rds3.desdeparaguay.net/transestacion40/transestacion40/playlist.m3u8",
-      "https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/62d81cfbbfbcee0837ba1b60"
+      "https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/62d81cfbbfbcee0837ba1b60",
+      "https://rds3.desdeparaguay.net/transestacion40/transestacion40/playlist.m3u8"
     ],
     "country": "py",
     "languages": [
@@ -173,25 +173,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "BJRsGuXBvxeXUn",
-    "name": "Radio Aranduka 87.9 FM",
-    "stream_urls": [
-      "https://rds3.desdeparaguay.net/movaranduka/movaranduka.stream/playlist.m3u8",
-      "https://tigocloud.desdeparaguay.net/movaranduka/movaranduka.stream/playlist.m3u8"
-    ],
-    "country": "py",
-    "languages": [
-      "spa"
-    ],
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "gI5zcm2dLzpzhM",
     "name": "Radio Aspen 102.7 FM",
     "stream_urls": [
-      "https://rds3.desdeparaguay.net/movaspen/movaspen.stream/playlist.m3u8",
-      "https://copaco.desdeparaguay.net/movaspen/movaspen.stream/playlist.m3u8",
-      "https://tigocloud.desdeparaguay.net/movaspen/movaspen.stream/playlist.m3u8"
+      "https://tigocloud.desdeparaguay.net/movaspen/movaspen.stream/playlist.m3u8",
+      "https://rds3.desdeparaguay.net/movaspen/movaspen.stream/playlist.m3u8"
     ],
     "country": "py",
     "languages": [
@@ -260,11 +246,23 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "CZugHQCCCSnMWO",
+    "name": "Radio Mix 90.1 FM",
+    "stream_urls": [
+      "https://rds3.desdeparaguay.net/movmix/movmix.stream/playlist.m3u8"
+    ],
+    "country": "py",
+    "languages": [
+      "spa"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "vDsXy8hCCki9eH",
     "name": "Radio Monumental 1080 AM",
     "stream_urls": [
-      "https://mdstrm.com/audio/62d81ca6a459e4082203c95b/icecast.audio",
-      "https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/62d81ca6a459e4082203c95b"
+      "https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/62d81ca6a459e4082203c95b",
+      "https://mdstrm.com/audio/62d81ca6a459e4082203c95b/icecast.audio"
     ],
     "country": "py",
     "languages": [
@@ -300,8 +298,8 @@
     "nanoid": "tV2XdxdR2VnDSm",
     "name": "Radio Urbana 106.9 FM",
     "stream_urls": [
-      "https://rds3.desdeparaguay.net/transurbana/transurbana/playlist.m3u8",
-      "https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/62d81cdabff0bc082f8f1a24"
+      "https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/62d81cdabff0bc082f8f1a24",
+      "https://rds3.desdeparaguay.net/transurbana/transurbana/playlist.m3u8"
     ],
     "country": "py",
     "languages": [

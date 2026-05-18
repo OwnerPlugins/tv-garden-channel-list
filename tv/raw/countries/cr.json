@@ -79,24 +79,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9cN6rSKGfOi3ha",
-    "name": "Canal 3 KMK TV",
-    "stream_urls": [
-      "https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "lhFBUBQYMx1tnO",
     "name": "Canal 10",
     "stream_urls": [
-      "https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8",
-      "https://acceso.mediosdecostarica.com:3606/live/canal10costaricalive.m3u8"
+      "https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -120,8 +106,7 @@
     "nanoid": "O4M3Z3Jo7F6qrX",
     "name": "Cartago Medios TV",
     "stream_urls": [
-      "https://acceso.mediosdecostarica.com:3511/live/cartagomediostvlive.m3u8",
-      "https://acceso.mediosdecostarica.com:3511/stream/play.m3u8"
+      "https://acceso.mediosdecostarica.com:3511/live/cartagomediostvlive.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -148,19 +133,6 @@
     "name": "Costa Rica Channel",
     "stream_urls": [
       "https://video0.rogohosting.com:19360/8006/8006.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "wXST2Lc3NQDzOF",
-    "name": "Coto Brus TV",
-    "stream_urls": [
-      "https://cloudvideo.servers10.com:8081/8030/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -263,10 +235,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "YEWQw0DloTzS1o",
-    "name": "Limon TV",
+    "nanoid": "L0Xj3EMr6sq9Oz",
+    "name": "Los Santos TV",
     "stream_urls": [
-      "https://k4.usastreams.com/limontv1/limontv1/playlist.m3u8"
+      "https://lstv.duckdns.org:449/hls/lstv.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -276,12 +248,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "L0Xj3EMr6sq9Oz",
-    "name": "Los Santos TV",
-    "stream_urls": [
-      "https://lstv.duckdns.org:449/hls/lstv.m3u8"
+    "nanoid": "fNzNQyxrdQA2dG",
+    "name": "Multimedios Costa Rica",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/igjWXEONBDQ"
     ],
-    "youtube_urls": [],
     "languages": [
       "spa"
     ],
@@ -331,7 +303,6 @@
     "nanoid": "Oxstp5zvFaS9ZH",
     "name": "Retrox TV",
     "stream_urls": [
-      "https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/playlist.m3u8",
       "https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/chunks.m3u8"
     ],
     "youtube_urls": [],
@@ -359,6 +330,19 @@
     "name": "Sarapiqui TV",
     "stream_urls": [
       "https://lstv.duckdns.org:449/hls/stv.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2ogrHzPUOLVEgc",
+    "name": "SOY Plancha TV",
+    "stream_urls": [
+      "https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -446,6 +430,32 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "aeI6TVNDKNvZiP",
+    "name": "TeleSUR Costa Rica",
+    "stream_urls": [
+      "https://s1.tvdatta.com:3582/live/telesurlive.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xLJatClo1nNRli",
+    "name": "TicaVision",
+    "stream_urls": [
+      "https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Y3sTV1ejuknKgG",
     "name": "TV Sur Canal 14",
     "stream_urls": [
@@ -485,10 +495,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "lyisHWGyNS2hyW",
-    "name": "VoiceOver Radio TV",
+    "nanoid": "tTy2o9iN37Hvi8",
+    "name": "Vintage Music",
     "stream_urls": [
-      "https://cloudvideo.servers10.com:8081/8198/index.m3u8"
+      "https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
