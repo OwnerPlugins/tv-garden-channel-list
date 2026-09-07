@@ -30,20 +30,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "wsFPYVG6zxWvST",
-    "name": "Alabama Weather Network",
-    "sources": {
-      "streams": [
-        "https://alwxnet-ott-proxy.cloud9streaming.com/alwxnet/live/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "IP9BtoTfdM66NO",
     "name": "Fox Weather",
     "sources": {
@@ -61,6 +47,20 @@
     ],
     "country": "us",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "f39IJRVJcdw1WH",
+    "name": "NorCast Weather",
+    "sources": {
+      "streams": [
+        "https://norcast-weather.streamology.live/api/v1/streams/c1b5b114698e1ad4687153c4402d5ef0/live.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "CkqK0vHvwZKLiX",
@@ -131,20 +131,6 @@
       "deu"
     ],
     "country": "at",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Kvj45TeK4JM1CO",
-    "name": "WMUR-TV 9.1",
-    "sources": {
-      "streams": [
-        "https://aegis-cloudfront-1.tubi.video/b77ffe96-c5d1-43a7-8687-306ff244d725/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
     "isGeoBlocked": false
   }
 ]

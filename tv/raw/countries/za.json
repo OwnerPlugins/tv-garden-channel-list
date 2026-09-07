@@ -43,11 +43,25 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "3qqNu9ZcAbmKFU",
+    "name": "Cape Town TV",
+    "sources": {
+      "streams": [
+        "https://cdn.freevisiontv.co.za/sttv/smil:ctv.stream.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "za",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "IsHsuTjDtTUjjX",
     "name": "Cartoon Network Africa",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/58H3zKeMyc4"
+        "https://www.youtube-nocookie.com/embed/pGXvIYizImI"
       ]
     },
     "languages": [
@@ -108,6 +122,20 @@
     },
     "languages": [
       "afr",
+      "eng"
+    ],
+    "country": "za",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "snAMjrpZkkmrj4",
+    "name": "Hope Channel Africa",
+    "sources": {
+      "streams": [
+        "https://jstre.am/live/jsl:i1onRBELcGV.m3u8"
+      ]
+    },
+    "languages": [
       "eng"
     ],
     "country": "za",

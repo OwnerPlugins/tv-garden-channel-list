@@ -1,5 +1,19 @@
 [
   {
+    "nanoid": "1PJE0RldSK4FL3",
+    "name": "America Estereo Guayaquil",
+    "sources": {
+      "streams": [
+        "https://video.makrodigital.com/americaestereoguayaquil/americaestereoguayaquil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "S4rLEDzjcTuaYb",
     "name": "America Estereo Ibarra",
     "sources": {
@@ -252,11 +266,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "IpJn6TkjLhDwxt",
-    "name": "IeanJesus Ecuador",
+    "nanoid": "c0ayJmoC3gtMTu",
+    "name": "Hechos Ecuador",
     "sources": {
       "streams": [
-        "https://cloud37.ecuatel.com/iglesia2020/Stream1/playlist.m3u8"
+        "https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8"
       ]
     },
     "languages": [
@@ -336,20 +350,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "y0sG32hXHAVy2Q",
-    "name": "Majestad Television",
-    "sources": {
-      "streams": [
-        "https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "E3rLmWg3JB8sKD",
     "name": "MakroDigital Television",
     "sources": {
@@ -406,11 +406,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3fhKvFdZfWzhRP",
-    "name": "Nuka TV",
+    "nanoid": "LRZplckRTbzRYe",
+    "name": "Oromar TV",
     "sources": {
       "streams": [
-        "https://cloudvideo.servers10.com:8081/8118/index.m3u8"
+        "https://stream.oromar.tv/hls/oromartv_hi/index.m3u8"
       ]
     },
     "languages": [
@@ -528,18 +528,6 @@
     "languages": [
       "spa"
     ],
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "5YjX2szaJng7ZF",
-    "name": "Studio + TV",
-    "sources": {
-      "streams": [
-        "https://cloudvideo.servers10.com:8081/8184/index.m3u8"
-      ]
-    },
-    "languages": [],
     "country": "ec",
     "isGeoBlocked": false
   },

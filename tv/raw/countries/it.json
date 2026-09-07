@@ -46,8 +46,7 @@
     "name": "51 Radio TV",
     "sources": {
       "streams": [
-        "https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8",
-        "https://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8"
+        "https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8"
       ]
     },
     "languages": [
@@ -293,34 +292,18 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "6vkQlwc2e5p2Bl",
-    "name": "Canale 7",
+    "nanoid": "5HdR8I0ojOAnOH",
+    "name": "Canale 5",
     "sources": {
       "streams": [
-        "https://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8",
-        "https://wms.shared.streamshow.it/canale7/mp4:canale7/playlist.m3u8"
+        "https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8"
       ]
     },
     "languages": [
       "ita"
     ],
     "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "TFKl67cgddE1qo",
-    "name": "Canale 8",
-    "sources": {
-      "streams": [
-        "https://wms.shared.streamshow.it/canale8/canale8/playlist.m3u8",
-        "https://wms.shared.streamshow.it/canale8/mp4:canale8/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "xSyDen73bxIFUM",
@@ -335,6 +318,20 @@
     ],
     "country": "it",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6vEqILZs7Cm2wA",
+    "name": "Cine34",
+    "sources": {
+      "streams": [
+        "https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "vrlS9LYggqZr3W",
@@ -356,6 +353,20 @@
     "sources": {
       "streams": [
         "https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hZp7qm64VGZ6aj",
+    "name": "Cusano Italia TV",
+    "sources": {
+      "streams": [
+        "https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8"
       ]
     },
     "languages": [
@@ -454,8 +465,7 @@
     "name": "Esperia TV",
     "sources": {
       "streams": [
-        "https://59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8",
-        "https://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8"
+        "https://59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -631,6 +641,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "1B0HsMgfip50yF",
+    "name": "Iris",
+    "sources": {
+      "streams": [
+        "https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "g6nacBZmY3YsUr",
     "name": "Italia 2",
     "sources": {
@@ -645,18 +670,21 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "LJMWlXY7EZt85L",
-    "name": "Italia2TV",
+    "nanoid": "R8E994mqmmDshs",
+    "name": "Italian Fishing TV",
     "sources": {
       "streams": [
-        "https://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8"
+        "https://fms.premio.link/fishingtv/playlist.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/DOOdRT-N0Lg"
       ]
     },
     "languages": [
       "ita"
     ],
     "country": "it",
-    "isGeoBlocked": true
+    "isGeoBlocked": false
   },
   {
     "nanoid": "qGCa4GceuRopDr",
@@ -780,6 +808,20 @@
     "sources": {
       "streams": [
         "https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GVTfU86YlWYBhq",
+    "name": "Lazio Style Channel",
+    "sources": {
+      "streams": [
+        "https://distribution.sportitalialive.it/origin/laziostyle_abr/playlist.m3u8"
       ]
     },
     "languages": [
@@ -985,6 +1027,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "V3b7nvXml8zERG",
+    "name": "Paci Contemporary Channel",
+    "sources": {
+      "streams": [
+        "https://5f22d76e220e1.streamlock.net/pacicontemporarychannel/pacicontemporarychannel/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "zH1wikEA6iyust",
     "name": "Padre Pio TV",
     "sources": {
@@ -1139,20 +1195,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "o9AwmvAAtGm4TV",
-    "name": "Quarto Canale Flegreo",
-    "sources": {
-      "streams": [
-        "https://live.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "OriOEDLt7tp0cn",
     "name": "QVC",
     "sources": {
@@ -1168,20 +1210,6 @@
     ],
     "country": "it",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "wVDMbHInscruLg",
-    "name": "Radio 51 TV",
-    "sources": {
-      "streams": [
-        "https://178.32.140.155/canale51/canale51/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "lWiG0XwXki5OWo",
@@ -1222,20 +1250,6 @@
     ],
     "country": "it",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "uNn6ZhcNZueDr9",
-    "name": "Radio Iglesias",
-    "sources": {
-      "streams": [
-        "https://wms.shared.streamshow.it/visualradio/mp4:visualradio/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "1vFqQwnHb55YkM",
@@ -1501,6 +1515,46 @@
     "languages": [
       "deu"
     ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rW6tKgiQ7jM4rF",
+    "name": "Rakuten TV Comedy Movies Italy",
+    "sources": {
+      "streams": [
+        "https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "7UK6GTwohWhEMF",
+    "name": "Rakuten TV Family Movies Italy",
+    "sources": {
+      "streams": [
+        "https://3315fc3e7276420f895e19cf807dbee1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6215/master.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "YfU8ScWMpQTPUo",
+    "name": "Rakuten TV Romance Movies Italy",
+    "sources": {
+      "streams": [
+        "https://3e0f2491d8634a58967529df3f424c0d.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6193/master.m3u8"
+      ]
+    },
+    "languages": [],
     "country": "it",
     "isGeoBlocked": false
   },
@@ -1878,8 +1932,7 @@
     "name": "Super TV",
     "sources": {
       "streams": [
-        "https://59d7d6f47d7fc.streamlock.net/supertv/supertv/playlist.m3u8",
-        "https://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8"
+        "https://59d7d6f47d7fc.streamlock.net/supertv/supertv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1908,20 +1961,6 @@
     "sources": {
       "streams": [
         "https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jHr3gQHmtG7nGu",
-    "name": "T9",
-    "sources": {
-      "streams": [
-        "https://streaming.softwarecreation.it/tnove/tnove/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1977,8 +2016,7 @@
     "name": "Tele Quattro",
     "sources": {
       "streams": [
-        "https://59d7d6f47d7fc.streamlock.net/telequattro/telequattro/playlist.m3u8",
-        "https://wms.shared.streamshow.it/telequattro/telequattro/playlist.m3u8"
+        "https://59d7d6f47d7fc.streamlock.net/telequattro/telequattro/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1993,6 +2031,20 @@
     "sources": {
       "streams": [
         "https://5ce9406b73c33.streamlock.net/TeleArena/TeleArena.stream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "npylXW4SjJPNEy",
+    "name": "Telecity Lombardia",
+    "sources": {
+      "streams": [
+        "https://64b16f23efbee.streamlock.net/telecitylombardia/telecitylombardia/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2020,8 +2072,7 @@
     "name": "Telefoggia",
     "sources": {
       "streams": [
-        "https://59d7d6f47d7fc.streamlock.net/telefoggia/telefoggia/playlist.m3u8",
-        "https://wms.shared.streamshow.it/telefoggia/mp4:telefoggia/playlist.m3u8"
+        "https://59d7d6f47d7fc.streamlock.net/telefoggia/telefoggia/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2217,21 +2268,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zPvcmzJKT1u2rz",
-    "name": "Telepavia",
-    "sources": {
-      "streams": [
-        "https://wms.shared.streamshow.it/telepavia/mp4:telepavia/playlist.m3u8",
-        "https://wms.shared.streamshow.it/telepavia/telepavia/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Dvtgx9aryU0YG9",
     "name": "TeleRama",
     "sources": {
@@ -2382,32 +2418,6 @@
     "languages": [
       "ita"
     ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "1NuTF64lKWrlRC",
-    "name": "TV7 Benevento",
-    "sources": {
-      "streams": [
-        "https://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rv3xoOdgvGr5fo",
-    "name": "TV7 Meteo",
-    "sources": {
-      "streams": [
-        "https://www.gruppotv7.com:8090/hls/meteo.m3u8"
-      ]
-    },
-    "languages": [],
     "country": "it",
     "isGeoBlocked": false
   },

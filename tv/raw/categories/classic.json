@@ -32,7 +32,7 @@
     "name": "BRIDGE Classic",
     "sources": {
       "streams": [
-        "https://stream.mcquack.net/272/index.m3u8"
+        "https://fs.uplink.kz/bridge_classic/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [
@@ -116,13 +116,27 @@
     "name": "Land Of The Lost",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/HpQWvSPjLbo"
+        "https://www.youtube-nocookie.com/embed/VfZVHvJYUBY"
       ]
     },
     "languages": [
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "E0XOi7kyOzOH98",
+    "name": "Nostalgia",
+    "sources": {
+      "streams": [
+        "https://fs.uplink.kz/nostalgia/mono.m3u8?token=onlinetv"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -144,7 +158,6 @@
     "name": "Retro",
     "sources": {
       "streams": [
-        "https://stream.mcquack.net/191/index.m3u8",
         "https://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8"
       ]
     },
@@ -213,6 +226,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ZUiCxfI2YHTlLz",
+    "name": "Shout! Studios: Elvira's Movie Macabre",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/99Qr1DR1p3g"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "qZJLmt0dETdzDZ",
     "name": "The Archive",
     "sources": {
@@ -264,6 +291,20 @@
     },
     "languages": [
       "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MYHc3ofoTIdcA8",
+    "name": "TokuSHOUTsu: Kamen Rider Series",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/lMWB6mWfY0k"
+      ]
+    },
+    "languages": [
+      "jpn"
     ],
     "country": "us",
     "isGeoBlocked": false

@@ -1,10 +1,10 @@
 [
   {
-    "nanoid": "UMtS6zsgi9sFxf",
-    "name": "ADB TV",
+    "nanoid": "k9YVnaB9vAhdV8",
+    "name": "Angel TV Portuguese",
     "sources": {
       "streams": [
-        "https://live-tv.waytv.pt/adbtv/adbtv/playlist.m3u8"
+        "https://janya-digimix.akamaized.net/vglive-sk-382409/portuese/ngrp:angelportuguese_all/playlist.m3u8"
       ]
     },
     "languages": [
@@ -251,20 +251,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "PUdpiv6E36htAt",
-    "name": "RFPtv",
-    "sources": {
-      "streams": [
-        "https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "pt",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "MegvelUFPkbBIn",
     "name": "SIC Alta Definicao",
     "sources": {
@@ -382,6 +368,20 @@
     "sources": {
       "streams": [
         "https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvi.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "pt",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5NRBrsFyvfZbSZ",
+    "name": "TVI Ficcao",
+    "sources": {
+      "streams": [
+        "https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvificcao.m3u8"
       ]
     },
     "languages": [

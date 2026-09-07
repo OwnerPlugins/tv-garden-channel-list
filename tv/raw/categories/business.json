@@ -7,27 +7,13 @@
         "https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/jEPpEUlgjxg"
+        "https://www.youtube-nocookie.com/embed/CgdCEXVCKbA"
       ]
     },
     "languages": [
       "ara"
     ],
     "country": "ae",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hNpror6ZnqPuws",
-    "name": "Aleph Business",
-    "sources": {
-      "streams": [
-        "https://streamw.m.ro/Aleph/ngrp:Alephbiz.stream_all/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
     "isGeoBlocked": false
   },
   {
@@ -74,17 +60,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Tl12ojqlqKkMqp",
-    "name": "Asharq Radio",
+    "nanoid": "o33GtxEONALntd",
+    "name": "Atameken Business",
     "sources": {
       "streams": [
-        "https://svs.itworkscdn.net/asharqradiovlive/asharqradiov/playlist.m3u8"
+        "https://fs.uplink.kz/atameken/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [
-      "ara"
+      "rus"
     ],
-    "country": "sa",
+    "country": "kz",
     "isGeoBlocked": false
   },
   {
@@ -106,6 +92,7 @@
     "name": "BFM Business",
     "sources": {
       "streams": [
+        "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?end=END&start=LIVE",
         "https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8"
       ]
     },
@@ -235,20 +222,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "0w7Ai7GtLMZNLS",
-    "name": "Canal Pro",
-    "sources": {
-      "streams": [
-        "https://www.desde-paraguay.com/pro.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "vxtY5UyNAjZlYv",
     "name": "CGTN Global Biz",
     "sources": {
@@ -304,7 +277,7 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "acbY5wCKKgtMnI",
@@ -431,6 +404,20 @@
       "ben"
     ],
     "country": "bd",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "eNOYZvW4v10TNt",
+    "name": "Fox Business Network",
+    "sources": {
+      "streams": [
+        "https://tvsen6.aynaott.com/foxbusiness/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {

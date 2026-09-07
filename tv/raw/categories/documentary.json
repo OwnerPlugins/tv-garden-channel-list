@@ -4,7 +4,8 @@
     "name": "365 days TV",
     "sources": {
       "streams": [
-        "https://stream.mcquack.net/70/index.m3u8"
+        "https://stream8.cinerama.uz/1242/tracks-v1a1/mono.m3u8",
+        "https://fs.uplink.kz/365_dney/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [
@@ -25,6 +26,20 @@
       "ara"
     ],
     "country": "ae",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3sxG7fzO8BuxxG",
+    "name": "Arsenal",
+    "sources": {
+      "streams": [
+        "https://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -74,8 +89,7 @@
     "name": "Backstage",
     "sources": {
       "streams": [
-        "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8",
-        "https://fuse-backstage-xumo.amagi.tv/playlist.m3u8"
+        "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8"
       ]
     },
     "languages": [
@@ -138,6 +152,7 @@
     "name": "BTB Info",
     "sources": {
       "streams": [
+        "https://panel.btb.j00r.us/memfs/928cfb64-fed7-4c27-9937-f5ad72d9d73c.m3u8",
         "https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8"
       ]
     },
@@ -179,21 +194,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pOal2u88RSp40P",
-    "name": "Chemodan TV",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/399/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "ukr"
-    ],
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "OAc1RsWsrgVUky",
     "name": "China Travel",
     "sources": {
@@ -207,20 +207,6 @@
       "zho"
     ],
     "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "UYW2WtzuwJvxrr",
-    "name": "City Eden KinoDok",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/38354/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -456,20 +442,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "J5HDeVjO016Oz1",
-    "name": "EPlanet TV",
-    "sources": {
-      "streams": [
-        "https://eplhls.wns.live/hls/stream.m3u8"
-      ]
-    },
-    "languages": [
-      "fas"
-    ],
-    "country": "ir",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ok1XbdadbIAXgd",
     "name": "Francophonie24",
     "sources": {
@@ -513,36 +485,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pwNSvcC8tmy7wH",
-    "name": "History",
-    "sources": {
-      "streams": [
-        "https://45.177.114.114/HISTORY/index.m3u8",
-        "https://45.190.28.50/HISTORY_HD/index.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "LibEmLeog5q1Cm",
-    "name": "History 2 Latin America Brazil",
-    "sources": {
-      "streams": [
-        "https://45.177.114.114/HISTORY_2/index.m3u8",
-        "https://45.190.28.50/H2_HD/index.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "OdnRloFb9PVDPW",
     "name": "History Asia",
     "sources": {
@@ -576,8 +518,8 @@
     "sources": {
       "streams": [
         "https://lds-timeline-plex.amagi.tv/playlist.m3u8",
-        "https://lds-timeline-rakuten.amagi.tv/playlist.m3u8",
-        "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-samsungnz/playlist.m3u8"
+        "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-samsungnz/playlist.m3u8",
+        "https://ldsaaaaaa-timeline-samsungau-awedz.amagi.tv/playlist/ldsAAAAAA-timeline-samsungau/playlist.m3u8"
       ]
     },
     "languages": [
@@ -603,6 +545,34 @@
     ],
     "country": "in",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "dS9WZLHmmG45EL",
+    "name": "History Ukraine",
+    "sources": {
+      "streams": [
+        "https://dtv.vol.net.ua/History_HD/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zguiwIb77EwhFw",
+    "name": "History2 Ukraine",
+    "sources": {
+      "streams": [
+        "https://dtv.vol.net.ua/H2-HD/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "8BTlRgfNWp7SGA",
@@ -649,6 +619,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "vWHREmfFSnsmrs",
+    "name": "Istoriya",
+    "sources": {
+      "streams": [
+        "https://fs.uplink.kz/istoriya/mono.m3u8?token=onlinetv"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ydI9RzI56VdmqS",
     "name": "Karbala Documentary",
     "sources": {
@@ -660,34 +644,6 @@
       "ara"
     ],
     "country": "iq",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Ovqg1va2O0hkqi",
-    "name": "KPVM-LD 25.6",
-    "sources": {
-      "streams": [
-        "https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KkqMuLxaMTBFSE",
-    "name": "KTOO-TV 3.3",
-    "sources": {
-      "streams": [
-        "https://api.v3.invintus.com/StreamURI/persis/2147483647/KTOO360TV.stream/media.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -809,21 +765,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "yWqRPjIHcgYftM",
-    "name": "Nano",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/419/index.m3u8",
-        "https://s1.tv-nano.com/Nano_rec/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "kfNMC8gMIZfcGp",
     "name": "Nat Geo Animals",
     "sources": {
@@ -842,7 +783,7 @@
     "name": "National Geographic",
     "sources": {
       "streams": [
-        "https://stream.mcquack.net/116/index.m3u8"
+        "https://fs.uplink.kz/nat_geo/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [
@@ -866,17 +807,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "g2bTTopTiGfPsS",
-    "name": "National Geographic Latin America Panregional",
+    "nanoid": "FmClQA6aIx4mGP",
+    "name": "National Geographic Wild",
     "sources": {
       "streams": [
-        "https://45.162.193.35/NATGEO/index.m3u8"
+        "https://fs.uplink.kz/nat_geo_wild/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [
-      "spa"
+      "rus"
     ],
-    "country": "us",
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -952,20 +893,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nWF8Imk61O9FuP",
-    "name": "Nauka",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/125/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "5dGASmS4TNjspn",
     "name": "O'zbekiston Tarixi",
     "sources": {
@@ -994,17 +921,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "C9r0nQTewOjHW3",
-    "name": "RL PRO TV",
+    "nanoid": "gEeVOh2cSKdMiu",
+    "name": "Persiana Travel",
     "sources": {
       "streams": [
-        "https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8"
+        "https://ptravelhls.persiana.live/hls/stream.m3u8"
       ]
     },
     "languages": [
-      "fra"
+      "fas"
     ],
-    "country": "cd",
+    "country": "ir",
     "isGeoBlocked": false
   },
   {
@@ -1042,7 +969,6 @@
     "name": "Safari TV",
     "sources": {
       "streams": [
-        "https://cdn-6.pishow.tv/live/1513/master.m3u8",
         "https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8"
       ]
     },
@@ -1093,20 +1019,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "bEnt0TUe16DLhv",
-    "name": "Tochka RF",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/161/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -1166,6 +1078,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "PfbaswQwxPL2la",
+    "name": "Viasat History",
+    "sources": {
+      "streams": [
+        "https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODYvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTM0ODYmc3Q9MVprUlhpb2xfODRPc2RMR2R0VDNzQQ%3D%3D&master=78"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "grL6LmvbHNpgqD",
     "name": "Viasat Nature",
     "sources": {
@@ -1184,7 +1110,7 @@
     "name": "viju Explore",
     "sources": {
       "streams": [
-        "https://stream.mcquack.net/239/index.m3u8"
+        "https://fs.uplink.kz/viju_explore/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [
@@ -1198,7 +1124,7 @@
     "name": "viju History",
     "sources": {
       "streams": [
-        "https://stream.mcquack.net/101/index.m3u8"
+        "https://fs.uplink.kz/viju_history/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [
@@ -1212,21 +1138,8 @@
     "name": "viju Nature",
     "sources": {
       "streams": [
-        "https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "dod05Sp6xlTtg2",
-    "name": "viju+ Planet",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/240/index.m3u8"
+        "https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8",
+        "https://fs.uplink.kz/viju_nature/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [

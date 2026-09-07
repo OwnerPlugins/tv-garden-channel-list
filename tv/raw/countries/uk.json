@@ -237,8 +237,8 @@
     "sources": {
       "streams": [
         "https://pb-iiczlgfysam0q.akamaized.net/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8",
-        "https://stream.mcquack.net/85/index.m3u8",
-        "https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8"
+        "https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8",
+        "https://stream8.cinerama.uz/1251/tracks-v1a1/mono.m3u8"
       ]
     },
     "languages": [
@@ -301,7 +301,7 @@
         "https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/I0PU3dgFnGQ"
+        "https://www.youtube-nocookie.com/embed/iVQJRxmux8Q"
       ]
     },
     "languages": [
@@ -344,20 +344,6 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/rEKifG2XUZg"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Hk3PCZlSdlk7No",
-    "name": "Boomerang: The Tom and Jerry Show",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/_XeGYNTiuSM"
       ]
     },
     "languages": [
@@ -1140,34 +1126,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Vet8OV4cWOOk7Z",
-    "name": "IBC Bakthi",
-    "sources": {
-      "streams": [
-        "https://ibc.massstream.net/IBC2/index.m3u8"
-      ]
-    },
-    "languages": [
-      "tam"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KgPGrtRlf7Ua6o",
-    "name": "IBC Tamil",
-    "sources": {
-      "streams": [
-        "https://ibc.massstream.net/IBC/index.m3u8"
-      ]
-    },
-    "languages": [
-      "tam"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "zArqxM7ctlhm8i",
     "name": "Ideal World",
     "sources": {
@@ -1248,24 +1206,6 @@
       ]
     },
     "languages": [],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "v5IfXYen2Q01eP",
-    "name": "JimJam Europe",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/150/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ces",
-      "eng",
-      "heb",
-      "por",
-      "slk"
-    ],
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -1356,20 +1296,6 @@
       ]
     },
     "languages": [],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "PX5qzbiZTbft2y",
-    "name": "Magnavision TV",
-    "sources": {
-      "streams": [
-        "https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "mal"
-    ],
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -1558,12 +1484,49 @@
     "nanoid": "AKoMEdWVVOqbwn",
     "name": "MTA3 Al-Arabia",
     "sources": {
+      "streams": [
+        "https://chlivemta1.akamaized.net/hls/live/2010556/mta3alarabia/playlist.m3u8"
+      ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/_IZxTaXP4Xc"
       ]
     },
     "languages": [
       "ara"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "orMV5kjpjMECfw",
+    "name": "MTA4 Africa",
+    "sources": {
+      "streams": [
+        "https://chlivemta.akamaized.net/hls/live/2010555/mtaafrica1/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "fra",
+      "swa",
+      "urd"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "7HUreojw7Nl7Wt",
+    "name": "MTA5 Africa",
+    "sources": {
+      "streams": [
+        "https://chlivemta.akamaized.net/hls/live/2010555/mtaafrica2/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "fra",
+      "swa",
+      "urd"
     ],
     "country": "uk",
     "isGeoBlocked": false
@@ -1588,11 +1551,26 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "jVLg1Tk3qRtGOF",
+    "name": "MTA8 America",
+    "sources": {
+      "streams": [
+        "https://chlivemta.akamaized.net/hls/live/2016718/mta8/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "eg3goyColncJv1",
     "name": "MTV Global",
     "sources": {
       "streams": [
-        "https://shift03.isp.bg/MTVEurope/index.m3u8"
+        "https://shift03.isp.bg/MTVEurope/index.m3u8",
+        "https://dvr2.kablova.tv/MTV/index.m3u8"
       ]
     },
     "languages": [
@@ -1735,8 +1713,7 @@
     "sources": {
       "streams": [
         "https://amg01076-amg01076c1-samsung-gb-6682.playouts.now.amagi.tv/playlist.m3u8",
-        "https://lightning-now70s-rakuten.amagi.tv/playlist.m3u8",
-        "https://lightningnow70-samsungau.amagi.tv/playlist.m3u8"
+        "https://lightning-now70s-rakuten.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1763,8 +1740,8 @@
     "sources": {
       "streams": [
         "https://lightning-now80s-rakuten.amagi.tv/playlist.m3u8",
-        "https://lightning-now80s-samsungse.amagi.tv/playlist.m3u8",
-        "https://samsunguk-lightning-now80s-samsunguk-n908q.amagi.tv/playlist/samsunguk-lightning-now80s-samsunguk/playlist.m3u8"
+        "https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8",
+        "https://lightning-now80s-samsungse.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1803,8 +1780,21 @@
     "sources": {
       "streams": [
         "https://lightning-now90s-rakuten.amagi.tv/playlist.m3u8",
-        "https://lightning-now90s-samsungse.amagi.tv/playlist.m3u8",
-        "https://lightningnow90-samsungau.amagi.tv/playlist.m3u8"
+        "https://lightning-now90s-samsungse.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tC8c3F84BXvXxm",
+    "name": "NTD TV English UK",
+    "sources": {
+      "streams": [
+        "https://ntd02.akamaized.net/NTD-UK/index.m3u8"
       ]
     },
     "languages": [
@@ -1997,11 +1987,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "DqKr2u3T1rmLql",
-    "name": "Rakuten Top Movies UK",
+    "nanoid": "Ys9b9lAAuDchCF",
+    "name": "Rakuten TV Comedy Movies UK",
     "sources": {
       "streams": [
-        "https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8"
+        "https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8"
       ]
     },
     "languages": [
@@ -2011,11 +2001,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "6OObHoCz5T6mVt",
-    "name": "Rakuten TV Sci-Fi UK",
+    "nanoid": "F2ftHadqxcG2u5",
+    "name": "Rakuten TV Drama Movies UK",
     "sources": {
       "streams": [
-        "https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6241/master.m3u8"
+        "https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mN7jjbfyCCrHDM",
+    "name": "Rakuten TV Romance Movies UK",
+    "sources": {
+      "streams": [
+        "https://2c88ed8c4df9479aa0c7138dc42115e2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8"
       ]
     },
     "languages": [],
@@ -2035,18 +2039,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "RekrBPbX5KKpZp",
-    "name": "Real Crime",
-    "sources": {
-      "streams": [
-        "https://lds-realcrime-samsunguk.amagi.tv/playlist.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "uk",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "jNN9ef0ljzGJ7E",
     "name": "Real Crime Beta",
     "sources": {
@@ -2063,7 +2055,7 @@
     "name": "Rick and Morty",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/iiRNq1sxr0U"
+        "https://www.youtube-nocookie.com/embed/SFx6100d2Fw"
       ]
     },
     "languages": [
@@ -2150,21 +2142,6 @@
     },
     "languages": [
       "hin"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xbZXBsOIAbJVyE",
-    "name": "Setanta Sports",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/313/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "ukr"
     ],
     "country": "uk",
     "isGeoBlocked": false
@@ -2266,7 +2243,7 @@
     "name": "Soviet Toons: Ну, погоди!",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/2nJ8pU3XKGE"
+        "https://www.youtube-nocookie.com/embed/bMFRPomEUfQ"
       ]
     },
     "languages": [
@@ -2280,7 +2257,8 @@
     "name": "Space Live powered by sen",
     "sources": {
       "streams": [
-        "https://d111bsx9oooqoh.cloudfront.net/playlist.m3u8"
+        "https://d111bsx9oooqoh.cloudfront.net/playlist.m3u8",
+        "https://linear-1224.frequency.stream/dist/lg-uk/1224/hls/master/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2902,9 +2880,8 @@
     "name": "Wonder",
     "sources": {
       "streams": [
-        "https://lds-wonder-plex.amagi.tv/playlist.m3u8",
         "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-samsungnz/playlist.m3u8",
-        "https://lds-wonder-samsungau.amagi.tv/playlist.m3u8"
+        "https://wonder-samsung-uk.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [

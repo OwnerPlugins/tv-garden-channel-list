@@ -14,20 +14,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mnVBWlVT6nGvWt",
-    "name": "Africa Independent Television",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/HAK1XsdQ_4U"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ng",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "gZ1nRlS0xe1gmU",
     "name": "AMusic Channel",
     "sources": {
@@ -46,8 +32,7 @@
     "name": "Approval TV",
     "sources": {
       "streams": [
-        "https://live.approvaltv.com/approvaltv/index.m3u8",
-        "https://tv.bigicloud.com/hls/approvaltv/approvaltv.m3u8"
+        "https://live.approvaltv.com/approvaltv/index.m3u8"
       ]
     },
     "languages": [
@@ -169,6 +154,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "YSG1ZKKDkWTBCC",
+    "name": "LoveWorld Arabic",
+    "sources": {
+      "streams": [
+        "https://go5lm6a6dawb-hls-live.5centscdn.com/lwarabic/53132d996b4263ec0d7b602292c46eaf.sdp/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "ng",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8pEfgic6D8bCYA",
     "name": "LoveWorld Persia",
     "sources": {
@@ -244,7 +243,7 @@
     "name": "News Central TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/YDYgq1I6MSc"
+        "https://www.youtube-nocookie.com/embed/Z0r_3PJ0ueQ"
       ]
     },
     "languages": [
@@ -272,7 +271,7 @@
     "name": "NTA Live",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/PGNSIvOWSL4"
+        "https://www.youtube-nocookie.com/embed/hHjfMAjXXmQ"
       ]
     },
     "languages": [
@@ -412,7 +411,7 @@
     "name": "TrustTV News",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/x7MorJUx0pQ"
+        "https://www.youtube-nocookie.com/embed/Otwb5aeIaug"
       ]
     },
     "languages": [
@@ -432,20 +431,6 @@
     "languages": [
       "eng",
       "yor"
-    ],
-    "country": "ng",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "sbDH8jcQOtprOU",
-    "name": "TVC",
-    "sources": {
-      "streams": [
-        "https://tvce.gridpapaservers.com/TVCSEPT/ngrp:myStream_all/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
     ],
     "country": "ng",
     "isGeoBlocked": false
@@ -479,25 +464,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Y3iniHuYhBuCQD",
-    "name": "Wap TV",
+    "nanoid": "XBCn7LG1vDEDMn",
+    "name": "Wazobia Max TV Nigeria",
     "sources": {
       "streams": [
-        "https://newproxy3.vidivu.tv/waptv/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ng",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "bmxTZy6nlmaoMM",
-    "name": "Wazobia Max TV Port-Harcourt",
-    "sources": {
-      "streams": [
-        "https://wazobia.live:8333/channel/wmaxph.m3u8"
+        "https://wazobia.live:8333/channel/wmax.m3u8"
       ]
     },
     "languages": [

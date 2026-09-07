@@ -19,7 +19,6 @@
     "name": "88 Stereo",
     "sources": {
       "streams": [
-        "https://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8",
         "https://s1.tvdatta.com:3972/live/88stereolive.m3u8"
       ]
     },
@@ -42,20 +41,6 @@
     ],
     "country": "cr",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "baI44A3rZswWd9",
-    "name": "Agrotendencia TV",
-    "sources": {
-      "streams": [
-        "https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "H8TtlIKgrW2bwo",
@@ -142,6 +127,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Rbhi1IeYnyJ3gG",
+    "name": "Cedros TV",
+    "sources": {
+      "streams": [
+        "https://eu1.servers10.com:8081/cedrostv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "bK2TlT0v8UWAuh",
     "name": "Colosal TV",
     "sources": {
@@ -220,6 +219,21 @@
       ]
     },
     "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xMyWNZNLNYysjq",
+    "name": "Enlace",
+    "sources": {
+      "streams": [
+        "https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
       "spa"
     ],
     "country": "cr",
@@ -366,20 +380,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "YEWQw0DloTzS1o",
-    "name": "Limon TV",
-    "sources": {
-      "streams": [
-        "https://k4.usastreams.com/limontv1/limontv1/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "L0Xj3EMr6sq9Oz",
     "name": "Los Santos TV",
     "sources": {
@@ -412,7 +412,7 @@
     "name": "Multimedios Costa Rica",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/1kePMjwgDaQ"
+        "https://www.youtube-nocookie.com/embed/dgeMTc8_HKE"
       ]
     },
     "languages": [
@@ -550,8 +550,21 @@
     "name": "Tele Uno",
     "sources": {
       "streams": [
-        "https://5eac7b031d945.streamlock.net/TVUNO/TVUNO/playlist.m3u8",
-        "https://5d16127744872.streamlock.net/TVUNO/TVUNO/playlist.m3u8"
+        "https://5eac7b031d945.streamlock.net/TVUNO/TVUNO/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FY9JMfvI9sWSMw",
+    "name": "TeleBrunca",
+    "sources": {
+      "streams": [
+        "https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/playlist.m3u8"
       ]
     },
     "languages": [
@@ -603,11 +616,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "46bhWZVm1EdjmB",
-    "name": "TV Cartago Digital",
+    "nanoid": "xLJatClo1nNRli",
+    "name": "TicaVision",
     "sources": {
       "streams": [
-        "https://video2.getstreamhosting.com:19360/8110/8110.m3u8"
+        "https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8"
       ]
     },
     "languages": [
@@ -661,8 +674,7 @@
     "name": "Video Tour Channel",
     "sources": {
       "streams": [
-        "https://59ef525c24caa.streamlock.net/videotour/videotour/playlist.m3u8",
-        "https://k4.usastreams.com/videotour/videotour/playlist.m3u8"
+        "https://59ef525c24caa.streamlock.net/videotour/videotour/playlist.m3u8"
       ]
     },
     "languages": [
@@ -710,18 +722,6 @@
     "languages": [
       "spa"
     ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "8qWUmlZKBNU8HB",
-    "name": "Xpresso Joven Radio",
-    "sources": {
-      "streams": [
-        "https://vivo.solumedia.com:19360/xpressojoven/xpressojoven.m3u8"
-      ]
-    },
-    "languages": [],
     "country": "cr",
     "isGeoBlocked": false
   },

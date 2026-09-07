@@ -14,25 +14,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "unFAtIKdGdKV06",
-    "name": "13T",
-    "sources": {
-      "streams": [
-        "https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "9yTrQThbXl1idJ",
     "name": "48 Hours US",
     "sources": {
       "streams": [
         "https://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lMUlcN7Dxmh2r1",
+    "name": "ABC 5 Boston MA (WCVB)",
+    "sources": {
+      "streams": [
+        "https://aegis-cloudfront-1.tubi.video/c2e3094d-ad56-4c5f-9655-cd80df71fbab/playlist.m3u8"
       ]
     },
     "languages": [
@@ -68,20 +68,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "thN5J0xabRBwQr",
-    "name": "Amedia Hit",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/162/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -203,20 +189,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zINaxtQgLWgloN",
-    "name": "Bolt",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/73/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ukr"
-    ],
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "HOuZSLV6tvkngB",
     "name": "Celebrity Name Game",
     "sources": {
@@ -235,27 +207,14 @@
     "name": "Choppertown",
     "sources": {
       "streams": [
-        "https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8"
+        "https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8",
+        "https://linear-11.frequency.stream/dist/plex/11/hls/master/playlist.m3u8"
       ]
     },
     "languages": [
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "UYW2WtzuwJvxrr",
-    "name": "City Eden KinoDok",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/38354/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -421,8 +380,7 @@
     "sources": {
       "streams": [
         "https://amg00426-lds-amg00426c15-samsung-au-3684.playouts.now.amagi.tv/playlist.m3u8",
-        "https://amg00426-lds-amg00426c15-samsung-nz-3685.playouts.now.amagi.tv/playlist.m3u8",
-        "https://lds-donttellbride-samsunguk.amagi.tv/playlist.m3u8"
+        "https://amg00426-lds-amg00426c15-samsung-nz-3685.playouts.now.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -550,20 +508,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JecIpXSXe0rzpH",
-    "name": "Fox Life",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/129/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "7MLHT3jxe1OcD2",
     "name": "Frequence Novelas",
     "sources": {
@@ -639,6 +583,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "b9hyRXnC242UxT",
+    "name": "HBO Hits East",
+    "sources": {
+      "streams": [
+        "https://tvsen7.aynascope.net/hbo2/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "spa"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "X0zblbZ45u2Fyw",
     "name": "Hell's Kitchen UK",
     "sources": {
@@ -666,20 +625,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jiDRfu9ZGCy1Sk",
-    "name": "HOT Drama",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/381/index.m3u8"
-      ]
-    },
-    "languages": [
-      "heb"
-    ],
-    "country": "il",
     "isGeoBlocked": false
   },
   {
@@ -726,17 +671,45 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "PjiUkxL4Sa4RnA",
+    "name": "La Rosa de Guadalupe",
+    "sources": {
+      "streams": [
+        "https://app.viloud.tv/hls/channel/9c88161fe675b59d4b008c776f033960.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "cwqY1fSd0UvwAg",
     "name": "Land Of The Lost",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/HpQWvSPjLbo"
+        "https://www.youtube-nocookie.com/embed/VfZVHvJYUBY"
       ]
     },
     "languages": [
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "OJJQkfx9y7eg2Z",
+    "name": "Latina Clasicos",
+    "sources": {
+      "streams": [
+        "https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
     "isGeoBlocked": false
   },
   {
@@ -765,20 +738,6 @@
       "eng"
     ],
     "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "U81csRB9YHDFcc",
-    "name": "Mireasa",
-    "sources": {
-      "streams": [
-        "https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
     "isGeoBlocked": false
   },
   {
@@ -856,20 +815,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "YSwqwjWz1Ji3Hg",
-    "name": "Nashe",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/217/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "kOqansdIKBiOls",
     "name": "Nosey US",
     "sources": {
@@ -883,20 +828,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Yz6QJMfl4vE5w1",
-    "name": "NTV Series",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/301/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -1062,26 +993,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Jwks7n28SQBw5S",
-    "name": "Star Channel Latin America Panregional",
-    "sources": {
-      "streams": [
-        "https://45.162.193.35/STAR_CHANNEL/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "3WLQIvLWgJCx9b",
     "name": "Super TV",
     "sources": {
       "streams": [
-        "https://59d7d6f47d7fc.streamlock.net/supertv/supertv/playlist.m3u8",
-        "https://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8"
+        "https://59d7d6f47d7fc.streamlock.net/supertv/supertv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1206,21 +1122,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wxBGFlZApAgv7M",
-    "name": "TNT Novelas Brazil",
-    "sources": {
-      "streams": [
-        "https://168.197.104.22/TNT_NOVELAS/index.m3u8",
-        "https://45.162.64.114/TNT_NOVELAS/index.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "UIWLgTqTBtbo6l",
     "name": "Todo Novelas",
     "sources": {
@@ -1294,17 +1195,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "O5Az9Ll0PoTkp2",
-    "name": "Tviy serial",
+    "nanoid": "5NRBrsFyvfZbSZ",
+    "name": "TVI Ficcao",
     "sources": {
       "streams": [
-        "https://stream.mcquack.net/466/index.m3u8"
+        "https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvificcao.m3u8"
       ]
     },
     "languages": [
-      "ukr"
+      "por"
     ],
-    "country": "ua",
+    "country": "pt",
     "isGeoBlocked": false
   },
   {
@@ -1350,17 +1251,31 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rbTDCc0BqwXsLy",
-    "name": "viju+ Serial",
+    "nanoid": "ZcTlJjeaCc55j6",
+    "name": "Viasat Serial",
     "sources": {
       "streams": [
-        "https://stream.mcquack.net/311/index.m3u8"
+        "https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDUvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA2MDExNzAmc3Q9VS12czVHQmhOdF9WQXJ4bHVYVzR2dw%3D%3D&master=599"
       ]
     },
     "languages": [
       "rus"
     ],
-    "country": "ru",
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RBsulEFm06gD0b",
+    "name": "We TV East",
+    "sources": {
+      "streams": [
+        "https://streamer1.nexgen.bz/WE_TV/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1375,20 +1290,6 @@
       "eng"
     ],
     "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "o0RIg5UE06J2tY",
-    "name": "Yam Tichoni",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/46/index.m3u8"
-      ]
-    },
-    "languages": [
-      "her"
-    ],
-    "country": "il",
     "isGeoBlocked": false
   },
   {
@@ -1424,7 +1325,7 @@
     "name": "Кино Добряк: Сваты и Байки Митяя",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/ozuhPITB_4g"
+        "https://www.youtube-nocookie.com/embed/h3mA6LNHmmI"
       ]
     },
     "languages": [

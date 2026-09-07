@@ -144,8 +144,7 @@
     "name": "Canal Gov",
     "sources": {
       "streams": [
-        "https://canalgov-stream.ebc.com.br/index.m3u8",
-        "https://168.197.104.22/TV_BRASIL_2/index.m3u8"
+        "https://canalgov-stream.ebc.com.br/index.m3u8"
       ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/nqfph9USEYA"
@@ -595,6 +594,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xupLUhlUhMmQst",
+    "name": "Duma TV",
+    "sources": {
+      "streams": [
+        "https://dumatv.iptv2022.com/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "xnU10BQX3X7Kmm",
     "name": "Fernandina Beach Channel",
     "sources": {
@@ -722,20 +735,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "tsY7Oi70RUlWEA",
-    "name": "Icrtv Colima",
-    "sources": {
-      "streams": [
-        "https://5fc584f3f19c9.streamlock.net/icrtvcolima/smil:icrtvcolima.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "kDus67YWLDmlSH",
     "name": "JNE TV",
     "sources": {
@@ -775,34 +774,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "pXFYh4j5PohrH6",
-    "name": "Knesset Channel",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/48/index.m3u8"
-      ]
-    },
-    "languages": [
-      "heb"
-    ],
-    "country": "il",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lvIrwQpUaM4Bib",
-    "name": "KTV",
-    "sources": {
-      "streams": [
-        "https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "kor"
-    ],
-    "country": "kr",
     "isGeoBlocked": false
   },
   {
@@ -876,11 +847,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "S0SQt4uHWW3pJv",
-    "name": "Martin County TV",
+    "nanoid": "kDdnzcMq5qo5B2",
+    "name": "MBTV",
     "sources": {
       "streams": [
-        "https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/martin/G0074_002/playlist.m3u8"
+        "https://edge-f.swagit.com/live/miamibeachfl/live-1-a/playlist.m3u8"
       ]
     },
     "languages": [
@@ -890,11 +861,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "kDdnzcMq5qo5B2",
-    "name": "MBTV",
+    "nanoid": "J49I0cja3V1GVG",
+    "name": "Midpen Media Center Channel 29",
     "sources": {
       "streams": [
-        "https://edge-f.swagit.com/live/miamibeachfl/live-1-a/playlist.m3u8"
+        "https://5c2974786200d.streamlock.net/live-chan29/ngrp:ch29_all/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1073,20 +1044,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "dGKj0Pu82BToTZ",
-    "name": "Pershyi Zahidnyi",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/246/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ukr"
-    ],
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "StqTBnuulyCkPJ",
     "name": "PHLgovTV",
     "sources": {
@@ -1148,7 +1105,7 @@
     "name": "Rio TV Câmara",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/RnhBCPJ9598"
+        "https://www.youtube-nocookie.com/embed/N3nNXzCz2Vc"
       ]
     },
     "languages": [
@@ -1178,8 +1135,7 @@
     "sources": {
       "streams": [
         "https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8",
-        "https://playhls.media.nic.in/hls/live/rstv/rstv.m3u8",
-        "https://cdn-2.pishow.tv/live/39/master.m3u8"
+        "https://playhls.media.nic.in/hls/live/rstv/rstv.m3u8"
       ]
     },
     "languages": [
@@ -1294,7 +1250,7 @@
     "name": "TV Assembleia Minas Gerais",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/laGo2kJTLjQ"
+        "https://www.youtube-nocookie.com/embed/0AohtCPiGB8"
       ]
     },
     "languages": [
@@ -1322,9 +1278,7 @@
     "name": "TV Camara",
     "sources": {
       "streams": [
-        "https://stream3.camara.gov.br/tv1/manifest.m3u8",
-        "https://45.190.28.50/TV_CAMARA/index.m3u8",
-        "https://186.219.52.187/tv_camara/index.m3u8"
+        "https://stream3.camara.gov.br/tv1/manifest.m3u8"
       ]
     },
     "languages": [

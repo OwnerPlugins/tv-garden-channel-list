@@ -14,6 +14,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "C7SK0S2RgKNZGi",
+    "name": "AFV",
+    "sources": {
+      "streams": [
+        "https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "BFNn9BFX5O3vY0",
     "name": "Anger Management Channel",
     "sources": {
@@ -115,20 +129,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "QDT0Nt5qZTPoXG",
-    "name": "Comedy Play",
-    "sources": {
-      "streams": [
-        "https://stream1.antenaplay.ro/live/ComedyPlay/chunklist.m3u8"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "7B5TL7KhdmamWP",
     "name": "El Chavo del 8",
     "sources": {
@@ -203,7 +203,7 @@
     "name": "Kinokomedija",
     "sources": {
       "streams": [
-        "https://stream.mcquack.net/265/index.m3u8"
+        "https://fs.uplink.kz/kinokomedia/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [
@@ -213,25 +213,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "H3UPSBAVuhUxL7",
-    "name": "Komedia",
+    "nanoid": "Gw5BJTz0LOIeHh",
+    "name": "KVN TV",
     "sources": {
       "streams": [
-        "https://stream.mcquack.net/68/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xK0Yp3bEUvrU5e",
-    "name": "Komediynoe",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/74/index.m3u8"
+        "https://fs.uplink.kz/kvn_tv/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [
@@ -385,7 +371,7 @@
     "name": "Santa Cruz Feira Digital",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/MBKUanv2KUI"
+        "https://www.youtube-nocookie.com/embed/YorAz2iKC7w"
       ]
     },
     "languages": [
@@ -496,17 +482,19 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xQAk5wZODkxgWi",
-    "name": "viju+ Comedy",
+    "nanoid": "3KIbg37PQUOdm7",
+    "name": "Viasat Kino Comedy",
     "sources": {
       "streams": [
-        "https://stream.mcquack.net/201/index.m3u8"
+        "https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk4Mzcmc3Q9UzRPS1VZemNocmREQWhnSTJkTDJ5QQ%3D%3D&master=249"
       ]
     },
     "languages": [
+      "eng",
+      "lat",
       "rus"
     ],
-    "country": "ru",
+    "country": "ua",
     "isGeoBlocked": false
   }
 ]

@@ -43,6 +43,22 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "k6kILJ1P88D8yy",
+    "name": "CLTV 36",
+    "sources": {
+      "streams": [
+        "https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "pam",
+      "tgl"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "xO426KlalATtSy",
     "name": "Dream TV Philippines",
     "sources": {
@@ -76,6 +92,36 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/VzS75VuvLxs"
+      ]
+    },
+    "languages": [
+      "tgl"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9PIhXT4JQnRopv",
+    "name": "Hope Channel Philippines",
+    "sources": {
+      "streams": [
+        "https://jstre.am/live/jsl:nX5eC7gQvZb.m3u8"
+      ]
+    },
+    "languages": [
+      "ceb",
+      "eng",
+      "fil"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5ylmup4ChZMQ5g",
+    "name": "Hype TV",
+    "sources": {
+      "streams": [
+        "https://hypetvphbydtmmbs.itunerworldwide.workers.dev/master.live.m3u8"
       ]
     },
     "languages": [
@@ -236,6 +282,20 @@
     "sources": {
       "streams": [
         "https://startelevisionph.itunerworldwide.workers.dev/master.live.m3u8"
+      ]
+    },
+    "languages": [
+      "tgl"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "25KpPpidlrPZ8K",
+    "name": "Star TV Philippines",
+    "sources": {
+      "streams": [
+        "https://startvphilippines.itunerworldwide.workers.dev/master.live.m3u8"
       ]
     },
     "languages": [
