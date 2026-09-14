@@ -44,20 +44,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "YD8ihVxcEILfkx",
-    "name": "Azan TV",
-    "sources": {
-      "streams": [
-        "https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ben"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "fruS79xWb73ha2",
     "name": "Barney the Dinosaur",
     "sources": {
@@ -67,20 +53,6 @@
     },
     "languages": [
       "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vLJxCfSjAO72Wd",
-    "name": "Belmedia TV",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/NvZEgWt51Rk"
-      ]
-    },
-    "languages": [
-      "fra"
     ],
     "country": "ca",
     "isGeoBlocked": false
@@ -523,6 +495,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "3PWIwG9FFIlO5Y",
+    "name": "Game+",
+    "sources": {
+      "streams": [
+        "https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hTAa42S6ckdNs5",
     "name": "Garfield & Friends",
     "sources": {
@@ -555,9 +541,9 @@
     "name": "Gusto TV",
     "sources": {
       "streams": [
-        "https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8",
         "https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8",
-        "https://gusto-xumo.amagi.tv/playlist.m3u8"
+        "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8",
+        "https://d31d5kw64c7b6i.cloudfront.net/v1/gustotv_samsung/samsungheadend_us/latest/main/hls/playlist.m3u8"
       ]
     },
     "languages": [
@@ -983,20 +969,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "PcZvzmtUOxudPS",
-    "name": "NACTV",
-    "sources": {
-      "streams": [
-        "https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "npjeXau21Ev4bz",
     "name": "Newfoundland Television",
     "sources": {
@@ -1170,6 +1142,20 @@
     },
     "languages": [
       "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vYhff99inYZrDY",
+    "name": "Radio Tele Evangile Sans Limite",
+    "sources": {
+      "streams": [
+        "https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
     ],
     "country": "ca",
     "isGeoBlocked": false
@@ -1969,7 +1955,7 @@
     "name": "Super Simple: Bedtime Songs",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/oTyu0sbwD1o"
+        "https://www.youtube-nocookie.com/embed/AvAGUeNeiPw"
       ]
     },
     "languages": [
@@ -1983,7 +1969,7 @@
     "name": "Super Simple: Simple Songs",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/JY7-20qlD5g"
+        "https://www.youtube-nocookie.com/embed/_E8gfv5PBkI"
       ]
     },
     "languages": [
@@ -2150,7 +2136,7 @@
     "name": "TV Témis",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/1aPD-3K-nFk"
+        "https://www.youtube-nocookie.com/embed/HhUkB22TPZk"
       ]
     },
     "languages": [

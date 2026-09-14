@@ -99,20 +99,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fKZLucUhJYe0vc",
-    "name": "CCTV-5+",
-    "sources": {
-      "streams": [
-        "https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8"
-      ]
-    },
-    "languages": [
-      "zho"
-    ],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "8qbHNd2Zc2MjWY",
     "name": "CCTV-9",
     "sources": {
@@ -227,7 +213,7 @@
         "https://dash4.antik.sk/live/test_cgtn_fra_tizen/playlist.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/gbsoYH97SFs"
+        "https://www.youtube-nocookie.com/embed/539Cpd-eN1s"
       ]
     },
     "languages": [
@@ -273,6 +259,9 @@
       "streams": [
         "https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8",
         "https://dash4.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/pSMrCCPCZuA"
       ]
     },
     "languages": [
@@ -598,6 +587,30 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "PQS6mmZySzL6Rf",
+    "name": "上虞1新闻综合",
+    "sources": {
+      "streams": [
+        "https://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2Fb8Um99xfgPRq",
+    "name": "上虞3新商都",
+    "sources": {
+      "streams": [
+        "https://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ZMTYKvEKk1dmYw",
     "name": "上虞經濟文化",
     "sources": {
@@ -615,6 +628,18 @@
     "sources": {
       "streams": [
         "https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4gpT2C61YO4gJy",
+    "name": "余姚姚江文化",
+    "sources": {
+      "streams": [
+        "https://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8"
       ]
     },
     "languages": [],

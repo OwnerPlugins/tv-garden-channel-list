@@ -28,20 +28,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "YbLnTmWsjNcPHn",
-    "name": "Bangla Vision",
-    "sources": {
-      "streams": [
-        "https://tvsen5.aynaott.com/banglavision/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ben"
-    ],
-    "country": "bd",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "7AOHjcyPOlQEZK",
     "name": "Boishakhi TV",
     "sources": {
@@ -99,6 +85,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "S9KasrDktK2huz",
+    "name": "Desh TV",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/VsaPKcPlinw"
+      ]
+    },
+    "languages": [
+      "ben"
+    ],
+    "country": "bd",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "G2NosoJRDb3Bwq",
     "name": "Duronto TV",
     "sources": {
@@ -117,7 +117,7 @@
     "name": "Ekattor TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/s6XjS4u-0ZA"
+        "https://www.youtube-nocookie.com/embed/Wom7VjY8OTk"
       ]
     },
     "languages": [
@@ -187,7 +187,7 @@
     "name": "Jamuna TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/oANrLw6IA6w"
+        "https://www.youtube-nocookie.com/embed/2v1RKi8NofE"
       ]
     },
     "languages": [
@@ -275,7 +275,7 @@
     "name": "NTV Live",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/TIYqx_KVEpY"
+        "https://www.youtube-nocookie.com/embed/bzkwxuW8Z4k"
       ]
     },
     "languages": [
@@ -319,20 +319,6 @@
       "streams": [
         "https://tvsen5.aynaott.com/RtvHD/index.m3u8",
         "https://tvsen5.aynascope.net/RtvHD/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ben"
-    ],
-    "country": "bd",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nw7Gl0g9Hyfl04",
-    "name": "Rupashi Bangla TV",
-    "sources": {
-      "streams": [
-        "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ruposhibangla.stream/playlist.m3u8"
       ]
     },
     "languages": [

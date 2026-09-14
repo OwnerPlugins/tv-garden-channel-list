@@ -29,20 +29,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "8jiJPk9xiCpTar",
-    "name": "Amarin TV",
-    "sources": {
-      "streams": [
-        "https://live-us1.thaimomo.com/live-as/chamarin-3/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "tha"
-    ],
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "rP9ZVv3iYUdlq8",
     "name": "Baan Baan TV 73",
     "sources": {
@@ -112,6 +98,21 @@
     ],
     "country": "th",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "ZPk578ujZjTXPa",
+    "name": "DLTV 1",
+    "sources": {
+      "streams": [
+        "https://cdn-live.dltv.ac.th/dltv01.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "tha"
+    ],
+    "country": "th",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "FH7NvrC8IdGbek",
@@ -309,6 +310,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "sfr4boA9nNaI9M",
+    "name": "DLTV 15",
+    "sources": {
+      "streams": [
+        "https://cdn-live.dltv.ac.th/dltv15.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "tha"
+    ],
+    "country": "th",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "omZ8ESluZncX8u",
     "name": "GMM 25",
     "sources": {
@@ -465,11 +481,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3GZ46w4Jr2xtDE",
-    "name": "Rama Channel",
+    "nanoid": "chmBg2GBFNqXoJ",
+    "name": "Police TV",
     "sources": {
       "streams": [
-        "https://ramach.ddns.net/live/ramalive/index.m3u8"
+        "https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -497,7 +513,7 @@
     "name": "SHOP CH Thailand",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/O6ADWg4yRUM"
+        "https://www.youtube-nocookie.com/embed/2bip9VDU0Cg"
       ]
     },
     "languages": [

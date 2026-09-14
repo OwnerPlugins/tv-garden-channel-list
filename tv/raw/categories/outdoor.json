@@ -1,5 +1,19 @@
 [
   {
+    "nanoid": "i0dKAN6mO4GzCG",
+    "name": "Agricultura TV",
+    "sources": {
+      "streams": [
+        "https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "aYAhxfge3884Ci",
     "name": "Agro TV",
     "sources": {
@@ -85,17 +99,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "sPitwPVtngUuVb",
-    "name": "ARDB TV",
+    "nanoid": "sYvKtrPKv77vYD",
+    "name": "Chacra TV",
     "sources": {
       "streams": [
-        "https://ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8"
+        "https://5f700d5b2c46f.streamlock.net/chacratv/chacratv/playlist.m3u8"
       ]
     },
     "languages": [
-      "khm"
+      "spa"
     ],
-    "country": "kh",
+    "country": "ar",
     "isGeoBlocked": false
   },
   {
@@ -160,7 +174,8 @@
     "sources": {
       "streams": [
         "https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8",
-        "https://hncfree-samsung-uk.amagi.tv/playlist.m3u8"
+        "https://hncfree-samsung-uk.amagi.tv/playlist.m3u8",
+        "https://hncfree-samsungau.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [

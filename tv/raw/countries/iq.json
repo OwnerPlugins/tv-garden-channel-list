@@ -14,20 +14,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ddrr8smWgDPaNo",
-    "name": "Afarin Baxcha",
-    "sources": {
-      "streams": [
-        "https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "kur"
-    ],
-    "country": "iq",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "AeG4E88wj1aN3z",
     "name": "Afarin TV",
     "sources": {
@@ -56,39 +42,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3A2dDEUuoabDyM",
-    "name": "Al Iraqia Kurdish",
-    "sources": {
-      "streams": [
-        "https://imn-live.esite-lab.com/hls/iraqia-kurdish.m3u8"
-      ]
-    },
-    "languages": [
-      "kur"
-    ],
-    "country": "iq",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "IbE1EyU5igXIWS",
     "name": "Al Iraqia News",
     "sources": {
       "streams": [
         "https://imn-live.esite-lab.com/hls/iraqia-news.m3u8"
-      ]
-    },
-    "languages": [
-      "ara"
-    ],
-    "country": "iq",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "roeCDcGE1uwKQ6",
-    "name": "Al Iraqia Sport",
-    "sources": {
-      "streams": [
-        "https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8"
       ]
     },
     "languages": [
@@ -117,6 +75,34 @@
     "sources": {
       "streams": [
         "https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0MeH4u5WZGBr4b",
+    "name": "Al Sharqiya",
+    "sources": {
+      "streams": [
+        "https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uIjblLy9ix24di",
+    "name": "Al Sharqiya News",
+    "sources": {
+      "streams": [
+        "https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8"
       ]
     },
     "languages": [
@@ -270,7 +256,7 @@
     "name": "Channel8",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/NskrdSLYirw"
+        "https://www.youtube-nocookie.com/embed/o-YQjT-yqPc"
       ]
     },
     "languages": [
@@ -605,8 +591,7 @@
     "name": "Zagros TV",
     "sources": {
       "streams": [
-        "https://hlspackager.akamaized.net/live/DB/ZAGROS_TV/HLS/ZAGROS_TV.m3u8",
-        "https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8"
+        "https://hlspackager.akamaized.net/live/DB/ZAGROS_TV/HLS/ZAGROS_TV.m3u8"
       ]
     },
     "languages": [

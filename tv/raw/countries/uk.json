@@ -301,7 +301,7 @@
         "https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/iVQJRxmux8Q"
+        "https://www.youtube-nocookie.com/embed/bLAJZTSl2_Y"
       ]
     },
     "languages": [
@@ -387,6 +387,21 @@
       ]
     },
     "languages": [],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RGisQUNDzBMFhg",
+    "name": "Canaf54 TV",
+    "sources": {
+      "streams": [
+        "https://5caf24a595d94.streamlock.net:1937/pvyugfkzkc/pvyugfkzkc/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "fra"
+    ],
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -541,7 +556,7 @@
     "name": "Create & Craft TV Extra",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/em_CcvBxLv4"
+        "https://www.youtube-nocookie.com/embed/GhBeEEaFP2c"
       ]
     },
     "languages": [
@@ -951,6 +966,7 @@
     "name": "GOD TV",
     "sources": {
       "streams": [
+        "https://fl-dvr.iptvcdn.tv/chid_1/playlist.m3u8",
         "https://d1msejlow1t3l4.cloudfront.net/211125/godtv/chunks.m3u8"
       ]
     },
@@ -1300,6 +1316,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "PX5qzbiZTbft2y",
+    "name": "Magnavision TV",
+    "sources": {
+      "streams": [
+        "https://manatv.akamaized.net/120723/smil:magnavision.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "mal"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "odmaKziT74hmSh",
     "name": "Masha & the Bear",
     "sources": {
@@ -1569,8 +1599,21 @@
     "name": "MTV Global",
     "sources": {
       "streams": [
-        "https://shift03.isp.bg/MTVEurope/index.m3u8",
-        "https://dvr2.kablova.tv/MTV/index.m3u8"
+        "https://shift03.isp.bg/MTVEurope/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "i781he5y7cbuXf",
+    "name": "MUTV",
+    "sources": {
+      "streams": [
+        "https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8"
       ]
     },
     "languages": [
@@ -1740,8 +1783,8 @@
     "sources": {
       "streams": [
         "https://lightning-now80s-rakuten.amagi.tv/playlist.m3u8",
-        "https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8",
-        "https://lightning-now80s-samsungse.amagi.tv/playlist.m3u8"
+        "https://lightning-now80s-samsungse.amagi.tv/playlist.m3u8",
+        "https://samsunguk-lightning-now80s-samsunguk-n908q.amagi.tv/playlist/samsunguk-lightning-now80s-samsunguk/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1795,6 +1838,20 @@
     "sources": {
       "streams": [
         "https://ntd02.akamaized.net/NTD-UK/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1A9pQWKNokfhPn",
+    "name": "Panjab TV",
+    "sources": {
+      "streams": [
+        "https://panjabtv.akamaized.net/panjabtv/panjabtvhlsout/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1860,7 +1917,7 @@
       "streams": [
         "https://amg01753-narrativeentert-popkids-lggb-xyy5k.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-popkids-lggb/playlist.m3u8",
         "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-popkids-lggb/playlist.m3u8",
-        "https://narrative-popkids-rakuten.amagi.tv/playlist.m3u8"
+        "https://amg01753-amg01753c6-samsung-au-6678.playouts.now.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1980,46 +2037,6 @@
     "sources": {
       "streams": [
         "https://dikkyk1ckkhzq.cloudfront.net/RabiddsInvasion_GB.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Ys9b9lAAuDchCF",
-    "name": "Rakuten TV Comedy Movies UK",
-    "sources": {
-      "streams": [
-        "https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "F2ftHadqxcG2u5",
-    "name": "Rakuten TV Drama Movies UK",
-    "sources": {
-      "streams": [
-        "https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mN7jjbfyCCrHDM",
-    "name": "Rakuten TV Romance Movies UK",
-    "sources": {
-      "streams": [
-        "https://2c88ed8c4df9479aa0c7138dc42115e2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8"
       ]
     },
     "languages": [],
@@ -2858,6 +2875,20 @@
       ]
     },
     "languages": [],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "S031zk98bWY7Ix",
+    "name": "WildBrain Kids",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/iP6kpac2tpg"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
     "country": "uk",
     "isGeoBlocked": false
   },

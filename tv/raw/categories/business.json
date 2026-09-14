@@ -7,13 +7,27 @@
         "https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/CgdCEXVCKbA"
+        "https://www.youtube-nocookie.com/embed/iHr7P4kZYrk"
       ]
     },
     "languages": [
       "ara"
     ],
     "country": "ae",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hNpror6ZnqPuws",
+    "name": "Aleph Business",
+    "sources": {
+      "streams": [
+        "https://streamw.m.ro/Aleph/ngrp:Alephbiz.stream_all/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
     "isGeoBlocked": false
   },
   {
@@ -51,6 +65,20 @@
       "streams": [
         "https://live-news.asharq.com/asharq.m3u8",
         "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "sa",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Tl12ojqlqKkMqp",
+    "name": "Asharq Radio",
+    "sources": {
+      "streams": [
+        "https://svs.itworkscdn.net/asharqradiovlive/asharqradiov/playlist.m3u8"
       ]
     },
     "languages": [
@@ -100,6 +128,20 @@
       "fra"
     ],
     "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "KsjaxPP1L7V1lh",
+    "name": "Biznes TV",
+    "sources": {
+      "streams": [
+        "https://biznestv.az/hls/live.m3u8"
+      ]
+    },
+    "languages": [
+      "aze"
+    ],
+    "country": "az",
     "isGeoBlocked": false
   },
   {
@@ -463,6 +505,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "pRWBJuGYx6Sqyn",
+    "name": "MNTV",
+    "sources": {
+      "streams": [
+        "https://www.khuwemultimedia.com/hls/mntv/mntv.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "mz",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "PrbGgJSVKuINgQ",
     "name": "NDTV Profit",
     "sources": {
@@ -506,20 +562,6 @@
       "fra"
     ],
     "country": "tg",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "h6xlBNAG4NibAI",
-    "name": "Pro Business",
-    "sources": {
-      "streams": [
-        "https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
     "isGeoBlocked": false
   },
   {
