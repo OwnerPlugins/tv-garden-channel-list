@@ -28,6 +28,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "9UqseJeoJNwuVC",
+    "name": "Antena Monden",
+    "sources": {
+      "streams": [
+        "https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "F1gJBTGOmz90yb",
     "name": "Antiques Road Trip",
     "sources": {
@@ -62,7 +76,9 @@
     "name": "Ayush TV",
     "sources": {
       "streams": [
-        "https://d1msejlow1t3l4.cloudfront.net/fta/ayushtv/playlist.m3u8"
+        "https://cdn.pishow.tv/ott/live/221/master.m3u8",
+        "https://d1msejlow1t3l4.cloudfront.net/fta/ayushtv/playlist.m3u8",
+        "https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8"
       ]
     },
     "languages": [
@@ -129,6 +145,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "qAN5sBGpkuc0D2",
+    "name": "CEACOM TV",
+    "sources": {
+      "streams": [
+        "https://eu1.servers10.com:8081/ceacom/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "7uNjpsoS436Esc",
     "name": "CinePride",
     "sources": {
@@ -140,6 +170,20 @@
       "spa"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rPl77qAXLXht7K",
+    "name": "City Eden MedZdrav",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/47519/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -171,6 +215,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "WNVyhRAYooRBZY",
+    "name": "CVR Health",
+    "sources": {
+      "streams": [
+        "https://mumbai-edge.smartplaytv.in/CVRHealth/index.m3u8",
+        "https://cdn.pishow.tv/ott/live/395/master.m3u8"
+      ]
+    },
+    "languages": [
+      "tel"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "lMbPpHBoCjzoLt",
     "name": "Doctor",
     "sources": {
@@ -189,7 +248,8 @@
     "name": "Domashnie Zhivotnye",
     "sources": {
       "streams": [
-        "https://stream8.cinerama.uz/1426/tracks-v1a1/mono.m3u8"
+        "https://stream8.cinerama.uz/1426/tracks-v1a1/mono.m3u8",
+        "https://fs.uplink.kz/domashnie_zhivotnie/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [
@@ -394,20 +454,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "PQpvfue6i36Igm",
-    "name": "HGTV",
-    "sources": {
-      "streams": [
-        "https://i.mjh.nz/.r/sky-hgtv.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "nz",
     "isGeoBlocked": false
   },
   {
@@ -627,21 +673,6 @@
       "spa"
     ],
     "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "3FPl5RIfISFiTh",
-    "name": "PRIDEtv LATAM",
-    "sources": {
-      "streams": [
-        "https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH"
-      ]
-    },
-    "languages": [
-      "eng",
-      "spa"
-    ],
-    "country": "cl",
     "isGeoBlocked": false
   },
   {

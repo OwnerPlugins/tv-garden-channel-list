@@ -71,20 +71,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "IP3OhGLS9zmwc7",
-    "name": "I24 News English",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/aEafEXwKkrQ"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "il",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ye1tX7fV9TIdI5",
     "name": "i24NEWS Arabic",
     "sources": {
@@ -204,7 +190,21 @@
         "https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Gn4s-EyY0y4"
+        "https://www.youtube-nocookie.com/embed/LwmWQOWhut0"
+      ]
+    },
+    "languages": [
+      "heb"
+    ],
+    "country": "il",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Hxae52Aj0AzH2Z",
+    "name": "Reality Channel",
+    "sources": {
+      "streams": [
+        "https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/index_1.m3u8"
       ]
     },
     "languages": [
@@ -219,6 +219,20 @@
     "sources": {
       "streams": [
         "https://1247634592.rsc.cdn77.org/1247634592/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "heb"
+    ],
+    "country": "il",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UdC2PI8zBRDRg1",
+    "name": "Vacation Channel",
+    "sources": {
+      "streams": [
+        "https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index_2.m3u8"
       ]
     },
     "languages": [

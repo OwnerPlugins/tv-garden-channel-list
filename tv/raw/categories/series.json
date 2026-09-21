@@ -232,6 +232,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "UYW2WtzuwJvxrr",
+    "name": "City Eden KinoDok",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/38354/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "CZ0c6ZasjBnZ4w",
+    "name": "City Eden TeleNovella",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/46209/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "OSKKDWCAHjH9Fa",
     "name": "CNBC-e",
     "sources": {
@@ -597,21 +625,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "b9hyRXnC242UxT",
-    "name": "HBO Hits East HD",
-    "sources": {
-      "streams": [
-        "https://tvsen7.aynascope.net/hbo2/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "spa"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "X0zblbZ45u2Fyw",
     "name": "Hell's Kitchen UK",
     "sources": {
@@ -933,14 +946,14 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "MmvGAkIJ1Y1or8",
     "name": "Shout! Studios: Dennis the Menace",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/cq-WzdQT-m0"
+        "https://www.youtube-nocookie.com/embed/S7dehZP7oJ8"
       ]
     },
     "languages": [
@@ -954,7 +967,7 @@
     "name": "Shout! Studios: Father Knows Best",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Ij0f0FxifJ0"
+        "https://www.youtube-nocookie.com/embed/xE098Hrr-co"
       ]
     },
     "languages": [
@@ -1036,20 +1049,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "jBHty7VgENQxrk",
-    "name": "SYFY East",
-    "sources": {
-      "streams": [
-        "https://tvsen7.aynascope.net/syfy/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "zWSrojOQFGPJUQ",
     "name": "The Asylum US",
     "sources": {
@@ -1119,7 +1118,7 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "i5p0X5SsyFECKS",
@@ -1251,62 +1250,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "lKPGETEt2FJ6ge",
-    "name": "USA Network East",
-    "sources": {
-      "streams": [
-        "https://tvsen3.aynaott.com/dbbcY6NG/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ev5cZksHds3JrU",
-    "name": "Velvet. Mentovskiye Serialy",
-    "sources": {
-      "streams": [
-        "https://cdn.rostelekom-tv.xyz/live/tWQ0ge9rspBQhRst.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "azHfQH8FY4oXMw",
-    "name": "Velvet. Series Hits",
-    "sources": {
-      "streams": [
-        "https://cdn.rostelekom-tv.xyz/live/DeWr3Sgw1Aj2lJd0.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Zf5QDcOrGzyTlQ",
-    "name": "Velvet. Svaty",
-    "sources": {
-      "streams": [
-        "https://cdn.rostelekom-tv.xyz/live/HSxyMqDlSVR54UTN.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ZcTlJjeaCc55j6",
     "name": "Viasat Serial",
     "sources": {
@@ -1335,17 +1278,15 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "EbXO2Dhy1HZFOu",
+    "nanoid": "SCBLYe0CLSFVgw",
     "name": "Z Nation",
     "sources": {
       "streams": [
         "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883098"
       ]
     },
-    "languages": [
-      "eng"
-    ],
-    "country": "pl",
+    "languages": [],
+    "country": "us",
     "isGeoBlocked": false
   },
   {

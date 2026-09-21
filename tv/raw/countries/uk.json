@@ -1411,6 +1411,7 @@
     "sources": {
       "streams": [
         "https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8",
+        "https://mumbai-edge.smartplaytv.in/Moonbug/index.m3u8",
         "https://tvsen6.aynaott.com/MoonbugKids/index.m3u8"
       ]
     },
@@ -1694,20 +1695,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "uU0w6PP1NhQ9xR",
-    "name": "Nickelodeon",
-    "sources": {
-      "streams": [
-        "https://tvsen7.aynascope.net/nicklodean/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "n2UntBRWIK7zqO",
     "name": "Ninja Warrior",
     "sources": {
@@ -1904,9 +1891,7 @@
         "https://docpe51mdltl5.cloudfront.net/Pokemon_GB.m3u8"
       ]
     },
-    "languages": [
-      "eng"
-    ],
+    "languages": [],
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -1917,7 +1902,7 @@
       "streams": [
         "https://amg01753-narrativeentert-popkids-lggb-xyy5k.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-popkids-lggb/playlist.m3u8",
         "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-popkids-lggb/playlist.m3u8",
-        "https://amg01753-amg01753c6-samsung-au-6678.playouts.now.amagi.tv/playlist.m3u8"
+        "https://narrative-popkids-rakuten.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2044,6 +2029,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "bM1ajyE0MLR0WL",
+    "name": "Rakuten TV Family Movies UK",
+    "sources": {
+      "streams": [
+        "https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6OObHoCz5T6mVt",
+    "name": "Rakuten TV Sci-Fi UK",
+    "sources": {
+      "streams": [
+        "https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6241/master.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "uHYtTL2fEDHMX0",
     "name": "Rally.TV FAST+",
     "sources": {
@@ -2072,7 +2083,7 @@
     "name": "Rick and Morty",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/SFx6100d2Fw"
+        "https://www.youtube-nocookie.com/embed/s4qIdyuvh30"
       ]
     },
     "languages": [
@@ -2181,20 +2192,6 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/PvWa9XUzOz8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "M2QygmPlR8J2Gq",
-    "name": "Sky Nature",
-    "sources": {
-      "streams": [
-        "https://tvsen6.aynaott.com/skynature/index.m3u8"
       ]
     },
     "languages": [
@@ -2883,7 +2880,7 @@
     "name": "WildBrain Kids",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/iP6kpac2tpg"
+        "https://www.youtube-nocookie.com/embed/TqFMhutLGss"
       ]
     },
     "languages": [
@@ -2897,7 +2894,7 @@
     "name": "WildBrain: Teletubbies",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/pf3WgatoPUE"
+        "https://www.youtube-nocookie.com/embed/h7CV2gNxU-8"
       ]
     },
     "languages": [
@@ -2912,6 +2909,7 @@
     "sources": {
       "streams": [
         "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-samsungnz/playlist.m3u8",
+        "https://lds-wonder-samsungau.amagi.tv/playlist.m3u8",
         "https://wonder-samsung-uk.amagi.tv/playlist.m3u8"
       ]
     },
@@ -2940,6 +2938,7 @@
     "name": "World War TV",
     "sources": {
       "streams": [
+        "https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8",
         "https://amg00841-aenetworksukane-worldwartv-samsunguk-fiod1.amagi.tv/playlist/amg00841-aenetworksukane-worldwartv-samsunguk/playlist.m3u8"
       ]
     },

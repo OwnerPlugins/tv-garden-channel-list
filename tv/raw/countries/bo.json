@@ -28,20 +28,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "DRw9wn4aT071aO",
-    "name": "As Contenidos",
-    "sources": {
-      "streams": [
-        "https://master.tucableip.com/ascontenido/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "FuTnPCDlGaBjIO",
     "name": "Audiokiss",
     "sources": {
@@ -78,6 +64,20 @@
       ]
     },
     "languages": [],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "qAN5sBGpkuc0D2",
+    "name": "CEACOM TV",
+    "sources": {
+      "streams": [
+        "https://eu1.servers10.com:8081/ceacom/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
     "country": "bo",
     "isGeoBlocked": false
   },
@@ -291,6 +291,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "BnzbysvLZ1mHZ2",
+    "name": "Radio Clasica TV",
+    "sources": {
+      "streams": [
+        "https://ares.disfrutaenlared.com:1936/clasica/clasica/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "uMIh7eDq4J69dP",
     "name": "Radio Kollasuyo",
     "sources": {
@@ -375,20 +389,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "yLB43ge13jrHoP",
-    "name": "Red TV Shop",
-    "sources": {
-      "streams": [
-        "https://master.tucableip.com/redtvshop/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "F3BYfjJnpkzbsO",
     "name": "Red Uno",
     "sources": {
@@ -430,11 +430,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FQtLVabcRW3R96",
-    "name": "Tele Fe Bolivia",
+    "nanoid": "VvgjeRVvJxgn4n",
+    "name": "TELE 6",
     "sources": {
       "streams": [
-        "https://59d39900ebfb8.streamlock.net/telefehd/telefehd/playlist.m3u8"
+        "https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8"
       ]
     },
     "languages": [
@@ -444,11 +444,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "oOiARRZ91GwBKV",
-    "name": "TL Estrella",
+    "nanoid": "FQtLVabcRW3R96",
+    "name": "Tele Fe Bolivia",
     "sources": {
       "streams": [
-        "https://59d39900ebfb8.streamlock.net/teleestrella/teleestrella/playlist.m3u8"
+        "https://59d39900ebfb8.streamlock.net/telefehd/telefehd/playlist.m3u8"
       ]
     },
     "languages": [
@@ -478,6 +478,20 @@
       "streams": [
         "https://master.tucableip.com/tvlatina/index.m3u8",
         "https://castv10.plugstreaming.com:19360/redtv/redtv.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ztTWlTaxLQDSi1",
+    "name": "TV OFF",
+    "sources": {
+      "streams": [
+        "https://edge.enhdtv.com/tvoff/index.m3u8"
       ]
     },
     "languages": [
@@ -551,20 +565,6 @@
       ]
     },
     "languages": [],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9u6WNgsEYDn11w",
-    "name": "Univalle Television",
-    "sources": {
-      "streams": [
-        "https://master.tucableip.com/univalletv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
     "country": "bo",
     "isGeoBlocked": false
   },

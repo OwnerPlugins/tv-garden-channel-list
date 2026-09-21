@@ -1,5 +1,19 @@
 [
   {
+    "nanoid": "4f1EFJwCPB3ths",
+    "name": "Altaghier TV",
+    "sources": {
+      "streams": [
+        "https://jmc-live.ercdn.net/altaghier/altaghier.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "jo",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "pmWQ07XSqyy8GG",
     "name": "Amman TV",
     "sources": {
@@ -146,6 +160,20 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/A1cZxijueg4"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "jo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "EgkvX9kJOJxMoC",
+    "name": "Roya TV",
+    "sources": {
+      "streams": [
+        "https://live.kwikmotion.com/royatvpublic/royatv.smil/playlist.m3u8"
       ]
     },
     "languages": [

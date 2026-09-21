@@ -197,7 +197,7 @@
     "name": "Ankara Büyükşehir Belediyesi",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/B-84y-luaTs"
+        "https://www.youtube-nocookie.com/embed/t67tCvsDIt4"
       ]
     },
     "languages": [
@@ -254,7 +254,6 @@
     "sources": {
       "streams": [
         "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8",
-        "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8",
         "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8"
       ],
       "youtube": [
@@ -330,6 +329,20 @@
       "streams": [
         "https://edge2.taksimbilisim.com/birtv/bant1/playlist.m3u8",
         "https://edge.taksimbilisim.com/birtv/bant1/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GQEjero7WWkJqT",
+    "name": "Bloomberg HT",
+    "sources": {
+      "streams": [
+        "https://mumbai-edge.smartplaytv.in/BloombergHT/index.m3u8"
       ]
     },
     "languages": [
@@ -1132,6 +1145,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "s5TJFofoYPgAud",
+    "name": "Kanal B",
+    "sources": {
+      "streams": [
+        "https://tv.kanalb.tr/hls/kanalb/index.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "LoETX183ZYEwUc",
     "name": "Kanal Firat",
     "sources": {
@@ -1289,7 +1316,7 @@
     "name": "KRT TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/30w_E4a2h14"
+        "https://www.youtube-nocookie.com/embed/QYjD0SDP97w"
       ]
     },
     "languages": [
@@ -1317,7 +1344,7 @@
     "name": "Lider Haber",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/ZgDiaQoLwMs"
+        "https://www.youtube-nocookie.com/embed/oNMq9PwC3DY"
       ]
     },
     "languages": [
@@ -1495,20 +1522,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GIntzeUgHcQOIa",
-    "name": "Number 1 Ask",
-    "sources": {
-      "streams": [
-        "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Qe2ak6SCt98R2p",
     "name": "Number 1 Damar",
     "sources": {
@@ -1535,34 +1548,6 @@
     ],
     "country": "tr",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "pJj7CtCAurdOs8",
-    "name": "Number 1 TV",
-    "sources": {
-      "streams": [
-        "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0p72M9hjYW3qLy",
-    "name": "OlayTurk TV",
-    "sources": {
-      "streams": [
-        "https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "fEdPdOM5VlxlUw",
@@ -1831,20 +1816,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pTUvBY4x4L3ji9",
-    "name": "Telenews",
-    "sources": {
-      "streams": [
-        "https://cdn-telenews.yayin.com.tr/telenews/tracks-v1a1/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "rqkOBR323x5UjG",
     "name": "Tempo TV",
     "sources": {
@@ -2010,7 +1981,7 @@
         "https://tv-trthaber.medya.trt.com.tr/master.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/myv0L5yK_rY"
+        "https://www.youtube-nocookie.com/embed/eqxFPKDlloo"
       ]
     },
     "languages": [
@@ -2069,10 +2040,11 @@
     "sources": {
       "streams": [
         "https://tv-trtworld.medya.trt.com.tr/master.m3u8",
+        "https://mumbai-edge.smartplaytv.in/TRTWorld/index.m3u8",
         "https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Ox9v0q-ohLM"
+        "https://www.youtube-nocookie.com/embed/A1xuih-xum8"
       ]
     },
     "languages": [
@@ -2086,7 +2058,7 @@
     "name": "TRT عربي",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/VX0GbGliJHc"
+        "https://www.youtube-nocookie.com/embed/sat-YpJQ-fg"
       ]
     },
     "languages": [

@@ -1,38 +1,10 @@
 [
   {
-    "nanoid": "DNvXN4cXK8bo20",
-    "name": "AFBTV Kupang",
-    "sources": {
-      "streams": [
-        "https://afbtv.siar.us/live/afbtv.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "fEk1aZZhOygCxY",
     "name": "Ahsan TV",
     "sources": {
       "streams": [
         "https://5bf7b725107e5.streamlock.net/ahsantv/ahsantv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vNzaBFNwp2L4XM",
-    "name": "AKTV",
-    "sources": {
-      "streams": [
-        "https://akativi.siar.us/live/akativi.m3u8"
       ]
     },
     "languages": [
@@ -57,6 +29,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "o2PfBDwt7tySj4",
+    "name": "Angel TV Indonesia",
+    "sources": {
+      "streams": [
+        "https://janya-digimix.akamaized.net/vglive-sk-234616/indonesia/ngrp:angelindonesia_all/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "ind",
+      "tam"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "UWAiuQmeRUZ75q",
     "name": "Aquarius Musikindo: Frekuensi",
     "sources": {
@@ -76,20 +64,6 @@
     "sources": {
       "streams": [
         "https://5bf7b725107e5.streamlock.net/ashiiltv/ashiiltv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "wgCHFkD8F6PNpc",
-    "name": "Astha TV",
-    "sources": {
-      "streams": [
-        "https://hgmtv.com:19360/asthatv/asthatv.m3u8"
       ]
     },
     "languages": [
@@ -253,11 +227,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "QsUhnT0pi51wcj",
-    "name": "Duta TV",
+    "nanoid": "KTv1lAQngiwpQF",
+    "name": "dTVi",
     "sources": {
       "streams": [
-        "https://dutatv.siar.us/dutatv/live/playlist.m3u8"
+        "https://e.siar.us/live/dtvi.m3u8"
       ]
     },
     "languages": [
@@ -465,6 +439,21 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "0KL7HXYYAtsJlk",
+    "name": "Lingkar TV",
+    "sources": {
+      "streams": [
+        "https://lingkartv.my.id/hls/lingkartv.m3u8"
+      ]
+    },
+    "languages": [
+      "ind",
+      "jav"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "76VjihbmJOrWcW",
     "name": "Madani TV",
     "sources": {
@@ -507,6 +496,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "zrn3dK1AY8AcF8",
+    "name": "Marhaban TV",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/aOg2_iDfqfk"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "6Oy6l4nSQLXeVV",
     "name": "Matrix TV Yogyakarta",
     "sources": {
@@ -520,6 +523,20 @@
     ],
     "country": "id",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "AixeZaoPbQBLhF",
+    "name": "MDTV",
+    "sources": {
+      "streams": [
+        "https://op-flashcon-digdayahd-1.dens.tv/h/h223/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "A8yIwT2axQkqtt",
@@ -585,7 +602,7 @@
     "name": "MTA TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/DK5s5CAjeEY"
+        "https://www.youtube-nocookie.com/embed/LMutXscNuco"
       ]
     },
     "languages": [
@@ -707,32 +724,18 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GyYMyUUtPptNeI",
-    "name": "Rinjani TV",
+    "nanoid": "FbrCzMwlpQjYEF",
+    "name": "Rodja TV",
     "sources": {
       "streams": [
-        "https://rinjanitv.cloud/hls/tvkabel.m3u8"
+        "https://rodjatv.com/rodjatv/live.m3u8"
       ]
     },
     "languages": [
       "ind"
     ],
     "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "4XHmhUHFvR9eAr",
-    "name": "RRI Net",
-    "sources": {
-      "streams": [
-        "https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "SM5dGWTEmeAMrT",

@@ -70,20 +70,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JwjTtBdIXCgMJP",
-    "name": "BTB",
-    "sources": {
-      "streams": [
-        "https://emisja.btb.j00r.us/iptv/session/1/hls.m3u8"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "NHCXMxoKr3soBB",
     "name": "BTB 2",
     "sources": {
@@ -124,18 +110,6 @@
       "eng",
       "pol"
     ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "QpkwHa7GwFnKLp",
-    "name": "BTB Music",
-    "sources": {
-      "streams": [
-        "https://panel.btb.j00r.us/memfs/ebaffae6-0086-49d7-843d-57f2c561de86.m3u8"
-      ]
-    },
-    "languages": [],
     "country": "pl",
     "isGeoBlocked": false
   },
@@ -397,20 +371,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "cVaJUABGdrFesO",
-    "name": "Radiowa Czworka",
-    "sources": {
-      "streams": [
-        "https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "uro7Gvibaed6g8",
     "name": "Rakuten Viki Poland",
     "sources": {
@@ -523,11 +483,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hjCXHjX41BNCM8",
-    "name": "Telewizja Gorzów",
+    "nanoid": "hs9A8d0OBl1eij",
+    "name": "Telewizja iTTV",
     "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/PQkLlxToqhU"
+      "streams": [
+        "https://5d84fe297ee2b.streamlock.net/sercanie/scj_florek.stream_aac/playlist.m3u8"
       ]
     },
     "languages": [
@@ -635,20 +595,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zfdmNYbszO1KPF",
-    "name": "Telewizja Żary",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/QvggFNlkjFo"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "eR7HsNDqvDnpND",
     "name": "TNA Wrestling Channel",
     "sources": {
@@ -673,20 +619,6 @@
     },
     "languages": [
       "eng"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "zm99zgCQP8EGKf",
-    "name": "Top Movies Polska",
-    "sources": {
-      "streams": [
-        "https://top-movies-rakuten-tv-pl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6059/master.m3u8"
-      ]
-    },
-    "languages": [
-      "pol"
     ],
     "country": "pl",
     "isGeoBlocked": false
@@ -753,7 +685,6 @@
     "name": "TVP Info",
     "sources": {
       "streams": [
-        "https://lowa8026-cmyk.github.io/tvpvod/399699.m3u8",
         "https://dash4.antik.sk/live/test_tvp_info/playlist.m3u8"
       ]
     },
@@ -768,7 +699,6 @@
     "name": "TVP Polonia",
     "sources": {
       "streams": [
-        "https://lowa8026-cmyk.github.io/tvpvod/399723.m3u8",
         "https://dash2.antik.sk/live/test_tvp_polonia/playlist.m3u8"
       ]
     },
@@ -783,7 +713,6 @@
     "name": "TVP World",
     "sources": {
       "streams": [
-        "https://lowa8026-cmyk.github.io/tvpvod/399731.m3u8",
         "https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8"
       ]
     },
@@ -794,40 +723,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "8fkva1GfM7tM4w",
-    "name": "TVSUDECKA PL",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/BmsocELr6ck"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "UJrA93oKFNB1K1",
-    "name": "Twoja.TV",
-    "sources": {
-      "streams": [
-        "https://stream.twoja.tv/ttv_hls/live.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "fZI48V3oPHwUhn",
     "name": "W Polsce PL",
     "sources": {
       "streams": [
-        "https://lowa8026-cmyk.github.io/WPolscePL.m3u8",
         "https://str.onnetwork.tv/hls/onnet-358726_hi/index.m3u8"
       ]
     },
@@ -875,34 +774,6 @@
     },
     "languages": [
       "eng"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "EbXO2Dhy1HZFOu",
-    "name": "Z Nation",
-    "sources": {
-      "streams": [
-        "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883098"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "bpwyCfxeYK07lR",
-    "name": "ZTV live",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/xd8Twy6cafA"
-      ]
-    },
-    "languages": [
-      "pol"
     ],
     "country": "pl",
     "isGeoBlocked": false

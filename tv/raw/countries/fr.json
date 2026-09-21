@@ -86,7 +86,8 @@
     "name": "Africanews English",
     "sources": {
       "streams": [
-        "https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8"
+        "https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8",
+        "https://mumbai-edge.smartplaytv.in/AfricaNews/index.m3u8"
       ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/NQjabLGdP5g"
@@ -118,6 +119,20 @@
     "sources": {
       "streams": [
         "https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Fc5hpz0dRxh3M6",
+    "name": "Alpe d'Huez TV",
+    "sources": {
+      "streams": [
+        "https://edge13.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8"
       ]
     },
     "languages": [
@@ -159,7 +174,7 @@
     "name": "B SMART",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/VXuYZVHDmPA"
+        "https://www.youtube-nocookie.com/embed/E6mtMUwyOlY"
       ]
     },
     "languages": [
@@ -1100,11 +1115,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fZyKRU2kHKETIx",
-    "name": "Lou!",
+    "nanoid": "rOt2GRHARiewoL",
+    "name": "Littoral FM TV",
     "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/fE6j3_E0CDA"
+      "streams": [
+        "https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1424,20 +1439,6 @@
     "sources": {
       "streams": [
         "https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "e2QKMdwgfK4Vxo",
-    "name": "Simon Super Lapin",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/0bPyiYjhf_U"
       ]
     },
     "languages": [
@@ -1797,8 +1798,8 @@
     "sources": {
       "streams": [
         "https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8",
-        "https://tracesportstars-samsunges.amagi.tv/hls/amagi_hls_data_samsunguk-tracesport-samsungspain/CDN/playlist.m3u8",
-        "https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_hd/index.m3u8"
+        "https://mumbai-edge.smartplaytv.in/TraceSport/index.m3u8",
+        "https://tracesportstars-samsunges.amagi.tv/hls/amagi_hls_data_samsunguk-tracesport-samsungspain/CDN/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1923,6 +1924,20 @@
     ],
     "country": "fr",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "DCLTXwqB1NQz9D",
+    "name": "TV5Monde Asia",
+    "sources": {
+      "streams": [
+        "https://mumt03.tangotv.in/Dsly5z3HTV5MONDEASIA/index.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "2gvbHx7OrU70G2",

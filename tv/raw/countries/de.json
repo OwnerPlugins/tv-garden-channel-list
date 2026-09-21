@@ -4,7 +4,8 @@
     "name": "3sat",
     "sources": {
       "streams": [
-        "https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8"
+        "https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8",
+        "https://dash4.antik.sk/live/test_drei_sat_tizen/playlist.m3u8"
       ]
     },
     "languages": [
@@ -253,6 +254,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "E3Fuo7LqwAfWE9",
+    "name": "Deluxe Dance",
+    "sources": {
+      "streams": [
+        "https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hoEK50b8RIgSOh",
     "name": "Deluxe Music",
     "sources": {
@@ -450,6 +465,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "6ftPsR4C1PTDrI",
+    "name": "Fluss Monster",
+    "sources": {
+      "streams": [
+        "https://rivermonstergermany-rakuten.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8bSuKSVwMMeWf7",
     "name": "Folx Music Television",
     "sources": {
@@ -486,6 +513,20 @@
       ]
     },
     "languages": [],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xceNg3zrNinnuh",
+    "name": "Glück Auf TV - Mittel Erzgebirgs Fernsehen",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/12SPS-Nbbwo"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
     "country": "de",
     "isGeoBlocked": false
   },
@@ -658,6 +699,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "BwAEx0LmqBTmqp",
+    "name": "Kanal 9 Erzgebirge",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/0y7Vb0fH728"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hkGnYbKbnHGzDM",
     "name": "KaufBei TV",
     "sources": {
@@ -687,6 +742,20 @@
     ],
     "country": "de",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "Ztcv27i6GrEiFD",
+    "name": "Lausitzwelle",
+    "sources": {
+      "streams": [
+        "https://h056.video-stream-hosting.de/easycast11-live/_definst_/mp4:livestreamhd2/playlist.m3u8?ref="
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "HWTSet3C8bbwKJ",
@@ -773,6 +842,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "sUPjf9t1EEmdsB",
+    "name": "n-tv",
+    "sources": {
+      "streams": [
+        "https://dash4.antik.sk/live/test_ntv_tizen/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "w5lhgktYgsc1eM",
     "name": "Nachrichten 360",
     "sources": {
@@ -785,6 +868,18 @@
     ],
     "country": "de",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "4YOpv1CYox1W50",
+    "name": "Naruto Germany",
+    "sources": {
+      "streams": [
+        "https://palatinmedia-naruto-rakuten.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "de",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "9oFKf7u6XNNE0e",
@@ -891,6 +986,20 @@
     "sources": {
       "streams": [
         "https://stream03.welocal.stream/stream/fhd-nbypassau_49171/ngrp:stream_all/index.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9LxrSDS23mgklk",
+    "name": "Nitro",
+    "sources": {
+      "streams": [
+        "https://dash4.antik.sk/live/test_rtl_nitro_tizen/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1223,11 +1332,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mMN16NkXBOiZlV",
-    "name": "Rakuten TV Comedy Movies Germany",
+    "nanoid": "FT8VcZltRS1FOf",
+    "name": "Rakuten TV Action Movies Germany",
     "sources": {
       "streams": [
-        "https://ecac08c9e2214375b907d6825aaf9a01.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6182/master.m3u8"
+        "https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8"
       ]
     },
     "languages": [
@@ -1355,6 +1464,48 @@
       "streams": [
         "https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8",
         "https://rt-ger.rttv.com/live/rtdeutsch/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8vAqpTND3MkcrO",
+    "name": "RTL",
+    "sources": {
+      "streams": [
+        "https://dash4.antik.sk/live/test_rtl_ger_tizen/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "brqnNRKBRjnKyb",
+    "name": "RTL Super",
+    "sources": {
+      "streams": [
+        "https://dash4.antik.sk/live/test_super_rtl_tizen/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "g84vhHwCj4wZxe",
+    "name": "RTL Zwei",
+    "sources": {
+      "streams": [
+        "https://dash4.antik.sk/live/test_rtl_zwei_tizen/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1602,6 +1753,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "QI9tblHy5Mfhsp",
+    "name": "SWR Fernsehen HD",
+    "sources": {
+      "streams": [
+        "https://dash4.antik.sk/live/test_swr_tizen/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "UVie6AQ1A0Ge9j",
     "name": "SWR Fernsehen Rheinland-Pfalz",
     "sources": {
@@ -1626,6 +1791,32 @@
     "languages": [
       "deu"
     ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "APsiDTtaBUvYQA",
+    "name": "teltOwkanal",
+    "sources": {
+      "streams": [
+        "https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd8/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Dh2uUg08yXJN7u",
+    "name": "Tennis Channel Germany",
+    "sources": {
+      "streams": [
+        "https://tennischanneldeu-rakuten.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [],
     "country": "de",
     "isGeoBlocked": false
   },
@@ -1753,6 +1944,20 @@
     "sources": {
       "streams": [
         "https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "m9sTB8PM1zE7oy",
+    "name": "VOX",
+    "sources": {
+      "streams": [
+        "https://dash4.antik.sk/live/test_vox_tizen/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1933,6 +2138,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "ULG1kETQhacuFf",
+    "name": "WELT",
+    "sources": {
+      "streams": [
+        "https://dash4.antik.sk/live/test_welt_tizen/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "K22wa9GZBp59RQ",
     "name": "Welt der Wunder TV",
     "sources": {
@@ -2018,7 +2237,8 @@
     "name": "ZDF",
     "sources": {
       "streams": [
-        "https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8"
+        "https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8",
+        "https://dash4.antik.sk/live/test_zdf_avc_25p/playlist.m3u8"
       ]
     },
     "languages": [
