@@ -76,9 +76,9 @@
     "name": "Ayush TV",
     "sources": {
       "streams": [
+        "https://mumt07.tangotv.in/zHjX9OFlAYUSHTV/index.m3u8",
         "https://cdn.pishow.tv/ott/live/221/master.m3u8",
-        "https://d1msejlow1t3l4.cloudfront.net/fta/ayushtv/playlist.m3u8",
-        "https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8"
+        "https://d1msejlow1t3l4.cloudfront.net/fta/ayushtv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -120,8 +120,8 @@
     "name": "Biz TV",
     "sources": {
       "streams": [
-        "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8",
-        "https://thegateway.app/BizAndYou/BizTV/playlist.m3u8"
+        "https://thegateway.app/BizAndYou/BizTV/playlist.m3u8",
+        "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -505,6 +505,7 @@
     "name": "Kappa TV",
     "sources": {
       "streams": [
+        "https://cdn.pishow.tv/ott/live/1123/master.m3u8",
         "https://d1msejlow1t3l4.cloudfront.net/fta/kappatv/playlist.m3u8",
         "https://mumt03.tangotv.in/Dsly5z3HKAPPATV/index.m3u8"
       ]
@@ -531,6 +532,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "LOoaceDLue8eJw",
+    "name": "MediCOOL TV",
+    "sources": {
+      "streams": [
+        "https://live77cdn2.antenaplay.ro/live2_fast/ch1/stream.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "5oNNwRbeufUj8K",
     "name": "Monte Carlo Digital Television",
     "sources": {
@@ -542,20 +557,6 @@
       "eng"
     ],
     "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "AQcwe6Z9P7sz9G",
-    "name": "MRTV Farmer",
-    "sources": {
-      "streams": [
-        "https://mrtvott.com/cache/MRTV-FARMER/master.m3u8"
-      ]
-    },
-    "languages": [
-      "mya"
-    ],
-    "country": "mm",
     "isGeoBlocked": false
   },
   {

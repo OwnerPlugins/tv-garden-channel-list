@@ -1,19 +1,5 @@
 [
   {
-    "nanoid": "C7CqrdYHekA32V",
-    "name": "Alegria TV",
-    "sources": {
-      "streams": [
-        "https://lbgo.bozztv.com/ssh101/ssh101/confirmatv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "KvjjAMUdkPUKh1",
     "name": "Amitel TV",
     "sources": {
@@ -406,6 +392,7 @@
     "sources": {
       "streams": [
         "https://rtp.noxun.net/hls/stream.m3u8",
+        "https://rtp.noxun.net/hls480/stream2.m3u8",
         "https://rtp.noxun.net/hls720/stream3.m3u8"
       ]
     },
@@ -557,6 +544,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "kQUVVUVnaO3mAj",
+    "name": "Unitel Cochabamba",
+    "sources": {
+      "streams": [
+        "https://lbgo.bozztv.com/ssh101/ssh101/tvjoaquiniana26/playlist.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8XmRascOPMJDcT",
     "name": "Unitel Santa Cruz",
     "sources": {
@@ -565,6 +564,20 @@
       ]
     },
     "languages": [],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9u6WNgsEYDn11w",
+    "name": "Univalle Television",
+    "sources": {
+      "streams": [
+        "https://master.tucableip.com/univalletv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
     "country": "bo",
     "isGeoBlocked": false
   },

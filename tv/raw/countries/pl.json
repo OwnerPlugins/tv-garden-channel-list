@@ -14,20 +14,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FHHW8HxY4wkWHY",
-    "name": "Arche TV",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/X1XLgE_6mtE"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "vpmw5YCzbuvKxE",
     "name": "ATM Rozrywka REWORK",
     "sources": {
@@ -203,8 +189,7 @@
     "sources": {
       "streams": [
         "https://webtvstream.bhtelecom.ba/filmbox_arthouse.m3u8",
-        "https://dash3.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8",
-        "https://nosignal1.antenaplay.ro/hls/fb-festival-hd/index.m3u8"
+        "https://dash3.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8"
       ]
     },
     "languages": [
@@ -265,6 +250,20 @@
     },
     "languages": [
       "eng"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "DN6TpQ0x9cD41t",
+    "name": "HORYZONT TV",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/hJGIMg_TogU"
+      ]
+    },
+    "languages": [
+      "pol"
     ],
     "country": "pl",
     "isGeoBlocked": false
@@ -511,6 +510,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "1BgwlFIal9aEik",
+    "name": "Telewizja Olsztyn",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/7Xl7zDfMU5I"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "lZ08XnHwjKG7mF",
     "name": "Telewizja Regionalna Zary",
     "sources": {
@@ -586,6 +599,20 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/EVOt6OyHU9g"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zfdmNYbszO1KPF",
+    "name": "Telewizja Żary",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/snsBp91Augg"
       ]
     },
     "languages": [
@@ -718,6 +745,21 @@
     },
     "languages": [
       "eng"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UJrA93oKFNB1K1",
+    "name": "Twoja.TV",
+    "sources": {
+      "streams": [
+        "https://stream.twoja.tv/ttv_hls/live.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "pol"
     ],
     "country": "pl",
     "isGeoBlocked": false

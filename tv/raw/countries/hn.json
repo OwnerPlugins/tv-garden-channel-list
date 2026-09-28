@@ -70,20 +70,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "TkiAJBVKDzg5NK",
-    "name": "Canal 7 Talanga Vision",
-    "sources": {
-      "streams": [
-        "https://amixtv.com:8081/talangavision/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "hn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "s5LZw8Yx4rrG1s",
     "name": "Canal 11",
     "sources": {
@@ -210,39 +196,25 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "qcU5XAY1ybNmmB",
+    "name": "EDN TV",
+    "sources": {
+      "streams": [
+        "https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "hn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "HGtPDQoNFPOwzf",
     "name": "Girasol TV",
     "sources": {
       "streams": [
         "https://s.emisoras.tv:8081/girasoltv/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "hn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "A21O4Ec20dFXlG",
-    "name": "Globo TV",
-    "sources": {
-      "streams": [
-        "https://stream.radiosmundiales.com/hls/globotvhonduras/globotvhonduras.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "hn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "7jZdYZLmUugc11",
-    "name": "Guayape TV",
-    "sources": {
-      "streams": [
-        "https://tv.bitstreaming.net:8443/live/guayapetv.m3u8"
       ]
     },
     "languages": [
@@ -365,20 +337,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "onHiflHrZAd53s",
-    "name": "Litoral Atlantico HD",
-    "sources": {
-      "streams": [
-        "https://cdn4.streamgato.us:3595/live/litoralhdlive.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "hn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "052OEa16dMrwDi",
     "name": "Metro TV",
     "sources": {
@@ -426,6 +384,20 @@
     "sources": {
       "streams": [
         "https://www.idealfm104-7.com/hls/0/stream.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "hn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Hj05yr3irV5W4y",
+    "name": "Radio Omega TV",
+    "sources": {
+      "streams": [
+        "https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8"
       ]
     },
     "languages": [

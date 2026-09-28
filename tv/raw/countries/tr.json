@@ -51,9 +51,6 @@
       "streams": [
         "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8",
         "https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/playlist.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/9pGruMw_21g"
       ]
     },
     "languages": [
@@ -97,9 +94,6 @@
       "streams": [
         "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8",
         "https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/playlist.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/-zSaswVrQ_M"
       ]
     },
     "languages": [
@@ -207,20 +201,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Zzw5XdFQULzoOQ",
-    "name": "Aras TV",
-    "sources": {
-      "streams": [
-        "https://2.rtmp.org/tv217/yayin.stream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "laMNKAVyTuHniN",
     "name": "AS TV",
     "sources": {
@@ -254,10 +234,11 @@
     "sources": {
       "streams": [
         "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8",
+        "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8",
         "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/QlLx7bRrqW0"
+        "https://www.youtube-nocookie.com/embed/Rk40_h13eR4"
       ]
     },
     "languages": [
@@ -299,7 +280,7 @@
     "name": "Benguturk TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/MOhcWsOL1Us"
+        "https://www.youtube-nocookie.com/embed/oM8knhi5hzQ"
       ]
     },
     "languages": [
@@ -760,6 +741,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "tabafcg5kRDnTr",
+    "name": "Film Atölyesi: Şener Şen Filmleri",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/3rIrjQ2kJc0"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "qgqjKHkHjQzR2F",
     "name": "Finans Turk TV",
     "sources": {
@@ -952,7 +947,7 @@
     "name": "ibrahimlive",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/quyvjLB8lqU"
+        "https://www.youtube-nocookie.com/embed/-L4X78n5t5o"
       ]
     },
     "languages": [
@@ -1269,20 +1264,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "oNyXUjTAtmHkE7",
-    "name": "Kent Turk",
-    "sources": {
-      "streams": [
-        "https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "tTuLPLvkfWTeJZ",
     "name": "Kocaeli TV",
     "sources": {
@@ -1344,7 +1325,7 @@
     "name": "Lider Haber",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/oNMq9PwC3DY"
+        "https://www.youtube-nocookie.com/embed/SB7JzpJGH2A"
       ]
     },
     "languages": [
@@ -1522,6 +1503,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "GIntzeUgHcQOIa",
+    "name": "Number 1 Ask",
+    "sources": {
+      "streams": [
+        "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Qe2ak6SCt98R2p",
     "name": "Number 1 Damar",
     "sources": {
@@ -1548,6 +1543,34 @@
     ],
     "country": "tr",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pJj7CtCAurdOs8",
+    "name": "Number 1 TV",
+    "sources": {
+      "streams": [
+        "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0p72M9hjYW3qLy",
+    "name": "OlayTurk TV",
+    "sources": {
+      "streams": [
+        "https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "fEdPdOM5VlxlUw",
@@ -1718,11 +1741,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1GHn7hBwkPvtBl",
-    "name": "Sonmez TV",
+    "nanoid": "dnDnH0o46ue2tm",
+    "name": "SÖZCÜ Televizyonu",
     "sources": {
-      "streams": [
-        "https://sonmeztv.ozelip.com.tr:3826/live/sonmeztvlive.m3u8"
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/ztmY_cCtUl0"
       ]
     },
     "languages": [
@@ -1732,11 +1755,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "dnDnH0o46ue2tm",
-    "name": "SÖZCÜ Televizyonu",
+    "nanoid": "zBlO9YDZ68nfoc",
+    "name": "Spacetoon Turkey",
     "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/ztmY_cCtUl0"
+      "streams": [
+        "https://live-tr-next.spacetoongo.com/ST_TR_NEXT/hls/h7qefeiwfbjn1.m3u8"
       ]
     },
     "languages": [
@@ -1981,7 +2004,7 @@
         "https://tv-trthaber.medya.trt.com.tr/master.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/eqxFPKDlloo"
+        "https://www.youtube-nocookie.com/embed/GefoJ-LXYfc"
       ]
     },
     "languages": [
@@ -2044,7 +2067,7 @@
         "https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/A1xuih-xum8"
+        "https://www.youtube-nocookie.com/embed/qBe59l6p_EU"
       ]
     },
     "languages": [

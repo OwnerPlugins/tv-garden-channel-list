@@ -183,11 +183,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wq27mSSdEnCXS6",
-    "name": "B1",
+    "nanoid": "nqC1XmTU0qJuuy",
+    "name": "Bollywood Film",
     "sources": {
       "streams": [
-        "https://hls02ns.antenaplay.ro/hls/b1-tv-hd/index.m3u8"
+        "https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8"
       ]
     },
     "languages": [
@@ -197,11 +197,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nqC1XmTU0qJuuy",
-    "name": "Bollywood Film",
+    "nanoid": "RIYeoEqG7KpyCd",
+    "name": "Bucovina TV",
     "sources": {
       "streams": [
-        "https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8"
+        "https://www.bucovinatv.ro/proxy/video/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1DmoeocJqgePZb",
+    "name": "Cinemaraton Plus",
+    "sources": {
+      "streams": [
+        "https://hls02ns.antenaplay.ro/hls/cinemaraton-plus-hd/index.m3u8"
       ]
     },
     "languages": [
@@ -337,11 +351,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "BjZVMVKPbgDPNQ",
-    "name": "FILMBOX+ One Romania",
+    "nanoid": "lhCxqE1AXbE8qH",
+    "name": "HD365 TV",
     "sources": {
       "streams": [
-        "https://nosignal1.antenaplay.ro/hls/fb-one-sd/index.m3u8"
+        "https://s2.netstreaming.eu/hd365.m3u8"
       ]
     },
     "languages": [
@@ -351,11 +365,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "lhCxqE1AXbE8qH",
-    "name": "HD365 TV",
+    "nanoid": "mHg6rpXR6VaVXj",
+    "name": "Hello Taste",
     "sources": {
       "streams": [
-        "https://s2.netstreaming.eu/hd365.m3u8"
+        "https://live77cdn2.antenaplay.ro/live2_fast/ch5/stream.m3u8"
       ]
     },
     "languages": [
@@ -384,6 +398,20 @@
     "sources": {
       "streams": [
         "https://tv.streambox.ro/hls/itv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "EvSDojdoPxNbtZ",
+    "name": "Impact TV 2",
+    "sources": {
+      "streams": [
+        "https://online.tvimpact.live/hls/impact_tv2.m3u8"
       ]
     },
     "languages": [
@@ -482,6 +510,20 @@
     "sources": {
       "streams": [
         "https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "LOoaceDLue8eJw",
+    "name": "MediCOOL TV",
+    "sources": {
+      "streams": [
+        "https://live77cdn2.antenaplay.ro/live2_fast/ch1/stream.m3u8"
       ]
     },
     "languages": [
@@ -804,7 +846,7 @@
     "name": "TRINITAS TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/9czLiKCZ21Y"
+        "https://www.youtube-nocookie.com/embed/gBveUPzZkuU"
       ]
     },
     "languages": [

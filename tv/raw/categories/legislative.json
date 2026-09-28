@@ -636,25 +636,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "X9s52ZHCIYv79e",
-    "name": "HCTV Government Channel",
-    "sources": {
-      "streams": [
-        "https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-2/live.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "zfdgzXgQZmoAvu",
     "name": "Hellenic Parliament TV",
     "sources": {
       "streams": [
-        "https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8"
+        "https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8",
+        "https://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8"
       ]
     },
     "languages": [
@@ -675,20 +662,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "p69vsxFs98WVu8",
-    "name": "Hluttaw S & D",
-    "sources": {
-      "streams": [
-        "https://mrtvott.com/cache/MRTV-HLUTTAW/master.m3u8"
-      ]
-    },
-    "languages": [
-      "mya"
-    ],
-    "country": "mm",
     "isGeoBlocked": false
   },
   {
@@ -1029,11 +1002,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "be0rVB6CUa2XW4",
-    "name": "Pasco TV",
+    "nanoid": "vlyxVSmyz2hGFc",
+    "name": "PBC TV Channel 20",
     "sources": {
       "streams": [
-        "https://cpcdn.azureedge.net/PASCOCOFLLIVE1/PASCOCOFLLIVE1/playlist.m3u8"
+        "https://pbcvideostreams1.pbc.gov/memfs/1af49f9a-6b90-4ec2-a640-7f65ceebed4a.m3u8"
       ]
     },
     "languages": [
@@ -1118,7 +1091,7 @@
     "name": "Rio TV Câmara",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/lBDjSZqMA5A"
+        "https://www.youtube-nocookie.com/embed/JaItcGTxbYA"
       ]
     },
     "languages": [
@@ -1132,7 +1105,8 @@
     "name": "Sansad TV 1",
     "sources": {
       "streams": [
-        "https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8"
+        "https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8",
+        "https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8"
       ]
     },
     "languages": [
@@ -1148,6 +1122,7 @@
     "sources": {
       "streams": [
         "https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8",
+        "https://playhls.media.nic.in/hls/live/rstv/rstv.m3u8",
         "https://cdn.pishow.tv/ott/live/39/master.m3u8"
       ]
     },
@@ -1263,7 +1238,7 @@
     "name": "TV Assembleia Minas Gerais",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/e2hW2Jv29Dk"
+        "https://www.youtube-nocookie.com/embed/VEyLFW9L0Jk"
       ]
     },
     "languages": [

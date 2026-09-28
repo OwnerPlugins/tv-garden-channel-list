@@ -70,11 +70,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "IbE1EyU5igXIWS",
-    "name": "Al Iraqia News",
+    "nanoid": "roeCDcGE1uwKQ6",
+    "name": "Al Iraqia Sport",
     "sources": {
       "streams": [
-        "https://imn-live.esite-lab.com/hls/iraqia-news.m3u8"
+        "https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8"
       ]
     },
     "languages": [
@@ -89,20 +89,6 @@
     "sources": {
       "streams": [
         "https://live.alissahost.net/hls/test.m3u8"
-      ]
-    },
-    "languages": [
-      "ara"
-    ],
-    "country": "iq",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "CM6FuW5WtTCo5H",
-    "name": "Al Rasheed TV",
-    "sources": {
-      "streams": [
-        "https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8"
       ]
     },
     "languages": [
@@ -238,20 +224,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "IUX8TFnb9XiEJu",
-    "name": "AVA Media",
-    "sources": {
-      "streams": [
-        "https://ava2.store/upload/ava.m3u8"
-      ]
-    },
-    "languages": [
-      "kur"
-    ],
-    "country": "iq",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "I677KvGkPDPSil",
     "name": "Avar TV",
     "sources": {
@@ -290,6 +262,35 @@
     "languages": [
       "ara",
       "eng",
+      "kur"
+    ],
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MIpBDCxySOyKyM",
+    "name": "Dijlah TV",
+    "sources": {
+      "streams": [
+        "https://ghaasiflu.online/Dijlah/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ara",
+      "eng"
+    ],
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "umvB9tV3Rb1OXe",
+    "name": "EmanTv",
+    "sources": {
+      "streams": [
+        "https://avr.host247.net/live/emantv/playlist.m3u8"
+      ]
+    },
+    "languages": [
       "kur"
     ],
     "country": "iq",

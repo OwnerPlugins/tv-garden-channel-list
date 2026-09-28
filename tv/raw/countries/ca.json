@@ -72,6 +72,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "XHxGpxMeodxqTd",
+    "name": "C Malayalam TV",
+    "sources": {
+      "streams": [
+        "https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "mal"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "jkhVUzLb6rEW8B",
     "name": "Canal Savoir",
     "sources": {
@@ -470,7 +484,6 @@
     "name": "Fight Network",
     "sources": {
       "streams": [
-        "https://amg00966-amg00966c10-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0081/playlist.m3u8",
         "https://a-cdn.klowdtv.com/live2/fight_720p/playlist.m3u8"
       ]
     },
@@ -513,9 +526,9 @@
     "name": "Gusto TV",
     "sources": {
       "streams": [
-        "https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8",
         "https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8",
-        "https://gusto-xumo.amagi.tv/playlist.m3u8"
+        "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8",
+        "https://d31d5kw64c7b6i.cloudfront.net/v1/gustotv_samsung/samsungheadend_us/latest/main/hls/playlist.m3u8"
       ]
     },
     "languages": [
@@ -911,6 +924,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "xsRHw7w1yWnmCm",
+    "name": "Made In History",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/A1Y2TRM5sMo"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "XLkNES6kyKfJ4o",
     "name": "Montreal Greek TV",
     "sources": {
@@ -950,6 +977,38 @@
     },
     "languages": [
       "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tVSimuRyVg06J3",
+    "name": "New Channel",
+    "sources": {
+      "streams": [
+        "https://vodcdn.bamboo-cloud.com/livehls/6ab2104508fd5ee36702e3d4/master.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Z35fC410AatQuT",
+    "name": "New Channel Pop!",
+    "sources": {
+      "streams": [
+        "https://vodcdn.bamboo-cloud.com/livehls/6ab37c6c7e057f9063071c85/master.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "ind",
+      "msa",
+      "por",
+      "rus"
     ],
     "country": "ca",
     "isGeoBlocked": false
@@ -1167,20 +1226,6 @@
     },
     "languages": [
       "prd"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mmZjHuy87LmO4O",
-    "name": "Sooriyan TV",
-    "sources": {
-      "streams": [
-        "https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "tam"
     ],
     "country": "ca",
     "isGeoBlocked": false
@@ -1929,21 +1974,7 @@
     "name": "Super Simple: Bedtime Songs",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/R9OKXMvWVNU"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "5X99oRpChEcKAS",
-    "name": "Super Simple: Simple Songs",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/JgHkNhWJ12Q"
+        "https://www.youtube-nocookie.com/embed/3l4snRG0h1s"
       ]
     },
     "languages": [
