@@ -232,20 +232,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UYW2WtzuwJvxrr",
-    "name": "City Eden KinoDok",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/38354/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "CZ0c6ZasjBnZ4w",
     "name": "City Eden TeleNovella",
     "sources": {
@@ -289,14 +275,16 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "yf9cDN9bqsGzy8",
-    "name": "COPS",
+    "nanoid": "Lue510y7WNIKXM",
+    "name": "Cops",
     "sources": {
-      "streams": [
-        "https://a7d6af1c184e465db4f39316a5181c1f.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_COPS/playlist.m3u8"
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/bULURMtpV2M"
       ]
     },
-    "languages": [],
+    "languages": [
+      "eng"
+    ],
     "country": "us",
     "isGeoBlocked": false
   },
@@ -580,26 +568,11 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "GOMdLvvyu3y5ss",
-    "name": "GZT",
-    "sources": {
-      "streams": [
-        "https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "o7sYxVV5UOCp3h",
     "name": "Hala Bel3eyal: Shabab Al-Bomb",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Pj6ks4vaVG0"
+        "https://www.youtube-nocookie.com/embed/fhEDGXuSHLQ"
       ]
     },
     "languages": [
@@ -659,8 +632,7 @@
     "name": "Inside Crime UK",
     "sources": {
       "streams": [
-        "https://amg00841-aenetworksukane-insidecrime-samsunguk-o968i.amagi.tv/playlist/amg00841-aenetworksukane-insidecrime-samsunguk/playlist.m3u8",
-        "https://blaze-fast-inside-crime-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-fast-inside-crime-amagi/playlist.m3u8"
+        "https://amg00841-aenetworksukane-insidecrime-samsunguk-o968i.amagi.tv/playlist/amg00841-aenetworksukane-insidecrime-samsunguk/playlist.m3u8"
       ]
     },
     "languages": [
@@ -981,7 +953,7 @@
     "name": "Shout! Studios: Get A Life",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/cK7HO0Xd91U"
+        "https://www.youtube-nocookie.com/embed/yhhKQ_BGXhw"
       ]
     },
     "languages": [
@@ -1154,7 +1126,7 @@
     "name": "TokuSHOUTsu: Kamen Rider Ryuki",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/pfUz-Pe3p1k"
+        "https://www.youtube-nocookie.com/embed/gomRKw9dQlo"
       ]
     },
     "languages": [

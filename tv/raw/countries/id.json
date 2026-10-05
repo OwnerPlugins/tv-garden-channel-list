@@ -227,20 +227,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KTv1lAQngiwpQF",
-    "name": "dTVi",
-    "sources": {
-      "streams": [
-        "https://e.siar.us/live/dtvi.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "QsUhnT0pi51wcj",
     "name": "Duta TV",
     "sources": {
@@ -313,6 +299,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "LISekcgicAyOGd",
+    "name": "Garuda TV",
+    "sources": {
+      "streams": [
+        "https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "sGIxGHruoXGkMd",
     "name": "Gazwah TV",
     "sources": {
@@ -346,6 +346,20 @@
     "sources": {
       "streams": [
         "https://gist.githubusercontent.com/iptvonlinetv/244b66c61f162a7c0c2b4fa59b528139/raw/2376b7ba1989ebbd383301ec7d645e222a6c9338/udp780.510.345:4545.m3u8"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Hae4Rh59QFhZLW",
+    "name": "I Am Channel",
+    "sources": {
+      "streams": [
+        "https://61146e7ab7a66.streamlock.net:8089/tes/1/chunklist.m3u8"
       ]
     },
     "languages": [
@@ -496,20 +510,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "zrn3dK1AY8AcF8",
-    "name": "Marhaban TV",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/iQb8sTydqKQ"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "6Oy6l4nSQLXeVV",
     "name": "Matrix TV Yogyakarta",
     "sources": {
@@ -575,20 +575,6 @@
     "sources": {
       "streams": [
         "https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "AdvqXD9VdsJSYL",
-    "name": "MTA TV",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/LMutXscNuco"
       ]
     },
     "languages": [
@@ -772,6 +758,20 @@
       "streams": [
         "https://live.salira.tv:3870/stream/play.m3u8",
         "https://live.salira.tv/p/3870/hybrid/play.m3u8"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Cx1Butu3HjYB81",
+    "name": "Sampit TV",
+    "sources": {
+      "streams": [
+        "https://sampit-tv.siar.us/live/sampit-tv.m3u8"
       ]
     },
     "languages": [
@@ -1520,7 +1520,21 @@
     "name": "UFA Live 24",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/KC46lSn-Mf0"
+        "https://www.youtube-nocookie.com/embed/NjGIXHrMfWs"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "SlDXX35NImvk2c",
+    "name": "UGTV",
+    "sources": {
+      "streams": [
+        "https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8"
       ]
     },
     "languages": [

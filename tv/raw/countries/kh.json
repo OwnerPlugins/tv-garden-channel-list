@@ -14,11 +14,53 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "sPitwPVtngUuVb",
+    "name": "ARDB TV",
+    "sources": {
+      "streams": [
+        "https://ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8"
+      ]
+    },
+    "languages": [
+      "khm"
+    ],
+    "country": "kh",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "HwKriYLLIfSseS",
+    "name": "Bayon TV",
+    "sources": {
+      "streams": [
+        "https://ip.pdtvhd.com/Khmer/streams/Bayonhd.m3u8"
+      ]
+    },
+    "languages": [
+      "khm"
+    ],
+    "country": "kh",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "g4A3bB8HmwN8Zj",
     "name": "CTV 9",
     "sources": {
       "streams": [
         "https://stream.pdtvhd.com/live/streams/ctv9_hd_playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "khm"
+    ],
+    "country": "kh",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "YIjIVSot1z9UDS",
+    "name": "CTV8 HD",
+    "sources": {
+      "streams": [
+        "https://ip.pdtvhd.com/Khmer/streams/CTV8HD.m3u8"
       ]
     },
     "languages": [
@@ -56,16 +98,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "a7p8px0xew1TNk",
-    "name": "Sangkem TV",
+    "nanoid": "22GUfDaUhwRUJ1",
+    "name": "Netlink TV",
     "sources": {
       "streams": [
-        "https://live.sangkemtv.com/memfs/sangkem.m3u8"
+        "https://netlink.netlinkbroadcaster.com/hls/test.m3u8"
       ]
     },
-    "languages": [
-      "khm"
-    ],
+    "languages": [],
     "country": "kh",
     "isGeoBlocked": false
   },
@@ -75,6 +115,34 @@
     "sources": {
       "streams": [
         "https://seatv.netlinkbroadcaster.com/hls/test.m3u8"
+      ]
+    },
+    "languages": [
+      "khm"
+    ],
+    "country": "kh",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lXrzXvqgLtph14",
+    "name": "Town TV",
+    "sources": {
+      "streams": [
+        "https://stream.pdtvhd.com/LiveApp/streams/Townfullhd.m3u8"
+      ]
+    },
+    "languages": [
+      "khm"
+    ],
+    "country": "kh",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Mhke0W0yDC0bio",
+    "name": "TV5 Cambodia",
+    "sources": {
+      "streams": [
+        "https://ip.pdtvhd.com/Khmer/streams/CTV5.m3u8"
       ]
     },
     "languages": [
@@ -103,6 +171,20 @@
     "sources": {
       "streams": [
         "https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "khm"
+    ],
+    "country": "kh",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JliijnACP4jH0u",
+    "name": "Wiki TV",
+    "sources": {
+      "streams": [
+        "https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8"
       ]
     },
     "languages": [

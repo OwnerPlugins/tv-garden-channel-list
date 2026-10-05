@@ -1,5 +1,19 @@
 [
   {
+    "nanoid": "C7CqrdYHekA32V",
+    "name": "Alegria TV",
+    "sources": {
+      "streams": [
+        "https://lbgo.bozztv.com/ssh101/ssh101/confirmatv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "KvjjAMUdkPUKh1",
     "name": "Amitel TV",
     "sources": {
@@ -33,6 +47,20 @@
     "sources": {
       "streams": [
         "https://59d39900ebfb8.streamlock.net/Aynitv/Aynitv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "PuOdackS09IXBO",
+    "name": "Bolivia TV",
+    "sources": {
+      "streams": [
+        "https://hls.tvabierta.net/hls/boliviatv.m3u8"
       ]
     },
     "languages": [
@@ -170,8 +198,7 @@
     "name": "Gigavision",
     "sources": {
       "streams": [
-        "https://tv2.bitstreaming.net:3576/multi_live/play.m3u8",
-        "https://tv.bitstreaming.net:3348/live/gigavisionlive.m3u8"
+        "https://tv2.bitstreaming.net:3576/multi_live/play.m3u8"
       ]
     },
     "languages": [],
@@ -305,20 +332,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "OPWUaOk2V7zsOP",
-    "name": "Radio Mega TV Amazonia",
-    "sources": {
-      "streams": [
-        "https://ares.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "1Snebdc8j861KM",
     "name": "Radio Universitaria San Andres",
     "sources": {
@@ -375,6 +388,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "yLB43ge13jrHoP",
+    "name": "Red TV Shop",
+    "sources": {
+      "streams": [
+        "https://master.tucableip.com/redtvshop/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "F3BYfjJnpkzbsO",
     "name": "Red Uno",
     "sources": {
@@ -403,11 +430,11 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "jo5rZWZDxVWDCK",
-    "name": "Sucremanta TV",
+    "nanoid": "87xKAUIruoYGZK",
+    "name": "TDT Multimedia",
     "sources": {
       "streams": [
-        "https://lbgo.bozztv.com/ssh101/ssh101/ok2026/playlist.m3u8"
+        "https://video01.brascast.com/juan6318/juan6318/playlist.m3u8"
       ]
     },
     "languages": [
@@ -436,6 +463,20 @@
     "sources": {
       "streams": [
         "https://59d39900ebfb8.streamlock.net/telefehd/telefehd/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "oOiARRZ91GwBKV",
+    "name": "TL Estrella",
+    "sources": {
+      "streams": [
+        "https://59d39900ebfb8.streamlock.net/teleestrella/teleestrella/playlist.m3u8"
       ]
     },
     "languages": [

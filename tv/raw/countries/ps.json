@@ -72,20 +72,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "qHPud6QAjClK6g",
-    "name": "Palestine Edu",
-    "sources": {
-      "streams": [
-        "https://pbc.furrera.ps/PalestineEDU/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ara"
-    ],
-    "country": "ps",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "kMBDQu4FHfVDdk",
     "name": "Palestine Mubasher",
     "sources": {
@@ -176,6 +162,20 @@
     "sources": {
       "streams": [
         "https://streaming.zaytonatube.com:8081/ShababFM/shabab/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "ps",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zJ9zGl534t9s19",
+    "name": "Watar TV",
+    "sources": {
+      "streams": [
+        "https://htvint.mada.ps/orient/index.m3u8"
       ]
     },
     "languages": [

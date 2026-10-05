@@ -168,21 +168,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HHRin5dp3UTQFP",
-    "name": "Atomic TV",
-    "sources": {
-      "streams": [
-        "https://atomic.streamnet.ro/atomictv.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "nqC1XmTU0qJuuy",
     "name": "Bollywood Film",
     "sources": {
@@ -309,6 +294,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Aw91unFPHKA4b2",
+    "name": "Euronews Romania",
+    "sources": {
+      "streams": [
+        "https://hls02ns.antenaplay.ro/hls/euronews-ro-sd/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Zuuz0ec4YwcYzF",
+    "name": "Favorit TV",
+    "sources": {
+      "streams": [
+        "https://hls02ns.antenaplay.ro/hls/favorit-sd/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8feoh5OZEln1eG",
     "name": "FILMBOX+ Comedy Romania",
     "sources": {
@@ -351,11 +364,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "lhCxqE1AXbE8qH",
-    "name": "HD365 TV",
+    "nanoid": "BjZVMVKPbgDPNQ",
+    "name": "FILMBOX+ One Romania",
     "sources": {
       "streams": [
-        "https://s2.netstreaming.eu/hd365.m3u8"
+        "https://nosignal1.antenaplay.ro/hls/fb-one-sd/index.m3u8"
       ]
     },
     "languages": [
@@ -365,11 +378,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mHg6rpXR6VaVXj",
-    "name": "Hello Taste",
+    "nanoid": "lhCxqE1AXbE8qH",
+    "name": "HD365 TV",
     "sources": {
       "streams": [
-        "https://live77cdn2.antenaplay.ro/live2_fast/ch5/stream.m3u8"
+        "https://s2.netstreaming.eu/hd365.m3u8"
       ]
     },
     "languages": [
@@ -398,6 +411,20 @@
     "sources": {
       "streams": [
         "https://tv.streambox.ro/hls/itv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fuW5A0vOKHrbya",
+    "name": "Impact TV",
+    "sources": {
+      "streams": [
+        "https://live.tvimpact.ro:8088/hevc/index.m3u8"
       ]
     },
     "languages": [
@@ -477,6 +504,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "E9smyEh0BaQpif",
+    "name": "JOB TV",
+    "sources": {
+      "streams": [
+        "https://jobtvserver.eu/hls/stream.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "H8lAJKYghBWOpW",
     "name": "Kanal D",
     "sources": {
@@ -510,20 +551,6 @@
     "sources": {
       "streams": [
         "https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "LOoaceDLue8eJw",
-    "name": "MediCOOL TV",
-    "sources": {
-      "streams": [
-        "https://live77cdn2.antenaplay.ro/live2_fast/ch1/stream.m3u8"
       ]
     },
     "languages": [
@@ -645,15 +672,15 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "TwIkx7pihLoO6V",
-    "name": "Observator News",
+    "nanoid": "aG4Gj0k7P3YW2z",
+    "name": "Party Mix",
     "sources": {
       "streams": [
-        "https://live77cdn2.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8"
+        "https://hls02ns.antenaplay.ro/hls/party-mix-hd/index.m3u8"
       ]
     },
     "languages": [
-      "ron"
+      "eng"
     ],
     "country": "ro",
     "isGeoBlocked": false
@@ -701,20 +728,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "o2mdLct3Etcuk8",
-    "name": "Qub TV",
-    "sources": {
-      "streams": [
-        "https://live.djemba.ro/memfs/474f9942-f72b-4130-817a-435cd54b2c36.m3u8"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "V2O33fBcF0imvd",
     "name": "Radio Fx Net",
     "sources": {
@@ -735,6 +748,34 @@
     "sources": {
       "streams": [
         "https://media.3netmedia.ro/hls/stream.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "okDHJ83ZlAyFOY",
+    "name": "Radio Romania Oltenia-Craiova",
+    "sources": {
+      "streams": [
+        "https://stream3.srr.ro/live/Radio-Oltenia/chunklist_w1200239883.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lu21lJ2ydo0AAT",
+    "name": "Radio Romania Targu Mures",
+    "sources": {
+      "streams": [
+        "https://stream3.srr.ro/live/radio-muresr/chunklist_w1731505049.m3u8"
       ]
     },
     "languages": [
@@ -772,11 +813,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "o5xFTwZ5XqqWJt",
-    "name": "Tele7ABC HD",
+    "nanoid": "Uvcll90KSqDPmB",
+    "name": "Taraf TV",
     "sources": {
       "streams": [
-        "https://live.tele7abc.ro/hls/stream/index.m3u8"
+        "https://hls02ns.antenaplay.ro/hls/taraf-tv-sd/index.m3u8"
       ]
     },
     "languages": [
@@ -786,11 +827,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Njn8bJGKqOkI3F",
-    "name": "Tele7music",
+    "nanoid": "o5xFTwZ5XqqWJt",
+    "name": "Tele7ABC HD",
     "sources": {
       "streams": [
-        "https://live.tele7music.ro/hls/stream/index.m3u8"
+        "https://live.tele7abc.ro/hls/stream/index.m3u8"
       ]
     },
     "languages": [
@@ -860,7 +901,7 @@
     "name": "Tu Decizi",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/EYK--w9nLjI"
+        "https://www.youtube-nocookie.com/embed/8MxUEZT_Z3k"
       ]
     },
     "languages": [
@@ -1043,6 +1084,20 @@
     "sources": {
       "streams": [
         "https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wEoUUNJpcYsZs6",
+    "name": "Z-TV",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/uH0unc_duVk"
       ]
     },
     "languages": [

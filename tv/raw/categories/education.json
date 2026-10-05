@@ -42,6 +42,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "FHHW8HxY4wkWHY",
+    "name": "Arche TV",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/LH4VxLk1PuQ"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "IJpns8FI8lNpRr",
     "name": "ARD-alpha",
     "sources": {
@@ -286,8 +300,8 @@
     "name": "Da Vinci",
     "sources": {
       "streams": [
-        "https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8",
-        "https://fs.uplink.kz/da_vinci/mono.m3u8?token=onlinetv"
+        "https://fs.uplink.kz/da_vinci/mono.m3u8?token=onlinetv",
+        "https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8"
       ]
     },
     "languages": [
@@ -315,7 +329,7 @@
     "name": "DD Kisan",
     "sources": {
       "streams": [
-        "https://cdn.pishow.tv/ott/live/9/master.m3u8",
+        "https://cdn.pishow.tv/ott/live/223/master.m3u8",
         "https://d2lk5u59tns74c.cloudfront.net/out/v1/4f053f2c12a24641bf701fb7f2376750/index.m3u8",
         "https://mumbai-edge.smartplaytv.in/DDKisan/index.m3u8"
       ]
@@ -795,6 +809,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "SMcMieKuG80CNx",
+    "name": "HCTV Educational Access Channel",
+    "sources": {
+      "streams": [
+        "https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-1/live.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "6EdtrtcTzJTHBM",
     "name": "HTV4",
     "sources": {
@@ -1005,20 +1033,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "tqCNZa0HLCee0u",
-    "name": "Midpen Media Center Channel 28",
-    "sources": {
-      "streams": [
-        "https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ZPgJUziKYvsqXI",
     "name": "Monroe Community Media Education Channel",
     "sources": {
@@ -1128,20 +1142,6 @@
       "urd"
     ],
     "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "qHPud6QAjClK6g",
-    "name": "Palestine Edu",
-    "sources": {
-      "streams": [
-        "https://pbc.furrera.ps/PalestineEDU/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ara"
-    ],
-    "country": "ps",
     "isGeoBlocked": false
   },
   {
@@ -1367,20 +1367,6 @@
       "ind"
     ],
     "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "60IOsWE81tg80S",
-    "name": "Ryongnamsan Television",
-    "sources": {
-      "streams": [
-        "https://kctv.koryofront.org/stream/ryongnamsan/index.m3u8"
-      ]
-    },
-    "languages": [
-      "kor"
-    ],
-    "country": "kp",
     "isGeoBlocked": false
   },
   {
@@ -1678,6 +1664,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "uhXaKy0zwMPJAb",
+    "name": "UNIANDES TV",
+    "sources": {
+      "streams": [
+        "https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "igJmo5J6YhgXmV",
     "name": "Unifranz",
     "sources": {
@@ -1689,6 +1689,34 @@
       "spa"
     ],
     "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JvGEcuMecAcih8",
+    "name": "Unison TV",
+    "sources": {
+      "streams": [
+        "https://stream.unison.mx/hls/unisontvatem.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "7UeLUueVRqvHR1",
+    "name": "Unisul TV",
+    "sources": {
+      "streams": [
+        "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token="
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
     "isGeoBlocked": false
   },
   {
@@ -1745,6 +1773,20 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JliijnACP4jH0u",
+    "name": "Wiki TV",
+    "sources": {
+      "streams": [
+        "https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "khm"
+    ],
+    "country": "kh",
     "isGeoBlocked": false
   },
   {

@@ -1,5 +1,19 @@
 [
   {
+    "nanoid": "gnXbQSLxnNAtTV",
+    "name": "4 Fun TV",
+    "sources": {
+      "streams": [
+        "https://stream.4fun.tv:8888/hls/4f.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "XCeIlVYmtUB3hr",
     "name": "American Crime Channel Poland",
     "sources": {
@@ -9,6 +23,20 @@
     },
     "languages": [
       "eng"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FHHW8HxY4wkWHY",
+    "name": "Arche TV",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/LH4VxLk1PuQ"
+      ]
+    },
+    "languages": [
+      "pol"
     ],
     "country": "pl",
     "isGeoBlocked": false
@@ -47,6 +75,20 @@
     "sources": {
       "streams": [
         "https://103f01c3ff79408e83c9212f8a374ecc.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_BjgtjmeDarmoweFilmy/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JwjTtBdIXCgMJP",
+    "name": "BTB",
+    "sources": {
+      "streams": [
+        "https://emisja.btb.j00r.us/iptv/session/1/hls.m3u8"
       ]
     },
     "languages": [
@@ -128,6 +170,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "lSTW1dzY0A0GTW",
+    "name": "Cartoon Classics FAST",
+    "sources": {
+      "streams": [
+        "https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "9IWJvqi8MKA5iX",
     "name": "Dr G Medical Examiner",
     "sources": {
@@ -189,7 +245,8 @@
     "sources": {
       "streams": [
         "https://webtvstream.bhtelecom.ba/filmbox_arthouse.m3u8",
-        "https://dash3.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8"
+        "https://dash3.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8",
+        "https://nosignal1.antenaplay.ro/hls/fb-festival-hd/index.m3u8"
       ]
     },
     "languages": [
@@ -370,6 +427,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "cVaJUABGdrFesO",
+    "name": "Radiowa Czworka",
+    "sources": {
+      "streams": [
+        "https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "uro7Gvibaed6g8",
     "name": "Rakuten Viki Poland",
     "sources": {
@@ -473,6 +544,20 @@
     "sources": {
       "streams": [
         "https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hjCXHjX41BNCM8",
+    "name": "Telewizja Gorzów",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/SlP60KtMG_k"
       ]
     },
     "languages": [
@@ -594,20 +679,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9s6DDTJkNu9V38",
-    "name": "Telewizja Zabrze",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/EVOt6OyHU9g"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "zfdmNYbszO1KPF",
     "name": "Telewizja Żary",
     "sources": {
@@ -669,8 +740,7 @@
     "name": "TV Puls",
     "sources": {
       "streams": [
-        "https://edge01.cdn.emitel.pl/bpk-tv/Puls_HD/hbbtv-hls/index.m3u8",
-        "https://lowa8026-cmyk.github.io/PL/PULSHD.php.m3u8"
+        "https://edge01.cdn.emitel.pl/bpk-tv/Puls_HD/hbbtv-hls/index.m3u8"
       ]
     },
     "languages": [
@@ -750,15 +820,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UJrA93oKFNB1K1",
-    "name": "Twoja.TV",
+    "nanoid": "8fkva1GfM7tM4w",
+    "name": "TVSUDECKA PL",
     "sources": {
-      "streams": [
-        "https://stream.twoja.tv/ttv_hls/live.m3u8"
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/3bTGntbVnKo"
       ]
     },
     "languages": [
-      "eng",
       "pol"
     ],
     "country": "pl",

@@ -56,20 +56,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "qF4K7YKWjkSybG",
-    "name": "Bread TV",
-    "sources": {
-      "streams": [
-        "https://video.bread-tv.com:8091/hls-live24/online/index.m3u8"
-      ]
-    },
-    "languages": [
-      "cmn"
-    ],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "jPny5x45PjO9YA",
     "name": "CCTV-1",
     "sources": {
@@ -403,20 +389,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "sW1htecY1J2QHG",
-    "name": "HomePlus",
-    "sources": {
-      "streams": [
-        "https://homeplushls.wns.live/hls/stream.m3u8"
-      ]
-    },
-    "languages": [
-      "fas"
-    ],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "DmRj3yhamAblyQ",
     "name": "Hunan TV",
     "sources": {
@@ -613,6 +585,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "2Fb8Um99xfgPRq",
+    "name": "上虞3新商都",
+    "sources": {
+      "streams": [
+        "https://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ZMTYKvEKk1dmYw",
     "name": "上虞經濟文化",
     "sources": {
@@ -713,7 +697,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/W1HuQdjl5SA"
+        "https://www.youtube-nocookie.com/embed/-uxX-s7aDf0"
       ]
     },
     "languages": [
@@ -927,11 +911,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HGBni7wKrtguXm",
-    "name": "萧山新闻综合",
+    "nanoid": "hlJLT7eqdRNqcv",
+    "name": "蕭山生活頻道",
     "sources": {
       "streams": [
-        "https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8"
+        "https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8"
       ]
     },
     "languages": [],
@@ -985,17 +969,5 @@
     "languages": [],
     "country": "cn",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "6nQrzZYDFKwB5C",
-    "name": "餘姚姚江文化",
-    "sources": {
-      "streams": [
-        "https://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "cn",
-    "isGeoBlocked": false
   }
 ]

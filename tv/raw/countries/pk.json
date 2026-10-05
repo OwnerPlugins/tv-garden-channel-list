@@ -1,9 +1,24 @@
 [
   {
+    "nanoid": "2ve5HiB92986w2",
+    "name": "7 News",
+    "sources": {
+      "streams": [
+        "https://sscsott.com/7news/live/index.m3u8"
+      ]
+    },
+    "languages": [
+      "urd"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ysj72uB19BHukq",
     "name": "8XM",
     "sources": {
       "streams": [
+        "https://cdn4.mjunoon.tv:8087/streamtest/131M/chunks.m3u8",
         "https://cdn4.mjunoon.tv:8087/streamtest/135M/chunks.m3u8"
       ]
     },
@@ -17,8 +32,11 @@
     "nanoid": "NADQVJi1t0O3vZ",
     "name": "24 News HD",
     "sources": {
+      "streams": [
+        "https://cdn4.mjunoon.tv:8087/streamtest/146M/chunks.m3u8"
+      ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/S1ezBR8sE7A"
+        "https://www.youtube-nocookie.com/embed/bNLT16emRhw"
       ]
     },
     "languages": [
@@ -32,7 +50,7 @@
     "name": "92 News HD",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/PfO2i8XReZA"
+        "https://www.youtube-nocookie.com/embed/B3X6wZi5PX4"
       ]
     },
     "languages": [
@@ -128,7 +146,7 @@
     "name": "Awaz Tv News",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/vafv1J6hoxI"
+        "https://www.youtube-nocookie.com/embed/JFoHNVbsJcY"
       ]
     },
     "languages": [
@@ -209,25 +227,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "NGPN9Kga0k97A4",
-    "name": "City 21 News",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/lv4e7kvSpkI"
-      ]
-    },
-    "languages": [
-      "urd"
-    ],
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "SMZ90GrudLpWdN",
     "name": "City 41",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/JEDJmNhirdo"
+        "https://www.youtube-nocookie.com/embed/jtnIwX69Cd0"
       ]
     },
     "languages": [
@@ -242,7 +246,7 @@
     "name": "City 42",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/f5RUt9vvQhQ"
+        "https://www.youtube-nocookie.com/embed/nuDHu9J2jrY"
       ]
     },
     "languages": [
@@ -306,6 +310,21 @@
       ]
     },
     "languages": [
+      "urd"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rKWtSDnBOLuIZX",
+    "name": "Falak TV",
+    "sources": {
+      "streams": [
+        "https://falak.rst.ae/index.m3u8"
+      ]
+    },
+    "languages": [
+      "pan",
       "urd"
     ],
     "country": "pk",
@@ -639,6 +658,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "yQPdPKGvAyjQ79",
+    "name": "Kids Land: Urdu",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/XKS3CjcZ7Ew"
+      ]
+    },
+    "languages": [
+      "urd"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "0DyoG3XduwwwLj",
     "name": "King TV",
     "sources": {
@@ -891,8 +924,8 @@
     "name": "Praise TV",
     "sources": {
       "streams": [
-        "https://pixelsmedia.live/livepraisetv/index.m3u8",
-        "https://livecdn.live247stream.com/praise/tv/playlist.m3u8"
+        "https://livecdn.live247stream.com/praise/tv/playlist.m3u8",
+        "https://pixelsmedia.live/livepraisetv/index.m3u8"
       ]
     },
     "languages": [
@@ -906,7 +939,7 @@
     "name": "PTV News",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/uJIrhh9vzzc"
+        "https://www.youtube-nocookie.com/embed/sYOpC71osZw"
       ]
     },
     "languages": [
@@ -961,15 +994,15 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "WXuOh2YwSDNDLT",
-    "name": "Sky News Urdu",
+    "nanoid": "3iCM6TWrro0iqg",
+    "name": "Sindh TV News",
     "sources": {
-      "streams": [
-        "https://lbgo.bozztv.com/ssh101/ssh101/skynews/playlist.m3u8"
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/lKmqN9HDShA"
       ]
     },
     "languages": [
-      "urd"
+      "eng"
     ],
     "country": "pk",
     "isGeoBlocked": false

@@ -106,7 +106,8 @@
     "sources": {
       "streams": [
         "https://mumbai-edge.smartplaytv.in/6TVTelugu/index.m3u8",
-        "https://yuppparoriglin.akamaized.net/181224/smil:6tv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b"
+        "https://yuppparoriglin.akamaized.net/181224/smil:6tv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+        "https://mumt03.tangotv.in/Dsly5z3H6TVTELUGU/index.m3u8"
       ]
     },
     "languages": [
@@ -127,6 +128,20 @@
       "fra"
     ],
     "country": "ci",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2ve5HiB92986w2",
+    "name": "7 News",
+    "sources": {
+      "streams": [
+        "https://sscsott.com/7news/live/index.m3u8"
+      ]
+    },
+    "languages": [
+      "urd"
+    ],
+    "country": "pk",
     "isGeoBlocked": false
   },
   {
@@ -236,8 +251,11 @@
     "nanoid": "NADQVJi1t0O3vZ",
     "name": "24 News HD",
     "sources": {
+      "streams": [
+        "https://cdn4.mjunoon.tv:8087/streamtest/146M/chunks.m3u8"
+      ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/S1ezBR8sE7A"
+        "https://www.youtube-nocookie.com/embed/bNLT16emRhw"
       ]
     },
     "languages": [
@@ -251,7 +269,8 @@
     "name": "24 TV",
     "sources": {
       "streams": [
-        "https://turkmedya-live.ercdn.net/tv24/tv24.m3u8"
+        "https://turkmedya-live.ercdn.net/tv24/tv24.m3u8",
+        "https://tv.ensonhaber.com/tv24/tv24.m3u8"
       ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/qFKEi2BqHYc"
@@ -325,7 +344,7 @@
     "name": "92 News HD",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/PfO2i8XReZA"
+        "https://www.youtube-nocookie.com/embed/B3X6wZi5PX4"
       ]
     },
     "languages": [
@@ -353,7 +372,7 @@
     "name": "99TV Telugu",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/ZSDzWSMH3uk"
+        "https://www.youtube-nocookie.com/embed/npR8uO7xpi0"
       ]
     },
     "languages": [
@@ -381,7 +400,8 @@
     "name": "360° News",
     "sources": {
       "streams": [
-        "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8"
+        "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8",
+        "https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/index.m3u8"
       ]
     },
     "languages": [
@@ -411,6 +431,9 @@
       "streams": [
         "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8",
         "https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/playlist.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/o2i1o4cFRzA"
       ]
     },
     "languages": [
@@ -429,20 +452,6 @@
     },
     "languages": [
       "eng"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "e2Sh87nZdgrfog",
-    "name": "A Para",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/Fas1VhgP8Uk"
-      ]
-    },
-    "languages": [
-      "tur"
     ],
     "country": "tr",
     "isGeoBlocked": false
@@ -670,6 +679,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "PQMqdrOpBhLEzY",
+    "name": "ABN Digital Exclusives",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/mKOERH2voyg"
+      ]
+    },
+    "languages": [
+      "tel"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "BG3WWAjyFpp31n",
     "name": "ABN News",
     "sources": {
@@ -751,7 +774,8 @@
     "sources": {
       "streams": [
         "https://yupprestreamliveus.akamaized.net/vglive-sk-355289/majha/master.m3u8",
-        "https://mumbai-edge.smartplaytv.in/ABPMajha/index.m3u8"
+        "https://mumbai-edge.smartplaytv.in/ABPMajha/index.m3u8",
+        "https://cdn.pishow.tv/ott/live/471/master.m3u8"
       ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/a5B0FhXuLoY"
@@ -895,6 +919,20 @@
       "fra"
     ],
     "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mnVBWlVT6nGvWt",
+    "name": "Africa Independent Television",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/6cpkJF1ZO_0"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ng",
     "isGeoBlocked": false
   },
   {
@@ -1135,11 +1173,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UEXwoyYx1GFZis",
-    "name": "Al Janoub TV",
+    "nanoid": "IbE1EyU5igXIWS",
+    "name": "Al Iraqia News",
     "sources": {
       "streams": [
-        "https://live.alissahost.net/hls/test.m3u8"
+        "https://imn-live.esite-lab.com/hls/iraqia-news.m3u8"
       ]
     },
     "languages": [
@@ -1336,20 +1374,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "uIjblLy9ix24di",
-    "name": "Al Sharqiya News",
-    "sources": {
-      "streams": [
-        "https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ara"
-    ],
-    "country": "iq",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Sv9OTAq0k25EOS",
     "name": "Al Yaum TV",
     "sources": {
@@ -1444,7 +1468,7 @@
     "name": "Alghad TV: قناة الغد",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/55TIVoLNkEk"
+        "https://www.youtube-nocookie.com/embed/mo_6IkfLstk"
       ]
     },
     "languages": [
@@ -1500,7 +1524,7 @@
     "name": "Alikhbaria Syria",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/A_f-ilC0rkk"
+        "https://www.youtube-nocookie.com/embed/EH0phnyqy3c"
       ]
     },
     "languages": [
@@ -1656,7 +1680,7 @@
     "name": "ANI News",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/osjVuRkA1iA"
+        "https://www.youtube-nocookie.com/embed/RLdvhm0APIo"
       ]
     },
     "languages": [
@@ -1685,9 +1709,6 @@
     "sources": {
       "streams": [
         "https://5dd3981940faa.streamlock.net/annnewsbox/annnewsbox/playlist.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/RFDJV1G2qII"
       ]
     },
     "languages": [
@@ -1935,10 +1956,25 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "V2Cc2bBID8qPXp",
+    "name": "Asom Live 24",
+    "sources": {
+      "streams": [
+        "https://mumt06.tangotv.in/qYyB8fXVASHOMLIVE/index.m3u8"
+      ]
+    },
+    "languages": [
+      "asm"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "5gzDXJKTsvYE05",
     "name": "Assam Talks",
     "sources": {
       "streams": [
+        "https://cdn.pishow.tv/ott/live/258/master.m3u8",
         "https://tvsen7.aynascope.net/AssamTalks/index.m3u8",
         "https://mumt05.tangotv.in/87NeALx2ASSAMTALKS/index.m3u8"
       ]
@@ -2038,7 +2074,7 @@
     "name": "Awaz Tv News",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/vafv1J6hoxI"
+        "https://www.youtube-nocookie.com/embed/JFoHNVbsJcY"
       ]
     },
     "languages": [
@@ -2052,7 +2088,7 @@
     "name": "B SMART",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/StsC8JwphC0"
+        "https://www.youtube-nocookie.com/embed/dXzvSHeVj_w"
       ]
     },
     "languages": [
@@ -2069,7 +2105,7 @@
         "https://rtmp.baku.tv/hls/bakutv.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/6Sg0JENi9Ww"
+        "https://www.youtube-nocookie.com/embed/ftDARZuJeEU"
       ]
     },
     "languages": [
@@ -2092,6 +2128,20 @@
       "hin"
     ],
     "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "NpgNIT1Vg8Pkxb",
+    "name": "Baraka Television",
+    "sources": {
+      "streams": [
+        "https://stream.berosat.live:19360/baraka-hd/baraka-hd.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "cd",
     "isGeoBlocked": false
   },
   {
@@ -2207,7 +2257,6 @@
     "name": "Belarus-24",
     "sources": {
       "streams": [
-        "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8",
         "https://streaming.thestream.cyou/live/7003.m3u8"
       ]
     },
@@ -2456,13 +2505,25 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "kDfm68n8lRZ8w6",
+    "name": "Bharat Update",
+    "sources": {
+      "streams": [
+        "https://cdn.pishow.tv/ott/live/339/master.m3u8"
+      ]
+    },
+    "languages": [
+      "hin"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "e6g1e4Iv5eLah5",
     "name": "Bharat24",
     "sources": {
       "streams": [
-        "https://cdn.ottlive.co.in/bharat24/index.m3u8",
-        "https://mumt06.tangotv.in/qYyB8fXVBHARAT24/index.m3u8",
-        "https://streams.tangotv.in/BHARAT24/ORIGIN/index.m3u8"
+        "https://cdn.ottlive.co.in/bharat24/index.m3u8"
       ]
     },
     "languages": [
@@ -2477,7 +2538,8 @@
     "sources": {
       "streams": [
         "https://mumbai-edge.smartplaytv.in/BIGTV/index.m3u8",
-        "https://yuppnimresmum.akamaized.net/120723/smil:bigtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b"
+        "https://yuppnimresmum.akamaized.net/120723/smil:bigtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+        "https://cdn.pishow.tv/ott/live/1059/master.m3u8"
       ]
     },
     "languages": [
@@ -2537,9 +2599,6 @@
     "sources": {
       "streams": [
         "https://biznestv.az/hls/live.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/Z35AyGjqK1U"
       ]
     },
     "languages": [
@@ -2695,11 +2754,25 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "m9MWDoCCb8N1mw",
+    "name": "C9N",
+    "sources": {
+      "streams": [
+        "https://d174axghh54kh0.cloudfront.net/ts:abr.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ogoRpKP9hQVP4l",
     "name": "Calcutta News",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/dBu5QbIR6KI"
+        "https://www.youtube-nocookie.com/embed/H1szO_AUc-4"
       ]
     },
     "languages": [
@@ -2727,7 +2800,7 @@
     "name": "Canal 13 San Juan",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/rs8l_QRqCPc"
+        "https://www.youtube-nocookie.com/embed/uqUSmqJg0ds"
       ]
     },
     "languages": [
@@ -2895,6 +2968,20 @@
     ],
     "country": "do",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "vUd9BZTcBgBOm3",
+    "name": "Catamarca TV",
+    "sources": {
+      "streams": [
+        "https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR="
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "dI7NVuffLmMf8X",
@@ -3257,7 +3344,7 @@
     "name": "Channel 24",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/LVPgC7LQOw0"
+        "https://www.youtube-nocookie.com/embed/p6EO0TuILpw"
       ]
     },
     "languages": [
@@ -3267,23 +3354,26 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "RMJta2uB0RhiFk",
-    "name": "Channel One",
+    "nanoid": "P59BnMzF5mNauw",
+    "name": "Channel 24",
     "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/jwNP_dd96wg"
+      "streams": [
+        "https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8"
       ]
     },
     "languages": [
-      "fas"
+      "ukr"
     ],
-    "country": "us",
+    "country": "ua",
     "isGeoBlocked": false
   },
   {
     "nanoid": "wvAfxSiJHCHWj1",
     "name": "Channel8",
     "sources": {
+      "streams": [
+        "https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8"
+      ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/o-YQjT-yqPc"
       ]
@@ -3373,7 +3463,7 @@
     "name": "CHV Noticias",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/qw0wKxFiw50"
+        "https://www.youtube-nocookie.com/embed/K7CcmFjTo_0"
       ]
     },
     "languages": [
@@ -3387,7 +3477,7 @@
     "name": "Citizen TV Kenya",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/QR68tERO10g"
+        "https://www.youtube-nocookie.com/embed/1Vm7lAjpZZM"
       ]
     },
     "languages": [
@@ -3411,25 +3501,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "NGPN9Kga0k97A4",
-    "name": "City 21 News",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/lv4e7kvSpkI"
-      ]
-    },
-    "languages": [
-      "urd"
-    ],
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "SMZ90GrudLpWdN",
     "name": "City 41",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/JEDJmNhirdo"
+        "https://www.youtube-nocookie.com/embed/jtnIwX69Cd0"
       ]
     },
     "languages": [
@@ -3444,7 +3520,7 @@
     "name": "City 42",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/f5RUt9vvQhQ"
+        "https://www.youtube-nocookie.com/embed/nuDHu9J2jrY"
       ]
     },
     "languages": [
@@ -3630,7 +3706,7 @@
     "name": "CNN Brasil",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/UXOmWhFotBM"
+        "https://www.youtube-nocookie.com/embed/tmYUXGeKzr8"
       ]
     },
     "languages": [
@@ -3700,8 +3776,7 @@
     "name": "Cosmos Tv",
     "sources": {
       "streams": [
-        "https://canaletaplus.com:3922/live/cosmoslive.m3u8",
-        "https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8"
+        "https://canaletaplus.com:3922/live/cosmoslive.m3u8"
       ]
     },
     "languages": [
@@ -3722,6 +3797,20 @@
       "spa"
     ],
     "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3FlRRGzn9FXnl8",
+    "name": "CRTV News",
+    "sources": {
+      "streams": [
+        "https://live1.acangroup.org:1929/publiclive/crtv_news/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "cm",
     "isGeoBlocked": false
   },
   {
@@ -3788,7 +3877,7 @@
         "https://live.legitpro.co.in/ctvnakdplus/index.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Of7F8HYv87U"
+        "https://www.youtube-nocookie.com/embed/h96J3JfwOII"
       ]
     },
     "languages": [
@@ -3980,7 +4069,7 @@
     "name": "Desh TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/VsaPKcPlinw"
+        "https://www.youtube-nocookie.com/embed/EuEtq_tvnCQ"
       ]
     },
     "languages": [
@@ -3994,7 +4083,7 @@
     "name": "DGV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/lagWz-YQEeA"
+        "https://www.youtube-nocookie.com/embed/uknC0RORfmI"
       ]
     },
     "languages": [
@@ -4319,20 +4408,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "qJZQAfwcNY9ug6",
-    "name": "El Centro TV",
-    "sources": {
-      "streams": [
-        "https://v1.tustreaming.cl/diarioelcentrotv/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "GzM2c4cYlZpdvV",
     "name": "El Doce",
     "sources": {
@@ -4504,20 +4579,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "LHpKGFrgNWfJiH",
-    "name": "eTv Marche",
-    "sources": {
-      "streams": [
-        "https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "9dl7OtlflRXkkz",
     "name": "Euro TV",
     "sources": {
@@ -4536,7 +4597,7 @@
     "name": "Euronews Albania",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/2a7VOF4iNCM"
+        "https://www.youtube-nocookie.com/embed/efEXVNxXJzo"
       ]
     },
     "languages": [
@@ -4687,6 +4748,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Aw91unFPHKA4b2",
+    "name": "Euronews Romania",
+    "sources": {
+      "streams": [
+        "https://hls02ns.antenaplay.ro/hls/euronews-ro-sd/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "AebbSbQ8k1zQps",
     "name": "Euronews Russian",
     "sources": {
@@ -4790,7 +4865,7 @@
     "name": "eXtra news",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/aMLf1538_A4"
+        "https://www.youtube-nocookie.com/embed/CwUCpcbysHI"
       ]
     },
     "languages": [
@@ -5211,8 +5286,7 @@
     "name": "GS TV",
     "sources": {
       "streams": [
-        "https://mumt05.tangotv.in/87NeALx2GSTV/index.m3u8",
-        "https://cdnplay.peanutsquare.com/560828843292539228453915.m3u8"
+        "https://mumt05.tangotv.in/87NeALx2GSTV/index.m3u8"
       ]
     },
     "languages": [
@@ -5298,6 +5372,9 @@
     "nanoid": "EGLHx6bgJtwQkq",
     "name": "Haber Global",
     "sources": {
+      "streams": [
+        "https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8"
+      ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/EqoCJ8BPxtE"
       ]
@@ -5315,6 +5392,20 @@
       "streams": [
         "https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8",
         "https://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6Hf1Mv2Va7QrA2",
+    "name": "Haberturk TV",
+    "sources": {
+      "streams": [
+        "https://tv.ensonhaber.com/haberturk/haberturk.m3u8"
       ]
     },
     "languages": [
@@ -5623,7 +5714,7 @@
     "name": "I24 News English",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Ju_FB1xPqvw"
+        "https://www.youtube-nocookie.com/embed/ECZpPjkkvOI"
       ]
     },
     "languages": [
@@ -5738,7 +5829,7 @@
     "name": "Imagen Multicast",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/w2E6WKSJPQA"
+        "https://www.youtube-nocookie.com/embed/voRVaAjHidI"
       ]
     },
     "languages": [
@@ -5795,7 +5886,7 @@
     "name": "India News Haryana",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/BFnYX6J-nLA"
+        "https://www.youtube-nocookie.com/embed/N6ZPcpV8ZCY"
       ]
     },
     "languages": [
@@ -5809,7 +5900,7 @@
     "name": "India News Rajasthan",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/vh0k5wu579I"
+        "https://www.youtube-nocookie.com/embed/WsG8CDT6GO4"
       ]
     },
     "languages": [
@@ -5901,7 +5992,7 @@
     "name": "Indian Market Prices",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/ZaZ2iWQrkEg"
+        "https://www.youtube-nocookie.com/embed/t2_6gVsrk2w"
       ]
     },
     "languages": [
@@ -6050,7 +6141,7 @@
     "name": "Jai Maharashtra News",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/AhRDywhTWtg"
+        "https://www.youtube-nocookie.com/embed/4XxMtkp22n0"
       ]
     },
     "languages": [
@@ -6064,7 +6155,7 @@
     "name": "Jamuna TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/0x4_HlW72ew"
+        "https://www.youtube-nocookie.com/embed/GATXTJQvlNs"
       ]
     },
     "languages": [
@@ -6124,11 +6215,25 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "G0HNzTOFDVRXMe",
+    "name": "JapaNews24",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/RNAFgPxGzm0"
+      ]
+    },
+    "languages": [
+      "jpn"
+    ],
+    "country": "jp",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "5uGhvob0v0qr3L",
     "name": "JoyNews",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/MHFpXY4d_LI"
+        "https://www.youtube-nocookie.com/embed/afsmfZJTvGM"
       ]
     },
     "languages": [
@@ -6142,7 +6247,7 @@
     "name": "JTBC News",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/IjUczCLrzj4"
+        "https://www.youtube-nocookie.com/embed/5SLd4n6hoLY"
       ]
     },
     "languages": [
@@ -6212,11 +6317,25 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Re016w6yaMj5fL",
+    "name": "Kalaignar Seithigal",
+    "sources": {
+      "streams": [
+        "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/KalaignarSeithigal.m3u8"
+      ]
+    },
+    "languages": [
+      "tam"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "o8qSomL2FFW7J9",
     "name": "Kalaignar TV News",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/-B-CZXeXTUc"
+        "https://www.youtube-nocookie.com/embed/iWNlE6QWin0"
       ]
     },
     "languages": [
@@ -6235,7 +6354,7 @@
         "https://mumbai-edge.smartplaytv.in/kalingatv/index.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/UReAEsTcdHQ"
+        "https://www.youtube-nocookie.com/embed/DERPHp1RxNw"
       ]
     },
     "languages": [
@@ -6334,7 +6453,7 @@
     "name": "KBS News",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/OWZisYHDfXo"
+        "https://www.youtube-nocookie.com/embed/K4Qs_vV1crQ"
       ]
     },
     "languages": [
@@ -6523,7 +6642,7 @@
     "name": "KTN News Kenya",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/wd6e85PVwt0"
+        "https://www.youtube-nocookie.com/embed/vu0UxDF5N6Q"
       ]
     },
     "languages": [
@@ -6625,7 +6744,7 @@
         "https://hlspackager.akamaized.net/live/DB/K24/HLS/K24.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/yZ7eZ8H_a1I"
+        "https://www.youtube-nocookie.com/embed/hhkVU_7qZzM"
       ]
     },
     "languages": [
@@ -6647,20 +6766,6 @@
       "kur"
     ],
     "country": "iq",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "pfwAikq4d2rvpc",
-    "name": "KYT Kagoshima Yomiuri Television",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/nCPXTzZMBaE"
-      ]
-    },
-    "languages": [
-      "jpn"
-    ],
-    "country": "jp",
     "isGeoBlocked": false
   },
   {
@@ -6795,7 +6900,7 @@
     "name": "Lider Haber",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/SB7JzpJGH2A"
+        "https://www.youtube-nocookie.com/embed/zwNpYXQwx2g"
       ]
     },
     "languages": [
@@ -6983,6 +7088,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "oWN2iexDP0j3zq",
+    "name": "M Nadu TV",
+    "sources": {
+      "streams": [
+        "https://cloudcdnplayer.mslivestream.net/mslivecdn/mnadu/index.m3u8"
+      ]
+    },
+    "languages": [
+      "tam"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "OgLxSC2tuxXw6J",
     "name": "M News",
     "sources": {
@@ -7108,6 +7227,7 @@
     "sources": {
       "streams": [
         "https://mmtvnews1.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/mmtvNewsCampaign1/index.m3u8",
+        "https://cdn.pishow.tv/ott/live/463/master.m3u8",
         "https://streams.tangotv.in/MANORAMANEWSNORTH/ORIGIN/index.m3u8"
       ],
       "youtube": [
@@ -7173,7 +7293,8 @@
     "name": "Medi1TV Afrique",
     "sources": {
       "streams": [
-        "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist_dvr.m3u8"
+        "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist_dvr.m3u8",
+        "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist.m3u8"
       ]
     },
     "languages": [
@@ -7406,10 +7527,11 @@
     "name": "Mirror Now",
     "sources": {
       "streams": [
+        "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/MirrorNow.m3u8",
         "https://dai.google.com/linear/hls/event/ClPOullTQky5vGPf7fMZ8g/master.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/znebSxubWJQ"
+        "https://www.youtube-nocookie.com/embed/_VOeXVeVRX4"
       ]
     },
     "languages": [
@@ -7476,17 +7598,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "OT7cC0iY15HoKp",
-    "name": "Mosaïk Cristal",
+    "nanoid": "LXJZE9lLeFU629",
+    "name": "MRO",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/3A1M2zSRsTc"
+        "https://www.youtube-nocookie.com/embed/EHEg1BCYur0"
       ]
     },
     "languages": [
-      "fra"
+      "jpn"
     ],
-    "country": "fr",
+    "country": "jp",
     "isGeoBlocked": false
   },
   {
@@ -7494,7 +7616,7 @@
     "name": "Multimedios Costa Rica",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/xaq3svrc-xY"
+        "https://www.youtube-nocookie.com/embed/9kiGe16Awmg"
       ]
     },
     "languages": [
@@ -7641,7 +7763,7 @@
         "https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/wCzFV6XV1yI"
+        "https://www.youtube-nocookie.com/embed/_sKZFIZvwP8"
       ]
     },
     "languages": [
@@ -7717,7 +7839,8 @@
     "name": "NDTV Madhya Pradesh Chhattisgarh",
     "sources": {
       "streams": [
-        "https://ndtvregional.akamaized.net/hls/live/2102726-b/ndtvmpcg/master_1.m3u8"
+        "https://ndtvregional.akamaized.net/hls/live/2102726-b/ndtvmpcg/master_1.m3u8",
+        "https://cdn.pishow.tv/ott/live/1488/master.m3u8"
       ]
     },
     "languages": [
@@ -7748,7 +7871,8 @@
     "name": "NDTV Rajasthan",
     "sources": {
       "streams": [
-        "https://ndtvregional.akamaized.net/hls/live/2102726-b/ndtvraj/master_1.m3u8"
+        "https://ndtvregional.akamaized.net/hls/live/2102726-b/ndtvraj/master_1.m3u8",
+        "https://cdn.pishow.tv/ott/live/1489/master.m3u8"
       ]
     },
     "languages": [
@@ -7883,9 +8007,9 @@
     "name": "News 24",
     "sources": {
       "streams": [
+        "https://cdn.pishow.tv/ott/live/253/master.m3u8",
         "https://tvsen5.aynaott.com/News24/index.m3u8",
-        "https://tvsen5.aynascope.net/News24/index.m3u8",
-        "https://mumt01.tangotv.in/O5aw8Zn3NEWS24/index.m3u8"
+        "https://tvsen5.aynascope.net/News24/index.m3u8"
       ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/w_xuR0w8L18"
@@ -7912,25 +8036,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HUxeirBEJ9XVlF",
-    "name": "News Central",
-    "sources": {
-      "streams": [
-        "https://wf.newscentral.ng:8443/hls/stream.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ng",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "DGyLo10RdXeXNy",
     "name": "News Central TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Z0r_3PJ0ueQ"
+        "https://www.youtube-nocookie.com/embed/uNUPuUTvyH8"
       ]
     },
     "languages": [
@@ -7981,6 +8091,20 @@
     },
     "languages": [
       "tam"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xeDE1aT9ieJqhf",
+    "name": "News Leader",
+    "sources": {
+      "streams": [
+        "https://stream.ottlive.co.in/newsleader/index.m3u8"
+      ]
+    },
+    "languages": [
+      "hin"
     ],
     "country": "in",
     "isGeoBlocked": false
@@ -8054,7 +8178,7 @@
         "https://streams.tangotv.in/NEWSNATION/ORIGIN/index.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/TV9yGvLlvLg"
+        "https://www.youtube-nocookie.com/embed/YQaVyvCFIKU"
       ]
     },
     "languages": [
@@ -8113,7 +8237,7 @@
     "name": "News State",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/-vKAFvcYdxs"
+        "https://www.youtube-nocookie.com/embed/NffllX8JrK0"
       ]
     },
     "languages": [
@@ -8131,7 +8255,7 @@
         "https://streams.tangotv.in/NEWSTAMIL24X7/ORIGIN/index.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/gynWNinqmjw"
+        "https://www.youtube-nocookie.com/embed/Y6udV3trHEs"
       ]
     },
     "languages": [
@@ -8542,7 +8666,7 @@
     "name": "Newsfirst Sri Lanka",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/wb8HsIWZrp0"
+        "https://www.youtube-nocookie.com/embed/cxqrrZzE22U"
       ]
     },
     "languages": [
@@ -8556,7 +8680,7 @@
     "name": "Newsmax",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/RNNFrG4KbH0"
+        "https://www.youtube-nocookie.com/embed/N3GJ8o_qZHQ"
       ]
     },
     "languages": [
@@ -8658,7 +8782,7 @@
     "name": "NewsX Live",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/TCA0xOfpbb8"
+        "https://www.youtube-nocookie.com/embed/ZOXb4m2XZWk"
       ]
     },
     "languages": [
@@ -8824,20 +8948,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wSSmMMKtnu1Npb",
-    "name": "NOW News Global",
-    "sources": {
-      "streams": [
-        "https://nowhls.wns.live/hls/stream.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "vPDh6a0L0L99BR",
     "name": "NOW News Spanish",
     "sources": {
@@ -8922,6 +9032,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "3KT5yHhVtK3z0L",
+    "name": "NTA Live",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/oitZjPAdYx0"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ng",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "tC8c3F84BXvXxm",
     "name": "NTD TV English UK",
     "sources": {
@@ -8952,6 +9076,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "T73QnXQwh13Ndq",
+    "name": "NTN24",
+    "sources": {
+      "streams": [
+        "https://stream1.bitred.cl/ntn24/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "QxsFccdcMZ2KXc",
     "name": "ntv",
     "sources": {
@@ -8970,7 +9108,7 @@
     "name": "NTV Kenya",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/zY0wTjIw1bg"
+        "https://www.youtube-nocookie.com/embed/3yJcTizF-Jk"
       ]
     },
     "languages": [
@@ -9084,20 +9222,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "TwIkx7pihLoO6V",
-    "name": "Observator News",
-    "sources": {
-      "streams": [
-        "https://live77cdn2.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "1VnHK2mZ0MLj12",
     "name": "oe24 TV",
     "sources": {
@@ -9137,6 +9261,20 @@
       "ara"
     ],
     "country": "om",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "q7nooMvVTTe0YZ",
+    "name": "Onda 15 TV",
+    "sources": {
+      "streams": [
+        "https://cloudvideo.servers10.com:8081/8034/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
     "isGeoBlocked": false
   },
   {
@@ -9311,31 +9449,16 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "esaPDq84VF68oV",
-    "name": "Perviy Informationniy",
-    "sources": {
-      "streams": [
-        "https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "bel",
-      "rus"
-    ],
-    "country": "by",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "tfp5EYtXsX1Kxg",
     "name": "Polimer News",
     "sources": {
       "streams": [
         "https://cdn.pishow.tv/ott/live/1245/master.m3u8",
-        "https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8",
-        "https://mumt05.tangotv.in/87NeALx2POLIMERNEWS/index.m3u8"
+        "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/PolimerNews.m3u8",
+        "https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/VYdzwWAbGJY"
+        "https://www.youtube-nocookie.com/embed/QBYRbDMHWKI"
       ]
     },
     "languages": [
@@ -9349,6 +9472,7 @@
     "name": "Power TV",
     "sources": {
       "streams": [
+        "https://cdn.pishow.tv/ott/live/247/master.m3u8",
         "https://powertvkannada.com/hls/stream.m3u8",
         "https://mumt06.tangotv.in/qYyB8fXVPOWERTV/index.m3u8"
       ]
@@ -9421,9 +9545,9 @@
     "name": "Pratidin Time",
     "sources": {
       "streams": [
+        "https://cdn.pishow.tv/ott/live/1437/master.m3u8",
         "https://server.thelegitpro.in/pratidintime/pratidintime/index.fmp4.m3u8",
-        "https://d1msejlow1t3l4.cloudfront.net/fta/protidintime/playlist.m3u8",
-        "https://streams.tangotv.in/PROTIDINTIME/ORIGIN/index.m3u8"
+        "https://d1msejlow1t3l4.cloudfront.net/fta/protidintime/playlist.m3u8"
       ]
     },
     "languages": [
@@ -9480,6 +9604,7 @@
     "sources": {
       "streams": [
         "https://stream.ottlive.co.in/primenews/index.m3u8",
+        "https://cdn.pishow.tv/ott/live/1027/master.m3u8",
         "https://mumt07.tangotv.in/zHjX9OFlPRIMENEWS/index.m3u8"
       ]
     },
@@ -9588,7 +9713,7 @@
         "https://streams.tangotv.in/PTCNEWS/ORIGIN/index.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/o4V268W2K58"
+        "https://www.youtube-nocookie.com/embed/bzgS9GjVBE8"
       ]
     },
     "languages": [
@@ -9630,7 +9755,7 @@
     "name": "PTV News",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/uJIrhh9vzzc"
+        "https://www.youtube-nocookie.com/embed/sYOpC71osZw"
       ]
     },
     "languages": [
@@ -9722,7 +9847,7 @@
         "https://pnt.janusmedia.tv/hls/pnt.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/oFNfp8r2IBg"
+        "https://www.youtube-nocookie.com/embed/vXwz6vkjAgU"
       ]
     },
     "languages": [
@@ -9864,6 +9989,7 @@
     "name": "Raj News Kannada",
     "sources": {
       "streams": [
+        "https://cdn.pishow.tv/ott/live/1507/master.m3u8",
         "https://mumt03.tangotv.in/Dsly5z3HRAJNEWSKANDA/index.m3u8"
       ]
     },
@@ -9892,6 +10018,7 @@
     "name": "Raj News Telugu",
     "sources": {
       "streams": [
+        "https://cdn.pishow.tv/ott/live/279/master.m3u8",
         "https://mumt04.tangotv.in/m18aqlK4RAJNEWSTELUGU/index.m3u8"
       ]
     },
@@ -9993,7 +10120,7 @@
         "https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/9qw1AHojfiM"
+        "https://www.youtube-nocookie.com/embed/gxwR2r0v4KU"
       ]
     },
     "languages": [
@@ -10245,8 +10372,8 @@
     "name": "RSelvaTV",
     "sources": {
       "streams": [
-        "https://live-evg11.tv360.bitel.com.pe/bitel/selvaticaSRT/playlist.m3u8",
-        "https://live.obslivestream.com/selvatv/index.m3u8"
+        "https://live.obslivestream.com/selvatv/index.m3u8",
+        "https://live-evg11.tv360.bitel.com.pe/bitel/selvaticaSRT/playlist.m3u8"
       ]
     },
     "languages": [
@@ -10410,9 +10537,9 @@
     "name": "Russia-24",
     "sources": {
       "streams": [
+        "https://fs.uplink.kz/rossia_24/mono.m3u8?token=onlinetv",
         "https://stream8.cinerama.uz/1021/tracks-v1a1/mono.m3u8",
-        "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8",
-        "https://fs.uplink.kz/rossia_24/mono.m3u8?token=onlinetv"
+        "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8"
       ]
     },
     "languages": [
@@ -10527,6 +10654,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "FisH1US2wvGJGI",
+    "name": "Sahara 24",
+    "sources": {
+      "streams": [
+        "https://live.saharamedias.net:3317/live/shara24live.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "mr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "2gdiosQPCXMWaH",
     "name": "Sakshi TV",
     "sources": {
@@ -10614,7 +10755,7 @@
         "https://mumt01.tangotv.in/O5aw8Zn3SANDESHNEWS/index.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/PE60XZ0pXqI"
+        "https://www.youtube-nocookie.com/embed/J_3yCUBrz28"
       ]
     },
     "languages": [
@@ -10628,7 +10769,7 @@
     "name": "Sathiyam News",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/-8_V7EbnRiw"
+        "https://www.youtube-nocookie.com/embed/R_0a8eZ2kLY"
       ]
     },
     "languages": [
@@ -10652,25 +10793,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wLvMxnvxZbDm1t",
-    "name": "SBS",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/YnWmPygplWw"
-      ]
-    },
-    "languages": [
-      "kor"
-    ],
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "kbQV9EuwPGLwNE",
     "name": "SBS News",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/f-dIS0nRJpQ"
+        "https://www.youtube-nocookie.com/embed/8XFmEKZyRcQ"
       ]
     },
     "languages": [
@@ -10684,7 +10811,7 @@
     "name": "SBT CENTRAL",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/PEDiJGvh-oA"
+        "https://www.youtube-nocookie.com/embed/decy8oQsnII"
       ]
     },
     "languages": [
@@ -10699,20 +10826,6 @@
     "sources": {
       "streams": [
         "https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "pqj11LkViqg7gn",
-    "name": "SBT RIBEIRÃO PRETO",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/7kWpwq2X34A"
       ]
     },
     "languages": [
@@ -10792,6 +10905,20 @@
       "eng"
     ],
     "country": "ng",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3iCM6TWrro0iqg",
+    "name": "Sindh TV News",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/lKmqN9HDShA"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "pk",
     "isGeoBlocked": false
   },
   {
@@ -10885,25 +11012,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "WXuOh2YwSDNDLT",
-    "name": "Sky News Urdu",
-    "sources": {
-      "streams": [
-        "https://lbgo.bozztv.com/ssh101/ssh101/skynews/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "urd"
-    ],
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "jRNbdDq68JaIxU",
     "name": "Somoy News TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/MCArCDRL2jw"
+        "https://www.youtube-nocookie.com/embed/8MDQ3tuKpqI"
       ]
     },
     "languages": [
@@ -10973,7 +11086,7 @@
     "name": "STV News Hokkaido",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/iJj2iAEIK70"
+        "https://www.youtube-nocookie.com/embed/3xfwDdlulDY"
       ]
     },
     "languages": [
@@ -11087,6 +11200,7 @@
     "name": "Suvarna News",
     "sources": {
       "streams": [
+        "https://cdn.pishow.tv/ott/live/445/master.m3u8",
         "https://mumt04.tangotv.in/m18aqlK4SUVARNANEWS/index.m3u8",
         "https://streams.tangotv.in/SUVARNANEWS/ORIGIN/index.m3u8"
       ]
@@ -11133,6 +11247,9 @@
     "sources": {
       "streams": [
         "https://mumbai-edge.smartplaytv.in/SwatantraTV/index.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/9QIYN6SutXM"
       ]
     },
     "languages": [
@@ -11191,8 +11308,8 @@
     "sources": {
       "streams": [
         "https://cdn.pishow.tv/ott/live/385/master.m3u8",
-        "https://yuppnimresmum.akamaized.net/120723/smil:tnews.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-        "https://mumbai-edge.smartplaytv.in/TNews/index.m3u8"
+        "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/TNews.m3u8",
+        "https://yuppnimresmum.akamaized.net/120723/smil:tnews.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b"
       ]
     },
     "languages": [
@@ -11363,7 +11480,7 @@
     "name": "Telediario Digital",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/a44nJAOh73Y"
+        "https://www.youtube-nocookie.com/embed/-PtFYqa7_Kg"
       ]
     },
     "languages": [
@@ -11550,7 +11667,6 @@
     "name": "Thanthi TV",
     "sources": {
       "streams": [
-        "https://cdn.pishow.tv/ott/live/1612/master.m3u8",
         "https://mumt03.tangotv.in/Dsly5z3HTHANTHITV/index.m3u8",
         "https://streams.tangotv.in/THANTHITV/ORIGIN/index.m3u8"
       ],
@@ -11617,7 +11733,7 @@
     "name": "Times Now Marathi",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/QOSYoxFyTUQ"
+        "https://www.youtube-nocookie.com/embed/MP-ANFTAKeM"
       ]
     },
     "languages": [
@@ -11650,7 +11766,7 @@
     "name": "Times Now World",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/vF71SwaZNG0"
+        "https://www.youtube-nocookie.com/embed/zO8dzQdBbaY"
       ]
     },
     "languages": [
@@ -11713,6 +11829,20 @@
     "languages": [
       "hin",
       "pan"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vHb0Y6PCy7MJGu",
+    "name": "TOI Global",
+    "sources": {
+      "streams": [
+        "https://live.sli.ke/live/npnhm84gz9/master.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
     ],
     "country": "in",
     "isGeoBlocked": false
@@ -11930,7 +12060,7 @@
     "name": "TrustTV News",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/MKhZk1qGHt0"
+        "https://www.youtube-nocookie.com/embed/ilwAJyuS1vE"
       ]
     },
     "languages": [
@@ -11944,7 +12074,7 @@
     "name": "Tu Decizi",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/EYK--w9nLjI"
+        "https://www.youtube-nocookie.com/embed/8MxUEZT_Z3k"
       ]
     },
     "languages": [
@@ -12024,6 +12154,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "46bhWZVm1EdjmB",
+    "name": "TV Cartago Digital",
+    "sources": {
+      "streams": [
+        "https://video2.getstreamhosting.com:19360/8110/8110.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "J3nEPCNB7tfIfa",
     "name": "TV Jadran",
     "sources": {
@@ -12080,11 +12224,25 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "26hxUXThjWRyJw",
+    "name": "TV Sim Sao Mateus",
+    "sources": {
+      "streams": [
+        "https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "0clXzJLP8rGUkm",
     "name": "TV Thathi SBT",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/ZGhnIayBOwQ"
+        "https://www.youtube-nocookie.com/embed/9kJwMlVzsAM"
       ]
     },
     "languages": [
@@ -12127,6 +12285,20 @@
     },
     "languages": [
       "tel"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kYrLwC3TEDT7QF",
+    "name": "TV7 Bharat",
+    "sources": {
+      "streams": [
+        "https://stream.ottlive.co.in/tv7bharat/index.m3u8"
+      ]
+    },
+    "languages": [
+      "hin"
     ],
     "country": "in",
     "isGeoBlocked": false
@@ -12210,7 +12382,7 @@
       "streams": [
         "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/playlist.m3u8",
         "https://mumbai-edge.smartplaytv.in/TV9Marathi/index.m3u8",
-        "https://streams.tangotv.in/TV9MARATHI/ORIGIN/index.m3u8"
+        "https://cdn.pishow.tv/ott/live/2/master.m3u8"
       ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/ezVlvt2DRgM"
@@ -12448,6 +12620,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "8fkva1GfM7tM4w",
+    "name": "TVSUDECKA PL",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/3bTGntbVnKo"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "gyPeJZZGGZ1NXS",
     "name": "Ulusal Kanal",
     "sources": {
@@ -12487,18 +12673,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lupM9TqioABtUb",
-    "name": "UN24",
-    "sources": {
-      "streams": [
-        "https://59d39900ebfb8.streamlock.net/untv-720/untv-720/playlist.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "ve",
     "isGeoBlocked": false
   },
   {
@@ -12624,7 +12798,7 @@
       "streams": [
         "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/v6news_nim_https/140622/v6news/playlist.m3u8",
         "https://d1rc86nwwc9fag.cloudfront.net/140622/v6newsdev/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-        "https://mumbai-edge.smartplaytv.in/V6News/index.m3u8"
+        "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/V6News.m3u8"
       ]
     },
     "languages": [
@@ -12730,6 +12904,20 @@
     },
     "languages": [
       "hin"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0PR8EXs7UzBPsQ",
+    "name": "Vistara News",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/f-nycfvqmik"
+      ]
+    },
+    "languages": [
+      "kan"
     ],
     "country": "in",
     "isGeoBlocked": false
@@ -13012,13 +13200,27 @@
     "name": "YTN dmb",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/50HUC32RyJA"
+        "https://www.youtube-nocookie.com/embed/B0-AnhL12vw"
       ]
     },
     "languages": [
       "kor"
     ],
     "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wEoUUNJpcYsZs6",
+    "name": "Z-TV",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/uH0unc_duVk"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
     "isGeoBlocked": false
   },
   {
@@ -13138,7 +13340,7 @@
     "name": "Телеканал Рада",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/ecD39ojnQxQ"
+        "https://www.youtube-nocookie.com/embed/Ot4LfpCiBp8"
       ]
     },
     "languages": [
@@ -13180,7 +13382,7 @@
     "name": "ЦЕНТР",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/MORD7iA-API"
+        "https://www.youtube-nocookie.com/embed/VVcPEjXepjs"
       ]
     },
     "languages": [

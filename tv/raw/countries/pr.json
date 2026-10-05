@@ -142,20 +142,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fxoiDSXZnOUswM",
-    "name": "Paraiso TV",
-    "sources": {
-      "streams": [
-        "https://stream.eleden.com/livewtpm/ngrp:livewtpm_all/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "6GzzyU1r6GXxb2",
     "name": "Pura Palabra",
     "sources": {
@@ -224,16 +210,28 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vETwdWDS6Ys3LC",
-    "name": "WDWL 58.1",
+    "nanoid": "QYv70qSnNhaax1",
+    "name": "Triunfo 96.9 FM",
     "sources": {
       "streams": [
-        "https://67acccf130420.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8"
+        "https://59825a54e4454.streamlock.net:8443/william652/william652/playlist.m3u8"
       ]
     },
     "languages": [
       "spa"
     ],
+    "country": "pr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vETwdWDS6Ys3LC",
+    "name": "WDWL-DT1 (Teleadoración/Enlace PR)",
+    "sources": {
+      "streams": [
+        "https://67acccf130420.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8"
+      ]
+    },
+    "languages": [],
     "country": "pr",
     "isGeoBlocked": false
   },
@@ -285,7 +283,9 @@
     "name": "WKAQ-DT1 (Telemundo PR)",
     "sources": {
       "streams": [
-        "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8"
+        "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8",
+        "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8",
+        "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_720.m3u8"
       ]
     },
     "languages": [
@@ -299,7 +299,8 @@
     "name": "WKAQ-TV 2.2",
     "sources": {
       "streams": [
-        "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8"
+        "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8",
+        "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master_720.m3u8"
       ]
     },
     "languages": [

@@ -157,20 +157,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rNsPk0ZuXHne3A",
-    "name": "Canal Parlamento",
-    "sources": {
-      "streams": [
-        "https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "zjs8fScsFVoj7q",
     "name": "Canal Parlamento del Congreso de Jalisco",
     "sources": {
@@ -382,20 +368,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "6mQSbFMohfxTL1",
-    "name": "Community 12TV",
-    "sources": {
-      "streams": [
-        "https://lin10.isilive.ca/live/gainesville/live/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "WscC7Swxpk8hjp",
     "name": "Congreso del Perú en Vivo",
     "sources": {
@@ -594,6 +566,99 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xupLUhlUhMmQst",
+    "name": "Duma TV",
+    "sources": {
+      "streams": [
+        "https://dumatv.iptv2022.com/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xdokYBHmV0ZqHz",
+    "name": "EbS",
+    "sources": {
+      "streams": [
+        "https://streams.prd.commavservices.eu/live/ebs/index.m3u8"
+      ]
+    },
+    "languages": [
+      "bul",
+      "ces",
+      "dan",
+      "deu",
+      "ell",
+      "eng",
+      "est",
+      "fin",
+      "fra",
+      "gle",
+      "hrv",
+      "hun",
+      "ita",
+      "lav",
+      "lit",
+      "mlt",
+      "nld",
+      "pol",
+      "por",
+      "ron",
+      "slk",
+      "slv",
+      "spa",
+      "swe",
+      "ukr"
+    ],
+    "country": "be",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uV9cHG9Bbd3pt9",
+    "name": "EbS+",
+    "sources": {
+      "streams": [
+        "https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8"
+      ]
+    },
+    "languages": [
+      "bos",
+      "bul",
+      "ces",
+      "dan",
+      "deu",
+      "ell",
+      "eng",
+      "est",
+      "fin",
+      "fra",
+      "gle",
+      "hrv",
+      "hun",
+      "ita",
+      "lav",
+      "lit",
+      "mkd",
+      "mlt",
+      "nld",
+      "pol",
+      "por",
+      "ron",
+      "slk",
+      "slv",
+      "spa",
+      "sqi",
+      "srp",
+      "swe"
+    ],
+    "country": "be",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "xnU10BQX3X7Kmm",
     "name": "Fernandina Beach Channel",
     "sources": {
@@ -627,6 +692,20 @@
     "sources": {
       "streams": [
         "https://livestream.telvue.com/nashuanh3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "X9s52ZHCIYv79e",
+    "name": "HCTV Government Channel",
+    "sources": {
+      "streams": [
+        "https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-2/live.m3u8"
       ]
     },
     "languages": [
@@ -847,20 +926,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "J49I0cja3V1GVG",
-    "name": "Midpen Media Center Channel 29",
-    "sources": {
-      "streams": [
-        "https://5c2974786200d.streamlock.net/live-chan29/ngrp:ch29_all/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "htfvD77W7qLUSn",
     "name": "Monroe County TV",
     "sources": {
@@ -1002,6 +1067,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "be0rVB6CUa2XW4",
+    "name": "Pasco TV",
+    "sources": {
+      "streams": [
+        "https://cpcdn.azureedge.net/PASCOCOFLLIVE1/PASCOCOFLLIVE1/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "vlyxVSmyz2hGFc",
     "name": "PBC TV Channel 20",
     "sources": {
@@ -1087,11 +1166,27 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "6s6gtsiN1GEpMO",
+    "name": "Rada TV",
+    "sources": {
+      "streams": [
+        "https://cdn15.live-tv.cloud/ua_infinitas_tv/rada-abr/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "rus",
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "TGxMGkMiPXHlY0",
     "name": "Rio TV Câmara",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/JaItcGTxbYA"
+        "https://www.youtube-nocookie.com/embed/Ev7S88X9jLI"
       ]
     },
     "languages": [
@@ -1238,7 +1333,7 @@
     "name": "TV Assembleia Minas Gerais",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/VEyLFW9L0Jk"
+        "https://www.youtube-nocookie.com/embed/kwGKK8qmZ4c"
       ]
     },
     "languages": [
@@ -1267,20 +1362,6 @@
     "sources": {
       "streams": [
         "https://stream3.camara.gov.br/tv1/manifest.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ljxQJllBAK9Pvk",
-    "name": "TV Câmara Porto Alegre",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/h2qy_SwTFp4"
       ]
     },
     "languages": [
