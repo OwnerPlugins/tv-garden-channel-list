@@ -70,20 +70,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "yPFftXaL6zAl9S",
-    "name": "Antares Television",
-    "sources": {
-      "streams": [
-        "https://5949aa132c8fb.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "FEKfCiEsgtQUuf",
     "name": "Antena SUR",
     "sources": {
@@ -103,6 +89,20 @@
     "sources": {
       "streams": [
         "https://vdo.oyotunserver.com/arpegio/video.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "d4L8PBtWXj8rtD",
+    "name": "AsiriTV",
+    "sources": {
+      "streams": [
+        "https://video2.lhdserver.es/asiritv/live.m3u8"
       ]
     },
     "languages": [
@@ -272,20 +272,6 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/4PBOiYxjjcI"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mlTXxUmbTG3Ish",
-    "name": "Controversia TV",
-    "sources": {
-      "streams": [
-        "https://live.obslivestream.com/controversiatv/index.m3u8"
       ]
     },
     "languages": [
@@ -590,20 +576,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nlIWMt52mBQ3do",
-    "name": "Master TV",
-    "sources": {
-      "streams": [
-        "https://live.obslivestream.com/mastertv/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "qm7kjjw4XjKxtz",
     "name": "Mega TV Jaen",
     "sources": {
@@ -637,6 +609,20 @@
     "sources": {
       "streams": [
         "https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "aUVq0M4bm1GMyx",
+    "name": "Millenium 109 FM",
+    "sources": {
+      "streams": [
+        "https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8"
       ]
     },
     "languages": [
@@ -916,6 +902,20 @@
       "streams": [
         "https://live.obslivestream.com/selvatv/index.m3u8",
         "https://live-evg11.tv360.bitel.com.pe/bitel/selvaticaSRT/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3qgnWAKQV0prTA",
+    "name": "Senal Peru TV",
+    "sources": {
+      "streams": [
+        "https://livestream.perucast.com/hls/stream.m3u8"
       ]
     },
     "languages": [
@@ -1227,6 +1227,20 @@
     "sources": {
       "streams": [
         "https://live-evg11.tv360.bitel.com.pe/bitel/ucayalitvSRT/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "aYohLShFUh3sGK",
+    "name": "Unicentro TV",
+    "sources": {
+      "streams": [
+        "https://live-evg11.tv360.bitel.com.pe/bitel/unicentroSRT/playlist.m3u8"
       ]
     },
     "languages": [

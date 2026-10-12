@@ -98,6 +98,48 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "CM6FuW5WtTCo5H",
+    "name": "Al Rasheed TV",
+    "sources": {
+      "streams": [
+        "https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0MeH4u5WZGBr4b",
+    "name": "Al Sharqiya",
+    "sources": {
+      "streams": [
+        "https://indexforce.com/tvhighres/mystream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uIjblLy9ix24di",
+    "name": "Al Sharqiya News",
+    "sources": {
+      "streams": [
+        "https://indexforce.com/newshighres/mystream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "gqagHcGI6e4lYf",
     "name": "Al-Jawadain TV",
     "sources": {
@@ -229,9 +271,6 @@
     "sources": {
       "streams": [
         "https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/o-YQjT-yqPc"
       ]
     },
     "languages": [

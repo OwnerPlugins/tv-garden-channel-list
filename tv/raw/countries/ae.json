@@ -7,7 +7,7 @@
         "https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/iHr7P4kZYrk"
+        "https://www.youtube-nocookie.com/embed/27TJ45U-HJ8"
       ]
     },
     "languages": [
@@ -35,7 +35,7 @@
     "name": "Al Mashhad",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/RoLpWQHYD-Q"
+        "https://www.youtube-nocookie.com/embed/fvYBSnXrdEA"
       ]
     },
     "languages": [
@@ -245,6 +245,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "tzTABG45l31V9t",
+    "name": "Peace TV Bangla",
+    "sources": {
+      "streams": [
+        "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ben"
+    ],
+    "country": "ae",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3Icuxq5qeDrJdW",
     "name": "Peace TV Chinese",
     "sources": {
@@ -268,6 +282,20 @@
     },
     "languages": [
       "eng"
+    ],
+    "country": "ae",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "SgbKpnUMcIpXd6",
+    "name": "Peace TV Urdu",
+    "sources": {
+      "streams": [
+        "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8"
+      ]
+    },
+    "languages": [
+      "urd"
     ],
     "country": "ae",
     "isGeoBlocked": false

@@ -198,7 +198,8 @@
     "name": "Gigavision",
     "sources": {
       "streams": [
-        "https://tv2.bitstreaming.net:3576/multi_live/play.m3u8"
+        "https://tv2.bitstreaming.net:3576/multi_live/play.m3u8",
+        "https://tv.bitstreaming.net:3348/live/gigavisionlive.m3u8"
       ]
     },
     "languages": [],
@@ -332,6 +333,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "OPWUaOk2V7zsOP",
+    "name": "Radio Mega TV Amazonia",
+    "sources": {
+      "streams": [
+        "https://ares.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "1Snebdc8j861KM",
     "name": "Radio Universitaria San Andres",
     "sources": {
@@ -430,11 +445,11 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "87xKAUIruoYGZK",
-    "name": "TDT Multimedia",
+    "nanoid": "za6KpDi86ZZAJu",
+    "name": "SPC Canal 15",
     "sources": {
       "streams": [
-        "https://video01.brascast.com/juan6318/juan6318/playlist.m3u8"
+        "https://tv.centaurychile.com/magicatv/streams/22AdscM3Y6Un17Zo4747081346569358.m3u8"
       ]
     },
     "languages": [
@@ -444,11 +459,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "VvgjeRVvJxgn4n",
-    "name": "TELE 6",
+    "nanoid": "jo5rZWZDxVWDCK",
+    "name": "Sucremanta TV",
     "sources": {
       "streams": [
-        "https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8"
+        "https://lbgo.bozztv.com/ssh101/ssh101/ok2026/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "87xKAUIruoYGZK",
+    "name": "TDT Multimedia",
+    "sources": {
+      "streams": [
+        "https://video01.brascast.com/juan6318/juan6318/playlist.m3u8"
       ]
     },
     "languages": [
@@ -581,18 +610,6 @@
     "languages": [
       "spa"
     ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kQUVVUVnaO3mAj",
-    "name": "Unitel Cochabamba",
-    "sources": {
-      "streams": [
-        "https://lbgo.bozztv.com/ssh101/ssh101/tvjoaquiniana26/playlist.m3u8"
-      ]
-    },
-    "languages": [],
     "country": "bo",
     "isGeoBlocked": false
   },

@@ -57,6 +57,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Mn9IVvdpmAf7oU",
+    "name": "Altenburg TV",
+    "sources": {
+      "streams": [
+        "https://sdn-global-live-streaming-packager-cache.3qsdn.com/132661/132661_264_live.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "IJpns8FI8lNpRr",
     "name": "ARD-alpha",
     "sources": {
@@ -240,6 +254,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "E3Fuo7LqwAfWE9",
+    "name": "Deluxe Dance",
+    "sources": {
+      "streams": [
+        "https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hoEK50b8RIgSOh",
     "name": "Deluxe Music",
     "sources": {
@@ -315,7 +343,7 @@
       "eng"
     ],
     "country": "de",
-    "isGeoBlocked": true
+    "isGeoBlocked": false
   },
   {
     "nanoid": "H4HR8svz54XngH",
@@ -489,20 +517,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xceNg3zrNinnuh",
-    "name": "Glück Auf TV - Mittel Erzgebirgs Fernsehen",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/v8FxW7UhLxI"
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "NYCRxxM21wcIxY",
     "name": "Graham Norton Germany",
     "sources": {
@@ -559,7 +573,7 @@
     "name": "Hits Radio 1: Pop",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/UWc_vMRGxDs"
+        "https://www.youtube-nocookie.com/embed/40GqAOnQGoA"
       ]
     },
     "languages": [
@@ -671,20 +685,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "BwAEx0LmqBTmqp",
-    "name": "Kanal 9 Erzgebirge",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/sq17gOqi3dY"
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hkGnYbKbnHGzDM",
     "name": "KaufBei TV",
     "sources": {
@@ -716,20 +716,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "Qm2znUA46MmZwc",
-    "name": "labor14",
-    "sources": {
-      "streams": [
-        "https://5acade5fc0c29.streamlock.net/OKGera/tmbz_live_high.stream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Ztcv27i6GrEiFD",
     "name": "Lausitzwelle",
     "sources": {
@@ -754,6 +740,20 @@
     "languages": [],
     "country": "de",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xwu9RwQkvtgOhW",
+    "name": "Love The Planet DE",
+    "sources": {
+      "streams": [
+        "https://amg01821-amg01821c12-rlaxx-gb-10461.playouts.now.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "D9DLpbpBMDweEB",
@@ -797,6 +797,20 @@
     ],
     "country": "de",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "xYgLb0tc6pAHED",
+    "name": "More Than Sports TV",
+    "sources": {
+      "streams": [
+        "https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "ojY3PgU9rwk9x4",
@@ -854,6 +868,21 @@
     ],
     "country": "de",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "ZUrwxBDVVmyicG",
+    "name": "NDR Fernsehen International",
+    "sources": {
+      "streams": [
+        "https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8",
+        "https://dash3.antik.sk/live/test_ndr_tizen/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "9oFKf7u6XNNE0e",
@@ -1039,20 +1068,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ixhyYhnKxhDZBe",
-    "name": "OK Flensburg",
-    "sources": {
-      "streams": [
-        "https://live-cdn.oksh.de/play/hls/flensburgtv/index.m3u8"
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "D4nMjd2d15gJap",
     "name": "OK Kaiserslautern",
     "sources": {
@@ -1079,20 +1094,6 @@
     ],
     "country": "de",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "TAd1Ubg7TEmAUU",
-    "name": "OK Kiel",
-    "sources": {
-      "streams": [
-        "https://live-cdn.oksh.de/play/hls/kieltv/index.m3u8"
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "WXS0fra9wbJjZY",
@@ -1235,6 +1236,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ZDDOpXN3O4NOok",
+    "name": "ProSieben Maxx",
+    "sources": {
+      "streams": [
+        "https://lb.iptvnetwork.net/ls28/10828/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "OLmlejUUhCqlk2",
     "name": "QVC",
     "sources": {
@@ -1316,6 +1331,18 @@
     "languages": [
       "deu"
     ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "gaIbE0ft11ifJV",
+    "name": "Rakuten TV Romance Movies Germany",
+    "sources": {
+      "streams": [
+        "https://romance-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6475/master.m3u8"
+      ]
+    },
+    "languages": [],
     "country": "de",
     "isGeoBlocked": false
   },
@@ -1408,7 +1435,8 @@
     "name": "RiC",
     "sources": {
       "streams": [
-        "https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8"
+        "https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8",
+        "https://rictv.iptv-playoutcenter.de/rictv/rictv-web/chunks.m3u8"
       ]
     },
     "languages": [
@@ -1769,6 +1797,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "OR0bcDdbzNJR50",
+    "name": "Terra Mater WILD English",
+    "sources": {
+      "streams": [
+        "https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8",
+        "https://amg01775-amg01775c1-amgplt0002.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0002/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "de",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "zSAQDtp3HsePwB",
     "name": "Top Sci-Fi",
     "sources": {
@@ -2119,18 +2162,6 @@
     "sources": {
       "streams": [
         "https://amg00353-amg00353c28-rakuten-us-4895.playouts.now.amagi.tv/playlist.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "79fVSOpRIHlsyq",
-    "name": "World of Freesports",
-    "sources": {
-      "streams": [
-        "https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8"
       ]
     },
     "languages": [],
