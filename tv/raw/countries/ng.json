@@ -18,7 +18,7 @@
     "name": "Africa Independent Television",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/2JPRkDiIZ_c"
+        "https://www.youtube-nocookie.com/embed/-RCz6g1IAX0"
       ]
     },
     "languages": [
@@ -60,7 +60,7 @@
     "name": "Arise News",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/6G7Vc9Ce1NY"
+        "https://www.youtube-nocookie.com/embed/wqAwGhKnkjc"
       ]
     },
     "languages": [
@@ -286,7 +286,7 @@
     "name": "NTA Live",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/RzqhW6Lfa_I"
+        "https://www.youtube-nocookie.com/embed/PwAhqWWGJoM"
       ]
     },
     "languages": [
@@ -403,6 +403,49 @@
     },
     "languages": [
       "eng"
+    ],
+    "country": "ng",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "yRDzHhTj4zd7dc",
+    "name": "Tele Regency TV",
+    "sources": {
+      "streams": [
+        "https://streams.playtv.com.ng/Tele-Regency_TRTV/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ng",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mQsEQa26uw8XEM",
+    "name": "TrustTV News",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/sR9k2HxgmKE"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ng",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "7971M6ipTRrxKG",
+    "name": "TV-WEST",
+    "sources": {
+      "streams": [
+        "https://tv-west.lg.mncdn.com/tv_west/tv_west.stream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "yor"
     ],
     "country": "ng",
     "isGeoBlocked": false

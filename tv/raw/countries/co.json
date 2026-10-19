@@ -340,6 +340,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "FGFsYk2A3OACLA",
+    "name": "Caracol Internacional",
+    "sources": {
+      "streams": [
+        "https://streaming.onnethn.com/CARACOL_INTERNACIONAL/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "y6DIrrNamySBRa",
     "name": "Caracol Televisión",
     "sources": {
@@ -652,20 +666,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "j5rbGMc3RXFNkA",
-    "name": "Nexo TV",
-    "sources": {
-      "streams": [
-        "https://vs20.live.opencaster.com/nexotv_7576198a/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "zI3NybQoMP9Xkx",
     "name": "Noticias Caracol",
     "sources": {
@@ -698,7 +698,6 @@
     "name": "NSTV",
     "sources": {
       "streams": [
-        "https://vcp3.myplaytv.com/nstv/nstv/playlist.m3u8",
         "https://sistemastr.tropicalmoonmedia.com/live/2C7CA6CECC9B8F8C3A07315FDA110936/21.m3u8"
       ]
     },
@@ -783,7 +782,8 @@
     "name": "RCN Novelas",
     "sources": {
       "streams": [
-        "https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8"
+        "https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8",
+        "https://streaming.onnethn.com/RCN_NOVELAS/playlist.m3u8"
       ]
     },
     "languages": [
@@ -906,6 +906,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "HgBlAsHZW8C65f",
+    "name": "Tele Mocoa Canal 10",
+    "sources": {
+      "streams": [
+        "https://live.amelbatv.co:81/telemocoalive/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "NNAoypPSm0OCzN",
     "name": "Teleislas",
     "sources": {
@@ -933,20 +947,6 @@
     ],
     "country": "co",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "MbGewayZqG9s6Q",
-    "name": "TeleQuindio",
-    "sources": {
-      "streams": [
-        "https://live20.bozztv.com/akamaissh101/ssh101/telequindio/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "Clv7XzV3Q51izu",

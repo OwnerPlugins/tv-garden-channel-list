@@ -230,6 +230,7 @@
     "name": "Das Erste",
     "sources": {
       "streams": [
+        "https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8",
         "https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8"
       ]
     },
@@ -237,7 +238,7 @@
       "deu"
     ],
     "country": "de",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "FM7JnUFlNQHUFD",
@@ -273,6 +274,20 @@
     "sources": {
       "streams": [
         "https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nSzgFY1wA728Rf",
+    "name": "Disney Channel",
+    "sources": {
+      "streams": [
+        "https://s6.hopslan.com/disneyX/index.m3u8"
       ]
     },
     "languages": [
@@ -333,7 +348,7 @@
       "streams": [
         "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8",
         "https://amg01644-amg01644c1-amgplt0343.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01644-amg01644c1-amgplt0343/playlist.m3u8",
-        "https://mumt05.tangotv.in/87NeALx2DWTV/index.m3u8"
+        "https://freem3u.xyz/api/live/play.m3u8?vid=109"
       ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/LuKwFajn37U"
@@ -517,6 +532,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xceNg3zrNinnuh",
+    "name": "Glück Auf TV - Mittel Erzgebirgs Fernsehen",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/gTV3Fyovgig"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "NYCRxxM21wcIxY",
     "name": "Graham Norton Germany",
     "sources": {
@@ -661,7 +690,7 @@
         "https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/hHrJB5xMQ7g"
+        "https://www.youtube-nocookie.com/embed/YO54qTdz6QI"
       ]
     },
     "languages": [
@@ -685,12 +714,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "RefcIuSWqtTcds",
+    "name": "kabel eins Doku",
+    "sources": {
+      "streams": [
+        "https://s6.hopslan.com/dokuX/index.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BwAEx0LmqBTmqp",
+    "name": "Kanal 9 Erzgebirge",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/0ijH2Oxomh8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hkGnYbKbnHGzDM",
     "name": "KaufBei TV",
     "sources": {
       "streams": [
-        "https://elephant.t62a.com/hls/8103/index.m3u8",
-        "https://api.alpaca.t62a.com/hls/9103/index.m3u8"
+        "https://elephant.t62a.com/hls/8103/index.m3u8"
       ]
     },
     "languages": [
@@ -1068,6 +1124,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ixhyYhnKxhDZBe",
+    "name": "OK Flensburg",
+    "sources": {
+      "streams": [
+        "https://live-cdn.oksh.de/play/hls/flensburgtv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "D4nMjd2d15gJap",
     "name": "OK Kaiserslautern",
     "sources": {
@@ -1094,6 +1164,20 @@
     ],
     "country": "de",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "TAd1Ubg7TEmAUU",
+    "name": "OK Kiel",
+    "sources": {
+      "streams": [
+        "https://live-cdn.oksh.de/play/hls/kieltv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "WXS0fra9wbJjZY",
@@ -1240,7 +1324,7 @@
     "name": "ProSieben Maxx",
     "sources": {
       "streams": [
-        "https://lb.iptvnetwork.net/ls28/10828/playlist.m3u8"
+        "https://s6.hopslan.com/pro7maxxX/index.m3u8"
       ]
     },
     "languages": [
@@ -1335,11 +1419,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "gaIbE0ft11ifJV",
-    "name": "Rakuten TV Romance Movies Germany",
+    "nanoid": "SMFkP3zTr5LosF",
+    "name": "Rakuten TV German Cinema",
     "sources": {
       "streams": [
-        "https://romance-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6475/master.m3u8"
+        "https://a5dc66582aa040269fd99d7d7a6ac23b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6200/master.m3u8"
       ]
     },
     "languages": [],
@@ -1783,16 +1867,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "APsiDTtaBUvYQA",
-    "name": "teltOwkanal",
+    "nanoid": "Dh2uUg08yXJN7u",
+    "name": "Tennis Channel Germany",
     "sources": {
       "streams": [
-        "https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd8/playlist.m3u8"
+        "https://tennischanneldeu-rakuten.amagi.tv/playlist.m3u8"
       ]
     },
-    "languages": [
-      "deu"
-    ],
+    "languages": [],
     "country": "de",
     "isGeoBlocked": false
   },
@@ -1810,6 +1892,20 @@
     ],
     "country": "de",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "OfmMpkKE1FtNkl",
+    "name": "TLC",
+    "sources": {
+      "streams": [
+        "https://s6.hopslan.com/tlcX/index.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "zSAQDtp3HsePwB",

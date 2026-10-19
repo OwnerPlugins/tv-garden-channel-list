@@ -1,10 +1,10 @@
 [
   {
-    "nanoid": "C7CqrdYHekA32V",
-    "name": "Alegria TV",
+    "nanoid": "KvjjAMUdkPUKh1",
+    "name": "Amitel TV",
     "sources": {
       "streams": [
-        "https://lbgo.bozztv.com/ssh101/ssh101/confirmatv/playlist.m3u8"
+        "https://stv2.boliviaplay.com.bo/hls/stream.m3u8"
       ]
     },
     "languages": [
@@ -14,11 +14,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KvjjAMUdkPUKh1",
-    "name": "Amitel TV",
+    "nanoid": "DRw9wn4aT071aO",
+    "name": "As Contenidos",
     "sources": {
       "streams": [
-        "https://stv2.boliviaplay.com.bo/hls/stream.m3u8"
+        "https://master.tucableip.com/ascontenido/index.m3u8"
       ]
     },
     "languages": [
@@ -361,20 +361,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "jesOsAnSntYFJW",
-    "name": "Red America TV",
-    "sources": {
-      "streams": [
-        "https://edge.enhdtv.com/redamerica/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hzi4nlNP3J2X8P",
     "name": "Red CCTV",
     "sources": {
@@ -445,20 +431,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "za6KpDi86ZZAJu",
-    "name": "SPC Canal 15",
-    "sources": {
-      "streams": [
-        "https://tv.centaurychile.com/magicatv/streams/22AdscM3Y6Un17Zo4747081346569358.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "jo5rZWZDxVWDCK",
     "name": "Sucremanta TV",
     "sources": {
@@ -478,6 +450,20 @@
     "sources": {
       "streams": [
         "https://video01.brascast.com/juan6318/juan6318/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "VvgjeRVvJxgn4n",
+    "name": "TELE 6",
+    "sources": {
+      "streams": [
+        "https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8"
       ]
     },
     "languages": [

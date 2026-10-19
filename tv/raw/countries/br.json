@@ -1,10 +1,10 @@
 [
   {
-    "nanoid": "CtdqbL5wtTjnvo",
-    "name": "AgroCanal",
+    "nanoid": "aKKZkEC54PsysO",
+    "name": "+MaisUm",
     "sources": {
       "streams": [
-        "https://aovivo.equipea.com.br:5443/aovivort/streams/pshRLrnv6isXq7RG4747567774043229.m3u8"
+        "https://stream.ichibansys.com:3230/hybrid/play.m3u8"
       ]
     },
     "languages": [
@@ -14,11 +14,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wjGP3n4DkSPVQ1",
-    "name": "Amazon Sat",
+    "nanoid": "CtdqbL5wtTjnvo",
+    "name": "AgroCanal",
     "sources": {
       "streams": [
-        "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8"
+        "https://aovivo.equipea.com.br:5443/aovivort/streams/pshRLrnv6isXq7RG4747567774043229.m3u8"
       ]
     },
     "languages": [
@@ -248,7 +248,7 @@
     "name": "CNN Brasil",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/EHM6a0wamZM"
+        "https://www.youtube-nocookie.com/embed/yWnOn_x65Xw"
       ]
     },
     "languages": [
@@ -399,20 +399,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vTgAI9VGNp0y8I",
-    "name": "EUTV",
-    "sources": {
-      "streams": [
-        "https://video01.logicahost.com.br/ypetv/ypetv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "b3HmytgXpnq9Lw",
     "name": "Fala Litoral",
     "sources": {
@@ -554,40 +540,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "j2PNx5Xg25mTJj",
-    "name": "KpopTV Play",
-    "sources": {
-      "streams": [
-        "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "kor",
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "jsKaliNIblEwB9",
     "name": "L!ke",
     "sources": {
       "streams": [
         "https://cnl-cl.otteravision.com/cnl/cl_h265/cl_h265.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "tfa0ZY73SpNnku",
-    "name": "Laboral TV",
-    "sources": {
-      "streams": [
-        "https://tv.laboralsst.com.br/hls/stream.m3u8"
       ]
     },
     "languages": [
@@ -630,20 +587,6 @@
     "sources": {
       "streams": [
         "https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "NojFEcZYn2QGaE",
-    "name": "N Sports",
-    "sources": {
-      "streams": [
-        "https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt.m3u8"
       ]
     },
     "languages": [
@@ -713,7 +656,7 @@
     "name": "Peppa Pig Brasil",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/6psq0M_dRh4"
+        "https://www.youtube-nocookie.com/embed/OT4EMbZlfyM"
       ]
     },
     "languages": [
@@ -741,7 +684,7 @@
     "name": "PJ Masks Brasil",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/SaNP77CQl_E"
+        "https://www.youtube-nocookie.com/embed/lDdfjLd7Mw0"
       ]
     },
     "languages": [
@@ -814,7 +757,7 @@
         "https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/8ALkQNgDALI"
+        "https://www.youtube-nocookie.com/embed/yCfb9Na3rcI"
       ]
     },
     "languages": [
@@ -965,11 +908,25 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "UNigLBaZrxsC5x",
+    "name": "Retro Cartoon",
+    "sources": {
+      "streams": [
+        "https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1069200121.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "TGxMGkMiPXHlY0",
     "name": "Rio TV Câmara",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/L9UapKDmODU"
+        "https://www.youtube-nocookie.com/embed/747fhkMTVSQ"
       ]
     },
     "languages": [
@@ -1027,20 +984,6 @@
     "sources": {
       "streams": [
         "https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "wQwzJWldq22ymG",
-    "name": "SIC TV",
-    "sources": {
-      "streams": [
-        "https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8"
       ]
     },
     "languages": [
@@ -1120,6 +1063,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "uFUnpsEwjM0TgY",
+    "name": "TV A Folha",
+    "sources": {
+      "streams": [
+        "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "WxSrWAmqcJscq8",
     "name": "TV Aldeia",
     "sources": {
@@ -1139,20 +1096,6 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/bZfzA64DM_E"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "g9CYymT71D0CvN",
-    "name": "TV Alianca Catarinense",
-    "sources": {
-      "streams": [
-        "https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1208,7 +1151,7 @@
     "name": "TV Assembleia Minas Gerais",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/pH0xluM1ci8"
+        "https://www.youtube-nocookie.com/embed/WI4RhCoZKcE"
       ]
     },
     "languages": [
@@ -1223,20 +1166,6 @@
     "sources": {
       "streams": [
         "https://tvbrasil-stream.ebc.com.br/index.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2bhXPviPJO5yGg",
-    "name": "TV Brasil Oeste",
-    "sources": {
-      "streams": [
-        "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1306,7 +1235,7 @@
     "name": "TV Cancao Nova",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/4rlROXfqkto"
+        "https://www.youtube-nocookie.com/embed/rYvBZ23cBCk"
       ]
     },
     "languages": [
@@ -1415,20 +1344,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "NoqDxZd1Xoy0q1",
-    "name": "TV Futuro",
-    "sources": {
-      "streams": [
-        "https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "kKdpiUaDF9L3Eb",
     "name": "TV Guarapari",
     "sources": {
@@ -1462,6 +1377,20 @@
     "sources": {
       "streams": [
         "https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Xpp6oPU4K564FV",
+    "name": "TV Litoral RN",
+    "sources": {
+      "streams": [
+        "https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1518,20 +1447,6 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/4btUGUfdQs8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9Z6UmtBHKa0451",
-    "name": "TV Notícia",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/TDZt6jtrvMY"
       ]
     },
     "languages": [
@@ -1752,20 +1667,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zBjyTtvDBTgspi",
-    "name": "TVC-Rio",
-    "sources": {
-      "streams": [
-        "https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "UnzV9n8PzA8nFp",
     "name": "TVCOM Maceio",
     "sources": {
@@ -1841,6 +1742,20 @@
     "sources": {
       "streams": [
         "https://umatv.nuvemplay.live/hls/stream.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "7UeLUueVRqvHR1",
+    "name": "Unisul TV",
+    "sources": {
+      "streams": [
+        "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token="
       ]
     },
     "languages": [

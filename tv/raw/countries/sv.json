@@ -43,11 +43,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Yd25no3suS2myQ",
-    "name": "Elim TV",
+    "nanoid": "lZCJ28tnHKpEgP",
+    "name": "El Camino TV",
     "sources": {
       "streams": [
-        "https://stream.soporteccrtv.xyz/live/elimtv/main_stream.m3u8"
+        "https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -62,6 +62,20 @@
     "sources": {
       "streams": [
         "https://2nbyj587d53k-hls-live.5centscdn.com/09/25b94ec89b2aa708c3c4ad0014b09845.sdp/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "sv",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1RlshLkT58Kj6I",
+    "name": "Josue TV",
+    "sources": {
+      "streams": [
+        "https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8"
       ]
     },
     "languages": [
@@ -174,20 +188,6 @@
     "sources": {
       "streams": [
         "https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "sv",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2fDbweulZuyK2h",
-    "name": "TVCa",
-    "sources": {
-      "streams": [
-        "https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8"
       ]
     },
     "languages": [

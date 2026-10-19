@@ -42,26 +42,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "uXMcPHTew9graP",
-    "name": "Channel S",
-    "sources": {
-      "streams": [
-        "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ben",
-      "eng"
-    ],
-    "country": "bd",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "mxpvI5Qy87eBeF",
     "name": "DBC News",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/lAZUeoBqX70"
+        "https://www.youtube-nocookie.com/embed/_j_rSwx5Kso"
       ]
     },
     "languages": [
@@ -75,7 +60,7 @@
     "name": "Desh TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/ne8KnvpmipU"
+        "https://www.youtube-nocookie.com/embed/VxAnLFTH-7E"
       ]
     },
     "languages": [
@@ -103,7 +88,7 @@
     "name": "Ekattor TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/I4Z_koLDq8A"
+        "https://www.youtube-nocookie.com/embed/Z7R3s-KVg60"
       ]
     },
     "languages": [
@@ -173,7 +158,7 @@
     "name": "Jamuna TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/GATXTJQvlNs"
+        "https://www.youtube-nocookie.com/embed/yRX-c1F1Clg"
       ]
     },
     "languages": [
@@ -201,8 +186,11 @@
     "nanoid": "4YEv6QH62bmCSw",
     "name": "Madani Channel Bangla",
     "sources": {
+      "streams": [
+        "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8"
+      ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/kxELsN5RCP0"
+        "https://www.youtube-nocookie.com/embed/hxdMs18ZRbk"
       ]
     },
     "languages": [
@@ -314,23 +302,9 @@
     "name": "RTV",
     "sources": {
       "streams": [
-        "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/index.m3u8",
         "https://tvsen5.aynaott.com/RtvHD/index.m3u8",
-        "https://tvsen5.aynascope.net/RtvHD/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ben"
-    ],
-    "country": "bd",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nw7Gl0g9Hyfl04",
-    "name": "Rupashi Bangla TV",
-    "sources": {
-      "streams": [
-        "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ruposhibangla.stream/playlist.m3u8"
+        "https://tvsen5.aynascope.net/RtvHD/index.m3u8",
+        "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/index.m3u8"
       ]
     },
     "languages": [

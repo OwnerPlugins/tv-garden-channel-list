@@ -16,6 +16,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "VtHTEOxTK0CD0C",
+    "name": "Belarus-3",
+    "sources": {
+      "streams": [
+        "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "bel",
+      "rus"
+    ],
+    "country": "by",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "sZmkKrrkQZCHvn",
     "name": "Belarus-4 Gomel",
     "sources": {
@@ -129,20 +144,6 @@
     },
     "languages": [
       "bel",
-      "rus"
-    ],
-    "country": "by",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "wc4nIXAZtGUFZ9",
-    "name": "TNT4 International",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/tnt4/mono.m3u8?token=onlinetv"
-      ]
-    },
-    "languages": [
       "rus"
     ],
     "country": "by",

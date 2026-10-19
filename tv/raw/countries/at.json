@@ -42,11 +42,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "SZKqh8My275jx3",
-    "name": "FairON",
+    "nanoid": "TIO4oK5UynDpK7",
+    "name": "FS1 Salzburg",
     "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/0S-jGDLn_bY"
+      "streams": [
+        "https://stream.fs1.tv/hls/webstream.m3u8"
       ]
     },
     "languages": [
@@ -56,11 +56,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "TIO4oK5UynDpK7",
-    "name": "FS1 Salzburg",
+    "nanoid": "KfXvvS2DuTflFJ",
+    "name": "Gemeinde TV",
     "sources": {
-      "streams": [
-        "https://stream.fs1.tv/hls/webstream.m3u8"
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/5g46yIyTCNo"
       ]
     },
     "languages": [
@@ -226,6 +226,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "hUh8zOVsiGJwtZ",
+    "name": "N1 TV",
+    "sources": {
+      "streams": [
+        "https://ms02.w24.at/R9Partner/noentv.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "at",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "1VnHK2mZ0MLj12",
     "name": "oe24 TV",
     "sources": {
@@ -245,6 +259,20 @@
     "sources": {
       "streams": [
         "https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "at",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "gRCF1WhcrFMXld",
+    "name": "ORF 1",
+    "sources": {
+      "streams": [
+        "https://test02.mdn.ors.at/orf/orf1/qxa/manifest.m3u8"
       ]
     },
     "languages": [
@@ -359,20 +387,6 @@
     "sources": {
       "streams": [
         "https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
-    "country": "at",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "FprwnAkCKvi17W",
-    "name": "Steiermark TV",
-    "sources": {
-      "streams": [
-        "https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd4/playlist.m3u8?ref="
       ]
     },
     "languages": [

@@ -42,20 +42,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FHHW8HxY4wkWHY",
-    "name": "Arche TV",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/LH4VxLk1PuQ"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "IJpns8FI8lNpRr",
     "name": "ARD-alpha",
     "sources": {
@@ -114,20 +100,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ZQE8Kkj7LLaHHY",
-    "name": "BVG",
-    "sources": {
-      "streams": [
-        "https://mumt05.tangotv.in/87NeALx2BVG/index.m3u8"
-      ]
-    },
-    "languages": [
-      "hin"
-    ],
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "7vuNKG15VuJZNX",
     "name": "Campus TV",
     "sources": {
@@ -181,20 +153,6 @@
       "por"
     ],
     "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "TAS6xjp5V4DYwH",
-    "name": "Canal Universidad",
-    "sources": {
-      "streams": [
-        "https://videostream.shockmedia.com.ar/hls/canaluniversidadmdp/canaluniversidadmdp.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
     "isGeoBlocked": false
   },
   {
@@ -300,7 +258,6 @@
     "name": "Da Vinci",
     "sources": {
       "streams": [
-        "https://fs.uplink.kz/da_vinci/mono.m3u8?token=onlinetv",
         "https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8"
       ]
     },
@@ -770,7 +727,7 @@
     "name": "FGN Channel",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/tJpxOKMFLqI"
+        "https://www.youtube-nocookie.com/embed/IFw5unuk9SA"
       ]
     },
     "languages": [
@@ -1314,20 +1271,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ilmq7YqEXqJqfJ",
-    "name": "Rai Scuola",
-    "sources": {
-      "streams": [
-        "https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "uOeqeeP7q9Tix0",
     "name": "Red Apple 21",
     "sources": {
@@ -1388,7 +1331,7 @@
     "name": "SQOOL TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/fvdwGoCynIQ"
+        "https://www.youtube-nocookie.com/embed/N16IEGx4BNk"
       ]
     },
     "languages": [
@@ -1479,20 +1422,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "LSV8LWxmVrWxS3",
-    "name": "TV Cuatro 4.4",
-    "sources": {
-      "streams": [
-        "https://5ca3e84a76d30.streamlock.net/tv44gto/tv44gto.smil/.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
     "isGeoBlocked": false
   },
   {
@@ -1664,6 +1593,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "uhXaKy0zwMPJAb",
+    "name": "UNIANDES TV",
+    "sources": {
+      "streams": [
+        "https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "igJmo5J6YhgXmV",
     "name": "Unifranz",
     "sources": {
@@ -1689,6 +1632,20 @@
       "spa"
     ],
     "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "7UeLUueVRqvHR1",
+    "name": "Unisul TV",
+    "sources": {
+      "streams": [
+        "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token="
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
     "isGeoBlocked": false
   },
   {
