@@ -5,6 +5,9 @@
     "sources": {
       "streams": [
         "https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/TNW8M3k6s78"
       ]
     },
     "languages": [
@@ -126,6 +129,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "jjxluM4t32zhEk",
+    "name": "Botflix TV",
+    "sources": {
+      "streams": [
+        "https://hls.botflix.tv/tv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "lSTW1dzY0A0GTW",
     "name": "Cartoon Classics FAST",
     "sources": {
@@ -137,6 +154,21 @@
       "eng"
     ],
     "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0lVBw32w9JPjcN",
+    "name": "Cartoon Network",
+    "sources": {
+      "streams": [
+        "https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "urd"
+    ],
+    "country": "pk",
     "isGeoBlocked": false
   },
   {
@@ -182,30 +214,8 @@
         "https://drk6xq0vhn.gpcdn.net/live/cn_hd_abr/index.m3u8"
       ]
     },
-    "languages": [
-      "eng",
-      "hin",
-      "kan",
-      "mal",
-      "mar",
-      "tam",
-      "tel"
-    ],
+    "languages": [],
     "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "6PXWfNXySezA4E",
-    "name": "Cartoon Network Latin America South Atlantic",
-    "sources": {
-      "streams": [
-        "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cartoonnetwork.stream/chunks.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -241,7 +251,7 @@
     "name": "CONtv: Yu-Gi-Oh! Duel Monsters (Español)",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/IMmP9ffri5s"
+        "https://www.youtube-nocookie.com/embed/434nAi7ibV4"
       ]
     },
     "languages": [
@@ -260,20 +270,6 @@
     },
     "languages": [
       "por",
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kaWD4k5fRzrmVH",
-    "name": "Disney Channel Latin America South",
-    "sources": {
-      "streams": [
-        "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/disney-channel-key/chunks.m3u8"
-      ]
-    },
-    "languages": [
       "spa"
     ],
     "country": "ar",
@@ -394,7 +390,7 @@
     "name": "Fugget About It",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/coPmE-pZDww"
+        "https://www.youtube-nocookie.com/embed/T8wD3IdVHEE"
       ]
     },
     "languages": [
@@ -672,11 +668,25 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "B7oUuXqbWsfBhP",
+    "name": "OGGY",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/pxmIY1oPW6w"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "yzZp6BhMvaS7qt",
     "name": "PJ Masks Brasil",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/lDdfjLd7Mw0"
+        "https://www.youtube-nocookie.com/embed/70TSucIqJkE"
       ]
     },
     "languages": [
@@ -747,7 +757,7 @@
     "name": "Shaun the Sheep Official",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/2mbA1SQcrZA"
+        "https://www.youtube-nocookie.com/embed/2TGO4YtKP1Q"
       ]
     },
     "languages": [
@@ -768,20 +778,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "e2QKMdwgfK4Vxo",
-    "name": "Simon Super Lapin",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/zUV96NgJVUM"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
     "isGeoBlocked": false
   },
   {
@@ -854,20 +850,6 @@
       "tur"
     ],
     "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "FK7yIcWeinLWEP",
-    "name": "Super Soccer Cartoons: SupaStrikas",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/HYMqkNVNo1g"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
     "isGeoBlocked": false
   },
   {

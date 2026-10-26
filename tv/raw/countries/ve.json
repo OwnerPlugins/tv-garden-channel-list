@@ -14,11 +14,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ciUS0lRhmTtePT",
-    "name": "Anzoategui TV",
+    "nanoid": "t2xHdunHhK2Qqc",
+    "name": "Aguacate TV",
     "sources": {
       "streams": [
-        "https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8"
+        "https://stream.aguacatetv.com:3949/hybrid/play.m3u8"
       ]
     },
     "languages": [
@@ -33,6 +33,20 @@
     "sources": {
       "streams": [
         "https://streamtv.as3sport.online:3394/hybrid/play.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4OE4ZIp6ZfzmtV",
+    "name": "Audaz TV",
+    "sources": {
+      "streams": [
+        "https://cloud2.streaminglivehd.com:1936/8264/8264/playlist.m3u8"
       ]
     },
     "languages": [
@@ -61,20 +75,6 @@
     "sources": {
       "streams": [
         "https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "AS45XKoNM4hcAi",
-    "name": "Canal C del Zulia",
-    "sources": {
-      "streams": [
-        "https://calm-forest-3478.cristianbracho904.workers.dev/live/index.m3u8"
       ]
     },
     "languages": [
@@ -183,11 +183,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "L2vaUyfehZpjxw",
+    "name": "Inter TV",
+    "sources": {
+      "streams": [
+        "https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "uShK1SgZwLoTJ4",
     "name": "Isla TV",
     "sources": {
       "streams": [
         "https://59d39900ebfb8.streamlock.net/islatv/islatv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MIcJy2C1jnLtEJ",
+    "name": "KandelaTV",
+    "sources": {
+      "streams": [
+        "https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8"
       ]
     },
     "languages": [
@@ -225,6 +253,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "JdxBGAz4N8XmqU",
+    "name": "LGD Television",
+    "sources": {
+      "streams": [
+        "https://streamtv.intervenhosting.net:3403/hybrid/play.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Qn8gdf7Wig6cbP",
     "name": "Mas Talk",
     "sources": {
@@ -253,6 +295,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "kE8N5CkT9Xc9Iu",
+    "name": "Nortena Tv",
+    "sources": {
+      "streams": [
+        "https://lbgo.bozztv.com/ssh101/ssh101/nortenatv1234/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "dJh7EB1lQFwOCd",
     "name": "Plous TV",
     "sources": {
@@ -262,6 +318,34 @@
     },
     "languages": [
       "eng",
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Y5blHOrOCn0tLM",
+    "name": "Portuguesa Television",
+    "sources": {
+      "streams": [
+        "https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "YQGNpYUE3gQTO4",
+    "name": "PromarTV",
+    "sources": {
+      "streams": [
+        "https://vcp.myplaytv.com/promar/promar/playlist.m3u8"
+      ]
+    },
+    "languages": [
       "spa"
     ],
     "country": "ve",
@@ -296,11 +380,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "8UCD3Qx8hCNOEd",
-    "name": "Siembra TV",
+    "nanoid": "Hf8hQXiCJxWSk6",
+    "name": "Somos TV",
     "sources": {
       "streams": [
-        "https://cloud2.streaminglivehd.com:1936/siembratv/siembratv/playlist.m3u8"
+        "https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -329,6 +413,20 @@
     "sources": {
       "streams": [
         "https://live20.bozztv.com/akamaissh101/ssh101/tcbstreaming/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hWg7qzmsLufJ67",
+    "name": "Telecentro",
+    "sources": {
+      "streams": [
+        "https://streamtv.intervenhosting.net:3531/live/telecentrovelive.m3u8"
       ]
     },
     "languages": [
@@ -457,6 +555,20 @@
     "sources": {
       "streams": [
         "https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "XdOMLij5yy08uC",
+    "name": "TVM para ti",
+    "sources": {
+      "streams": [
+        "https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8"
       ]
     },
     "languages": [

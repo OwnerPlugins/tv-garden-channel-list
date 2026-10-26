@@ -28,6 +28,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "hNpror6ZnqPuws",
+    "name": "Aleph Business",
+    "sources": {
+      "streams": [
+        "https://streamw.m.ro/Aleph/ngrp:Alephbiz.stream_all/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "uj3o1x3ruhm3Sf",
     "name": "Aleph News",
     "sources": {
@@ -184,28 +198,15 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wq27mSSdEnCXS6",
-    "name": "B1",
+    "nanoid": "TZNdjDVfVrlQUD",
+    "name": "Bollywood Classic Romania",
     "sources": {
       "streams": [
-        "https://hls02ns.antenaplay.ro/hls/b1-tv-hd/index.m3u8"
+        "https://hls02ns.antenaplay.ro/hls/bollywood-sd/index.m3u8"
       ]
     },
     "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nqC1XmTU0qJuuy",
-    "name": "Bollywood Film",
-    "sources": {
-      "streams": [
-        "https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8"
-      ]
-    },
-    "languages": [
+      "hin",
       "ron"
     ],
     "country": "ro",
@@ -301,20 +302,6 @@
     "sources": {
       "streams": [
         "https://astra.emitv.ro/hls/emi/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "qFwIIjAFYuKLPE",
-    "name": "Etno TV",
-    "sources": {
-      "streams": [
-        "https://hls02ns.antenaplay.ro/hls/etno-tv-sd/index.m3u8"
       ]
     },
     "languages": [
@@ -439,6 +426,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "hWlowLrwkzswqF",
+    "name": "Hunedoara 1",
+    "sources": {
+      "streams": [
+        "https://netstreaming.eu/hd1.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "4ghiPmfhBHh5Ly",
     "name": "IasiTV Life",
     "sources": {
@@ -472,6 +473,20 @@
     "sources": {
       "streams": [
         "https://online.tvimpact.live/hls/impact_tv2.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nbZMDeOIAOPG4m",
+    "name": "Impact TV Dance",
+    "sources": {
+      "streams": [
+        "https://online.tvimpact.live/hls/dancetv.m3u8"
       ]
     },
     "languages": [
@@ -635,78 +650,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wAAXdhWFrvqJmH",
-    "name": "Mooz Dance",
-    "sources": {
-      "streams": [
-        "https://tvextra-hls.b-cdn.net/moozdance/moozdance.m3u8"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "HXUJ0Y6Fs5W3Ui",
-    "name": "Mooz Hits",
-    "sources": {
-      "streams": [
-        "https://tvextra-hls.b-cdn.net/moozhits/moozhits.m3u8"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "YDDs1fELyb6Zbe",
-    "name": "Mooz Love",
-    "sources": {
-      "streams": [
-        "https://tvextra-hls.b-cdn.net/moozlove/moozlove.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "M4hlHF27RchkXg",
-    "name": "Mooz Retro",
-    "sources": {
-      "streams": [
-        "https://tvextra-hls.b-cdn.net/moozretro/moozretro.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2U91fowazsObgI",
-    "name": "Mooz Ro!",
-    "sources": {
-      "streams": [
-        "https://tvextra-hls.b-cdn.net/moozro/moozro.m3u8"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "CWCTvHjrmevuWH",
     "name": "Muscel TV",
     "sources": {
@@ -777,20 +720,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Xb6sSVxIqQCLnS",
-    "name": "Nostalgia TV",
-    "sources": {
-      "streams": [
-        "https://hls02ns.antenaplay.ro/hls/nostalgia-hd/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "aG4Gj0k7P3YW2z",
     "name": "Party Mix",
     "sources": {
@@ -800,20 +729,6 @@
     },
     "languages": [
       "eng"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Z71jjGo1p2SVWS",
-    "name": "Prima News",
-    "sources": {
-      "streams": [
-        "https://hls02ns.antenaplay.ro/hls/prima-news-hd/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ron"
     ],
     "country": "ro",
     "isGeoBlocked": false
@@ -847,6 +762,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "o2mdLct3Etcuk8",
+    "name": "Qub TV",
+    "sources": {
+      "streams": [
+        "https://live.djemba.ro/memfs/474f9942-f72b-4130-817a-435cd54b2c36.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "V2O33fBcF0imvd",
     "name": "Radio Fx Net",
     "sources": {
@@ -856,6 +785,20 @@
     },
     "languages": [
       "eng",
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "okDHJ83ZlAyFOY",
+    "name": "Radio Romania Oltenia-Craiova",
+    "sources": {
+      "streams": [
+        "https://stream3.srr.ro/live/Radio-Oltenia/chunklist_w1200239883.m3u8"
+      ]
+    },
+    "languages": [
       "ron"
     ],
     "country": "ro",
@@ -912,6 +855,21 @@
       ]
     },
     "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "trH7SqpEADmNbG",
+    "name": "Smart Radio",
+    "sources": {
+      "streams": [
+        "https://streamw.m.ro/Regie/radio.stream/chunklist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
       "ron"
     ],
     "country": "ro",
@@ -1002,11 +960,53 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "jEPGXGbsLAf0No",
+    "name": "Tequila Music TV",
+    "sources": {
+      "streams": [
+        "https://stream.tequilamusic.net/hls/tequila_tv.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wnXZGbTAyHEypM",
+    "name": "TraLaLa DSN",
+    "sources": {
+      "streams": [
+        "https://hls01ns.antenaplay.ro/hls/tralala-desene-animate-hd/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "XUYPIY4ntZdroJ",
     "name": "TraLaLa TV",
     "sources": {
       "streams": [
         "https://hls01ns.antenaplay.ro/hls/tralala-hd/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lYU8MwJ7rLlvO8",
+    "name": "Travel Mix",
+    "sources": {
+      "streams": [
+        "https://hls02ns.antenaplay.ro/hls/travel-mix-hd/index.m3u8"
       ]
     },
     "languages": [

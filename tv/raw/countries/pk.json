@@ -1,19 +1,5 @@
 [
   {
-    "nanoid": "2ve5HiB92986w2",
-    "name": "7 News",
-    "sources": {
-      "streams": [
-        "https://sscsott.com/7news/live/index.m3u8"
-      ]
-    },
-    "languages": [
-      "urd"
-    ],
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ysj72uB19BHukq",
     "name": "8XM",
     "sources": {
@@ -35,7 +21,7 @@
         "https://cdn4.mjunoon.tv:8087/streamtest/146M/chunks.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/HUULIXbK6fs"
+        "https://www.youtube-nocookie.com/embed/fcnqPqRxpEQ"
       ]
     },
     "languages": [
@@ -131,7 +117,7 @@
     "name": "Awaz Tv News",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/umsp8e94BKw"
+        "https://www.youtube-nocookie.com/embed/m2WUq4uJStA"
       ]
     },
     "languages": [
@@ -212,11 +198,26 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "0lVBw32w9JPjcN",
+    "name": "Cartoon Network",
+    "sources": {
+      "streams": [
+        "https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "urd"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "NGPN9Kga0k97A4",
     "name": "City 21 News",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Fhuz0kyCjKc"
+        "https://www.youtube-nocookie.com/embed/cClAKS6s1kk"
       ]
     },
     "languages": [
@@ -230,7 +231,7 @@
     "name": "City 41",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/T-IY77oUvU4"
+        "https://www.youtube-nocookie.com/embed/PEdu5O3tbxg"
       ]
     },
     "languages": [
@@ -245,7 +246,7 @@
     "name": "City 42",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/YjS2CDqtqQg"
+        "https://www.youtube-nocookie.com/embed/XJzsqHZNkeE"
       ]
     },
     "languages": [
@@ -661,7 +662,7 @@
     "name": "KTN NEWS TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/0nUsLmp7nxY"
+        "https://www.youtube-nocookie.com/embed/Nlvwx6iUyVg"
       ]
     },
     "languages": [
@@ -891,6 +892,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "eEl9GNsGZ69KhR",
+    "name": "PTV Sports",
+    "sources": {
+      "streams": [
+        "https://tvsen7.aynascope.net/Sports1/index.m3u8"
+      ]
+    },
+    "languages": [
+      "urd"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "2BiD8BBiCEFIXu",
     "name": "PTV World",
     "sources": {
@@ -940,11 +955,25 @@
     "name": "Sindh TV News",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/rbzMAXAOXeA"
+        "https://www.youtube-nocookie.com/embed/-d_xWOk3-eg"
       ]
     },
     "languages": [
       "eng"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "WXuOh2YwSDNDLT",
+    "name": "Sky News Urdu",
+    "sources": {
+      "streams": [
+        "https://lbgo.bozztv.com/ssh101/ssh101/skynews/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "urd"
     ],
     "country": "pk",
     "isGeoBlocked": false

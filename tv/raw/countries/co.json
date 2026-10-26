@@ -156,11 +156,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "s64BgUfTafeYF2",
-    "name": "Canal 14 Codazzi",
+    "nanoid": "4tOQsHNAnrUk50",
+    "name": "Canal Calima TV",
     "sources": {
       "streams": [
-        "https://eu1.servers10.com:8081/8056/index.m3u8"
+        "https://movil.ejeserver.com/live/calimatv.m3u8"
       ]
     },
     "languages": [
@@ -411,6 +411,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "5UNNnPvR2HyEJi",
+    "name": "CNC Bugavision",
+    "sources": {
+      "streams": [
+        "https://movil.ejeserver.com/live/cncbuga.m3u8",
+        "https://video.ejeserver.com/live/cncbuga.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "vlNh6cGmLuP4h1",
     "name": "CNC Pereira",
     "sources": {
@@ -515,6 +530,20 @@
     "sources": {
       "streams": [
         "https://movil.ejeserver.com/live/elmundodelcampo.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mshfkhqs41pHqb",
+    "name": "Fiesta TV",
+    "sources": {
+      "streams": [
+        "https://panelvideo1.intermediahost.co:3286/live/ruzfpkqklive.m3u8"
       ]
     },
     "languages": [
@@ -698,6 +727,7 @@
     "name": "NSTV",
     "sources": {
       "streams": [
+        "https://vcp3.myplaytv.com/nstv/nstv/playlist.m3u8",
         "https://sistemastr.tropicalmoonmedia.com/live/2C7CA6CECC9B8F8C3A07315FDA110936/21.m3u8"
       ]
     },
@@ -947,6 +977,20 @@
     ],
     "country": "co",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "MbGewayZqG9s6Q",
+    "name": "TeleQuindio",
+    "sources": {
+      "streams": [
+        "https://live20.bozztv.com/akamaissh101/ssh101/telequindio/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "Clv7XzV3Q51izu",
