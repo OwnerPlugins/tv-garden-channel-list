@@ -121,7 +121,7 @@
     "name": "Biznes TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/HcHEkVe52rc"
+        "https://www.youtube-nocookie.com/embed/FeIHmzo9pR0"
       ]
     },
     "languages": [
@@ -196,8 +196,7 @@
     "name": "Bloomberg TV US",
     "sources": {
       "streams": [
-        "https://mumbai-edge.smartplaytv.in/Bloomberg/index.m3u8",
-        "https://tvsen6.aynaott.com/bloombergtv/index.m3u8"
+        "https://mumbai-edge.smartplaytv.in/Bloomberg/index.m3u8"
       ]
     },
     "languages": [
@@ -467,7 +466,7 @@
     "name": "Ekhon TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/gh_DJW0hB8w"
+        "https://www.youtube-nocookie.com/embed/VfTpNyBbvEQ"
       ]
     },
     "languages": [
@@ -477,25 +476,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "eNOYZvW4v10TNt",
-    "name": "Fox Business Network",
-    "sources": {
-      "streams": [
-        "https://tvsen6.aynaott.com/foxbusiness/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Oknqtc1CKDoMam",
     "name": "GCNTV Korea",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/L9bvCgSJXnc"
+        "https://www.youtube-nocookie.com/embed/3LLuaLICoko"
       ]
     },
     "languages": [
@@ -509,7 +494,8 @@
     "name": "JOB TV",
     "sources": {
       "streams": [
-        "https://jobtvserver.eu/hls/stream.m3u8"
+        "https://jobtvserver.eu/hls/stream.m3u8",
+        "https://jobtvserver.eu/hls/stream_src/index.m3u8"
       ]
     },
     "languages": [

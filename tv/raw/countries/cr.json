@@ -85,21 +85,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "X0fe1ozGC5qVsh",
-    "name": "Canal 1",
-    "sources": {
-      "streams": [
-        "https://vid.canal1cr.com:3424/multi_live/play.m3u8",
-        "https://vid.canal1cr.com:3424/multi_live/play_720.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "9cN6rSKGfOi3ha",
     "name": "Canal 3 KMK TV",
     "sources": {
@@ -110,33 +95,6 @@
     "languages": [
       "spa"
     ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lhFBUBQYMx1tnO",
-    "name": "Canal 10",
-    "sources": {
-      "streams": [
-        "https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8",
-        "https://acceso.mediosdecostarica.com:3606/live/canal10costaricalive.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "Z3J6UkFFEng975",
-    "name": "Canal 17 TV Nosara",
-    "sources": {
-      "streams": [
-        "https://latamvdo.com:3870/hybrid/play.m3u8"
-      ]
-    },
-    "languages": [],
     "country": "cr",
     "isGeoBlocked": false
   },
@@ -382,6 +340,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "fNzNQyxrdQA2dG",
+    "name": "Multimedios Costa Rica",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/s6qcLvTZVvI"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "L1OBT7Lnf5SKDh",
     "name": "NicoyaTV",
     "sources": {
@@ -590,18 +562,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "oFBYYfrHTKyW0r",
-    "name": "TV Nosara",
-    "sources": {
-      "streams": [
-        "https://latamvdo.com:3870/hybrid/play.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Y3sTV1ejuknKgG",
     "name": "TV Sur Canal 14",
     "sources": {
@@ -682,18 +642,6 @@
     "languages": [
       "spa"
     ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "8qWUmlZKBNU8HB",
-    "name": "Xpresso Joven Radio",
-    "sources": {
-      "streams": [
-        "https://vivo.solumedia.com:19360/xpressojoven/xpressojoven.m3u8"
-      ]
-    },
-    "languages": [],
     "country": "cr",
     "isGeoBlocked": false
   },

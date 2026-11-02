@@ -101,7 +101,7 @@
     "name": "DGV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/_63_RuRXOg0"
+        "https://www.youtube-nocookie.com/embed/5nz2i_JcHN0"
       ]
     },
     "languages": [
@@ -169,6 +169,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "9ZSN52LIo3A5tR",
+    "name": "HTV5",
+    "sources": {
+      "streams": [
+        "https://freem3u.xyz/api/live/play.m3u8?vid=151"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "P9F04WuZHvAcsW",
     "name": "Lang Son TV",
     "sources": {
@@ -223,11 +237,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "qnQjV6SrRYPjfP",
+    "name": "ON BiBi",
+    "sources": {
+      "streams": [
+        "https://freem3u.xyz/api/live/play.m3u8?vid=178"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "fvdk4Kaaoqz9LQ",
     "name": "ON Cine",
     "sources": {
       "streams": [
         "https://freem3u.xyz/api/live/play.m3u8?vid=176"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "DNDEtlRT59rn4z",
+    "name": "ON E Channel",
+    "sources": {
+      "streams": [
+        "https://freem3u.xyz/api/live/play.m3u8?vid=182"
       ]
     },
     "languages": [
@@ -284,6 +326,48 @@
     "sources": {
       "streams": [
         "https://freem3u.xyz/api/live/play.m3u8?vid=185"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bC7FnL6dhaFoeF",
+    "name": "ON O2TV",
+    "sources": {
+      "streams": [
+        "https://freem3u.xyz/api/live/play.m3u8?vid=136"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0sEcu7vpoK0Bhd",
+    "name": "ON Style TV",
+    "sources": {
+      "streams": [
+        "https://freem3u.xyz/api/live/play.m3u8?vid=184"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "oyNC9P1TqXwMzL",
+    "name": "ON Vie Dramas",
+    "sources": {
+      "streams": [
+        "https://freem3u.xyz/api/live/play.m3u8?vid=177"
       ]
     },
     "languages": [
@@ -662,7 +746,8 @@
     "name": "Vietnam Today",
     "sources": {
       "streams": [
-        "https://amagi-live.ondemandkorea.com/amgplt0456.m3u8"
+        "https://amagi-live.ondemandkorea.com/amgplt0456.m3u8",
+        "https://live.tvon.vn/s8/hls/vntoday/index.m3u8"
       ]
     },
     "languages": [
@@ -670,6 +755,6 @@
       "vie"
     ],
     "country": "vn",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   }
 ]

@@ -32,7 +32,7 @@
     "name": "Alghad TV: قناة الغد",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/QDyAPjCGYNU"
+        "https://www.youtube-nocookie.com/embed/fCaS2PBaJgI"
       ]
     },
     "languages": [
@@ -102,7 +102,7 @@
     "name": "eXtra news",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/nHUKUS9EfGc"
+        "https://www.youtube-nocookie.com/embed/Se06DVYvdfU"
       ]
     },
     "languages": [
@@ -121,6 +121,20 @@
     },
     "languages": [
       "eng"
+    ],
+    "country": "eg",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fNaU3D7B0hjX9J",
+    "name": "Hya TV",
+    "sources": {
+      "streams": [
+        "https://freem3u.xyz/api/live/play.m3u8?vid=187"
+      ]
+    },
+    "languages": [
+      "ara"
     ],
     "country": "eg",
     "isGeoBlocked": false

@@ -96,6 +96,50 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "JwjTtBdIXCgMJP",
+    "name": "BTB",
+    "sources": {
+      "streams": [
+        "https://emisja.btb.j00r.us/iptv/session/1/live.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "NHCXMxoKr3soBB",
+    "name": "BTB 2",
+    "sources": {
+      "streams": [
+        "https://emisja.btb.j00r.us/iptv/session/2/live.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vifXiIDfcyAksy",
+    "name": "BTB Info",
+    "sources": {
+      "streams": [
+        "https://panel.btb.j00r.us/memfs/928cfb64-fed7-4c27-9937-f5ad72d9d73c.m3u8",
+        "https://emisja2.btb.j00r.us/iptv/session/4/live.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "QPykxNCJ0OXJFT",
     "name": "Buzzfeed Unsolved FAST",
     "sources": {
@@ -119,20 +163,6 @@
     },
     "languages": [
       "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lSTW1dzY0A0GTW",
-    "name": "Cartoon Classics FAST",
-    "sources": {
-      "streams": [
-        "https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
     ],
     "country": "pl",
     "isGeoBlocked": false
@@ -252,25 +282,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FGu0fYqXfBQdVu",
-    "name": "Hard Knocks Fighting Championship",
-    "sources": {
-      "streams": [
-        "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883037"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "DN6TpQ0x9cD41t",
     "name": "HORYZONT TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/hJGIMg_TogU"
+        "https://www.youtube-nocookie.com/embed/769EbXXFZ7w"
       ]
     },
     "languages": [
@@ -499,20 +515,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "coRLnGknftkVsQ",
-    "name": "Sfera TV",
-    "sources": {
-      "streams": [
-        "https://stream.sferatv.pl/sferatvlive/live.m3u8"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "AUxowfXDEcV8md",
     "name": "Stingray Greatest Hits",
     "sources": {
@@ -607,7 +609,7 @@
     "name": "Telewizja Gorzów",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/rh8D8V6HxKM"
+        "https://www.youtube-nocookie.com/embed/E-KSCyMDMxo"
       ]
     },
     "languages": [
@@ -649,7 +651,7 @@
     "name": "Telewizja Olsztyn",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/hANB37tPeJA"
+        "https://www.youtube-nocookie.com/embed/FZMS0OhUzPw"
       ]
     },
     "languages": [
@@ -747,7 +749,7 @@
     "name": "Telewizja Żary",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/XN1Zj0JWZCk"
+        "https://www.youtube-nocookie.com/embed/XqiWJF3ZgFs"
       ]
     },
     "languages": [
@@ -901,7 +903,7 @@
     "name": "TVSUDECKA PL",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/HC4lvJqJkoI"
+        "https://www.youtube-nocookie.com/embed/BRLxxE7jfnw"
       ]
     },
     "languages": [
