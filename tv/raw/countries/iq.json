@@ -301,7 +301,7 @@
         "https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/oO7kfWHCo60"
+        "https://www.youtube-nocookie.com/embed/7HbpqOqpRT4"
       ]
     },
     "languages": [
@@ -323,6 +323,34 @@
     "languages": [
       "ara",
       "eng"
+    ],
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "umvB9tV3Rb1OXe",
+    "name": "EmanTv",
+    "sources": {
+      "streams": [
+        "https://avr.host247.net/live/emantv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "kur"
+    ],
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "HF0s5qptKRRfON",
+    "name": "FarmodaTV",
+    "sources": {
+      "streams": [
+        "https://avr.host247.net/live/FarmodaTV/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "kur"
     ],
     "country": "iq",
     "isGeoBlocked": false

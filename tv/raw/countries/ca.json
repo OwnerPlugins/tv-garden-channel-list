@@ -14,21 +14,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "u9WnFUyWIFrzh4",
-    "name": "Amazing Discoveries TV",
-    "sources": {
-      "streams": [
-        "https://rpn.bozztv.com/gfaith/gfaith-amazing/index.m3u8",
-        "https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "qza0cF55H7P2sc",
     "name": "Az Star TV",
     "sources": {
@@ -380,6 +365,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ZjrdyB3hSZu0bK",
+    "name": "CP24",
+    "sources": {
+      "streams": [
+        "https://tvsen6.aynaott.com/cp24/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ZXvLfybRDCi9xD",
     "name": "DesheBideshe TV",
     "sources": {
@@ -568,9 +567,9 @@
     "name": "Gusto TV",
     "sources": {
       "streams": [
+        "https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8",
         "https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8",
-        "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8",
-        "https://d31d5kw64c7b6i.cloudfront.net/v1/gustotv_samsung/samsungheadend_us/latest/main/hls/playlist.m3u8"
+        "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8"
       ]
     },
     "languages": [
@@ -834,7 +833,7 @@
     "name": "Ici RDI",
     "sources": {
       "streams": [
-        "https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8"
+        "https://rcavlive.akamaized.net/hls/live/704026/canrdi/master.m3u8"
       ]
     },
     "languages": [
@@ -1196,6 +1195,34 @@
     },
     "languages": [
       "pan"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Fap14DtXmRg1DV",
+    "name": "Sohail TV",
+    "sources": {
+      "streams": [
+        "https://iptv.sohailtv.com/sohail/playlist/index.m3u8"
+      ]
+    },
+    "languages": [
+      "prd"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mmZjHuy87LmO4O",
+    "name": "Sooriyan TV",
+    "sources": {
+      "streams": [
+        "https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "tam"
     ],
     "country": "ca",
     "isGeoBlocked": false
@@ -1908,7 +1935,7 @@
     "name": "Super Simple: Bedtime Songs",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/dIzX8RrGI_g"
+        "https://www.youtube-nocookie.com/embed/r9zeTkXDKUY"
       ]
     },
     "languages": [
@@ -1922,7 +1949,7 @@
     "name": "Super Simple: Simple Songs",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/RjLka08UCnE"
+        "https://www.youtube-nocookie.com/embed/C-nVZp5JE10"
       ]
     },
     "languages": [
@@ -2083,20 +2110,6 @@
     ],
     "country": "ca",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "bXKVlszQEGdoup",
-    "name": "TV Témis",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/vdNiMgFPMB8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "l4n46BVDM7izVj",

@@ -14,20 +14,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "yngiaKgtaE21WQ",
-    "name": "7 RadioVisione",
-    "sources": {
-      "streams": [
-        "https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "y8m70SURUPmxze",
     "name": "12 TV Parma",
     "sources": {
@@ -278,20 +264,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "YuBy0QEyEVrO0O",
-    "name": "Calabria TV",
-    "sources": {
-      "streams": [
-        "https://64b16f23efbee.streamlock.net/calabriatv/calabriatv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "UTKM2yB8tUj85p",
     "name": "Camera dei Deputati",
     "sources": {
@@ -375,6 +347,20 @@
     ],
     "country": "it",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "F36d923PmJXiTz",
+    "name": "Class TV Moda",
+    "sources": {
+      "streams": [
+        "https://www.dailymotion.com/cdn/live/video/x98rt88.m3u8?sec=3FZxZQeceI08NWbQwAxAKdpdnH8gYPtFSg2hr2m8v11-0gQsz2FldP--C6DTACA-"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "zY8UN9MRRHxEYy",
@@ -1228,11 +1214,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Bf229RUVr1fA3u",
-    "name": "Prima Free",
+    "nanoid": "XVHhDeQHjuS3Dt",
+    "name": "Peer TV Alto Adige",
     "sources": {
       "streams": [
-        "https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8"
+        "https://iptv.peer.biz/live/peertv-it.m3u8"
       ]
     },
     "languages": [
@@ -1242,11 +1228,39 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "S8N3Bm3LD8AIRI",
-    "name": "Prima TV",
+    "nanoid": "N6SFUaTsOKbZm2",
+    "name": "Peer TV South Tyrol",
     "sources": {
       "streams": [
-        "https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8"
+        "https://iptv.peer.biz/live/peertv-en.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6qAfF0Ciz7BFIk",
+    "name": "Peer TV Sudtirol",
+    "sources": {
+      "streams": [
+        "https://iptv.peer.biz/live/peertv.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Bf229RUVr1fA3u",
+    "name": "Prima Free",
+    "sources": {
+      "streams": [
+        "https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1289,20 +1303,6 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/smcQvzsh5Qo"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "o9AwmvAAtGm4TV",
-    "name": "Quarto Canale Flegreo",
-    "sources": {
-      "streams": [
-        "https://live.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1736,20 +1736,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pVq6NYAblJFq99",
-    "name": "Rakuten TV Drama Movies Italy",
-    "sources": {
-      "streams": [
-        "https://f84e0b1628464fab846160df957f269e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6094/master.m3u8"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "YfU8ScWMpQTPUo",
     "name": "Rakuten TV Romance Movies Italy",
     "sources": {
@@ -2104,8 +2090,8 @@
     "sources": {
       "streams": [
         "https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8",
-        "https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8",
-        "https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8"
+        "https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8",
+        "https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2637,6 +2623,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "kVRqkfw56FIDW8",
+    "name": "TV Yes Italia",
+    "sources": {
+      "streams": [
+        "https://stream1.aswifi.it/radioyes/live/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "zDb7qG6O2nQx0A",
     "name": "TV2000",
     "sources": {
@@ -2656,20 +2656,6 @@
     "sources": {
       "streams": [
         "https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "XnhU7QdcHXrzep",
-    "name": "UniNettuno University TV",
-    "sources": {
-      "streams": [
-        "https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8"
       ]
     },
     "languages": [

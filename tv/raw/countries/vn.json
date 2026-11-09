@@ -57,20 +57,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9mkVX2EDgu3ZHf",
-    "name": "Can Tho TV 3",
-    "sources": {
-      "streams": [
-        "https://live.canthotv.vn/cs3/tv/chunklist.m3u8"
-      ]
-    },
-    "languages": [
-      "vie"
-    ],
-    "country": "vn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Sk5ADelRPJvLlV",
     "name": "Cao Bang TV",
     "sources": {
@@ -93,20 +79,6 @@
       ]
     },
     "languages": [],
-    "country": "vn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "VCFZo6dbs3n20W",
-    "name": "DGV",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/5nz2i_JcHN0"
-      ]
-    },
-    "languages": [
-      "vie"
-    ],
     "country": "vn",
     "isGeoBlocked": false
   },
@@ -700,20 +672,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4VBfGEAGOsSdAE",
-    "name": "Tra Vinh TV",
-    "sources": {
-      "streams": [
-        "https://freem3u.xyz/api/live/play.m3u8?vid=91"
-      ]
-    },
-    "languages": [
-      "vie"
-    ],
-    "country": "vn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "OHw1zTMDs2YTrv",
     "name": "TVB Vietnam",
     "sources": {
@@ -756,5 +714,19 @@
     ],
     "country": "vn",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "24uXFiaEqXRMsc",
+    "name": "Vinh Long TV 5",
+    "sources": {
+      "streams": [
+        "https://freem3u.xyz/api/live/play.m3u8?vid=91"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
   }
 ]

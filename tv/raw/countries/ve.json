@@ -126,20 +126,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "BcpXd12u6A6rk7",
-    "name": "Contactv",
-    "sources": {
-      "streams": [
-        "https://lbgo.bozztv.com/ssh101/ssh101/contactv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "s3sqg6vutusQdl",
     "name": "eSports Max TV",
     "sources": {
@@ -188,6 +174,34 @@
     "sources": {
       "streams": [
         "https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uShK1SgZwLoTJ4",
+    "name": "Isla TV",
+    "sources": {
+      "streams": [
+        "https://59d39900ebfb8.streamlock.net/islatv/islatv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MIcJy2C1jnLtEJ",
+    "name": "KandelaTV",
+    "sources": {
+      "streams": [
+        "https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8"
       ]
     },
     "languages": [
@@ -366,39 +380,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Hf8hQXiCJxWSk6",
-    "name": "Somos TV",
-    "sources": {
-      "streams": [
-        "https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "qRZZMGSFXehDnV",
     "name": "TAM TV",
     "sources": {
       "streams": [
         "https://rtmp.tamtv.com.ve/tmp_hls/stream/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "LkfWLnGLDxyqrs",
-    "name": "Telebocono",
-    "sources": {
-      "streams": [
-        "https://live20.bozztv.com/akamaissh101/ssh101/tcbstreaming/playlist.m3u8"
       ]
     },
     "languages": [
@@ -466,11 +452,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "sB2nccFi22vLUq",
-    "name": "TNO Radio",
+    "nanoid": "rO6eV79GxNqt7n",
+    "name": "TRT",
     "sources": {
       "streams": [
-        "https://stmv1.srvstm.com/tnovideo1/tnovideo1/playlist.m3u8"
+        "https://vcp12.myplaytv.com/trt/trt/playlist.m3u8"
       ]
     },
     "languages": [
@@ -480,11 +466,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rO6eV79GxNqt7n",
-    "name": "TRT",
+    "nanoid": "IMxxuZcthSxVVc",
+    "name": "Tu TV",
     "sources": {
       "streams": [
-        "https://vcp12.myplaytv.com/trt/trt/playlist.m3u8"
+        "https://astl-mainstr.qvixsolutions.com/asltvtu_ext/index.m3u8"
       ]
     },
     "languages": [
@@ -572,6 +558,20 @@
       ]
     },
     "languages": [],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "aPoebbGsPHojms",
+    "name": "UniTV",
+    "sources": {
+      "streams": [
+        "https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
     "country": "ve",
     "isGeoBlocked": false
   },

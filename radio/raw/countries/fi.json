@@ -62,12 +62,26 @@
     "name": "Groove FM",
     "sources": {
       "streams": [
-        "https://aud-stream-groove.nm-elemental.nelonenmedia.fi/playlist.m3u8",
-        "https://aud-stream-groove.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8"
+        "https://aud-stream-groove.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8",
+        "https://aud-stream-groove.nm-elemental.nelonenmedia.fi/playlist.m3u8"
       ]
     },
     "languages": [
       "fin"
+    ],
+    "country": "fi",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "HBnOozTmXY3PXd",
+    "name": "Happy Holidays",
+    "sources": {
+      "streams": [
+        "https://aud-stream-jouluradio08.nm-elemental.nelonenmedia.fi/master.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
     ],
     "country": "fi",
     "isGeoBlocked": false
@@ -101,6 +115,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "4Bh2tKog1savZS",
+    "name": "Jouluradio",
+    "sources": {
+      "streams": [
+        "https://aud-stream-jouluradio01.nm-elemental.nelonenmedia.fi/master.m3u8"
+      ]
+    },
+    "languages": [
+      "fin"
+    ],
+    "country": "fi",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5Qu7UtCtGVlyfA",
+    "name": "Julradion",
+    "sources": {
+      "streams": [
+        "https://aud-stream-jouluradio02.nm-elemental.nelonenmedia.fi/master.m3u8"
+      ]
+    },
+    "languages": [
+      "swe"
+    ],
+    "country": "fi",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "r5quVvdhanI7dq",
     "name": "Kantriradio",
     "sources": {
@@ -115,11 +157,53 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "vToQXMmDxqnQR2",
+    "name": "Kauneimmat Joululaulut",
+    "sources": {
+      "streams": [
+        "https://aud-stream-jouluradio03.nm-elemental.nelonenmedia.fi/master.m3u8"
+      ]
+    },
+    "languages": [
+      "fin"
+    ],
+    "country": "fi",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "tSok0ZNyvKEuim",
     "name": "Kiakkoradio Tappara",
     "sources": {
       "streams": [
         "https://st.downtime.fi/kiakko-tappara.aac"
+      ]
+    },
+    "languages": [
+      "fin"
+    ],
+    "country": "fi",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "sfOxujx2tB4eeS",
+    "name": "Klassinen joulu",
+    "sources": {
+      "streams": [
+        "https://aud-stream-jouluradio07.nm-elemental.nelonenmedia.fi/master.m3u8"
+      ]
+    },
+    "languages": [
+      "fin"
+    ],
+    "country": "fi",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "gubsh6HuDsphC0",
+    "name": "Lasten jouluradio",
+    "sources": {
+      "streams": [
+        "https://aud-stream-jouluradio04.nm-elemental.nelonenmedia.fi/master.m3u8"
       ]
     },
     "languages": [
@@ -185,6 +269,48 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "37hZIIVWhDYXs2",
+    "name": "POPfm",
+    "sources": {
+      "streams": [
+        "https://stream.rcs.revma.com/hr92cvyzz2nwv"
+      ]
+    },
+    "languages": [
+      "fin"
+    ],
+    "country": "fi",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ooX7rF4DA1GxOg",
+    "name": "PopJoulu",
+    "sources": {
+      "streams": [
+        "https://aud-stream-jouluradio05.nm-elemental.nelonenmedia.fi/master.m3u8"
+      ]
+    },
+    "languages": [
+      "fin"
+    ],
+    "country": "fi",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "C1wYATDKWjpzsx",
+    "name": "Pride Radio",
+    "sources": {
+      "streams": [
+        "https://streaming.radioplay.fi/fi_pride_128.mp3"
+      ]
+    },
+    "languages": [
+      "fin"
+    ],
+    "country": "fi",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "EJHX06Oy6M6qK7",
     "name": "Radio Dei Kajaani",
     "sources": {
@@ -204,6 +330,20 @@
     "sources": {
       "streams": [
         "https://stream.dei.fi:8443/lahti"
+      ]
+    },
+    "languages": [
+      "fin"
+    ],
+    "country": "fi",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "gYIvSpp3ZQVcuC",
+    "name": "Radio Helsinki",
+    "sources": {
+      "streams": [
+        "https://stream.radiohelsinki.fi/stream"
       ]
     },
     "languages": [
@@ -259,22 +399,8 @@
     "name": "Radio Musa",
     "sources": {
       "streams": [
-        "https://n09.radiojar.com/n6yg5q0z8vzuv.m4a",
-        "https://n08.radiojar.com/n6yg5q0z8vzuv.m4a"
-      ]
-    },
-    "languages": [
-      "fin"
-    ],
-    "country": "fi",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ylQLgzOMtYQT8A",
-    "name": "Radio Nostalgia",
-    "sources": {
-      "streams": [
-        "https://streaming.radioplay.fi/nostalgia/nostalgia_64.aac"
+        "https://n08.radiojar.com/n6yg5q0z8vzuv.m4a",
+        "https://n09.radiojar.com/n6yg5q0z8vzuv.m4a"
       ]
     },
     "languages": [
@@ -469,6 +595,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "NR0FIlu8MjKuP0",
+    "name": "Rouhea joulu",
+    "sources": {
+      "streams": [
+        "https://aud-stream-jouluradio06.nm-elemental.nelonenmedia.fi/master.m3u8"
+      ]
+    },
+    "languages": [
+      "fin"
+    ],
+    "country": "fi",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ajaib2bfRwd6n6",
     "name": "Savon Aallot",
     "sources": {
@@ -509,20 +649,6 @@
     "languages": [
       "fin",
       "swe"
-    ],
-    "country": "fi",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "aO4M8kfLXxbZOn",
-    "name": "Tick Tock Radio 1950s",
-    "sources": {
-      "streams": [
-        "https://streaming.ticktock.radio/tt/1950/icecast.audio"
-      ]
-    },
-    "languages": [
-      "fin"
     ],
     "country": "fi",
     "isGeoBlocked": false

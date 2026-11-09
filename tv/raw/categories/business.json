@@ -196,7 +196,8 @@
     "name": "Bloomberg TV US",
     "sources": {
       "streams": [
-        "https://mumbai-edge.smartplaytv.in/Bloomberg/index.m3u8"
+        "https://mumbai-edge.smartplaytv.in/Bloomberg/index.m3u8",
+        "https://tvsen6.aynaott.com/bloombergtv/index.m3u8"
       ]
     },
     "languages": [
@@ -280,7 +281,6 @@
     "name": "CGTN Global Biz",
     "sources": {
       "streams": [
-        "https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8",
         "https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8"
       ]
     },
@@ -476,6 +476,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "eNOYZvW4v10TNt",
+    "name": "Fox Business Network",
+    "sources": {
+      "streams": [
+        "https://tvsen6.aynaott.com/foxbusiness/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Oknqtc1CKDoMam",
     "name": "GCNTV Korea",
     "sources": {
@@ -563,20 +577,6 @@
       "spa"
     ],
     "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fEhuSbh6UZiVWk",
-    "name": "NW Economie",
-    "sources": {
-      "streams": [
-        "https://hls.newworldtv.com/nw-economie/video/live.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "tg",
     "isGeoBlocked": false
   },
   {

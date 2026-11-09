@@ -46,8 +46,7 @@
     "name": "A1 TV",
     "sources": {
       "streams": [
-        "https://stream.a1mediagroep.nl/hls/a1tv.m3u8",
-        "https://www.a1mediagroep.nl/hls/a1tv.m3u8"
+        "https://stream.a1mediagroep.nl/hls/a1tv.m3u8"
       ]
     },
     "languages": [
@@ -103,7 +102,7 @@
     "name": "BTL TV",
     "sources": {
       "streams": [
-        "https://livecdn.live247stream.com/btl/tv/playlist.m3u8"
+        "https://cdn.liveplustv.com/v1/live/btl-tv/master.m3u8"
       ]
     },
     "languages": [
@@ -190,7 +189,8 @@
     "name": "FightBox",
     "sources": {
       "streams": [
-        "https://webtvstream.bhtelecom.ba/fightbox.m3u8"
+        "https://webtvstream.bhtelecom.ba/fightbox.m3u8",
+        "https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8"
       ]
     },
     "languages": [
@@ -1279,6 +1279,20 @@
     "sources": {
       "streams": [
         "https://highvolume155.streampartner.nl/adminsrc/adminsrc/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "nld"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dAXeuFzPs6OaT0",
+    "name": "StreekTV",
+    "sources": {
+      "streams": [
+        "https://cdn22.streampartner.nl/streektv/streektv/playlist.m3u8"
       ]
     },
     "languages": [
