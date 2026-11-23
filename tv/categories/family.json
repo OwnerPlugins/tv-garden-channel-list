@@ -158,20 +158,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "7UK6GTwohWhEMF",
-    "name": "Rakuten TV Family Movies Italy",
-    "sources": {
-      "streams": [
-        "https://3315fc3e7276420f895e19cf807dbee1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6215/master.m3u8"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "50AOLuz78mWfKm",
     "name": "RiC",
     "sources": {
@@ -221,6 +207,7 @@
     "sources": {
       "streams": [
         "https://tshift-1.telecoma.tv/sts/index.m3u8",
+        "https://fs.uplink.kz/sts/mono.m3u8?token=onlinetv",
         "https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8"
       ]
     },
@@ -243,6 +230,20 @@
     ],
     "country": "ru",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "Am4Jb6RFmtHHBI",
+    "name": "Superscreen TV",
+    "sources": {
+      "streams": [
+        "https://video1.getstreamhosting.com:1936/8398/8398/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ng",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "OFNCxJwQlhXnh3",
@@ -270,20 +271,6 @@
       "spa"
     ],
     "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "usETpjVP1bzVNN",
-    "name": "TV Famille",
-    "sources": {
-      "streams": [
-        "https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "mq",
     "isGeoBlocked": false
   },
   {

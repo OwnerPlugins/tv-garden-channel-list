@@ -88,6 +88,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "o33GtxEONALntd",
+    "name": "Atameken Business",
+    "sources": {
+      "streams": [
+        "https://fs.uplink.kz/atameken/mono.m3u8?token=onlinetv"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "kz",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "D2NSPfcewUnhFP",
     "name": "BFM Business",
     "sources": {
@@ -107,7 +121,7 @@
     "name": "Biznes TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Oes5NZvQr88"
+        "https://www.youtube-nocookie.com/embed/Y8__-YCstH0"
       ]
     },
     "languages": [
@@ -143,24 +157,6 @@
       "tur"
     ],
     "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "WH7adDfFfMrDqi",
-    "name": "Bloomberg Originals US",
-    "sources": {
-      "streams": [
-        "https://d3qwwydnxv5vo9.cloudfront.net/v1/bloomberg_quicktake_3/samsungheadend_us/latest/main/hls/playlist.m3u8",
-        "https://dai.google.com/linear/hls/event/jKwfd4apQcuxQtyRI9Q6-Q/master.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/OlUMDZchivQ"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -377,6 +373,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "36LGsN10vhXMQ7",
+    "name": "CNBC Europe",
+    "sources": {
+      "streams": [
+        "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/cnbc_europe/live.livx/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "mEIRNL8QzgtqGN",
     "name": "CNBC TV18",
     "sources": {
@@ -551,6 +561,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "fEhuSbh6UZiVWk",
+    "name": "NW Economie",
+    "sources": {
+      "streams": [
+        "https://hls.newworldtv.com/nw-economie/video/live.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "tg",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "P5bFOw2oYq7Xcs",
     "name": "ON Info TV",
     "sources": {
@@ -651,13 +675,27 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "3iY5E6sNPQlOVD",
+    "name": "The Bonus",
+    "sources": {
+      "streams": [
+        "https://stream.ottlive.co.in/thebonus/index.m3u8"
+      ]
+    },
+    "languages": [
+      "hin"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "b4Usnwe7Qsd37O",
     "name": "Yahoo! Finance",
     "sources": {
       "streams": [
         "https://amg00119-amg00119c1-firetv-us-4205.playouts.now.amagi.tv/playlist.m3u8",
         "https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8",
-        "https://yahoo-plex.amagi.tv/playlist.m3u8"
+        "https://yahoo-plex.amagi.tv/hls/amagi_hls_data_yahoofina-yahoofinance-plex/CDN/playlist.m3u8"
       ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/KQp-e_XQnDE"

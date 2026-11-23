@@ -1,10 +1,10 @@
 [
   {
-    "nanoid": "zhUhSGilKc6sOP",
-    "name": "AGR FM TV",
+    "nanoid": "QBRXrLX8BpJY3f",
+    "name": "A24 Paraguay",
     "sources": {
       "streams": [
-        "https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8"
+        "https://a24-live.argosworkspace.com/a24/index.m3u8"
       ]
     },
     "languages": [
@@ -14,11 +14,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "c4VJcNzklIX0CI",
-    "name": "Alcance FM PLAY TV",
+    "nanoid": "meMWuFLy6CiQXJ",
+    "name": "America Paraguay",
     "sources": {
       "streams": [
-        "https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8"
+        "https://america-live.argosworkspace.com/america/index.m3u8"
       ]
     },
     "languages": [
@@ -56,11 +56,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "p69caBRji1PKLv",
+    "name": "Canal 8 C&C Producciones",
+    "sources": {
+      "streams": [
+        "https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "6EkiXPfK5IL7VS",
     "name": "Canal 8 Vision TV",
     "sources": {
       "streams": [
         "https://tigocloudgen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "YZaEcuR5rA1yZv",
+    "name": "Canal Guapa",
+    "sources": {
+      "streams": [
+        "https://guapa-live.argosworkspace.com/guapa/index.m3u8"
       ]
     },
     "languages": [
@@ -145,6 +173,20 @@
     "sources": {
       "streams": [
         "https://copacotf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "KorxP0jgE3cFyZ",
+    "name": "GO TV",
+    "sources": {
+      "streams": [
+        "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -252,20 +294,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KiwbZFxfIOXSsb",
-    "name": "Nande Portetepe TV",
-    "sources": {
-      "streams": [
-        "https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "wJRs4rnzQYYV7u",
     "name": "Nandejara Ne'e TV",
     "sources": {
@@ -328,20 +356,6 @@
     "sources": {
       "streams": [
         "https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "HxsHxTV92v3WvN",
-    "name": "Oviedo TV",
-    "sources": {
-      "streams": [
-        "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8"
       ]
     },
     "languages": [
@@ -464,20 +478,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ERBtwPcBChyLTj",
-    "name": "Red Digital",
-    "sources": {
-      "streams": [
-        "https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "3UsrfCo6SJ3Ltz",
     "name": "Red Interior TV",
     "sources": {
@@ -581,6 +581,20 @@
     "sources": {
       "streams": [
         "https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nx1oFHhjhBuFCV",
+    "name": "UniRadio TV",
+    "sources": {
+      "streams": [
+        "https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8"
       ]
     },
     "languages": [

@@ -238,20 +238,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rUmy5ItsraiQ6E",
-    "name": "Gaviota TV",
-    "sources": {
-      "streams": [
-        "https://gaviotatv.streamseguro.com:3195/live/gaviotatvlive.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "c0ayJmoC3gtMTu",
     "name": "Hechos Ecuador",
     "sources": {
@@ -537,6 +523,20 @@
     "sources": {
       "streams": [
         "https://live.obslivestream.com/sonoondatv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5YjX2szaJng7ZF",
+    "name": "Studio + TV",
+    "sources": {
+      "streams": [
+        "https://vd01.streaminghd.net.ar:3113/hybrid/play.m3u8"
       ]
     },
     "languages": [

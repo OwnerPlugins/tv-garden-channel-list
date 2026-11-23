@@ -127,6 +127,23 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "SyDvJ95qRIEQ4K",
+    "name": "Chasse & Peche",
+    "sources": {
+      "streams": [
+        "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/chasse_et_peche/live.livx/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "bul",
+      "fra",
+      "rus",
+      "tur"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "jDP6MUrSN5cKSo",
     "name": "DD Kisan",
     "sources": {
@@ -140,20 +157,6 @@
       "hin"
     ],
     "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xUgG4Xe5635smX",
-    "name": "Dikij",
-    "sources": {
-      "streams": [
-        "https://stream3.cinerama.uz/1230/tracks-v1a1/mono.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -221,9 +224,6 @@
     "sources": {
       "streams": [
         "https://fms.premio.link/fishingtv/playlist.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/hWXAxfHSgDw"
       ]
     },
     "languages": [
@@ -269,6 +269,20 @@
     ],
     "country": "ca",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "8oGSgOh8Xrsu3u",
+    "name": "Moya Planeta",
+    "sources": {
+      "streams": [
+        "https://fs.uplink.kz/moya_planeta/mono.m3u8?token=onlinetv"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "7So41AwRHhgiOh",
@@ -436,7 +450,7 @@
       "streams": [
         "https://d1p1siomv3cm7b.cloudfront.net/playlist.m3u8",
         "https://linear-205.frequency.stream/dist/glewedtv/205/hls/master/playlist.m3u8",
-        "https://a-cdn.klowdtv.com/live2/pursuitup/playlist.m3u8"
+        "https://linear-205.frequency.stream/dist/stirr/205/hls/master/playlist.m3u8"
       ]
     },
     "languages": [
@@ -508,7 +522,8 @@
     "name": "Red Bull TV US",
     "sources": {
       "streams": [
-        "https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8"
+        "https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8",
+        "https://freqsyndlin.redbull.com/644/vizio/hls/master/playlist.m3u8"
       ]
     },
     "languages": [
@@ -636,7 +651,7 @@
     "sources": {
       "streams": [
         "https://aegis-cloudfront-1.tubi.video/5f3c2b46-3b02-48e8-8e7b-3ce1d89395ce/playlist.m3u8",
-        "https://amg00381-waypointcommuni-waypointtv-xumo-syiru.amagi.tv/playlist.m3u8",
+        "https://amg00381-waypointcommuni-waypointtv-vizious-v9qqa.amagi.tv/playlist/amg00381-waypointcommuni-waypointtv-vizious/playlist.m3u8",
         "https://djb4ma5fajjay.cloudfront.net/Waypoint_TV.m3u8"
       ]
     },

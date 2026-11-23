@@ -42,6 +42,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "vXlGSeOwJf7Fkw",
+    "name": "2Day FM",
+    "sources": {
+      "streams": [
+        "https://icecast1.sere.plus/2Day"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "fj",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ev234crP4BiZJ6",
     "name": "4Tune FM",
     "sources": {
@@ -105,7 +119,9 @@
         "https://listen.181fm.com/181-reggae_128k.mp3"
       ]
     },
-    "languages": [],
+    "languages": [
+      "eng"
+    ],
     "country": "us",
     "isGeoBlocked": false
   },
@@ -278,6 +294,20 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JoCVxHoWiYVMTo",
+    "name": "Calm Radio - Reggae",
+    "sources": {
+      "streams": [
+        "https://streams.calmradio.com:18928/stream"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
     "isGeoBlocked": false
   },
   {
@@ -720,6 +750,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "1X7zdj3ScKjIRt",
+    "name": "FM96",
+    "sources": {
+      "streams": [
+        "https://stream.rcs.revma.com/q8txpfyyay3vv"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "fj",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "7fIcLeVZiBBc8z",
     "name": "Fortschritt",
     "sources": {
@@ -878,6 +922,20 @@
       "eng"
     ],
     "country": "jm",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "AQgBP0ei767oRb",
+    "name": "Gold FM",
+    "sources": {
+      "streams": [
+        "https://icecast1.sere.plus/Gold"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "fj",
     "isGeoBlocked": false
   },
   {
@@ -1163,6 +1221,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "RHhziOYiZglSB6",
+    "name": "Legend FM",
+    "sources": {
+      "streams": [
+        "https://stream.rcs.revma.com/7wnnz47a303vv"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "fj",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "T2GVWLBCNJryEN",
     "name": "Lemon Radio",
     "sources": {
@@ -1280,8 +1352,8 @@
     "name": "Music Galaxy Radio",
     "sources": {
       "streams": [
-        "https://eu10.fastcast4u.com:1390/;",
-        "https://eu10.fastcast4u.com/themusi2"
+        "https://eu10.fastcast4u.com/themusi2",
+        "https://eu10.fastcast4u.com:1390/;"
       ]
     },
     "languages": [
@@ -2080,8 +2152,8 @@
     "name": "Roots Legacy Radio",
     "sources": {
       "streams": [
-        "https://l.rootslegacy.fr/;",
-        "https://l.rootslegacy.fr/mp3test"
+        "https://l.rootslegacy.fr/mp3test",
+        "https://l.rootslegacy.fr/;"
       ]
     },
     "languages": [
@@ -2241,8 +2313,8 @@
     "sources": {
       "streams": [
         "https://ice2.somafm.com/dubstep-128-aac",
-        "https://ice2.somafm.com/dubstep-128-mp3",
-        "https://ice6.somafm.com/dubstep-128-aac"
+        "https://ice6.somafm.com/dubstep-128-aac",
+        "https://ice2.somafm.com/dubstep-128-mp3"
       ]
     },
     "languages": [
@@ -2667,6 +2739,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "qCXNlhsHro4AWy",
+    "name": "Viti FM",
+    "sources": {
+      "streams": [
+        "https://stream.rcs.revma.com/3c11kc9a303vv"
+      ]
+    },
+    "languages": [
+      "fij"
+    ],
+    "country": "fj",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "71dyPMlU4RZXfF",
     "name": "Worl Vybz Radio 99.1",
     "sources": {
@@ -2688,7 +2774,9 @@
         "https://aud1.sjamz.com/8132/stream"
       ]
     },
-    "languages": [],
+    "languages": [
+      "eng"
+    ],
     "country": "us",
     "isGeoBlocked": false
   },

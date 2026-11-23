@@ -294,20 +294,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UUoSz4ieYffPkM",
-    "name": "Canal 3 Formosa",
-    "sources": {
-      "streams": [
-        "https://stmvideo6.livecastv.com/agenfor/agenfor/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "MH4oTx0ElnuqXt",
     "name": "Canal 3 La Pampa",
     "sources": {
@@ -439,6 +425,20 @@
     "sources": {
       "streams": [
         "https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Lp6abhRcVXYInw",
+    "name": "Canal 5 TV Chepes",
+    "sources": {
+      "streams": [
+        "https://videostream.shockmedia.com.ar:19360/canal5alfatvchepes/canal5alfatvchepes.m3u8"
       ]
     },
     "languages": [
@@ -589,25 +589,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HjPaiHXe3m9QvC",
-    "name": "Canal 12 Venado Tuerto",
-    "sources": {
-      "streams": [
-        "https://nd106.republicaservers.com:4433/hls/diegologonitv/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Gu6k19yrwk0QaT",
     "name": "Canal 13 San Juan",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/3CC67ZBYfdk"
+        "https://www.youtube-nocookie.com/embed/1gS5Dls6LAg"
       ]
     },
     "languages": [
@@ -652,7 +638,7 @@
         "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/iaooxPL8G_I"
+        "https://www.youtube-nocookie.com/embed/_YxIXvfNRNQ"
       ]
     },
     "languages": [
@@ -737,20 +723,6 @@
     "sources": {
       "streams": [
         "https://streamconex.com:19360/villamaza/villamaza.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "16ZV6lbP1V61Qg",
-    "name": "Canal 99 Miramar",
-    "sources": {
-      "streams": [
-        "https://vivo.solumedia.com:19360/cardinal/cardinal.m3u8"
       ]
     },
     "languages": [
@@ -968,6 +940,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "2AGk1JCz9glYtB",
+    "name": "Correa Radiovision",
+    "sources": {
+      "streams": [
+        "https://stream.arcast.net:4443/correadigital/canal12/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "c2k5mg9wITshic",
     "name": "Corrientes TV",
     "sources": {
@@ -986,7 +972,8 @@
     "name": "Cosmos Tv",
     "sources": {
       "streams": [
-        "https://canaletaplus.com:3922/live/cosmoslive.m3u8"
+        "https://canaletaplus.com:3922/live/cosmoslive.m3u8",
+        "https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8"
       ]
     },
     "languages": [
@@ -1043,20 +1030,6 @@
     "sources": {
       "streams": [
         "https://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "NC7SqlAIbLjEQr",
-    "name": "Eco TV",
-    "sources": {
-      "streams": [
-        "https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1126,7 +1099,7 @@
     "name": "El Once TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/pPjsdCZ78fY"
+        "https://www.youtube-nocookie.com/embed/KijoW8pY92Y"
       ]
     },
     "languages": [
@@ -1283,20 +1256,6 @@
     "sources": {
       "streams": [
         "https://edge.enhdtv.com/litustv/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "m722eugqEbFaw2",
-    "name": "Mas FM",
-    "sources": {
-      "streams": [
-        "https://vivo.solumedia.com:19360/masfm/masfm.m3u8"
       ]
     },
     "languages": [
@@ -1476,6 +1435,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "lZMchC4pPeJ7j5",
+    "name": "Quantica TV",
+    "sources": {
+      "streams": [
+        "https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "YhjhdGNmg0598B",
     "name": "Quiero Música TV",
     "sources": {
@@ -1588,6 +1561,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "4D71cx5fvZCZ53",
+    "name": "San Pedro TV",
+    "sources": {
+      "streams": [
+        "https://iptv.ixfo.com.ar:30443/live/sanpedrotv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ZVdZUGsT6T6GhO",
     "name": "Senillosa TV",
     "sources": {
@@ -1662,7 +1649,7 @@
     "name": "Telediario Digital",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/isMWpGIc130"
+        "https://www.youtube-nocookie.com/embed/6KHuWQSNdpA"
       ]
     },
     "languages": [
@@ -1676,7 +1663,7 @@
     "name": "Telefe Rosario",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/xZs1FYosI3E"
+        "https://www.youtube-nocookie.com/embed/esx4vmCuZpM"
       ]
     },
     "languages": [
@@ -1728,6 +1715,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "0RDZ86LiXSDIjn",
+    "name": "TIV Television",
+    "sources": {
+      "streams": [
+        "https://videohd.live:19360/8008/8008.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "xRJ5PYrL3SOh4P",
     "name": "TN Todo Noticias",
     "sources": {
@@ -1756,39 +1757,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "H7hqVpOhxTx8VO",
-    "name": "TV Mana Argentina",
-    "sources": {
-      "streams": [
-        "https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Aq3NehcnZez39K",
     "name": "TV Publica Fueguina",
     "sources": {
       "streams": [
         "https://nd106.republicaservers.com/hls/c8094/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lz2AEaZjXqIAQp",
-    "name": "TV Publica Marcos Paz",
-    "sources": {
-      "streams": [
-        "https://ca.centaurychile.com:2443/hls/mediospublicos.m3u8"
       ]
     },
     "languages": [
@@ -1817,6 +1790,7 @@
     "name": "Unife TV",
     "sources": {
       "streams": [
+        "https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8",
         "https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/index.m3u8"
       ]
     },

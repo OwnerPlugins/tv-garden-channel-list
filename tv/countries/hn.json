@@ -126,20 +126,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "VW0YFydw9mhrOx",
-    "name": "Deportes TVC",
-    "sources": {
-      "streams": [
-        "https://streaming.onnethn.com/DEPORTES_TVC/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "hn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "8vLOrCAwtecYqt",
     "name": "Dios Te Ve",
     "sources": {
@@ -159,20 +145,6 @@
     "sources": {
       "streams": [
         "https://s.emisoras.tv:8081/diostevekids/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "hn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ZreOUgZXhpXpOB",
-    "name": "Dios Tv Talanga",
-    "sources": {
-      "streams": [
-        "https://tv.webmedialive.com/unciontv/live/playlist.m3u8"
       ]
     },
     "languages": [
@@ -301,6 +273,20 @@
     "sources": {
       "streams": [
         "https://s.emisoras.tv:8081/kerussotv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "hn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "HAjT5lHheouJ3C",
+    "name": "La Top 102.9",
+    "sources": {
+      "streams": [
+        "https://59d39900ebfb8.streamlock.net/top102/top102/playlist.m3u8"
       ]
     },
     "languages": [
@@ -440,7 +426,7 @@
     "name": "Sula TV",
     "sources": {
       "streams": [
-        "https://tv.webmedialive.com/sulatv/live/playlist.m3u8"
+        "https://restreamer.multicable.hn/memfs/8a0f3d8a-0475-4169-89f2-f8facf11b723.m3u8"
       ]
     },
     "languages": [

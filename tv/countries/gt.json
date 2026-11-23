@@ -14,20 +14,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "qS9h25t8tf42wr",
-    "name": "Aurora Media Films",
-    "sources": {
-      "streams": [
-        "https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "gt",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hgyQQg5rlyVNkf",
     "name": "Barbe TV",
     "sources": {
@@ -42,11 +28,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "gbjWrJXWVWsaAG",
+    "name": "Canal 3",
+    "sources": {
+      "streams": [
+        "https://guastream.com:3172/stream/play.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "gt",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "N4gLQ8UnMpP3sJ",
     "name": "Canal 6 Panadish",
     "sources": {
       "streams": [
         "https://stream.meteorito.cloud:1947/canal6/smil:canal6.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "gt",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "qLBODwC245JzYB",
+    "name": "Canal 7",
+    "sources": {
+      "streams": [
+        "https://guastream.com:3695/stream/play.m3u8"
       ]
     },
     "languages": [
@@ -308,6 +322,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "OsYebOtVABr4xl",
+    "name": "Sol TV",
+    "sources": {
+      "streams": [
+        "https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "gt",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "sjT63Yqrczmdqs",
     "name": "Telecosta",
     "sources": {
@@ -345,34 +373,6 @@
     },
     "languages": [
       "yua"
-    ],
-    "country": "gt",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "XwiDGKdsH20Bju",
-    "name": "TVS Retro",
-    "sources": {
-      "streams": [
-        "https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "gt",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "CIC3OB0eRrwRa3",
-    "name": "Vision TV",
-    "sources": {
-      "streams": [
-        "https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
     ],
     "country": "gt",
     "isGeoBlocked": false

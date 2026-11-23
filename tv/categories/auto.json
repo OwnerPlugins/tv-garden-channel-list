@@ -14,6 +14,35 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "JnFnH1wjym57lB",
+    "name": "Automoto la chaine",
+    "sources": {
+      "streams": [
+        "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/automoto/live.livx/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "fra",
+      "tur"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "VZhk7cz2JcEXl3",
+    "name": "Avto24",
+    "sources": {
+      "streams": [
+        "https://fs.uplink.kz/avto24/mono.m3u8?token=onlinetv"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "gype1Rdsg8nVpE",
     "name": "Canal Motor",
     "sources": {
@@ -85,6 +114,20 @@
     ],
     "country": "it",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rNABsZIcrUwxjh",
+    "name": "Discovery Turbo",
+    "sources": {
+      "streams": [
+        "https://amg00136-wbd-amg00136c57-vizio-us-8927.playouts.now.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "tVKEKu2ttkc0Bj",
@@ -163,20 +206,34 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "5zsvZbp5i40Gds",
+    "name": "Motorvision+",
+    "sources": {
+      "streams": [
+        "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/motorvision_en/live.livx/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "tUYx8kteikm3hV",
     "name": "PowerNation TV",
     "sources": {
       "streams": [
         "https://amg01258-raycomsports-powernationau-samsungau-18bwc.amagi.tv/playlist.m3u8",
-        "https://amg01258-raycomsports-powernationnz-samsungnz-q92ks.amagi.tv/playlist.m3u8",
-        "https://d1g3ue0w0jg45k.cloudfront.net/POWERNATION.m3u8"
+        "https://d1g3ue0w0jg45k.cloudfront.net/POWERNATION.m3u8",
+        "https://amg01258-raycomsports-powernationnz-samsungnz-q92ks.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "BfRApM9W5b36oN",
@@ -208,11 +265,26 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "f7xzMudFQZ5mLa",
+    "name": "SPEEDVISION",
+    "sources": {
+      "streams": [
+        "https://linear-1683.frequency.stream/mt/vizio/1683/hls/master/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ibnE8ejnPqbYoZ",
     "name": "Top Gear",
     "sources": {
       "streams": [
         "https://aegis-cloudfront-1.tubi.video/33ccaca5-a666-4b28-8578-55a9ab9f06d5/playlist.m3u8",
+        "https://amg00793-amg00793c5-vizio-us-2666.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbctopgear8minother-vizious/playlist.m3u8",
         "https://d1daq1khzqxpku.cloudfront.net/playlist.m3u8"
       ]
     },

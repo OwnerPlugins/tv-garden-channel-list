@@ -75,8 +75,7 @@
     "name": "BestClasicosTV",
     "sources": {
       "streams": [
-        "https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8",
-        "https://acceso.mediosdecostarica.com:3873/live/bestclasicostvlive.m3u8"
+        "https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8"
       ]
     },
     "languages": [
@@ -331,7 +330,7 @@
     "name": "Multimedios Costa Rica",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/cinNSu1mw4s"
+        "https://www.youtube-nocookie.com/embed/e68IwodPYJs"
       ]
     },
     "languages": [
@@ -346,6 +345,20 @@
     "sources": {
       "streams": [
         "https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4hISVyUvSKd79p",
+    "name": "Norte Informativo TV",
+    "sources": {
+      "streams": [
+        "https://videohd.live:19360/8076/8076.m3u8"
       ]
     },
     "languages": [
@@ -526,20 +539,6 @@
     "sources": {
       "streams": [
         "https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "46bhWZVm1EdjmB",
-    "name": "TV Cartago Digital",
-    "sources": {
-      "streams": [
-        "https://video2.getstreamhosting.com:19360/8110/8110.m3u8"
       ]
     },
     "languages": [

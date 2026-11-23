@@ -14,11 +14,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "WDEjDpDWifIyr0",
+    "name": "Imai TV",
+    "sources": {
+      "streams": [
+        "https://jalworldiptv.vercel.app/iptv/imaitv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "tam"
+    ],
+    "country": "lk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "aPS8EfkYXWdlK5",
     "name": "Jaya TV",
     "sources": {
       "streams": [
         "https://live.jayatv.lk/hls/stream.m3u8"
+      ]
+    },
+    "languages": [
+      "sin"
+    ],
+    "country": "lk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Peq2FVjvdeypXQ",
+    "name": "Jaya Tv Live",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/CyNetwe2fsA"
       ]
     },
     "languages": [
@@ -60,7 +88,21 @@
     "name": "Methmaga TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/EU4qpICE-kA"
+        "https://www.youtube-nocookie.com/embed/Zfto8jV3qVU"
+      ]
+    },
+    "languages": [
+      "sin"
+    ],
+    "country": "lk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2kFmLsUZ8zPq3c",
+    "name": "Newsfirst Sri Lanka",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/hFsVGF9Wh64"
       ]
     },
     "languages": [
@@ -102,7 +144,7 @@
     "name": "Sathi TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/XZ9P1hD_d7s"
+        "https://www.youtube-nocookie.com/embed/q3aYcybItKs"
       ]
     },
     "languages": [
@@ -130,7 +172,7 @@
     "name": "Shraddha TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/8icH-Z6NxZo"
+        "https://www.youtube-nocookie.com/embed/LvPkOLa6pg0"
       ]
     },
     "languages": [
@@ -172,7 +214,7 @@
     "name": "The Buddhist TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/-JwrJ5wmGo0"
+        "https://www.youtube-nocookie.com/embed/prJTIjx6nUY"
       ]
     },
     "languages": [
